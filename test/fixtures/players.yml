@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  number: 1
+  team_id: 1
+  position: MyString
+  current_rating: 1.5
+
+two:
+  name: MyString
+  number: 1
+  team_id: 1
+  position: MyString
+  current_rating: 1.5

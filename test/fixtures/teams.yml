@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  league_id: 1
+  country: MyString
+  current_rating: 1.5
+
+two:
+  name: MyString
+  league_id: 1
+  country: MyString
+  current_rating: 1.5

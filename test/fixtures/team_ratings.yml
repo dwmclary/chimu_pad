@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  team_id: 1
+  rating: 1.5
+  rating_date: 2011-02-15 15:43:11
+
+two:
+  team_id: 1
+  rating: 1.5
+  rating_date: 2011-02-15 15:43:11
