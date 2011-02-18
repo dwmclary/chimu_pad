@@ -1,7 +1,7 @@
 class CreateTeamRatings < ActiveRecord::Migration
   def self.up
     create_table :team_ratings do |t|
-      t.integer :team_id
+      t.integer :team_id, :null => false
       t.float :rating
       t.timestamp :rating_date
 

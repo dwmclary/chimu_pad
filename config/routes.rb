@@ -32,6 +32,10 @@ ChimuPad::Application.routes.draw do
   #     resources :comments, :sales
   #     resource :seller
   #   end
+  resources :league
+  resources :team
+  resources :player
+    
 
   # Sample resource route with more complex sub-resources
   #   resources :products do

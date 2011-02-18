@@ -1,7 +1,9 @@
 # Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
 
-one:
-  name: MyString
+wc2010:
+  id: 1
+  name: World Cup 2010
 
-two:
-  name: MyString
+ec2008:
+  id: 2
+  name: Euro Cup 2008

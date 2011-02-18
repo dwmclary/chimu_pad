@@ -1,10 +1,11 @@
 class CreatePlayers < ActiveRecord::Migration
   def self.up
     create_table :players do |t|
-      t.string :name
-      t.integer :number
-      t.integer :team_id
-      t.string :position
+      t.string :name,   :null => false
+      t.integer :number,  :null => false
+      t.integer :team_id, :null => false
+      t.string :position, :null => false
+      t.string :comment
       t.float :current_rating
 
       t.timestamps
