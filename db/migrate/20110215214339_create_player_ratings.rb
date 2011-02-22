@@ -3,7 +3,7 @@ class CreatePlayerRatings < ActiveRecord::Migration
     create_table :player_ratings do |t|
       t.integer :player_id, :null => false
       t.float :rating
-      t.timestamp :rating_date
+      t.datetime :rating_date
 
       t.timestamps
     end

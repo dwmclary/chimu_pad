@@ -1,11 +1,15 @@
 class LeagueController < ApplicationController
   
   def index
-    league_id = params["id"]
-    @teams = Team.where(:league_id => league_id)
     respond_to do |format|
-      format.html #index.html.erb
-      format.xml { render :xml => @teams}
+      format.html {redirect_to :action => "show", :id => params["id"]}
+    end
+  end
+  
+  def show
+    @league = League.find(params["id"])
+    respond_to do |format|
+      format.html
     end
   end
 end

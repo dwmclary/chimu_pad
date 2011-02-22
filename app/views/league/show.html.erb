@@ -1,0 +1,3 @@
+<% for t in @league.teams %>
+<p><%= link_to t.name, :controller => "team", :action => "show", :id => t.id%></p>
+<% end %>
