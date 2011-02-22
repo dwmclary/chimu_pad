@@ -1,2 +1,4 @@
-<h1>Hello, Rails!</h1>
-<p>Find me in app/views/home/index.html.erb</p>
+<h1>ChimuPad: Soccer Analytics Workbench</h1>
+<% @leagues.each do |l| %>
+    <h3><%= link_to l.name, :controller => 'league', :id => l.id %></h3>
+<% end %>

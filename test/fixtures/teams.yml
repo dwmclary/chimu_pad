@@ -1,13 +1,257 @@
-# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
 
-one:
-  name: MyString
-  league_id: 1
-  country: MyString
-  current_rating: 1.5
 
-two:
-  name: MyString
+Algeria:
+  abbreviation: ALG
+  country: Algeria
+  id: 1
   league_id: 1
-  country: MyString
-  current_rating: 1.5
+  name: Algeria
+
+
+Argentina:
+  abbreviation: ARG
+  country: Argentina
+  id: 2
+  league_id: 1
+  name: Argentina
+
+
+Australia:
+  abbreviation: AUS
+  country: Australia
+  id: 3
+  league_id: 1
+  name: Australia
+
+
+Brazil:
+  abbreviation: BRA
+  country: Brazil
+  id: 4
+  league_id: 1
+  name: Brazil
+
+
+Cameroon:
+  abbreviation: CMR
+  country: Cameroon
+  id: 5
+  league_id: 1
+  name: Cameroon
+
+
+Chile:
+  abbreviation: CHI
+  country: Chile
+  id: 6
+  league_id: 1
+  name: Chile
+
+
+Denmark:
+  abbreviation: DEN
+  country: Denmark
+  id: 7
+  league_id: 1
+  name: Denmark
+
+
+England:
+  abbreviation: ENG
+  country: England
+  id: 8
+  league_id: 1
+  name: England
+
+
+France:
+  abbreviation: FRA
+  country: France
+  id: 9
+  league_id: 1
+  name: France
+
+
+Germany:
+  abbreviation: GER
+  country: Germany
+  id: 10
+  league_id: 1
+  name: Germany
+
+
+Ghana:
+  abbreviation: GHA
+  country: Ghana
+  id: 11
+  league_id: 1
+  name: Ghana
+
+
+Greece:
+  abbreviation: GRE
+  country: Greece
+  id: 12
+  league_id: 1
+  name: Greece
+
+
+Honduras:
+  abbreviation: HON
+  country: Honduras
+  id: 13
+  league_id: 1
+  name: Honduras
+
+
+Italy:
+  abbreviation: ITA
+  country: Italy
+  id: 14
+  league_id: 1
+  name: Italy
+
+
+Ivory Coast:
+  abbreviation: CIV
+  country: Ivory Coast
+  id: 15
+  league_id: 1
+  name: Ivory Coast
+
+
+Japan:
+  abbreviation: JPN
+  country: Japan
+  id: 16
+  league_id: 1
+  name: Japan
+
+
+Mexico:
+  abbreviation: MEX
+  country: Mexico
+  id: 17
+  league_id: 1
+  name: Mexico
+
+
+Netherlands:
+  abbreviation: NED
+  country: Netherlands
+  id: 18
+  league_id: 1
+  name: Netherlands
+
+
+New Zealand:
+  abbreviation: NZL
+  country: New Zealand
+  id: 19
+  league_id: 1
+  name: New Zealand
+
+
+Nigeria:
+  abbreviation: NGA
+  country: Nigeria
+  id: 20
+  league_id: 1
+  name: Nigeria
+
+
+North Korea:
+  abbreviation: PRK
+  country: North Korea
+  id: 21
+  league_id: 1
+  name: North Korea
+
+
+Paraguay:
+  abbreviation: PAR
+  country: Paraguay
+  id: 22
+  league_id: 1
+  name: Paraguay
+
+
+Portugal:
+  abbreviation: POR
+  country: Portugal
+  id: 23
+  league_id: 1
+  name: Portugal
+
+
+Serbia:
+  abbreviation: SRB
+  country: Serbia
+  id: 24
+  league_id: 1
+  name: Serbia
+
+
+Slovakia:
+  abbreviation: SVK
+  country: Slovakia
+  id: 25
+  league_id: 1
+  name: Slovakia
+
+
+Slovenia:
+  abbreviation: SVN
+  country: Slovenia
+  id: 26
+  league_id: 1
+  name: Slovenia
+
+
+South Africa:
+  abbreviation: RSA
+  country: South Africa
+  id: 27
+  league_id: 1
+  name: South Africa
+
+
+South Korea:
+  abbreviation: KOR
+  country: South Korea
+  id: 28
+  league_id: 1
+  name: South Korea
+
+
+Spain:
+  abbreviation: ESP
+  country: Spain
+  id: 29
+  league_id: 1
+  name: Spain
+
+
+Switzerland:
+  abbreviation: SUI
+  country: Switzerland
+  id: 30
+  league_id: 1
+  name: Switzerland
+
+
+United States:
+  abbreviation: USA
+  country: United States
+  id: 31
+  league_id: 1
+  name: United States
+
+
+Uruguay:
+  abbreviation: URU
+  country: Uruguay
+  id: 32
+  league_id: 1
+  name: Uruguay
+  
