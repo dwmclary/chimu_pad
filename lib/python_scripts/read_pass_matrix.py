@@ -5,6 +5,19 @@ import networkx as nx
 import ball_simulation
 import yaml
 
+class Play(object):
+	#this class is the representation of a player's performance which can be dumped to JSON
+	def __init__(self, pid, mid, player_id, position, shots, goals,pc, pa,rating):
+		self.id = pid
+		self.match_id = mid
+		self.player_id = player_id
+		self.position = position
+		self.shots = shots
+		self.goals = goals
+		self.pc = pc
+		self.pa = pa
+		self.rating = rating
+	
 def get_teams(data):
 	#determine who the teams are:
 	teams = set()
@@ -125,12 +138,51 @@ def fetch_player_number(player_id, players):
 		if player_id == players[p]["id"]:
 			return str(players[p]["number"])
 	return None
-				
-def main(pass_file, shots_file, teams, matches, players):
+	
+def fetch_player_position(player_id, players):
+	for p in players:
+		if player_id == players[p]["id"]:
+			return str(players[p]["position"])
+	return None
+	
+def make_plays(match_id, pass_matrix, players, starting_play_id=1):
+	play_id = starting_play_id
+	plays = []
+	for p in pass_matrix:
+ 		player_id = p
+		position = fetch_player_position(p, players)
+		shots = pass_matrix[p]["total_shots"]
+		goals = pass_matrix[p]["goals"]
+		pa = pass_matrix[p]["passes_attempted"]
+		pc = pass_matrix[p]["passes_completed"]
+		rating = 0.0
+		new_play = Play(play_id, match_id, player_id, position, shots, goals, pc, pa, rating)
+		plays.append(new_play)
+	return plays
+	
+def graph_to_js_list(G):
+	nodes = []
+	edges = []
+	for n in G.nodes(data=True):
+		if "scaled_size" in n[1]:
+			node_string = str(n[0]) + " {size:%s}"%n[1]["scaled_size"]
+		else:
+			node_string = str(n[0])
+		nodes.append(node_string)
+		
+	for e in G.edges(data=True):
+		if "scaled_lb_weight" in e[2]:
+			edge_string = str(e[0]) + " " + str(e[1]) + " {weight:%s}"%e[2]["scaled_lb_weight"]
+		else:
+			edge_string = str(e[0]) + " " + str(e[1])
+		edges.append(edge_string)
+	return ",".join(nodes), ",".join(edges)
+	
+def main(match_id, pass_file, shots_file, teams, matches, players):
 	team_data = yaml.load(open(teams).read())
 	matches = yaml.load(open(matches).read())
 	players = yaml.load(open(players).read())
-
+	plays = []
 	if "passes.txt" not in pass_file:
 		print >> sys.stderr, "Not a pass file"
 		exit()
@@ -152,15 +204,28 @@ def main(pass_file, shots_file, teams, matches, players):
 		p = build_pass_matrix(teams[team], players)
 		team_id = fetch_team_id(team, team_data)
 		append_shots(team, p, shot_d, players)
+		play_id = len(plays)+1
+		plays += make_plays(match_id, p, players, play_id)
 		graphs[team] = build_team_graph(team_id, p, players)
-	ball_simulation.simulate_ball_movement(*graphs.values())
+	team_graphs, unified_graph = ball_simulation.simulate_ball_movement(*graphs.values())
+	#append the unified ratings to the play objects
+	for p in plays:
+		for n in unified_graph.nodes(data=True):
+			if n[0] == p.player_id:
+				p.rating = n[1]["scaled_size"]
+				
+	#dump the graphs to js compatible strings
+	u_nodes, u_edges = graph_to_js_list(unified_graph)
+	print u_nodes
+	print u_edges
 
 
 if __name__ == "__main__":
-	passes = sys.argv[1]
-	shots = sys.argv[2]
-	teams = sys.argv[3]
-	matches = sys.argv[4]
-	players = sys.argv[5]
+	match_id = int(sys.argv[1])
+	passes = sys.argv[2]
+	shots = sys.argv[3]
+	teams = sys.argv[4]
+	matches = sys.argv[5]
+	players = sys.argv[6]
 
-	main(passes, shots, teams, matches, players)
+	main(match_id, passes, shots, teams, matches, players)

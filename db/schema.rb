@@ -10,7 +10,17 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20110215214629) do
+ActiveRecord::Schema.define(:version => 20110222182236) do
+
+  create_table "graphs", :force => true do |t|
+    t.integer  "match_id"
+    t.integer  "team_id"
+    t.string   "kind"
+    t.string   "nodes"
+    t.string   "edges"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
   create_table "leagues", :force => true do |t|
     t.string   "name",       :null => false
@@ -33,6 +43,7 @@ ActiveRecord::Schema.define(:version => 20110215214629) do
 
   create_table "player_ratings", :force => true do |t|
     t.integer  "player_id",   :null => false
+    t.integer  "match_id",    :null => false
     t.float    "rating"
     t.datetime "rating_date"
     t.datetime "created_at"
@@ -50,7 +61,21 @@ ActiveRecord::Schema.define(:version => 20110215214629) do
     t.datetime "updated_at"
   end
 
+  create_table "plays", :force => true do |t|
+    t.integer  "match_id",         :null => false
+    t.integer  "player_id",        :null => false
+    t.string   "position"
+    t.integer  "shots"
+    t.integer  "goals"
+    t.integer  "passes_attempted"
+    t.integer  "passes_completed"
+    t.float    "rating"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
   create_table "team_ratings", :force => true do |t|
+    t.integer  "match_id",    :null => false
     t.integer  "team_id",     :null => false
     t.float    "rating"
     t.datetime "rating_date"

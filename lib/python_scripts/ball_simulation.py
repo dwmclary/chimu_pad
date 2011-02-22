@@ -72,6 +72,9 @@ def simulate_ball_movement(G1, G2):
     
 	betweenness_link_weight = {}
 	betweenness_link_weights = []
+	
+	unified_bcws = []
+	unified_bclws = []
 
 	for G in graphs:
 		
@@ -218,10 +221,26 @@ def simulate_ball_movement(G1, G2):
 		for edge in G.edges(data=True):
 			if "lb_weight" in edge[2]:
 				edge[2]['scaled_lb_weight'] = ((edge[2]["lb_weight"]-min(bcLWs))/(max(bcLWs) - min(bcLWs)))*rating_scale
-
+		
+		unified_bcws += bcWs
+		unified_bclws += bcLWs
 		#finally, normalize the node sizes and lb_weights between 0 and 10
 		normalized_graphs.append(normalized_graph)
-	return [graphs, normalized_graphs]
+		
+	#create a unified graph and rescale it 
+	unified_graph = nx.DiGraph()
+	for G in graphs:
+		unified_graph.add_nodes_from(G.nodes(data=True))
+		unified_graph.add_edges_from(G.edges(data=True))
+
+	for n in unified_graph.nodes(data=True):
+		if "size" in n[1]:
+			n[1]["scaled_size"] = ((n[1]["size"]-min(unified_bcws))/(max(unified_bcws) - min(unified_bcws)))*rating_scale
+	for e in unified_graph.edges(data=True):
+		if "lb_weight" in e[2]:
+			e[2]['scaled_lb_weight'] = ((e[2]["lb_weight"]-min(unified_bclws))/(max(unified_bclws) - min(unified_bclws)))*rating_scale
+	print unified_graph.nodes(data=True)
+	return [graphs, unified_graph]
 
 
 if __name__ == '__main__':
