@@ -55,6 +55,7 @@ ActiveRecord::Schema.define(:version => 20110222182236) do
     t.integer  "number",         :null => false
     t.integer  "team_id",        :null => false
     t.string   "position",       :null => false
+    t.string   "team",           :null => false
     t.string   "comment"
     t.float    "current_rating"
     t.datetime "created_at"

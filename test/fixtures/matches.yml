@@ -1,6 +1,7 @@
 
 
 Match_1:
+  id: 1
   away_team_id: 17
   away_team_score: 1
   home_team_id: 27
@@ -12,6 +13,7 @@ Match_1:
 
 
 Match_2:
+  id: 2
   away_team_id: 9
   away_team_score: 0
   home_team_id: 32
@@ -23,6 +25,7 @@ Match_2:
 
 
 Match_3:
+  id: 3
   away_team_id: 20
   away_team_score: 0
   home_team_id: 2
@@ -34,6 +37,7 @@ Match_3:
 
 
 Match_4:
+  id: 4
   away_team_id: 12
   away_team_score: 0
   home_team_id: 28
@@ -45,6 +49,7 @@ Match_4:
 
 
 Match_5:
+  id: 5
   away_team_id: 31
   away_team_score: 1
   home_team_id: 8
@@ -56,6 +61,7 @@ Match_5:
 
 
 Match_6:
+  id: 6
   away_team_id: 26
   away_team_score: 1
   home_team_id: 1
@@ -67,6 +73,7 @@ Match_6:
 
 
 Match_7:
+  id: 7
   away_team_id: 3
   away_team_score: 0
   home_team_id: 10
@@ -78,6 +85,7 @@ Match_7:
 
 
 Match_8:
+  id: 8
   away_team_id: 11
   away_team_score: 1
   home_team_id: 24
@@ -89,6 +97,7 @@ Match_8:
 
 
 Match_9:
+  id: 9
   away_team_id: 7
   away_team_score: 0
   home_team_id: 18
@@ -100,6 +109,7 @@ Match_9:
 
 
 Match_10:
+  id: 10
   away_team_id: 5
   away_team_score: 0
   home_team_id: 16
@@ -111,6 +121,7 @@ Match_10:
 
 
 Match_11:
+  id: 11
   away_team_id: 22
   away_team_score: 1
   home_team_id: 14
@@ -122,6 +133,7 @@ Match_11:
 
 
 Match_12:
+  id: 12
   away_team_id: 25
   away_team_score: 1
   home_team_id: 19
@@ -133,6 +145,7 @@ Match_12:
 
 
 Match_13:
+  id: 13
   away_team_id: 23
   away_team_score: 0
   home_team_id: 15
@@ -144,6 +157,7 @@ Match_13:
 
 
 Match_14:
+  id: 14
   away_team_id: 21
   away_team_score: 1
   home_team_id: 4
@@ -155,6 +169,7 @@ Match_14:
 
 
 Match_15:
+  id: 15
   away_team_id: 6
   away_team_score: 1
   home_team_id: 13
@@ -166,6 +181,7 @@ Match_15:
 
 
 Match_16:
+  id: 16
   away_team_id: 30
   away_team_score: 1
   home_team_id: 29
@@ -177,6 +193,7 @@ Match_16:
 
 
 Match_17:
+  id: 17
   away_team_id: 32
   away_team_score: 3
   home_team_id: 27
@@ -188,6 +205,7 @@ Match_17:
 
 
 Match_18:
+  id: 18
   away_team_id: 17
   away_team_score: 2
   home_team_id: 9
@@ -199,6 +217,7 @@ Match_18:
 
 
 Match_19:
+  id: 19
   away_team_id: 20
   away_team_score: 1
   home_team_id: 12
@@ -210,6 +229,7 @@ Match_19:
 
 
 Match_20:
+  id: 20
   away_team_id: 28
   away_team_score: 1
   home_team_id: 2
@@ -221,6 +241,7 @@ Match_20:
 
 
 Match_21:
+  id: 21
   away_team_id: 24
   away_team_score: 1
   home_team_id: 10
@@ -232,6 +253,7 @@ Match_21:
 
 
 Match_22:
+  id: 22
   away_team_id: 31
   away_team_score: 2
   home_team_id: 26
@@ -243,6 +265,7 @@ Match_22:
 
 
 Match_23:
+  id: 23
   away_team_id: 1
   away_team_score: 0
   home_team_id: 8
@@ -254,6 +277,7 @@ Match_23:
 
 
 Match_24:
+  id: 24
   away_team_id: 3
   away_team_score: 1
   home_team_id: 11
@@ -265,6 +289,7 @@ Match_24:
 
 
 Match_25:
+  id: 25
   away_team_id: 16
   away_team_score: 0
   home_team_id: 18
@@ -276,6 +301,7 @@ Match_25:
 
 
 Match_26:
+  id: 26
   away_team_id: 7
   away_team_score: 2
   home_team_id: 5
@@ -287,6 +313,7 @@ Match_26:
 
 
 Match_27:
+  id: 27
   away_team_id: 22
   away_team_score: 2
   home_team_id: 25
@@ -298,6 +325,7 @@ Match_27:
 
 
 Match_28:
+  id: 28
   away_team_id: 19
   away_team_score: 1
   home_team_id: 14
@@ -309,6 +337,7 @@ Match_28:
 
 
 Match_29:
+  id: 29
   away_team_id: 15
   away_team_score: 1
   home_team_id: 4
@@ -320,6 +349,7 @@ Match_29:
 
 
 Match_30:
+  id: 30
   away_team_id: 21
   away_team_score: 0
   home_team_id: 23
@@ -331,6 +361,7 @@ Match_30:
 
 
 Match_31:
+  id: 31
   away_team_id: 30
   away_team_score: 0
   home_team_id: 6
@@ -342,6 +373,7 @@ Match_31:
 
 
 Match_32:
+  id: 32
   away_team_id: 13
   away_team_score: 0
   home_team_id: 29
@@ -353,6 +385,7 @@ Match_32:
 
 
 Match_33:
+  id: 33
   away_team_id: 32
   away_team_score: 1
   home_team_id: 17
@@ -364,6 +397,7 @@ Match_33:
 
 
 Match_34:
+  id: 34
   away_team_id: 27
   away_team_score: 2
   home_team_id: 9
@@ -375,6 +409,7 @@ Match_34:
 
 
 Match_35:
+  id: 35
   away_team_id: 28
   away_team_score: 2
   home_team_id: 20
@@ -386,6 +421,7 @@ Match_35:
 
 
 Match_36:
+  id: 36
   away_team_id: 2
   away_team_score: 2
   home_team_id: 12
@@ -397,6 +433,7 @@ Match_36:
 
 
 Match_37:
+  id: 37
   away_team_id: 8
   away_team_score: 1
   home_team_id: 26
@@ -408,6 +445,7 @@ Match_37:
 
 
 Match_38:
+  id: 38
   away_team_id: 1
   away_team_score: 0
   home_team_id: 31
@@ -419,6 +457,7 @@ Match_38:
 
 
 Match_39:
+  id: 39
   away_team_id: 10
   away_team_score: 1
   home_team_id: 11
@@ -430,6 +469,7 @@ Match_39:
 
 
 Match_40:
+  id: 40
   away_team_id: 24
   away_team_score: 1
   home_team_id: 3
@@ -441,6 +481,7 @@ Match_40:
 
 
 Match_41:
+  id: 41
   away_team_id: 14
   away_team_score: 2
   home_team_id: 25
@@ -452,6 +493,7 @@ Match_41:
 
 
 Match_42:
+  id: 42
   away_team_id: 19
   away_team_score: 0
   home_team_id: 22
@@ -463,6 +505,7 @@ Match_42:
 
 
 Match_43:
+  id: 43
   away_team_id: 16
   away_team_score: 3
   home_team_id: 7
@@ -474,6 +517,7 @@ Match_43:
 
 
 Match_44:
+  id: 44
   away_team_id: 18
   away_team_score: 2
   home_team_id: 5
@@ -485,6 +529,7 @@ Match_44:
 
 
 Match_45:
+  id: 45
   away_team_id: 4
   away_team_score: 0
   home_team_id: 23
@@ -496,6 +541,7 @@ Match_45:
 
 
 Match_46:
+  id: 46
   away_team_id: 15
   away_team_score: 3
   home_team_id: 21
@@ -507,6 +553,7 @@ Match_46:
 
 
 Match_47:
+  id: 47
   away_team_id: 29
   away_team_score: 2
   home_team_id: 6
@@ -518,6 +565,7 @@ Match_47:
 
 
 Match_48:
+  id: 48
   away_team_id: 13
   away_team_score: 0
   home_team_id: 30
@@ -529,6 +577,7 @@ Match_48:
 
 
 Match_49:
+  id: 49
   away_team_id: 28
   away_team_score: 1
   home_team_id: 32
@@ -540,6 +589,7 @@ Match_49:
 
 
 Match_50:
+  id: 50
   away_team_id: 11
   away_team_score: 2
   home_team_id: 31
@@ -551,6 +601,7 @@ Match_50:
 
 
 Match_51:
+  id: 51
   away_team_id: 8
   away_team_score: 1
   home_team_id: 10
@@ -562,6 +613,7 @@ Match_51:
 
 
 Match_52:
+  id: 52
   away_team_id: 17
   away_team_score: 1
   home_team_id: 2
@@ -573,6 +625,7 @@ Match_52:
 
 
 Match_53:
+  id: 53
   away_team_id: 25
   away_team_score: 1
   home_team_id: 18
@@ -584,6 +637,7 @@ Match_53:
 
 
 Match_54:
+  id: 54
   away_team_id: 6
   away_team_score: 0
   home_team_id: 4
@@ -595,6 +649,7 @@ Match_54:
 
 
 Match_55:
+  id: 55
   away_team_id: 16
   away_team_score: 0
   home_team_id: 22
@@ -606,6 +661,7 @@ Match_55:
 
 
 Match_56:
+  id: 56
   away_team_id: 23
   away_team_score: 0
   home_team_id: 29
@@ -617,6 +673,7 @@ Match_56:
 
 
 Match_57:
+  id: 57
   away_team_id: 4
   away_team_score: 1
   home_team_id: 18
@@ -628,6 +685,7 @@ Match_57:
 
 
 Match_58:
+  id: 58
   away_team_id: 11
   away_team_score: 1
   home_team_id: 32
@@ -639,6 +697,7 @@ Match_58:
 
 
 Match_59:
+  id: 59
   away_team_id: 10
   away_team_score: 4
   home_team_id: 2
@@ -650,6 +709,7 @@ Match_59:
 
 
 Match_60:
+  id: 60
   away_team_id: 29
   away_team_score: 1
   home_team_id: 22
@@ -661,6 +721,7 @@ Match_60:
 
 
 Match_61:
+  id: 61
   away_team_id: 18
   away_team_score: 3
   home_team_id: 32
@@ -672,6 +733,7 @@ Match_61:
 
 
 Match_62:
+  id: 62
   away_team_id: 29
   away_team_score: 1
   home_team_id: 10
@@ -683,6 +745,7 @@ Match_62:
 
 
 Match_63:
+  id: 63
   away_team_id: 10
   away_team_score: 3
   home_team_id: 32
@@ -694,6 +757,7 @@ Match_63:
 
 
 Match_64:
+  id: 64
   away_team_id: 29
   away_team_score: 1
   home_team_id: 18
@@ -702,4 +766,4 @@ Match_64:
   location: Johannesburg
   match_date: <%= DateTime.parse('2010-07-11 20:30:00') %>
   winning_team_id: 29
-  
+

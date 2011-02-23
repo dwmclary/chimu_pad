@@ -41,7 +41,10 @@ def determine_ball_count(G):
 			for edge in G.edges(name(node), data=True):
 				if to(edge) not in ignored_nodes:
 					outweight += weight(edge)
-			outweight = int(outweight*100.0/accuracy(node))-outweight
+			if accuracy(node) > 0:  
+				outweight = int(outweight*100.0/accuracy(node))-outweight
+			else:
+				outweight = 100
 			#we're re-weighting the node "lost" to reflect the likelihood of a lost pass
 			if "lost" in map(to, G.out_edges(name(node))):
 				G.remove_edge(name(node),"lost")
@@ -126,6 +129,9 @@ def simulate_ball_movement(G1, G2):
 		play_lengths = []
 
 		for walk in range(0,int(NUMBALLS*ball_ratio[graphs.index(G)])):
+			# #quick percentage tracking output
+			# 		if int((walk/(NUMBALLS*ball_ratio[graphs.index(G)]))*100) % 2 == 0:
+			# 			print str(100*float(walk)/(NUMBALLS*ball_ratio[graphs.index(G)])) + "%"
 			lost, goal, wide = False, False, False
 			passes, passes_to = [], []
 			
@@ -141,8 +147,14 @@ def simulate_ball_movement(G1, G2):
 			actual_node = G.nodes(data = True)[i]
 
 			passes.append(name(actual_node))
-			
+			play_count = 0
 			while not (lost or goal or wide):
+				play_count += 1
+				#this is an arbitrary/sane threshold set to prevent plays from going too deep -- 
+				#1000 passes is unlikely to occur in a soccer match
+				#without a turnover
+				if play_count > 1000:
+					lost = True
 				play_at = random.randint(0,players[name(actual_node)]["total_weight"]-1)
 
 				next_node = players[name(actual_node)]["next"][play_at]
@@ -177,7 +189,7 @@ def simulate_ball_movement(G1, G2):
 								
 					completed_plays += 1
 					play_lengths.append(len(passes))
-					
+
 		total_play_lengths = sum(play_lengths)
 
 		betweenness_link_weights = filter(lambda x:x > 0, betweenness_link_weight[G.graph["team"]].values())

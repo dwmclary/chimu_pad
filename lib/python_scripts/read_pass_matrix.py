@@ -4,6 +4,8 @@ import re
 import networkx as nx
 import ball_simulation
 import yaml
+from sanitize_yaml import sanitize_yaml
+import os
 
 class Play(object):
 	#this class is the representation of a player's performance which can be dumped to JSON
@@ -17,28 +19,33 @@ class Play(object):
 		self.pc = pc
 		self.pa = pa
 		self.rating = rating
+		
+	def get_hash(self):
+		return {"Match"+str(self.match_id)+"_Play"+str(self.player_id):{"id": self.id, "match_id":self.match_id, "player_id":self.player_id,\
+		"shots":self.shots, "goals":self.goals, "passes_completed":self.pc, "passes_attempted":self.pa, "rating":self.rating, "position":self.position}}
 	
 def get_teams(data):
 	#determine who the teams are:
-	teams = set()
+	teams = []
 	team_count = {}
 	#teams always come first
 	for line in data:
-		teams = teams.union([line[0]])
+		if line[0] not in teams:
+			teams.append(line[0])
 	#determine the number of players on each team
 	for line in data:
 		if line[0] in teams:
+			team_index = teams.index(line[0])
 			if line[0] not in team_count:
-				team_count[line[0]] = 1
+				team_count[teams[team_index]] = 1
 			else:
-				team_count[line[0]] += 1
+				team_count[teams[team_index]] += 1
 	#split the file into teams
 	team_data_sets = {}
 	offset = 0
-	for team in team_count:
+	for team in teams:
 		team_data_sets[team] = data[offset:offset+team_count[team]]
 		offset += team_count[team]
-		
 	return team_data_sets
 
 def build_pass_matrix(tds, players):
@@ -48,7 +55,7 @@ def build_pass_matrix(tds, players):
 	for i in range(len(tds)):
 		#for each row
 		team_name = tds[i][0]
-		player_number = fetch_player_id(tds[i][1], players)
+		player_number = fetch_player_id(tds[i][1], team_name, players)
 		pass_matrix[player_number] = {}
 		player_passes = []
 		j_count = 0
@@ -71,7 +78,12 @@ def build_pass_matrix(tds, players):
 		pa = end_of_passes+2
 		accuracy = end_of_passes+3
 		pass_matrix[player_number]["passes_completed"] = int(tds[i][pc])
-		pass_matrix[player_number]["passes_attempted"] = int(tds[i][pa])
+		try:
+			pass_matrix[player_number]["passes_attempted"] = int(tds[i][pa])
+		except Exception:
+			print tds[i]
+			print pa
+			exit()
 		pass_matrix[player_number]["accuracy"] = int(re.sub("%","",tds[i][accuracy]))
 		pass_matrix[player_number]["passes"] = player_passes
 	return pass_matrix
@@ -90,11 +102,18 @@ def build_shot_dictionary(shots, teams):
 def append_shots(team, pass_matrix, shot_dictionary, players):
 	for p in pass_matrix:
 		#look up the shot data for this player
-		shots = shot_dictionary[team][fetch_player_number(p,players)]
+		try:
+			shots = shot_dictionary[team][fetch_player_number(p,players)]
+		except KeyError as e:
+			print team
+			print p
+			print fetch_player_number(p, players)
+			print shot_dictionary[team].keys()
+			exit()
 		for s in shots:
 			pass_matrix[p][s] = shots[s]
 			
-def build_team_graph(t, pass_matrix, players):
+def build_team_graph(t, pass_matrix, team_name, players):
 	G = nx.DiGraph(team=t)
 	#add two nodes for shots wide and shots on goal
 	G.add_node('shots_wide')
@@ -117,7 +136,7 @@ def build_team_graph(t, pass_matrix, players):
 		passes = pass_matrix[p]["passes"]
 		for k in passes:
 			if k.values()[0] != 0:
-				G.add_edge(p,fetch_player_id(k.keys()[0], players), weight=all_pass_percentages[passes.index(k)])
+				G.add_edge(p,fetch_player_id(k.keys()[0], team_name, players), weight=all_pass_percentages[passes.index(k)])
 	return G
 	
 def fetch_team_id(team_name, teams):
@@ -127,9 +146,16 @@ def fetch_team_id(team_name, teams):
 			return t[key]["id"]
 	return None
 	
-def fetch_player_id(player_number, players):
+def fetch_team_abb(team_id, teams):
+	for t in teams:
+		key = t.keys()[0]
+		if t[key]["id"] == team_id:
+			return t[key]["abbreviation"]
+	return None
+	
+def fetch_player_id(player_number, team, players):
 	for p in players:
-		if str(players[p]["number"]) == player_number:
+		if str(players[p]["number"]) == player_number and players[p]["team"] == team:
 			return players[p]["id"]
 	return None
 	
@@ -158,6 +184,7 @@ def make_plays(match_id, pass_matrix, players, starting_play_id=1):
 		rating = 0.0
 		new_play = Play(play_id, match_id, player_id, position, shots, goals, pc, pa, rating)
 		plays.append(new_play)
+		play_id += 1
 	return plays
 	
 def graph_to_js_list(G):
@@ -165,23 +192,40 @@ def graph_to_js_list(G):
 	edges = []
 	for n in G.nodes(data=True):
 		if "scaled_size" in n[1]:
-			node_string = str(n[0]) + " {size:%s}"%n[1]["scaled_size"]
+			node_string = str(n[0]) + " size:%s"%n[1]["scaled_size"]
 		else:
 			node_string = str(n[0])
 		nodes.append(node_string)
 		
 	for e in G.edges(data=True):
 		if "scaled_lb_weight" in e[2]:
-			edge_string = str(e[0]) + " " + str(e[1]) + " {weight:%s}"%e[2]["scaled_lb_weight"]
+			edge_string = str(e[0]) + " " + str(e[1]) + " weight:%s"%e[2]["scaled_lb_weight"]
 		else:
 			edge_string = str(e[0]) + " " + str(e[1])
 		edges.append(edge_string)
 	return ",".join(nodes), ",".join(edges)
+
+def get_max_play_id(plays):
+	max_pid = 0
+	for p in plays:
+		if plays[p]["id"] > max_pid:
+			max_pid = plays[p]["id"]
+	return max_pid
 	
-def main(match_id, pass_file, shots_file, teams, matches, players):
+def main(match_id, pass_file, shots_file, teams, matches, players, previous_plays):
 	team_data = yaml.load(open(teams).read())
 	matches = yaml.load(open(matches).read())
 	players = yaml.load(open(players).read())
+	pp_list = []
+	if previous_plays:
+		starting_play_id = get_max_play_id(previous_plays)
+		for p in previous_plays:
+			pp_list.append({p:previous_plays[p]})
+		previous_plays = pp_list
+	else:
+		starting_play_id = 0
+		previous_plays = []
+		
 	plays = []
 	if "passes.txt" not in pass_file:
 		print >> sys.stderr, "Not a pass file"
@@ -200,24 +244,51 @@ def main(match_id, pass_file, shots_file, teams, matches, players):
 	teams = get_teams(pass_data)
 	shot_d = build_shot_dictionary(shot_data, teams)
 	graphs = {}
+	
 	for team in teams:
 		p = build_pass_matrix(teams[team], players)
 		team_id = fetch_team_id(team, team_data)
 		append_shots(team, p, shot_d, players)
-		play_id = len(plays)+1
+		play_id = len(plays)+1+starting_play_id
 		plays += make_plays(match_id, p, players, play_id)
-		graphs[team] = build_team_graph(team_id, p, players)
+		graphs[team] = build_team_graph(team_id, p, team, players)
 	team_graphs, unified_graph = ball_simulation.simulate_ball_movement(*graphs.values())
 	#append the unified ratings to the play objects
 	for p in plays:
 		for n in unified_graph.nodes(data=True):
 			if n[0] == p.player_id:
 				p.rating = n[1]["scaled_size"]
-				
+	
+	#append the set of plays to previous_plays
+	for p in plays:
+		previous_plays.append(p.get_hash())
+	f = open("plays.yml", "w")
+	yaml_buffer = sanitize_yaml(yaml.dump(previous_plays, default_flow_style=False))
+	for y in yaml_buffer:
+		print >> f, y
+	f.close()
 	#dump the graphs to js compatible strings
-	u_nodes, u_edges = graph_to_js_list(unified_graph)
-	print u_nodes
-	print u_edges
+	last_id = 0
+	f = None
+	if os.path.exists("graphs.csv"):
+		last_graph = open("graphs.csv").readlines()[-1]
+		last_id = int(last_graph.split(",")[0])
+		f = open("graphs.csv", "a")
+	else:
+		f = open("graphs.csv", "w")
+		print >> f, "id,match_id,team_id,kind,nodes,edges"
+	if f:
+		for G in team_graphs:
+			g_nodes, g_edges = graph_to_js_list(G)
+			team_id = G.graph["team"]
+			last_id += 1
+			graph_id = last_id
+			print >> f, str(graph_id)+","+str(match_id)+","+str(team_id)+","+"single,"+'"'+g_nodes+'","'+g_edges+'"'
+		last_id += 1
+		graph_id = last_id
+		u_nodes, u_edges = graph_to_js_list(unified_graph)
+		print >> f, str(graph_id)+","+str(match_id)+","+","+"double,"+'"'+u_nodes+'","'+u_edges+'"'
+		f.close()
 
 
 if __name__ == "__main__":
@@ -227,5 +298,8 @@ if __name__ == "__main__":
 	teams = sys.argv[4]
 	matches = sys.argv[5]
 	players = sys.argv[6]
-
-	main(match_id, passes, shots, teams, matches, players)
+	if len(sys.argv) > 7:
+		previous_plays = yaml.load(open(sys.argv[7]).read())
+	else:
+		previous_plays = None
+	main(match_id, passes, shots, teams, matches, players, previous_plays)

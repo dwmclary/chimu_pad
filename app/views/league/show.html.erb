@@ -1,3 +1,41 @@
-<% for t in @league.teams %>
-<p><%= link_to t.name, :controller => "team", :action => "show", :id => t.id%></p>
-<% end %>
+<%= javascript_include_tag :defaults %>
+<%= csrf_meta_tag %>
+
+<script type="text/javascript">
+
+function BUDEffect(element){
+    new Effect.toggle(element,'Blind', {duration:0.5});
+}
+</script>
+
+<h3>
+<div onclick="BUDEffect($(matches))">
+    Matches
+</div>
+</h3>
+<div id="matches" style="display: none">
+    <table id="leagueMatchTable">
+    <thead>
+        <th>Home Team</th>
+        <th>Away Team</th>
+        <th>Home Score</th>
+        <th>Away Score</th>
+        <th>Location</th>
+        <th>Date</th>
+    </thead>
+    <tbody>
+        <%= render(@league.matches)%>
+    </tbody>
+    </table>
+</div>
+
+<h3>
+<div onclick="BUDEffect($(leagueTeams))">
+    Teams
+</div>
+</h3>
+<div id="leagueTeams" style="display: none">
+    <% for t in @league.teams %>
+    <p><%= link_to t.name, :controller => "team", :action => "show", :id => t.id%></p>
+    <% end %>
+</div>

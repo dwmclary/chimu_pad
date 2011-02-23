@@ -1,4 +1,10 @@
 <tr>
-    <td><%= match.location %></td>
-    <td><%= match.match_date%></td>
+    <% home_team = Team.find(match.home_team_id).name %>
+    <% away_team = Team.find(match.away_team_id).name %>
+    <td><%= link_to home_team, :controller => "match", :action => "show", :id => match.id%></td>
+    <td><%= link_to away_team, :controller => "match", :action => "show", :id => match.id%></td>
+    <td><%= match.home_team_score %></td>
+    <td><%= match.away_team_score %></td>
+    <td><%= link_to match.location, :controller => "match", :action => "show", :id => match.id%></td>
+    <td><%= match.match_date %></td>
 </tr>

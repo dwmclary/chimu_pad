@@ -1,3 +1,5 @@
+
+
 Lounes GAOUAOUI:
   comment: Chlef (ALG)
   current_rating: 0.0
@@ -5,6 +7,7 @@ Lounes GAOUAOUI:
   name: Lounes GAOUAOUI
   number: 1
   position: GK
+  team: ALG
   team_id: 1
 
 
@@ -15,6 +18,7 @@ Madjid BOUGHERRA:
   name: Madjid BOUGHERRA
   number: 2
   position: DF
+  team: ALG
   team_id: 1
 
 
@@ -25,6 +29,7 @@ Nadir BELHADJ:
   name: Nadir BELHADJ
   number: 3
   position: DF
+  team: ALG
   team_id: 1
 
 
@@ -35,6 +40,7 @@ Anther YAHIA:
   name: Anther YAHIA
   number: 4
   position: DF
+  team: ALG
   team_id: 1
 
 
@@ -45,6 +51,7 @@ Rafik HALLICHE:
   name: Rafik HALLICHE
   number: 5
   position: DF
+  team: ALG
   team_id: 1
 
 
@@ -55,6 +62,7 @@ Yazid MANSOURI:
   name: Yazid MANSOURI
   number: 6
   position: MF
+  team: ALG
   team_id: 1
 
 
@@ -65,6 +73,7 @@ Ryad BOUDEBOUZ:
   name: Ryad BOUDEBOUZ
   number: 7
   position: MF
+  team: ALG
   team_id: 1
 
 
@@ -75,6 +84,7 @@ Medhi LACEN:
   name: Medhi LACEN
   number: 8
   position: MF
+  team: ALG
   team_id: 1
 
 
@@ -85,6 +95,7 @@ Abdelkader GHEZZAL:
   name: Abdelkader GHEZZAL
   number: 9
   position: FW
+  team: ALG
   team_id: 1
 
 
@@ -95,6 +106,7 @@ Rafik SAIFI:
   name: Rafik SAIFI
   number: 10
   position: FW
+  team: ALG
   team_id: 1
 
 
@@ -105,6 +117,7 @@ Rafik DJEBBOUR:
   name: Rafik DJEBBOUR
   number: 11
   position: FW
+  team: ALG
   team_id: 1
 
 
@@ -115,6 +128,7 @@ Habib BELLAID:
   name: Habib BELLAID
   number: 12
   position: DF
+  team: ALG
   team_id: 1
 
 
@@ -125,6 +139,7 @@ Karim MATMOUR:
   name: Karim MATMOUR
   number: 13
   position: MF
+  team: ALG
   team_id: 1
 
 
@@ -135,6 +150,7 @@ Abdelkader LAIFAOUI:
   name: Abdelkader LAIFAOUI
   number: 14
   position: DF
+  team: ALG
   team_id: 1
 
 
@@ -145,6 +161,7 @@ Karim ZIANI:
   name: Karim ZIANI
   number: 15
   position: MF
+  team: ALG
   team_id: 1
 
 
@@ -155,6 +172,7 @@ Faouzi CHAOUCHI:
   name: Faouzi CHAOUCHI
   number: 16
   position: GK
+  team: ALG
   team_id: 1
 
 
@@ -165,6 +183,7 @@ Adlane GUEDIOURA:
   name: Adlane GUEDIOURA
   number: 17
   position: MF
+  team: ALG
   team_id: 1
 
 
@@ -175,6 +194,7 @@ Carl MEDJANI:
   name: Carl MEDJANI
   number: 18
   position: DF
+  team: ALG
   team_id: 1
 
 
@@ -185,6 +205,7 @@ Hassan YEBDA:
   name: Hassan YEBDA
   number: 19
   position: MF
+  team: ALG
   team_id: 1
 
 
@@ -195,6 +216,7 @@ Djamel MESBAH:
   name: Djamel MESBAH
   number: 20
   position: DF
+  team: ALG
   team_id: 1
 
 
@@ -205,6 +227,7 @@ Foued KADIR:
   name: Foued KADIR
   number: 21
   position: MF
+  team: ALG
   team_id: 1
 
 
@@ -215,6 +238,7 @@ Djamal ABDOUN:
   name: Djamal ABDOUN
   number: 22
   position: MF
+  team: ALG
   team_id: 1
 
 
@@ -225,6 +249,7 @@ Rais M BOLHI:
   name: Rais M BOLHI
   number: 23
   position: GK
+  team: ALG
   team_id: 1
 
 
@@ -235,6 +260,7 @@ Diego POZO:
   name: Diego POZO
   number: 1
   position: GK
+  team: ARG
   team_id: 2
 
 
@@ -245,6 +271,7 @@ Martin DEMICHELIS:
   name: Martin DEMICHELIS
   number: 2
   position: DF
+  team: ARG
   team_id: 2
 
 
@@ -255,6 +282,7 @@ Clemente RODRIGUEZ:
   name: Clemente RODRIGUEZ
   number: 3
   position: DF
+  team: ARG
   team_id: 2
 
 
@@ -265,6 +293,7 @@ Nicolas BURDISSO:
   name: Nicolas BURDISSO
   number: 4
   position: DF
+  team: ARG
   team_id: 2
 
 
@@ -275,6 +304,7 @@ Mario BOLATTI:
   name: Mario BOLATTI
   number: 5
   position: MF
+  team: ARG
   team_id: 2
 
 
@@ -285,6 +315,7 @@ Gabriel HEINZE:
   name: Gabriel HEINZE
   number: 6
   position: DF
+  team: ARG
   team_id: 2
 
 
@@ -295,6 +326,7 @@ Angel DI MARIA:
   name: Angel DI MARIA
   number: 7
   position: MF
+  team: ARG
   team_id: 2
 
 
@@ -305,6 +337,7 @@ Juan VERON:
   name: Juan VERON
   number: 8
   position: MF
+  team: ARG
   team_id: 2
 
 
@@ -315,6 +348,7 @@ Gonzalo HIGUAIN:
   name: Gonzalo HIGUAIN
   number: 9
   position: FW
+  team: ARG
   team_id: 2
 
 
@@ -325,6 +359,7 @@ Lionel MESSI:
   name: Lionel MESSI
   number: 10
   position: FW
+  team: ARG
   team_id: 2
 
 
@@ -335,6 +370,7 @@ Carlos TEVEZ:
   name: Carlos TEVEZ
   number: 11
   position: FW
+  team: ARG
   team_id: 2
 
 
@@ -345,6 +381,7 @@ Ariel GARCE:
   name: Ariel GARCE
   number: 12
   position: DF
+  team: ARG
   team_id: 2
 
 
@@ -355,6 +392,7 @@ Walter SAMUEL:
   name: Walter SAMUEL
   number: 13
   position: DF
+  team: ARG
   team_id: 2
 
 
@@ -365,6 +403,7 @@ Javier MASCHERANO:
   name: Javier MASCHERANO
   number: 14
   position: MF
+  team: ARG
   team_id: 2
 
 
@@ -375,6 +414,7 @@ Nicolas OTAMENDI:
   name: Nicolas OTAMENDI
   number: 15
   position: DF
+  team: ARG
   team_id: 2
 
 
@@ -385,6 +425,7 @@ Sergio AGUERO:
   name: Sergio AGUERO
   number: 16
   position: FW
+  team: ARG
   team_id: 2
 
 
@@ -395,6 +436,7 @@ Jonas GUTIERREZ:
   name: Jonas GUTIERREZ
   number: 17
   position: MF
+  team: ARG
   team_id: 2
 
 
@@ -405,6 +447,7 @@ Martin PALERMO:
   name: Martin PALERMO
   number: 18
   position: FW
+  team: ARG
   team_id: 2
 
 
@@ -415,6 +458,7 @@ Diego MILITO:
   name: Diego MILITO
   number: 19
   position: FW
+  team: ARG
   team_id: 2
 
 
@@ -425,6 +469,7 @@ Maxi RODRIGUEZ:
   name: Maxi RODRIGUEZ
   number: 20
   position: MF
+  team: ARG
   team_id: 2
 
 
@@ -435,6 +480,7 @@ Mariano ANDUJAR:
   name: Mariano ANDUJAR
   number: 21
   position: GK
+  team: ARG
   team_id: 2
 
 
@@ -445,6 +491,7 @@ Sergio ROMERO:
   name: Sergio ROMERO
   number: 22
   position: GK
+  team: ARG
   team_id: 2
 
 
@@ -455,6 +502,7 @@ Javier PASTORE:
   name: Javier PASTORE
   number: 23
   position: MF
+  team: ARG
   team_id: 2
 
 
@@ -465,6 +513,7 @@ Mark SCHWARZER:
   name: Mark SCHWARZER
   number: 1
   position: GK
+  team: AUS
   team_id: 3
 
 
@@ -475,6 +524,7 @@ Lucas NEILL:
   name: Lucas NEILL
   number: 2
   position: DF
+  team: AUS
   team_id: 3
 
 
@@ -485,6 +535,7 @@ Craig MOORE:
   name: Craig MOORE
   number: 3
   position: DF
+  team: AUS
   team_id: 3
 
 
@@ -495,6 +546,7 @@ Tim CAHILL:
   name: Tim CAHILL
   number: 4
   position: FW
+  team: AUS
   team_id: 3
 
 
@@ -505,6 +557,7 @@ Jason CULINA:
   name: Jason CULINA
   number: 5
   position: MF
+  team: AUS
   team_id: 3
 
 
@@ -515,6 +568,7 @@ Michael BEAUCHAMP:
   name: Michael BEAUCHAMP
   number: 6
   position: DF
+  team: AUS
   team_id: 3
 
 
@@ -525,6 +579,7 @@ Brett EMERTON:
   name: Brett EMERTON
   number: 7
   position: MF
+  team: AUS
   team_id: 3
 
 
@@ -535,6 +590,7 @@ Luke WILKSHIRE:
   name: Luke WILKSHIRE
   number: 8
   position: DF
+  team: AUS
   team_id: 3
 
 
@@ -545,6 +601,7 @@ Joshua KENNEDY:
   name: Joshua KENNEDY
   number: 9
   position: FW
+  team: AUS
   team_id: 3
 
 
@@ -555,6 +612,7 @@ Harry KEWELL:
   name: Harry KEWELL
   number: 10
   position: FW
+  team: AUS
   team_id: 3
 
 
@@ -565,6 +623,7 @@ Scott CHIPPERFIELD:
   name: Scott CHIPPERFIELD
   number: 11
   position: DF
+  team: AUS
   team_id: 3
 
 
@@ -575,6 +634,7 @@ Adam FEDERICI:
   name: Adam FEDERICI
   number: 12
   position: GK
+  team: AUS
   team_id: 3
 
 
@@ -585,6 +645,7 @@ Vince GRELLA:
   name: Vince GRELLA
   number: 13
   position: MF
+  team: AUS
   team_id: 3
 
 
@@ -595,6 +656,7 @@ Brett HOLMAN:
   name: Brett HOLMAN
   number: 14
   position: FW
+  team: AUS
   team_id: 3
 
 
@@ -605,6 +667,7 @@ Mile JEDINAK:
   name: Mile JEDINAK
   number: 15
   position: MF
+  team: AUS
   team_id: 3
 
 
@@ -615,6 +678,7 @@ Carl VALERI:
   name: Carl VALERI
   number: 16
   position: MF
+  team: AUS
   team_id: 3
 
 
@@ -625,6 +689,7 @@ Nikita RUKAVYTSYA:
   name: Nikita RUKAVYTSYA
   number: 17
   position: FW
+  team: AUS
   team_id: 3
 
 
@@ -635,6 +700,7 @@ Eugene GALEKOVIC:
   name: Eugene GALEKOVIC
   number: 18
   position: GK
+  team: AUS
   team_id: 3
 
 
@@ -645,6 +711,7 @@ Richard GARCIA:
   name: Richard GARCIA
   number: 19
   position: FW
+  team: AUS
   team_id: 3
 
 
@@ -655,6 +722,7 @@ Mark MILLIGAN:
   name: Mark MILLIGAN
   number: 20
   position: DF
+  team: AUS
   team_id: 3
 
 
@@ -665,6 +733,7 @@ David CARNEY:
   name: David CARNEY
   number: 21
   position: DF
+  team: AUS
   team_id: 3
 
 
@@ -675,6 +744,7 @@ Dario VIDOSIC:
   name: Dario VIDOSIC
   number: 22
   position: MF
+  team: AUS
   team_id: 3
 
 
@@ -685,6 +755,7 @@ Marco BRESCIANO:
   name: Marco BRESCIANO
   number: 23
   position: FW
+  team: AUS
   team_id: 3
 
 
@@ -695,6 +766,7 @@ JULIO CESAR:
   name: JULIO CESAR
   number: 1
   position: GK
+  team: BRA
   team_id: 4
 
 
@@ -705,6 +777,7 @@ MAICON:
   name: MAICON
   number: 2
   position: DF
+  team: BRA
   team_id: 4
 
 
@@ -715,6 +788,7 @@ LUCIO:
   name: LUCIO
   number: 3
   position: DF
+  team: BRA
   team_id: 4
 
 
@@ -725,6 +799,7 @@ JUAN:
   name: JUAN
   number: 4
   position: DF
+  team: BRA
   team_id: 4
 
 
@@ -735,6 +810,7 @@ FELIPE MELO:
   name: FELIPE MELO
   number: 5
   position: MF
+  team: BRA
   team_id: 4
 
 
@@ -745,6 +821,7 @@ MICHEL BASTOS:
   name: MICHEL BASTOS
   number: 6
   position: DF
+  team: BRA
   team_id: 4
 
 
@@ -755,6 +832,7 @@ ELANO:
   name: ELANO
   number: 7
   position: MF
+  team: BRA
   team_id: 4
 
 
@@ -765,6 +843,7 @@ GILBERTO SILVA:
   name: GILBERTO SILVA
   number: 8
   position: MF
+  team: BRA
   team_id: 4
 
 
@@ -775,6 +854,7 @@ LUIS FABIANO:
   name: LUIS FABIANO
   number: 9
   position: FW
+  team: BRA
   team_id: 4
 
 
@@ -785,6 +865,7 @@ KAKA:
   name: KAKA
   number: 10
   position: MF
+  team: BRA
   team_id: 4
 
 
@@ -795,6 +876,7 @@ ROBINHO:
   name: ROBINHO
   number: 11
   position: FW
+  team: BRA
   team_id: 4
 
 
@@ -805,6 +887,7 @@ GOMES:
   name: GOMES
   number: 12
   position: GK
+  team: BRA
   team_id: 4
 
 
@@ -815,6 +898,7 @@ DANI ALVES:
   name: DANI ALVES
   number: 13
   position: DF
+  team: BRA
   team_id: 4
 
 
@@ -825,6 +909,7 @@ LUISAO:
   name: LUISAO
   number: 14
   position: DF
+  team: BRA
   team_id: 4
 
 
@@ -835,6 +920,7 @@ THIAGO SILVA:
   name: THIAGO SILVA
   number: 15
   position: DF
+  team: BRA
   team_id: 4
 
 
@@ -845,6 +931,7 @@ GILBERTO MELO:
   name: GILBERTO MELO
   number: 16
   position: DF
+  team: BRA
   team_id: 4
 
 
@@ -855,6 +942,7 @@ JOSUE:
   name: JOSUE
   number: 17
   position: MF
+  team: BRA
   team_id: 4
 
 
@@ -865,6 +953,7 @@ RAMIRES:
   name: RAMIRES
   number: 18
   position: MF
+  team: BRA
   team_id: 4
 
 
@@ -875,6 +964,7 @@ JULIO BAPTISTA:
   name: JULIO BAPTISTA
   number: 19
   position: MF
+  team: BRA
   team_id: 4
 
 
@@ -885,6 +975,7 @@ KLEBERSON:
   name: KLEBERSON
   number: 20
   position: MF
+  team: BRA
   team_id: 4
 
 
@@ -895,6 +986,7 @@ NILMAR:
   name: NILMAR
   number: 21
   position: FW
+  team: BRA
   team_id: 4
 
 
@@ -905,6 +997,7 @@ DONI:
   name: DONI
   number: 22
   position: GK
+  team: BRA
   team_id: 4
 
 
@@ -915,6 +1008,7 @@ GRAFITE:
   name: GRAFITE
   number: 23
   position: FW
+  team: BRA
   team_id: 4
 
 
@@ -925,6 +1019,7 @@ Idriss KAMENI:
   name: Idriss KAMENI
   number: 1
   position: GK
+  team: CMR
   team_id: 5
 
 
@@ -932,9 +1027,10 @@ Benoit ASSOUEKOTTO:
   comment: Tottenham Hotspur (ENG)
   current_rating: 0.0
   id: 94
-  name: Benoit ASSOUEKOTTO
+  name: Benoit ASSOU-EKOTTO
   number: 2
   position: DF
+  team: CMR
   team_id: 5
 
 
@@ -945,6 +1041,7 @@ Nicolas NKOULOU:
   name: Nicolas NKOULOU
   number: 3
   position: DF
+  team: CMR
   team_id: 5
 
 
@@ -955,6 +1052,7 @@ Rigobert SONG:
   name: Rigobert SONG
   number: 4
   position: DF
+  team: CMR
   team_id: 5
 
 
@@ -965,6 +1063,7 @@ Sebastien BASSONG:
   name: Sebastien BASSONG
   number: 5
   position: DF
+  team: CMR
   team_id: 5
 
 
@@ -975,6 +1074,7 @@ Alexandre SONG:
   name: Alexandre SONG
   number: 6
   position: MF
+  team: CMR
   team_id: 5
 
 
@@ -985,6 +1085,7 @@ Landry NGUEMO:
   name: Landry NGUEMO
   number: 7
   position: MF
+  team: CMR
   team_id: 5
 
 
@@ -995,6 +1096,7 @@ GEREMI:
   name: GEREMI
   number: 8
   position: DF
+  team: CMR
   team_id: 5
 
 
@@ -1005,6 +1107,7 @@ Samuel ETOO:
   name: Samuel ETOO
   number: 9
   position: FW
+  team: CMR
   team_id: 5
 
 
@@ -1015,6 +1118,7 @@ Achille EMANA:
   name: Achille EMANA
   number: 10
   position: FW
+  team: CMR
   team_id: 5
 
 
@@ -1025,6 +1129,7 @@ Jean MAKOUN:
   name: Jean MAKOUN
   number: 11
   position: MF
+  team: CMR
   team_id: 5
 
 
@@ -1035,6 +1140,7 @@ Gaetan BONG:
   name: Gaetan BONG
   number: 12
   position: DF
+  team: CMR
   team_id: 5
 
 
@@ -1045,6 +1151,7 @@ Eric CHOUPO MOTING:
   name: Eric CHOUPO MOTING
   number: 13
   position: FW
+  team: CMR
   team_id: 5
 
 
@@ -1055,6 +1162,7 @@ Aurelien CHEDJOU:
   name: Aurelien CHEDJOU
   number: 14
   position: DF
+  team: CMR
   team_id: 5
 
 
@@ -1065,6 +1173,7 @@ Pierre WEBO:
   name: Pierre WEBO
   number: 15
   position: FW
+  team: CMR
   team_id: 5
 
 
@@ -1075,6 +1184,7 @@ Hamidou SOULEYMANOU:
   name: Hamidou SOULEYMANOU
   number: 16
   position: GK
+  team: CMR
   team_id: 5
 
 
@@ -1085,6 +1195,7 @@ Mohamadou IDRISSOU:
   name: Mohamadou IDRISSOU
   number: 17
   position: FW
+  team: CMR
   team_id: 5
 
 
@@ -1095,6 +1206,7 @@ Eyong ENOH:
   name: Eyong ENOH
   number: 18
   position: MF
+  team: CMR
   team_id: 5
 
 
@@ -1105,6 +1217,7 @@ Stephane MBIA:
   name: Stephane MBIA
   number: 19
   position: DF
+  team: CMR
   team_id: 5
 
 
@@ -1115,6 +1228,7 @@ Georges MANDJECK:
   name: Georges MANDJECK
   number: 20
   position: MF
+  team: CMR
   team_id: 5
 
 
@@ -1125,6 +1239,7 @@ Joel MATIP:
   name: Joel MATIP
   number: 21
   position: MF
+  team: CMR
   team_id: 5
 
 
@@ -1135,6 +1250,7 @@ Guy NDY:
   name: Guy NDY
   number: 22
   position: GK
+  team: CMR
   team_id: 5
 
 
@@ -1145,6 +1261,7 @@ Vincent ABOUBAKAR:
   name: Vincent ABOUBAKAR
   number: 23
   position: FW
+  team: CMR
   team_id: 5
 
 
@@ -1155,6 +1272,7 @@ Claudio BRAVO:
   name: Claudio BRAVO
   number: 1
   position: GK
+  team: CHI
   team_id: 6
 
 
@@ -1165,6 +1283,7 @@ Ismael FUENTES:
   name: Ismael FUENTES
   number: 2
   position: DF
+  team: CHI
   team_id: 6
 
 
@@ -1175,6 +1294,7 @@ Waldo PONCE:
   name: Waldo PONCE
   number: 3
   position: DF
+  team: CHI
   team_id: 6
 
 
@@ -1185,6 +1305,7 @@ Mauricio ISLA:
   name: Mauricio ISLA
   number: 4
   position: DF
+  team: CHI
   team_id: 6
 
 
@@ -1195,6 +1316,7 @@ Pablo CONTRERAS:
   name: Pablo CONTRERAS
   number: 5
   position: DF
+  team: CHI
   team_id: 6
 
 
@@ -1205,6 +1327,7 @@ Carlos CARMONA:
   name: Carlos CARMONA
   number: 6
   position: MF
+  team: CHI
   team_id: 6
 
 
@@ -1215,6 +1338,7 @@ Alexis SANCHEZ:
   name: Alexis SANCHEZ
   number: 7
   position: FW
+  team: CHI
   team_id: 6
 
 
@@ -1225,6 +1349,7 @@ Arturo VIDAL:
   name: Arturo VIDAL
   number: 8
   position: MF
+  team: CHI
   team_id: 6
 
 
@@ -1235,6 +1360,7 @@ Humberto SUAZO:
   name: Humberto SUAZO
   number: 9
   position: FW
+  team: CHI
   team_id: 6
 
 
@@ -1245,6 +1371,7 @@ Jorge VALDIVIA:
   name: Jorge VALDIVIA
   number: 10
   position: MF
+  team: CHI
   team_id: 6
 
 
@@ -1255,6 +1382,7 @@ Mark GONZALEZ:
   name: Mark GONZALEZ
   number: 11
   position: FW
+  team: CHI
   team_id: 6
 
 
@@ -1265,6 +1393,7 @@ Miguel PINTO:
   name: Miguel PINTO
   number: 12
   position: GK
+  team: CHI
   team_id: 6
 
 
@@ -1275,6 +1404,7 @@ Marco ESTRADA:
   name: Marco ESTRADA
   number: 13
   position: MF
+  team: CHI
   team_id: 6
 
 
@@ -1285,6 +1415,7 @@ Matias FERNANDEZ:
   name: Matias FERNANDEZ
   number: 14
   position: MF
+  team: CHI
   team_id: 6
 
 
@@ -1295,6 +1426,7 @@ Jean BEAUSEJOUR:
   name: Jean BEAUSEJOUR
   number: 15
   position: FW
+  team: CHI
   team_id: 6
 
 
@@ -1305,6 +1437,7 @@ Fabian ORELLANA:
   name: Fabian ORELLANA
   number: 16
   position: FW
+  team: CHI
   team_id: 6
 
 
@@ -1315,6 +1448,7 @@ Gary MEDEL:
   name: Gary MEDEL
   number: 17
   position: DF
+  team: CHI
   team_id: 6
 
 
@@ -1325,6 +1459,7 @@ Gonzalo JARA:
   name: Gonzalo JARA
   number: 18
   position: DF
+  team: CHI
   team_id: 6
 
 
@@ -1335,6 +1470,7 @@ Gonzalo FIERRO:
   name: Gonzalo FIERRO
   number: 19
   position: MF
+  team: CHI
   team_id: 6
 
 
@@ -1345,6 +1481,7 @@ Rodrigo MILLAR:
   name: Rodrigo MILLAR
   number: 20
   position: MF
+  team: CHI
   team_id: 6
 
 
@@ -1355,6 +1492,7 @@ Rodrigo TELLO:
   name: Rodrigo TELLO
   number: 21
   position: MF
+  team: CHI
   team_id: 6
 
 
@@ -1365,6 +1503,7 @@ Esteban PAREDES:
   name: Esteban PAREDES
   number: 22
   position: FW
+  team: CHI
   team_id: 6
 
 
@@ -1375,6 +1514,7 @@ Luis MARIN:
   name: Luis MARIN
   number: 23
   position: GK
+  team: CHI
   team_id: 6
 
 
@@ -1385,6 +1525,7 @@ Boubacar BARRY:
   name: Boubacar BARRY
   number: 1
   position: GK
+  team: CIV
   team_id: 15
 
 
@@ -1395,6 +1536,7 @@ Brou ANGOUA:
   name: Brou ANGOUA
   number: 2
   position: DF
+  team: CIV
   team_id: 15
 
 
@@ -1405,6 +1547,7 @@ Arthur BOKA:
   name: Arthur BOKA
   number: 3
   position: DF
+  team: CIV
   team_id: 15
 
 
@@ -1415,6 +1558,7 @@ Kolo TOURE:
   name: Kolo TOURE
   number: 4
   position: DF
+  team: CIV
   team_id: 15
 
 
@@ -1425,6 +1569,7 @@ Didier ZOKORA:
   name: Didier ZOKORA
   number: 5
   position: MF
+  team: CIV
   team_id: 15
 
 
@@ -1435,6 +1580,7 @@ Steve GOHOURI:
   name: Steve GOHOURI
   number: 6
   position: DF
+  team: CIV
   team_id: 15
 
 
@@ -1445,6 +1591,7 @@ Seydou DOUMBIA:
   name: Seydou DOUMBIA
   number: 7
   position: FW
+  team: CIV
   team_id: 15
 
 
@@ -1455,6 +1602,7 @@ Salomon KALOU:
   name: Salomon KALOU
   number: 8
   position: FW
+  team: CIV
   team_id: 15
 
 
@@ -1465,6 +1613,7 @@ Ismael TIOTE:
   name: Ismael TIOTE
   number: 9
   position: MF
+  team: CIV
   team_id: 15
 
 
@@ -1475,6 +1624,7 @@ GERVINHO:
   name: GERVINHO
   number: 10
   position: FW
+  team: CIV
   team_id: 15
 
 
@@ -1485,6 +1635,7 @@ Didier DROGBA:
   name: Didier DROGBA
   number: 11
   position: FW
+  team: CIV
   team_id: 15
 
 
@@ -1495,6 +1646,7 @@ Jean Jacques GOSSO:
   name: Jean Jacques GOSSO
   number: 12
   position: MF
+  team: CIV
   team_id: 15
 
 
@@ -1505,6 +1657,7 @@ ROMARIC:
   name: ROMARIC
   number: 13
   position: MF
+  team: CIV
   team_id: 15
 
 
@@ -1515,6 +1668,7 @@ Emmanuel KONE:
   name: Emmanuel KONE
   number: 14
   position: MF
+  team: CIV
   team_id: 15
 
 
@@ -1525,6 +1679,7 @@ Aruna DINDANE:
   name: Aruna DINDANE
   number: 15
   position: FW
+  team: CIV
   team_id: 15
 
 
@@ -1535,6 +1690,7 @@ Aristide ZOGBO:
   name: Aristide ZOGBO
   number: 16
   position: GK
+  team: CIV
   team_id: 15
 
 
@@ -1545,6 +1701,7 @@ Siaka TIENE:
   name: Siaka TIENE
   number: 17
   position: DF
+  team: CIV
   team_id: 15
 
 
@@ -1555,6 +1712,7 @@ Kader KEITA:
   name: Kader KEITA
   number: 18
   position: FW
+  team: CIV
   team_id: 15
 
 
@@ -1565,6 +1723,7 @@ Yaya TOURE:
   name: Yaya TOURE
   number: 19
   position: MF
+  team: CIV
   team_id: 15
 
 
@@ -1575,6 +1734,7 @@ Guy DEMEL:
   name: Guy DEMEL
   number: 20
   position: DF
+  team: CIV
   team_id: 15
 
 
@@ -1585,6 +1745,7 @@ Emmanuel EBOUE:
   name: Emmanuel EBOUE
   number: 21
   position: DF
+  team: CIV
   team_id: 15
 
 
@@ -1595,6 +1756,7 @@ Souleymane BAMBA:
   name: Souleymane BAMBA
   number: 22
   position: DF
+  team: CIV
   team_id: 15
 
 
@@ -1605,6 +1767,7 @@ Daniel YEBOAH:
   name: Daniel YEBOAH
   number: 23
   position: GK
+  team: CIV
   team_id: 15
 
 
@@ -1615,6 +1778,7 @@ Thomas SORENSEN:
   name: Thomas SORENSEN
   number: 1
   position: GK
+  team: DEN
   team_id: 7
 
 
@@ -1625,6 +1789,7 @@ Christian POULSEN:
   name: Christian POULSEN
   number: 2
   position: MF
+  team: DEN
   team_id: 7
 
 
@@ -1635,6 +1800,7 @@ Simon KJAER:
   name: Simon KJAER
   number: 3
   position: DF
+  team: DEN
   team_id: 7
 
 
@@ -1645,6 +1811,7 @@ Daniel AGGER:
   name: Daniel AGGER
   number: 4
   position: DF
+  team: DEN
   team_id: 7
 
 
@@ -1655,6 +1822,7 @@ William KVIST:
   name: William KVIST
   number: 5
   position: MF
+  team: DEN
   team_id: 7
 
 
@@ -1665,6 +1833,7 @@ Lars JACOBSEN:
   name: Lars JACOBSEN
   number: 6
   position: DF
+  team: DEN
   team_id: 7
 
 
@@ -1675,6 +1844,7 @@ Daniel JENSEN:
   name: Daniel JENSEN
   number: 7
   position: MF
+  team: DEN
   team_id: 7
 
 
@@ -1685,6 +1855,7 @@ Jesper GRONKJAER:
   name: Jesper GRONKJAER
   number: 8
   position: FW
+  team: DEN
   team_id: 7
 
 
@@ -1695,6 +1866,7 @@ Jon Dahl TOMASSON:
   name: Jon Dahl TOMASSON
   number: 9
   position: FW
+  team: DEN
   team_id: 7
 
 
@@ -1705,6 +1877,7 @@ Martin JORGENSEN:
   name: Martin JORGENSEN
   number: 10
   position: MF
+  team: DEN
   team_id: 7
 
 
@@ -1715,6 +1888,7 @@ Nicklas BENDTNER:
   name: Nicklas BENDTNER
   number: 11
   position: FW
+  team: DEN
   team_id: 7
 
 
@@ -1725,6 +1899,7 @@ Thomas KAHLENBERG:
   name: Thomas KAHLENBERG
   number: 12
   position: MF
+  team: DEN
   team_id: 7
 
 
@@ -1735,6 +1910,7 @@ Per KROLDRUP:
   name: Per KROLDRUP
   number: 13
   position: DF
+  team: DEN
   team_id: 7
 
 
@@ -1745,6 +1921,7 @@ Jakob POULSEN:
   name: Jakob POULSEN
   number: 14
   position: MF
+  team: DEN
   team_id: 7
 
 
@@ -1755,6 +1932,7 @@ Simon POULSEN:
   name: Simon POULSEN
   number: 15
   position: DF
+  team: DEN
   team_id: 7
 
 
@@ -1765,6 +1943,7 @@ Stephan ANDERSEN:
   name: Stephan ANDERSEN
   number: 16
   position: GK
+  team: DEN
   team_id: 7
 
 
@@ -1775,6 +1954,7 @@ Mikkel BECKMANN:
   name: Mikkel BECKMANN
   number: 17
   position: FW
+  team: DEN
   team_id: 7
 
 
@@ -1785,6 +1965,7 @@ Soren LARSEN:
   name: Soren LARSEN
   number: 18
   position: FW
+  team: DEN
   team_id: 7
 
 
@@ -1795,6 +1976,7 @@ Dennis ROMMEDAHL:
   name: Dennis ROMMEDAHL
   number: 19
   position: FW
+  team: DEN
   team_id: 7
 
 
@@ -1805,6 +1987,7 @@ Thomas ENEVOLDSEN:
   name: Thomas ENEVOLDSEN
   number: 20
   position: MF
+  team: DEN
   team_id: 7
 
 
@@ -1815,6 +1998,7 @@ Christian ERIKSEN:
   name: Christian ERIKSEN
   number: 21
   position: MF
+  team: DEN
   team_id: 7
 
 
@@ -1825,6 +2009,7 @@ Jesper CHRISTIANSEN:
   name: Jesper CHRISTIANSEN
   number: 22
   position: GK
+  team: DEN
   team_id: 7
 
 
@@ -1835,6 +2020,7 @@ Patrick MTILIGA:
   name: Patrick MTILIGA
   number: 23
   position: DF
+  team: DEN
   team_id: 7
 
 
@@ -1845,6 +2031,7 @@ David JAMES:
   name: David JAMES
   number: 1
   position: GK
+  team: ENG
   team_id: 8
 
 
@@ -1855,6 +2042,7 @@ Glen JOHNSON:
   name: Glen JOHNSON
   number: 2
   position: DF
+  team: ENG
   team_id: 8
 
 
@@ -1865,6 +2053,7 @@ Ashley COLE:
   name: Ashley COLE
   number: 3
   position: DF
+  team: ENG
   team_id: 8
 
 
@@ -1875,6 +2064,7 @@ Steven GERRARD:
   name: Steven GERRARD
   number: 4
   position: MF
+  team: ENG
   team_id: 8
 
 
@@ -1885,6 +2075,7 @@ Michael DAWSON:
   name: Michael DAWSON
   number: 5
   position: DF
+  team: ENG
   team_id: 8
 
 
@@ -1895,6 +2086,7 @@ John TERRY:
   name: John TERRY
   number: 6
   position: DF
+  team: ENG
   team_id: 8
 
 
@@ -1905,6 +2097,7 @@ Aaron LENNON:
   name: Aaron LENNON
   number: 7
   position: MF
+  team: ENG
   team_id: 8
 
 
@@ -1915,6 +2108,7 @@ Frank LAMPARD:
   name: Frank LAMPARD
   number: 8
   position: MF
+  team: ENG
   team_id: 8
 
 
@@ -1925,6 +2119,7 @@ Peter CROUCH:
   name: Peter CROUCH
   number: 9
   position: FW
+  team: ENG
   team_id: 8
 
 
@@ -1935,6 +2130,7 @@ Wayne ROONEY:
   name: Wayne ROONEY
   number: 10
   position: FW
+  team: ENG
   team_id: 8
 
 
@@ -1945,6 +2141,7 @@ Joe COLE:
   name: Joe COLE
   number: 11
   position: MF
+  team: ENG
   team_id: 8
 
 
@@ -1955,6 +2152,7 @@ Robert GREEN:
   name: Robert GREEN
   number: 12
   position: GK
+  team: ENG
   team_id: 8
 
 
@@ -1965,6 +2163,7 @@ Stephen WARNOCK:
   name: Stephen WARNOCK
   number: 13
   position: DF
+  team: ENG
   team_id: 8
 
 
@@ -1975,6 +2174,7 @@ Gareth BARRY:
   name: Gareth BARRY
   number: 14
   position: MF
+  team: ENG
   team_id: 8
 
 
@@ -1985,6 +2185,7 @@ Matt UPSON:
   name: Matt UPSON
   number: 15
   position: DF
+  team: ENG
   team_id: 8
 
 
@@ -1995,6 +2196,7 @@ James MILNER:
   name: James MILNER
   number: 16
   position: MF
+  team: ENG
   team_id: 8
 
 
@@ -2002,9 +2204,10 @@ Shaun WRIGHTPHILLIPS:
   comment: Manchester City (ENG)
   current_rating: 0.0
   id: 201
-  name: Shaun WRIGHTPHILLIPS
+  name: Shaun WRIGHT-PHILLIPS
   number: 17
   position: MF
+  team: ENG
   team_id: 8
 
 
@@ -2015,6 +2218,7 @@ Jamie CARRAGHER:
   name: Jamie CARRAGHER
   number: 18
   position: DF
+  team: ENG
   team_id: 8
 
 
@@ -2025,6 +2229,7 @@ Jermain DEFOE:
   name: Jermain DEFOE
   number: 19
   position: FW
+  team: ENG
   team_id: 8
 
 
@@ -2035,6 +2240,7 @@ Ledley KING:
   name: Ledley KING
   number: 20
   position: DF
+  team: ENG
   team_id: 8
 
 
@@ -2045,6 +2251,7 @@ Emile HESKEY:
   name: Emile HESKEY
   number: 21
   position: FW
+  team: ENG
   team_id: 8
 
 
@@ -2055,6 +2262,7 @@ Michael CARRICK:
   name: Michael CARRICK
   number: 22
   position: MF
+  team: ENG
   team_id: 8
 
 
@@ -2065,6 +2273,7 @@ Joe HART:
   name: Joe HART
   number: 23
   position: GK
+  team: ENG
   team_id: 8
 
 
@@ -2075,6 +2284,7 @@ Hugo LLORIS:
   name: Hugo LLORIS
   number: 1
   position: GK
+  team: FRA
   team_id: 9
 
 
@@ -2085,6 +2295,7 @@ Bakari SAGNA:
   name: Bakari SAGNA
   number: 2
   position: DF
+  team: FRA
   team_id: 9
 
 
@@ -2095,6 +2306,7 @@ Eric ABIDAL:
   name: Eric ABIDAL
   number: 3
   position: DF
+  team: FRA
   team_id: 9
 
 
@@ -2105,6 +2317,7 @@ Anthony REVEILLERE:
   name: Anthony REVEILLERE
   number: 4
   position: DF
+  team: FRA
   team_id: 9
 
 
@@ -2115,6 +2328,7 @@ William GALLAS:
   name: William GALLAS
   number: 5
   position: DF
+  team: FRA
   team_id: 9
 
 
@@ -2125,6 +2339,7 @@ Marc PLANUS:
   name: Marc PLANUS
   number: 6
   position: DF
+  team: FRA
   team_id: 9
 
 
@@ -2135,6 +2350,7 @@ Franck RIBERY:
   name: Franck RIBERY
   number: 7
   position: FW
+  team: FRA
   team_id: 9
 
 
@@ -2145,6 +2361,7 @@ Yoann GOURCUFF:
   name: Yoann GOURCUFF
   number: 8
   position: MF
+  team: FRA
   team_id: 9
 
 
@@ -2155,6 +2372,7 @@ Djibril CISSE:
   name: Djibril CISSE
   number: 9
   position: FW
+  team: FRA
   team_id: 9
 
 
@@ -2165,6 +2383,7 @@ Sidney GOVOU:
   name: Sidney GOVOU
   number: 10
   position: FW
+  team: FRA
   team_id: 9
 
 
@@ -2175,6 +2394,7 @@ Andre Pierre GIGNAC:
   name: Andre Pierre GIGNAC
   number: 11
   position: FW
+  team: FRA
   team_id: 9
 
 
@@ -2185,6 +2405,7 @@ Thierry HENRY:
   name: Thierry HENRY
   number: 12
   position: FW
+  team: FRA
   team_id: 9
 
 
@@ -2195,6 +2416,7 @@ Patrice EVRA:
   name: Patrice EVRA
   number: 13
   position: DF
+  team: FRA
   team_id: 9
 
 
@@ -2205,6 +2427,7 @@ Jeremy TOULALAN:
   name: Jeremy TOULALAN
   number: 14
   position: MF
+  team: FRA
   team_id: 9
 
 
@@ -2215,6 +2438,7 @@ Florent MALOUDA:
   name: Florent MALOUDA
   number: 15
   position: MF
+  team: FRA
   team_id: 9
 
 
@@ -2225,6 +2449,7 @@ Steve MANDANDA:
   name: Steve MANDANDA
   number: 16
   position: GK
+  team: FRA
   team_id: 9
 
 
@@ -2235,6 +2460,7 @@ Sebastien SQUILLACI:
   name: Sebastien SQUILLACI
   number: 17
   position: DF
+  team: FRA
   team_id: 9
 
 
@@ -2245,6 +2471,7 @@ Alou DIARRA:
   name: Alou DIARRA
   number: 18
   position: MF
+  team: FRA
   team_id: 9
 
 
@@ -2255,6 +2482,7 @@ Abou DIABY:
   name: Abou DIABY
   number: 19
   position: MF
+  team: FRA
   team_id: 9
 
 
@@ -2265,6 +2493,7 @@ Mathieu VALBUENA:
   name: Mathieu VALBUENA
   number: 20
   position: FW
+  team: FRA
   team_id: 9
 
 
@@ -2275,6 +2504,7 @@ Nicolas ANELKA:
   name: Nicolas ANELKA
   number: 21
   position: FW
+  team: FRA
   team_id: 9
 
 
@@ -2285,6 +2515,7 @@ Gael CLICHY:
   name: Gael CLICHY
   number: 22
   position: DF
+  team: FRA
   team_id: 9
 
 
@@ -2295,6 +2526,7 @@ Cedric CARRASSO:
   name: Cedric CARRASSO
   number: 23
   position: GK
+  team: FRA
   team_id: 9
 
 
@@ -2305,6 +2537,7 @@ Manuel NEUER:
   name: Manuel NEUER
   number: 1
   position: GK
+  team: GER
   team_id: 10
 
 
@@ -2315,6 +2548,7 @@ Marcell JANSEN:
   name: Marcell JANSEN
   number: 2
   position: MF
+  team: GER
   team_id: 10
 
 
@@ -2325,6 +2559,7 @@ Arne FRIEDRICH:
   name: Arne FRIEDRICH
   number: 3
   position: DF
+  team: GER
   team_id: 10
 
 
@@ -2335,6 +2570,7 @@ Dennis AOGO:
   name: Dennis AOGO
   number: 4
   position: DF
+  team: GER
   team_id: 10
 
 
@@ -2345,6 +2581,7 @@ Serdar TASCI:
   name: Serdar TASCI
   number: 5
   position: DF
+  team: GER
   team_id: 10
 
 
@@ -2355,6 +2592,7 @@ Sami KHEDIRA:
   name: Sami KHEDIRA
   number: 6
   position: MF
+  team: GER
   team_id: 10
 
 
@@ -2365,6 +2603,7 @@ Bastian SCHWEINSTEIGER:
   name: Bastian SCHWEINSTEIGER
   number: 7
   position: MF
+  team: GER
   team_id: 10
 
 
@@ -2375,6 +2614,7 @@ Mesut OEZIL:
   name: Mesut OEZIL
   number: 8
   position: MF
+  team: GER
   team_id: 10
 
 
@@ -2385,6 +2625,7 @@ Stefan KIESSLING:
   name: Stefan KIESSLING
   number: 9
   position: FW
+  team: GER
   team_id: 10
 
 
@@ -2395,6 +2636,7 @@ Lukas PODOLSKI:
   name: Lukas PODOLSKI
   number: 10
   position: FW
+  team: GER
   team_id: 10
 
 
@@ -2405,6 +2647,7 @@ Miroslav KLOSE:
   name: Miroslav KLOSE
   number: 11
   position: FW
+  team: GER
   team_id: 10
 
 
@@ -2415,6 +2658,7 @@ Tim WIESE:
   name: Tim WIESE
   number: 12
   position: GK
+  team: GER
   team_id: 10
 
 
@@ -2425,6 +2669,7 @@ Thomas MUELLER:
   name: Thomas MUELLER
   number: 13
   position: MF
+  team: GER
   team_id: 10
 
 
@@ -2435,6 +2680,7 @@ Holger BADSTUBER:
   name: Holger BADSTUBER
   number: 14
   position: DF
+  team: GER
   team_id: 10
 
 
@@ -2445,6 +2691,7 @@ Piotr TROCHOWSKI:
   name: Piotr TROCHOWSKI
   number: 15
   position: MF
+  team: GER
   team_id: 10
 
 
@@ -2455,6 +2702,7 @@ Philipp LAHM:
   name: Philipp LAHM
   number: 16
   position: DF
+  team: GER
   team_id: 10
 
 
@@ -2465,6 +2713,7 @@ Per MERTESACKER:
   name: Per MERTESACKER
   number: 17
   position: DF
+  team: GER
   team_id: 10
 
 
@@ -2475,6 +2724,7 @@ Toni KROOS:
   name: Toni KROOS
   number: 18
   position: MF
+  team: GER
   team_id: 10
 
 
@@ -2485,6 +2735,7 @@ CACAU:
   name: CACAU
   number: 19
   position: FW
+  team: GER
   team_id: 10
 
 
@@ -2495,6 +2746,7 @@ Jerome BOATENG:
   name: Jerome BOATENG
   number: 20
   position: DF
+  team: GER
   team_id: 10
 
 
@@ -2505,6 +2757,7 @@ Marko MARIN:
   name: Marko MARIN
   number: 21
   position: MF
+  team: GER
   team_id: 10
 
 
@@ -2515,6 +2768,7 @@ Hans Joerg BUTT:
   name: Hans Joerg BUTT
   number: 22
   position: GK
+  team: GER
   team_id: 10
 
 
@@ -2525,6 +2779,7 @@ Mario GOMEZ:
   name: Mario GOMEZ
   number: 23
   position: FW
+  team: GER
   team_id: 10
 
 
@@ -2535,6 +2790,7 @@ Daniel AGYEI:
   name: Daniel AGYEI
   number: 1
   position: GK
+  team: GHA
   team_id: 11
 
 
@@ -2545,6 +2801,7 @@ Hans SARPEI:
   name: Hans SARPEI
   number: 2
   position: DF
+  team: GHA
   team_id: 11
 
 
@@ -2555,6 +2812,7 @@ Asamoah GYAN:
   name: Asamoah GYAN
   number: 3
   position: FW
+  team: GHA
   team_id: 11
 
 
@@ -2565,6 +2823,7 @@ John PANTSIL:
   name: John PANTSIL
   number: 4
   position: DF
+  team: GHA
   team_id: 11
 
 
@@ -2575,6 +2834,7 @@ John MENSAH:
   name: John MENSAH
   number: 5
   position: DF
+  team: GHA
   team_id: 11
 
 
@@ -2585,6 +2845,7 @@ Anthony ANNAN:
   name: Anthony ANNAN
   number: 6
   position: MF
+  team: GHA
   team_id: 11
 
 
@@ -2595,6 +2856,7 @@ Samuel INKOOM:
   name: Samuel INKOOM
   number: 7
   position: DF
+  team: GHA
   team_id: 11
 
 
@@ -2605,6 +2867,7 @@ Jonathan MENSAH:
   name: Jonathan MENSAH
   number: 8
   position: DF
+  team: GHA
   team_id: 11
 
 
@@ -2615,6 +2878,7 @@ Derek BOATENG:
   name: Derek BOATENG
   number: 9
   position: MF
+  team: GHA
   team_id: 11
 
 
@@ -2625,6 +2889,7 @@ Stephen APPIAH:
   name: Stephen APPIAH
   number: 10
   position: MF
+  team: GHA
   team_id: 11
 
 
@@ -2635,6 +2900,7 @@ Sulley MUNTARI:
   name: Sulley MUNTARI
   number: 11
   position: MF
+  team: GHA
   team_id: 11
 
 
@@ -2645,6 +2911,7 @@ Prince TAGOE:
   name: Prince TAGOE
   number: 12
   position: FW
+  team: GHA
   team_id: 11
 
 
@@ -2655,6 +2922,7 @@ Andre AYEW:
   name: Andre AYEW
   number: 13
   position: MF
+  team: GHA
   team_id: 11
 
 
@@ -2665,6 +2933,7 @@ Matthew AMOAH:
   name: Matthew AMOAH
   number: 14
   position: FW
+  team: GHA
   team_id: 11
 
 
@@ -2675,6 +2944,7 @@ Isaac VORSAH:
   name: Isaac VORSAH
   number: 15
   position: DF
+  team: GHA
   team_id: 11
 
 
@@ -2685,6 +2955,7 @@ Stephen AHORLU:
   name: Stephen AHORLU
   number: 16
   position: GK
+  team: GHA
   team_id: 11
 
 
@@ -2695,6 +2966,7 @@ Ibrahim AYEW:
   name: Ibrahim AYEW
   number: 17
   position: DF
+  team: GHA
   team_id: 11
 
 
@@ -2705,6 +2977,7 @@ Dominic ADIYIAH:
   name: Dominic ADIYIAH
   number: 18
   position: FW
+  team: GHA
   team_id: 11
 
 
@@ -2715,6 +2988,7 @@ Lee ADDY:
   name: Lee ADDY
   number: 19
   position: DF
+  team: GHA
   team_id: 11
 
 
@@ -2722,9 +2996,10 @@ Quincy OWUSUABEYIE:
   comment: Al Sadd (QAT)
   current_rating: 0.0
   id: 273
-  name: Quincy OWUSUABEYIE
+  name: Quincy OWUSU-ABEYIE
   number: 20
   position: FW
+  team: GHA
   team_id: 11
 
 
@@ -2735,6 +3010,7 @@ Kwadwo ASAMOAH:
   name: Kwadwo ASAMOAH
   number: 21
   position: MF
+  team: GHA
   team_id: 11
 
 
@@ -2745,6 +3021,7 @@ Richard KINGSON:
   name: Richard KINGSON
   number: 22
   position: GK
+  team: GHA
   team_id: 11
 
 
@@ -2755,6 +3032,7 @@ Kevin Prince BOATENG:
   name: Kevin Prince BOATENG
   number: 23
   position: FW
+  team: GHA
   team_id: 11
 
 
@@ -2765,6 +3043,7 @@ Konstantinos CHALKIAS:
   name: Konstantinos CHALKIAS
   number: 1
   position: GK
+  team: GRE
   team_id: 12
 
 
@@ -2775,6 +3054,7 @@ Giourkas SEITARIDIS:
   name: Giourkas SEITARIDIS
   number: 2
   position: DF
+  team: GRE
   team_id: 12
 
 
@@ -2785,6 +3065,7 @@ Christos PATSATZOGLOU:
   name: Christos PATSATZOGLOU
   number: 3
   position: DF
+  team: GRE
   team_id: 12
 
 
@@ -2795,6 +3076,7 @@ Nikos SPIROPOULOS:
   name: Nikos SPIROPOULOS
   number: 4
   position: DF
+  team: GRE
   team_id: 12
 
 
@@ -2805,6 +3087,7 @@ Vangelis MORAS:
   name: Vangelis MORAS
   number: 5
   position: DF
+  team: GRE
   team_id: 12
 
 
@@ -2815,6 +3098,7 @@ Alexandros TZIOLIS:
   name: Alexandros TZIOLIS
   number: 6
   position: MF
+  team: GRE
   team_id: 12
 
 
@@ -2825,6 +3109,7 @@ Georgios SAMARAS:
   name: Georgios SAMARAS
   number: 7
   position: FW
+  team: GRE
   team_id: 12
 
 
@@ -2835,6 +3120,7 @@ Avraam PAPADOPOULOS:
   name: Avraam PAPADOPOULOS
   number: 8
   position: DF
+  team: GRE
   team_id: 12
 
 
@@ -2845,6 +3131,7 @@ Angelos CHARISTEAS:
   name: Angelos CHARISTEAS
   number: 9
   position: FW
+  team: GRE
   team_id: 12
 
 
@@ -2855,6 +3142,7 @@ Georgios KARAGOUNIS:
   name: Georgios KARAGOUNIS
   number: 10
   position: MF
+  team: GRE
   team_id: 12
 
 
@@ -2865,6 +3153,7 @@ Loukas VYNTRA:
   name: Loukas VYNTRA
   number: 11
   position: DF
+  team: GRE
   team_id: 12
 
 
@@ -2875,6 +3164,7 @@ Alexandros TZORVAS:
   name: Alexandros TZORVAS
   number: 12
   position: GK
+  team: GRE
   team_id: 12
 
 
@@ -2885,6 +3175,7 @@ Michail SIFAKIS:
   name: Michail SIFAKIS
   number: 13
   position: GK
+  team: GRE
   team_id: 12
 
 
@@ -2895,6 +3186,7 @@ Dimitrios SALPINGIDIS:
   name: Dimitrios SALPINGIDIS
   number: 14
   position: FW
+  team: GRE
   team_id: 12
 
 
@@ -2905,6 +3197,7 @@ Vasileios TOROSIDIS:
   name: Vasileios TOROSIDIS
   number: 15
   position: DF
+  team: GRE
   team_id: 12
 
 
@@ -2915,6 +3208,7 @@ Sotirios KYRGIAKOS:
   name: Sotirios KYRGIAKOS
   number: 16
   position: DF
+  team: GRE
   team_id: 12
 
 
@@ -2925,6 +3219,7 @@ Theofanis GEKAS:
   name: Theofanis GEKAS
   number: 17
   position: FW
+  team: GRE
   team_id: 12
 
 
@@ -2935,6 +3230,7 @@ Sotiris NINIS:
   name: Sotiris NINIS
   number: 18
   position: MF
+  team: GRE
   team_id: 12
 
 
@@ -2945,6 +3241,7 @@ Sokratis PAPASTATHOPOULOS:
   name: Sokratis PAPASTATHOPOULOS
   number: 19
   position: DF
+  team: GRE
   team_id: 12
 
 
@@ -2955,6 +3252,7 @@ Pantelis KAPETANOS:
   name: Pantelis KAPETANOS
   number: 20
   position: FW
+  team: GRE
   team_id: 12
 
 
@@ -2965,6 +3263,7 @@ Konstantinos KATSOURANIS:
   name: Konstantinos KATSOURANIS
   number: 21
   position: MF
+  team: GRE
   team_id: 12
 
 
@@ -2975,6 +3274,7 @@ Stelios MALEZAS:
   name: Stelios MALEZAS
   number: 22
   position: DF
+  team: GRE
   team_id: 12
 
 
@@ -2985,6 +3285,7 @@ Athanasios PRITTAS:
   name: Athanasios PRITTAS
   number: 23
   position: MF
+  team: GRE
   team_id: 12
 
 
@@ -2995,6 +3296,7 @@ Ricardo CANALES:
   name: Ricardo CANALES
   number: 1
   position: GK
+  team: HON
   team_id: 13
 
 
@@ -3005,6 +3307,7 @@ Osman CHAVEZ:
   name: Osman CHAVEZ
   number: 2
   position: DF
+  team: HON
   team_id: 13
 
 
@@ -3015,6 +3318,7 @@ Maynor FIGUEROA:
   name: Maynor FIGUEROA
   number: 3
   position: DF
+  team: HON
   team_id: 13
 
 
@@ -3025,6 +3329,7 @@ Jhony PALACIOS:
   name: Jhony PALACIOS
   number: 4
   position: DF
+  team: HON
   team_id: 13
 
 
@@ -3035,6 +3340,7 @@ Victor BERNARDEZ:
   name: Victor BERNARDEZ
   number: 5
   position: DF
+  team: HON
   team_id: 13
 
 
@@ -3045,6 +3351,7 @@ Hendry THOMAS:
   name: Hendry THOMAS
   number: 6
   position: MF
+  team: HON
   team_id: 13
 
 
@@ -3055,6 +3362,7 @@ Ramon NUNEZ:
   name: Ramon NUNEZ
   number: 7
   position: MF
+  team: HON
   team_id: 13
 
 
@@ -3065,6 +3373,7 @@ Wilson PALACIOS:
   name: Wilson PALACIOS
   number: 8
   position: MF
+  team: HON
   team_id: 13
 
 
@@ -3075,6 +3384,7 @@ Carlos PAVON:
   name: Carlos PAVON
   number: 9
   position: FW
+  team: HON
   team_id: 13
 
 
@@ -3085,6 +3395,7 @@ Julio Cesar DE LEON:
   name: Julio Cesar DE LEON
   number: 10
   position: MF
+  team: HON
   team_id: 13
 
 
@@ -3095,6 +3406,7 @@ David SUAZO:
   name: David SUAZO
   number: 11
   position: FW
+  team: HON
   team_id: 13
 
 
@@ -3105,6 +3417,7 @@ George WELCOME:
   name: George WELCOME
   number: 12
   position: FW
+  team: HON
   team_id: 13
 
 
@@ -3115,6 +3428,7 @@ Roger ESPINOZA:
   name: Roger ESPINOZA
   number: 13
   position: FW
+  team: HON
   team_id: 13
 
 
@@ -3125,6 +3439,7 @@ Oscar GARCIA:
   name: Oscar GARCIA
   number: 14
   position: DF
+  team: HON
   team_id: 13
 
 
@@ -3135,6 +3450,7 @@ Walter MARTINEZ:
   name: Walter MARTINEZ
   number: 15
   position: FW
+  team: HON
   team_id: 13
 
 
@@ -3145,6 +3461,7 @@ Mauricio SABILLON:
   name: Mauricio SABILLON
   number: 16
   position: DF
+  team: HON
   team_id: 13
 
 
@@ -3155,6 +3472,7 @@ Edgar ALVAREZ:
   name: Edgar ALVAREZ
   number: 17
   position: MF
+  team: HON
   team_id: 13
 
 
@@ -3165,6 +3483,7 @@ Noel VALLADARES:
   name: Noel VALLADARES
   number: 18
   position: GK
+  team: HON
   team_id: 13
 
 
@@ -3175,6 +3494,7 @@ Danilo TURCIOS:
   name: Danilo TURCIOS
   number: 19
   position: MF
+  team: HON
   team_id: 13
 
 
@@ -3185,6 +3505,7 @@ Amado GUEVARA:
   name: Amado GUEVARA
   number: 20
   position: MF
+  team: HON
   team_id: 13
 
 
@@ -3195,6 +3516,7 @@ Emilio IZAGUIRRE:
   name: Emilio IZAGUIRRE
   number: 21
   position: DF
+  team: HON
   team_id: 13
 
 
@@ -3205,6 +3527,7 @@ Donis ESCOBER:
   name: Donis ESCOBER
   number: 22
   position: GK
+  team: HON
   team_id: 13
 
 
@@ -3215,6 +3538,7 @@ Sergio MENDOZA:
   name: Sergio MENDOZA
   number: 23
   position: DF
+  team: HON
   team_id: 13
 
 
@@ -3225,6 +3549,7 @@ Gianluigi BUFFON:
   name: Gianluigi BUFFON
   number: 1
   position: GK
+  team: ITA
   team_id: 14
 
 
@@ -3235,6 +3560,7 @@ Christian MAGGIO:
   name: Christian MAGGIO
   number: 2
   position: DF
+  team: ITA
   team_id: 14
 
 
@@ -3245,6 +3571,7 @@ Domenico CRISCITO:
   name: Domenico CRISCITO
   number: 3
   position: DF
+  team: ITA
   team_id: 14
 
 
@@ -3255,6 +3582,7 @@ Giorgio CHIELLINI:
   name: Giorgio CHIELLINI
   number: 4
   position: DF
+  team: ITA
   team_id: 14
 
 
@@ -3265,6 +3593,7 @@ Fabio CANNAVARO:
   name: Fabio CANNAVARO
   number: 5
   position: DF
+  team: ITA
   team_id: 14
 
 
@@ -3275,6 +3604,7 @@ Daniele DE ROSSI:
   name: Daniele DE ROSSI
   number: 6
   position: MF
+  team: ITA
   team_id: 14
 
 
@@ -3285,6 +3615,7 @@ Simone PEPE:
   name: Simone PEPE
   number: 7
   position: MF
+  team: ITA
   team_id: 14
 
 
@@ -3295,6 +3626,7 @@ Gennaro GATTUSO:
   name: Gennaro GATTUSO
   number: 8
   position: MF
+  team: ITA
   team_id: 14
 
 
@@ -3305,6 +3637,7 @@ Vincenzo IAQUINTA:
   name: Vincenzo IAQUINTA
   number: 9
   position: FW
+  team: ITA
   team_id: 14
 
 
@@ -3315,6 +3648,7 @@ Antonio DI NATALE:
   name: Antonio DI NATALE
   number: 10
   position: FW
+  team: ITA
   team_id: 14
 
 
@@ -3325,6 +3659,7 @@ Alberto GILARDINO:
   name: Alberto GILARDINO
   number: 11
   position: FW
+  team: ITA
   team_id: 14
 
 
@@ -3335,6 +3670,7 @@ Federico MARCHETTI:
   name: Federico MARCHETTI
   number: 12
   position: GK
+  team: ITA
   team_id: 14
 
 
@@ -3345,6 +3681,7 @@ Salvatore BOCCHETTI:
   name: Salvatore BOCCHETTI
   number: 13
   position: DF
+  team: ITA
   team_id: 14
 
 
@@ -3355,6 +3692,7 @@ Morgan DE SANCTIS:
   name: Morgan DE SANCTIS
   number: 14
   position: GK
+  team: ITA
   team_id: 14
 
 
@@ -3365,6 +3703,7 @@ Claudio MARCHISIO:
   name: Claudio MARCHISIO
   number: 15
   position: MF
+  team: ITA
   team_id: 14
 
 
@@ -3375,6 +3714,7 @@ Mauro CAMORANESI:
   name: Mauro CAMORANESI
   number: 16
   position: MF
+  team: ITA
   team_id: 14
 
 
@@ -3385,6 +3725,7 @@ Angelo PALOMBO:
   name: Angelo PALOMBO
   number: 17
   position: MF
+  team: ITA
   team_id: 14
 
 
@@ -3395,6 +3736,7 @@ Fabio QUAGLIARELLA:
   name: Fabio QUAGLIARELLA
   number: 18
   position: FW
+  team: ITA
   team_id: 14
 
 
@@ -3405,6 +3747,7 @@ Gianluca ZAMBROTTA:
   name: Gianluca ZAMBROTTA
   number: 19
   position: DF
+  team: ITA
   team_id: 14
 
 
@@ -3415,6 +3758,7 @@ Giampaolo PAZZINI:
   name: Giampaolo PAZZINI
   number: 20
   position: FW
+  team: ITA
   team_id: 14
 
 
@@ -3425,6 +3769,7 @@ Andrea PIRLO:
   name: Andrea PIRLO
   number: 21
   position: MF
+  team: ITA
   team_id: 14
 
 
@@ -3435,6 +3780,7 @@ Riccardo MONTOLIVO:
   name: Riccardo MONTOLIVO
   number: 22
   position: MF
+  team: ITA
   team_id: 14
 
 
@@ -3445,6 +3791,7 @@ Leonardo BONUCCI:
   name: Leonardo BONUCCI
   number: 23
   position: DF
+  team: ITA
   team_id: 14
 
 
@@ -3455,6 +3802,7 @@ Seigo NARAZAKI:
   name: Seigo NARAZAKI
   number: 1
   position: GK
+  team: JPN
   team_id: 16
 
 
@@ -3465,6 +3813,7 @@ Yuki ABE:
   name: Yuki ABE
   number: 2
   position: MF
+  team: JPN
   team_id: 16
 
 
@@ -3475,6 +3824,7 @@ Yuichi KOMANO:
   name: Yuichi KOMANO
   number: 3
   position: DF
+  team: JPN
   team_id: 16
 
 
@@ -3485,6 +3835,7 @@ Marcus Tulio TANAKA:
   name: Marcus Tulio TANAKA
   number: 4
   position: DF
+  team: JPN
   team_id: 16
 
 
@@ -3495,6 +3846,7 @@ Yuto NAGATOMO:
   name: Yuto NAGATOMO
   number: 5
   position: DF
+  team: JPN
   team_id: 16
 
 
@@ -3505,6 +3857,7 @@ Atsuto UCHIDA:
   name: Atsuto UCHIDA
   number: 6
   position: DF
+  team: JPN
   team_id: 16
 
 
@@ -3515,6 +3868,7 @@ Yasuhito ENDO:
   name: Yasuhito ENDO
   number: 7
   position: MF
+  team: JPN
   team_id: 16
 
 
@@ -3525,6 +3879,7 @@ Daisuke MATSUI:
   name: Daisuke MATSUI
   number: 8
   position: MF
+  team: JPN
   team_id: 16
 
 
@@ -3535,6 +3890,7 @@ Shinji OKAZAKI:
   name: Shinji OKAZAKI
   number: 9
   position: FW
+  team: JPN
   team_id: 16
 
 
@@ -3545,6 +3901,7 @@ Shunsuke NAKAMURA:
   name: Shunsuke NAKAMURA
   number: 10
   position: MF
+  team: JPN
   team_id: 16
 
 
@@ -3555,6 +3912,7 @@ Keiji TAMADA:
   name: Keiji TAMADA
   number: 11
   position: FW
+  team: JPN
   team_id: 16
 
 
@@ -3565,6 +3923,7 @@ Kisho YANO:
   name: Kisho YANO
   number: 12
   position: FW
+  team: JPN
   team_id: 16
 
 
@@ -3575,6 +3934,7 @@ Daiki IWAMASA:
   name: Daiki IWAMASA
   number: 13
   position: DF
+  team: JPN
   team_id: 16
 
 
@@ -3585,6 +3945,7 @@ Kengo NAKAMURA:
   name: Kengo NAKAMURA
   number: 14
   position: MF
+  team: JPN
   team_id: 16
 
 
@@ -3595,6 +3956,7 @@ Yasuyuki KONNO:
   name: Yasuyuki KONNO
   number: 15
   position: DF
+  team: JPN
   team_id: 16
 
 
@@ -3605,6 +3967,7 @@ Yoshito OKUBO:
   name: Yoshito OKUBO
   number: 16
   position: FW
+  team: JPN
   team_id: 16
 
 
@@ -3615,6 +3978,7 @@ Makoto HASEBE:
   name: Makoto HASEBE
   number: 17
   position: MF
+  team: JPN
   team_id: 16
 
 
@@ -3625,6 +3989,7 @@ Keisuke HONDA:
   name: Keisuke HONDA
   number: 18
   position: MF
+  team: JPN
   team_id: 16
 
 
@@ -3635,6 +4000,7 @@ Takayuki MORIMOTO:
   name: Takayuki MORIMOTO
   number: 19
   position: FW
+  team: JPN
   team_id: 16
 
 
@@ -3645,6 +4011,7 @@ Junichi INAMOTO:
   name: Junichi INAMOTO
   number: 20
   position: MF
+  team: JPN
   team_id: 16
 
 
@@ -3655,6 +4022,7 @@ Eiji KAWASHIMA:
   name: Eiji KAWASHIMA
   number: 21
   position: GK
+  team: JPN
   team_id: 16
 
 
@@ -3665,6 +4033,7 @@ Yuji NAKAZAWA:
   name: Yuji NAKAZAWA
   number: 22
   position: DF
+  team: JPN
   team_id: 16
 
 
@@ -3675,6 +4044,7 @@ Yoshikatsu KAWAGUCHI:
   name: Yoshikatsu KAWAGUCHI
   number: 23
   position: GK
+  team: JPN
   team_id: 16
 
 
@@ -3685,6 +4055,7 @@ RI Myong Guk:
   name: RI Myong Guk
   number: 1
   position: GK
+  team: PRK
   team_id: 21
 
 
@@ -3695,6 +4066,7 @@ CHA Jong Hyok:
   name: CHA Jong Hyok
   number: 2
   position: DF
+  team: PRK
   team_id: 21
 
 
@@ -3705,6 +4077,7 @@ RI Jun Il:
   name: RI Jun Il
   number: 3
   position: DF
+  team: PRK
   team_id: 21
 
 
@@ -3715,6 +4088,7 @@ PAK Nam Chol:
   name: PAK Nam Chol
   number: 4
   position: MF
+  team: PRK
   team_id: 21
 
 
@@ -3725,6 +4099,7 @@ RI Kwang Chon:
   name: RI Kwang Chon
   number: 5
   position: DF
+  team: PRK
   team_id: 21
 
 
@@ -3735,6 +4110,7 @@ KIM Kum Il:
   name: KIM Kum Il
   number: 6
   position: MF
+  team: PRK
   team_id: 21
 
 
@@ -3745,6 +4121,7 @@ AN Chol Hyok:
   name: AN Chol Hyok
   number: 7
   position: FW
+  team: PRK
   team_id: 21
 
 
@@ -3755,6 +4132,7 @@ JI Yun Nam:
   name: JI Yun Nam
   number: 8
   position: DF
+  team: PRK
   team_id: 21
 
 
@@ -3765,6 +4143,7 @@ JONG Tae Se:
   name: JONG Tae Se
   number: 9
   position: FW
+  team: PRK
   team_id: 21
 
 
@@ -3775,6 +4154,7 @@ HONG Yong Jo:
   name: HONG Yong Jo
   number: 10
   position: FW
+  team: PRK
   team_id: 21
 
 
@@ -3785,6 +4165,7 @@ MUN In Guk:
   name: MUN In Guk
   number: 11
   position: MF
+  team: PRK
   team_id: 21
 
 
@@ -3795,6 +4176,7 @@ CHOE Kum Chol:
   name: CHOE Kum Chol
   number: 12
   position: FW
+  team: PRK
   team_id: 21
 
 
@@ -3805,6 +4187,7 @@ PAK Chol Jin:
   name: PAK Chol Jin
   number: 13
   position: DF
+  team: PRK
   team_id: 21
 
 
@@ -3815,6 +4198,7 @@ PAK Nam Chool:
   name: PAK Nam Chool
   number: 14
   position: DF
+  team: PRK
   team_id: 21
 
 
@@ -3825,6 +4209,7 @@ KIM Yong Jun:
   name: KIM Yong Jun
   number: 15
   position: MF
+  team: PRK
   team_id: 21
 
 
@@ -3835,6 +4220,7 @@ NAM Song Chol:
   name: NAM Song Chol
   number: 16
   position: DF
+  team: PRK
   team_id: 21
 
 
@@ -3845,6 +4231,7 @@ AN Yong Hak:
   name: AN Yong Hak
   number: 17
   position: MF
+  team: PRK
   team_id: 21
 
 
@@ -3855,6 +4242,7 @@ KIM Myong Gil:
   name: KIM Myong Gil
   number: 18
   position: GK
+  team: PRK
   team_id: 21
 
 
@@ -3865,6 +4253,7 @@ RI Chol Myong:
   name: RI Chol Myong
   number: 19
   position: MF
+  team: PRK
   team_id: 21
 
 
@@ -3875,6 +4264,7 @@ KIM Myong Won:
   name: KIM Myong Won
   number: 20
   position: GK
+  team: PRK
   team_id: 21
 
 
@@ -3885,6 +4275,7 @@ RI Kwang Hyok:
   name: RI Kwang Hyok
   number: 21
   position: DF
+  team: PRK
   team_id: 21
 
 
@@ -3895,6 +4286,7 @@ KIM Kyong Il:
   name: KIM Kyong Il
   number: 22
   position: MF
+  team: PRK
   team_id: 21
 
 
@@ -3905,6 +4297,7 @@ PAK Sung Hyok:
   name: PAK Sung Hyok
   number: 23
   position: MF
+  team: PRK
   team_id: 21
 
 
@@ -3915,6 +4308,7 @@ LEE Woon Jae:
   name: LEE Woon Jae
   number: 1
   position: GK
+  team: KOR
   team_id: 28
 
 
@@ -3925,6 +4319,7 @@ OH Beom Seok:
   name: OH Beom Seok
   number: 2
   position: DF
+  team: KOR
   team_id: 28
 
 
@@ -3935,6 +4330,7 @@ KIM Hyung Il:
   name: KIM Hyung Il
   number: 3
   position: DF
+  team: KOR
   team_id: 28
 
 
@@ -3945,6 +4341,7 @@ CHO Yong Hyung:
   name: CHO Yong Hyung
   number: 4
   position: DF
+  team: KOR
   team_id: 28
 
 
@@ -3955,6 +4352,7 @@ KIM Nam Il:
   name: KIM Nam Il
   number: 5
   position: MF
+  team: KOR
   team_id: 28
 
 
@@ -3965,6 +4363,7 @@ KIM Bo Kyung:
   name: KIM Bo Kyung
   number: 6
   position: MF
+  team: KOR
   team_id: 28
 
 
@@ -3975,6 +4374,7 @@ PARK Ji Sung:
   name: PARK Ji Sung
   number: 7
   position: MF
+  team: KOR
   team_id: 28
 
 
@@ -3985,6 +4385,7 @@ KIM Jung Woo:
   name: KIM Jung Woo
   number: 8
   position: MF
+  team: KOR
   team_id: 28
 
 
@@ -3995,6 +4396,7 @@ AHN Jung Hwan:
   name: AHN Jung Hwan
   number: 9
   position: FW
+  team: KOR
   team_id: 28
 
 
@@ -4005,6 +4407,7 @@ PARK Chu Young:
   name: PARK Chu Young
   number: 10
   position: FW
+  team: KOR
   team_id: 28
 
 
@@ -4015,6 +4418,7 @@ LEE Seung Yeoul:
   name: LEE Seung Yeoul
   number: 11
   position: FW
+  team: KOR
   team_id: 28
 
 
@@ -4025,6 +4429,7 @@ LEE Young Pyo:
   name: LEE Young Pyo
   number: 12
   position: DF
+  team: KOR
   team_id: 28
 
 
@@ -4035,6 +4440,7 @@ KIM Jae Sung:
   name: KIM Jae Sung
   number: 13
   position: MF
+  team: KOR
   team_id: 28
 
 
@@ -4045,6 +4451,7 @@ LEE Jung Soo:
   name: LEE Jung Soo
   number: 14
   position: DF
+  team: KOR
   team_id: 28
 
 
@@ -4055,6 +4462,7 @@ KIM Dong Jin:
   name: KIM Dong Jin
   number: 15
   position: DF
+  team: KOR
   team_id: 28
 
 
@@ -4065,6 +4473,7 @@ KI Sung Yueng:
   name: KI Sung Yueng
   number: 16
   position: MF
+  team: KOR
   team_id: 28
 
 
@@ -4075,6 +4484,7 @@ LEE Chung Yong:
   name: LEE Chung Yong
   number: 17
   position: MF
+  team: KOR
   team_id: 28
 
 
@@ -4085,6 +4495,7 @@ JUNG Sung Ryong:
   name: JUNG Sung Ryong
   number: 18
   position: GK
+  team: KOR
   team_id: 28
 
 
@@ -4095,6 +4506,7 @@ YEOM Ki Hun:
   name: YEOM Ki Hun
   number: 19
   position: MF
+  team: KOR
   team_id: 28
 
 
@@ -4105,6 +4517,7 @@ LEE Dong Gook:
   name: LEE Dong Gook
   number: 20
   position: FW
+  team: KOR
   team_id: 28
 
 
@@ -4115,6 +4528,7 @@ KIM Young Kwang:
   name: KIM Young Kwang
   number: 21
   position: GK
+  team: KOR
   team_id: 28
 
 
@@ -4125,6 +4539,7 @@ CHA Du Ri:
   name: CHA Du Ri
   number: 22
   position: DF
+  team: KOR
   team_id: 28
 
 
@@ -4135,6 +4550,7 @@ KANG Min Soo:
   name: KANG Min Soo
   number: 23
   position: DF
+  team: KOR
   team_id: 28
 
 
@@ -4145,6 +4561,7 @@ Oscar PEREZ:
   name: Oscar PEREZ
   number: 1
   position: GK
+  team: MEX
   team_id: 17
 
 
@@ -4155,6 +4572,7 @@ Francisco RODRIGUEZ:
   name: Francisco RODRIGUEZ
   number: 2
   position: DF
+  team: MEX
   team_id: 17
 
 
@@ -4165,6 +4583,7 @@ Carlos SALCIDO:
   name: Carlos SALCIDO
   number: 3
   position: DF
+  team: MEX
   team_id: 17
 
 
@@ -4175,6 +4594,7 @@ Rafael MARQUEZ:
   name: Rafael MARQUEZ
   number: 4
   position: DF
+  team: MEX
   team_id: 17
 
 
@@ -4185,6 +4605,7 @@ Ricardo OSORIO:
   name: Ricardo OSORIO
   number: 5
   position: DF
+  team: MEX
   team_id: 17
 
 
@@ -4195,6 +4616,7 @@ Gerardo TORRADO:
   name: Gerardo TORRADO
   number: 6
   position: MF
+  team: MEX
   team_id: 17
 
 
@@ -4205,6 +4627,7 @@ Pablo BARRERA:
   name: Pablo BARRERA
   number: 7
   position: FW
+  team: MEX
   team_id: 17
 
 
@@ -4215,6 +4638,7 @@ Israel CASTRO:
   name: Israel CASTRO
   number: 8
   position: MF
+  team: MEX
   team_id: 17
 
 
@@ -4225,6 +4649,7 @@ Guillermo FRANCO:
   name: Guillermo FRANCO
   number: 9
   position: FW
+  team: MEX
   team_id: 17
 
 
@@ -4235,6 +4660,7 @@ Cuauhtemoc BLANCO:
   name: Cuauhtemoc BLANCO
   number: 10
   position: FW
+  team: MEX
   team_id: 17
 
 
@@ -4245,6 +4671,7 @@ Carlos VELA:
   name: Carlos VELA
   number: 11
   position: FW
+  team: MEX
   team_id: 17
 
 
@@ -4255,6 +4682,7 @@ Paul AGUILAR:
   name: Paul AGUILAR
   number: 12
   position: DF
+  team: MEX
   team_id: 17
 
 
@@ -4265,6 +4693,7 @@ Guillermo OCHOA:
   name: Guillermo OCHOA
   number: 13
   position: GK
+  team: MEX
   team_id: 17
 
 
@@ -4275,6 +4704,7 @@ Javier HERNANDEZ:
   name: Javier HERNANDEZ
   number: 14
   position: FW
+  team: MEX
   team_id: 17
 
 
@@ -4285,6 +4715,7 @@ Hector MORENO:
   name: Hector MORENO
   number: 15
   position: DF
+  team: MEX
   team_id: 17
 
 
@@ -4295,6 +4726,7 @@ Efrain JUAREZ:
   name: Efrain JUAREZ
   number: 16
   position: DF
+  team: MEX
   team_id: 17
 
 
@@ -4305,6 +4737,7 @@ Giovani DOS SANTOS:
   name: Giovani DOS SANTOS
   number: 17
   position: FW
+  team: MEX
   team_id: 17
 
 
@@ -4315,6 +4748,7 @@ Andres GUARDADO:
   name: Andres GUARDADO
   number: 18
   position: MF
+  team: MEX
   team_id: 17
 
 
@@ -4325,6 +4759,7 @@ Jonny MAGALLON:
   name: Jonny MAGALLON
   number: 19
   position: DF
+  team: MEX
   team_id: 17
 
 
@@ -4335,6 +4770,7 @@ Jorge TORRES:
   name: Jorge TORRES
   number: 20
   position: MF
+  team: MEX
   team_id: 17
 
 
@@ -4345,6 +4781,7 @@ Adolfo BAUTISTA:
   name: Adolfo BAUTISTA
   number: 21
   position: FW
+  team: MEX
   team_id: 17
 
 
@@ -4355,6 +4792,7 @@ Alberto MEDINA:
   name: Alberto MEDINA
   number: 22
   position: FW
+  team: MEX
   team_id: 17
 
 
@@ -4365,6 +4803,7 @@ Luis MICHEL:
   name: Luis MICHEL
   number: 23
   position: GK
+  team: MEX
   team_id: 17
 
 
@@ -4375,6 +4814,7 @@ Maarten STEKELENBURG:
   name: Maarten STEKELENBURG
   number: 1
   position: GK
+  team: NED
   team_id: 18
 
 
@@ -4385,6 +4825,7 @@ Gregory VAN DER WIEL:
   name: Gregory VAN DER WIEL
   number: 2
   position: DF
+  team: NED
   team_id: 18
 
 
@@ -4395,6 +4836,7 @@ John HEITINGA:
   name: John HEITINGA
   number: 3
   position: DF
+  team: NED
   team_id: 18
 
 
@@ -4405,6 +4847,7 @@ Joris MATHIJSEN:
   name: Joris MATHIJSEN
   number: 4
   position: DF
+  team: NED
   team_id: 18
 
 
@@ -4415,6 +4858,7 @@ Giovanni VAN BRONCKHORST:
   name: Giovanni VAN BRONCKHORST
   number: 5
   position: DF
+  team: NED
   team_id: 18
 
 
@@ -4425,6 +4869,7 @@ Mark VAN BOMMEL:
   name: Mark VAN BOMMEL
   number: 6
   position: MF
+  team: NED
   team_id: 18
 
 
@@ -4435,6 +4880,7 @@ Dirk KUYT:
   name: Dirk KUYT
   number: 7
   position: FW
+  team: NED
   team_id: 18
 
 
@@ -4445,6 +4891,7 @@ Nigel DE JONG:
   name: Nigel DE JONG
   number: 8
   position: MF
+  team: NED
   team_id: 18
 
 
@@ -4455,6 +4902,7 @@ Robin VAN PERSIE:
   name: Robin VAN PERSIE
   number: 9
   position: FW
+  team: NED
   team_id: 18
 
 
@@ -4465,6 +4913,7 @@ Wesley SNEIJDER:
   name: Wesley SNEIJDER
   number: 10
   position: MF
+  team: NED
   team_id: 18
 
 
@@ -4475,6 +4924,7 @@ Arjen ROBBEN:
   name: Arjen ROBBEN
   number: 11
   position: FW
+  team: NED
   team_id: 18
 
 
@@ -4485,6 +4935,7 @@ Khalid BOULAHROUZ:
   name: Khalid BOULAHROUZ
   number: 12
   position: DF
+  team: NED
   team_id: 18
 
 
@@ -4495,6 +4946,7 @@ Andre OOIJER:
   name: Andre OOIJER
   number: 13
   position: DF
+  team: NED
   team_id: 18
 
 
@@ -4505,6 +4957,7 @@ Demy DE ZEEUW:
   name: Demy DE ZEEUW
   number: 14
   position: MF
+  team: NED
   team_id: 18
 
 
@@ -4515,6 +4968,7 @@ Edson BRAAFHEID:
   name: Edson BRAAFHEID
   number: 15
   position: DF
+  team: NED
   team_id: 18
 
 
@@ -4525,6 +4979,7 @@ Michel VORM:
   name: Michel VORM
   number: 16
   position: GK
+  team: NED
   team_id: 18
 
 
@@ -4535,6 +4990,7 @@ Eljero ELIA:
   name: Eljero ELIA
   number: 17
   position: FW
+  team: NED
   team_id: 18
 
 
@@ -4545,6 +5001,7 @@ Stijn SCHAARS:
   name: Stijn SCHAARS
   number: 18
   position: MF
+  team: NED
   team_id: 18
 
 
@@ -4555,6 +5012,7 @@ Ryan BABEL:
   name: Ryan BABEL
   number: 19
   position: FW
+  team: NED
   team_id: 18
 
 
@@ -4565,6 +5023,7 @@ Ibrahim AFELLAY:
   name: Ibrahim AFELLAY
   number: 20
   position: MF
+  team: NED
   team_id: 18
 
 
@@ -4575,6 +5034,7 @@ Klaas Jan HUNTELAAR:
   name: Klaas Jan HUNTELAAR
   number: 21
   position: FW
+  team: NED
   team_id: 18
 
 
@@ -4585,6 +5045,7 @@ Sander BOSCHKER:
   name: Sander BOSCHKER
   number: 22
   position: GK
+  team: NED
   team_id: 18
 
 
@@ -4595,6 +5056,7 @@ Rafael VAN DER VAART:
   name: Rafael VAN DER VAART
   number: 23
   position: MF
+  team: NED
   team_id: 18
 
 
@@ -4605,6 +5067,7 @@ Mark PASTON:
   name: Mark PASTON
   number: 1
   position: GK
+  team: NZL
   team_id: 19
 
 
@@ -4615,6 +5078,7 @@ Ben SIGMUND:
   name: Ben SIGMUND
   number: 2
   position: DF
+  team: NZL
   team_id: 19
 
 
@@ -4625,6 +5089,7 @@ Tony LOCHHEAD:
   name: Tony LOCHHEAD
   number: 3
   position: DF
+  team: NZL
   team_id: 19
 
 
@@ -4635,6 +5100,7 @@ Winston REID:
   name: Winston REID
   number: 4
   position: DF
+  team: NZL
   team_id: 19
 
 
@@ -4645,6 +5111,7 @@ Ivan VICELICH:
   name: Ivan VICELICH
   number: 5
   position: DF
+  team: NZL
   team_id: 19
 
 
@@ -4655,6 +5122,7 @@ Ryan NELSEN:
   name: Ryan NELSEN
   number: 6
   position: DF
+  team: NZL
   team_id: 19
 
 
@@ -4665,6 +5133,7 @@ Simon ELLIOTT:
   name: Simon ELLIOTT
   number: 7
   position: MF
+  team: NZL
   team_id: 19
 
 
@@ -4675,6 +5144,7 @@ Tim BROWN:
   name: Tim BROWN
   number: 8
   position: MF
+  team: NZL
   team_id: 19
 
 
@@ -4685,6 +5155,7 @@ Shane SMELTZ:
   name: Shane SMELTZ
   number: 9
   position: FW
+  team: NZL
   team_id: 19
 
 
@@ -4695,6 +5166,7 @@ Chris KILLEN:
   name: Chris KILLEN
   number: 10
   position: FW
+  team: NZL
   team_id: 19
 
 
@@ -4705,6 +5177,7 @@ Leo BERTOS:
   name: Leo BERTOS
   number: 11
   position: MF
+  team: NZL
   team_id: 19
 
 
@@ -4715,6 +5188,7 @@ Glen MOSS:
   name: Glen MOSS
   number: 12
   position: GK
+  team: NZL
   team_id: 19
 
 
@@ -4725,6 +5199,7 @@ Andy BARRON:
   name: Andy BARRON
   number: 13
   position: MF
+  team: NZL
   team_id: 19
 
 
@@ -4735,6 +5210,7 @@ Rory FALLON:
   name: Rory FALLON
   number: 14
   position: FW
+  team: NZL
   team_id: 19
 
 
@@ -4745,6 +5221,7 @@ Michael McGLINCHEY:
   name: Michael McGLINCHEY
   number: 15
   position: MF
+  team: NZL
   team_id: 19
 
 
@@ -4755,6 +5232,7 @@ Aaron CLAPHAM:
   name: Aaron CLAPHAM
   number: 16
   position: MF
+  team: NZL
   team_id: 19
 
 
@@ -4765,6 +5243,7 @@ Dave MULLIGAN:
   name: Dave MULLIGAN
   number: 17
   position: MF
+  team: NZL
   team_id: 19
 
 
@@ -4775,6 +5254,7 @@ Andy BOYENS:
   name: Andy BOYENS
   number: 18
   position: DF
+  team: NZL
   team_id: 19
 
 
@@ -4785,6 +5265,7 @@ Tommy SMITH:
   name: Tommy SMITH
   number: 19
   position: DF
+  team: NZL
   team_id: 19
 
 
@@ -4795,6 +5276,7 @@ Chris WOOD:
   name: Chris WOOD
   number: 20
   position: FW
+  team: NZL
   team_id: 19
 
 
@@ -4805,6 +5287,7 @@ Jeremy CHRISTIE:
   name: Jeremy CHRISTIE
   number: 21
   position: MF
+  team: NZL
   team_id: 19
 
 
@@ -4815,6 +5298,7 @@ Jeremy BROCKIE:
   name: Jeremy BROCKIE
   number: 22
   position: FW
+  team: NZL
   team_id: 19
 
 
@@ -4825,16 +5309,18 @@ James BANNATYNE:
   name: James BANNATYNE
   number: 23
   position: GK
+  team: NZL
   team_id: 19
 
 
 Vincent ENYEAMA:
-  comment: Hapoel TelAviv (ISR)
+  comment: Hapoel Tel-Aviv (ISR)
   current_rating: 0.0
   id: 484
   name: Vincent ENYEAMA
   number: 1
   position: GK
+  team: NGA
   team_id: 20
 
 
@@ -4845,6 +5331,7 @@ Joseph YOBO:
   name: Joseph YOBO
   number: 2
   position: DF
+  team: NGA
   team_id: 20
 
 
@@ -4855,6 +5342,7 @@ Taye TAIWO:
   name: Taye TAIWO
   number: 3
   position: DF
+  team: NGA
   team_id: 20
 
 
@@ -4865,6 +5353,7 @@ Nwankwo KANU:
   name: Nwankwo KANU
   number: 4
   position: MF
+  team: NGA
   team_id: 20
 
 
@@ -4875,6 +5364,7 @@ Rabiu AFOLABI:
   name: Rabiu AFOLABI
   number: 5
   position: DF
+  team: NGA
   team_id: 20
 
 
@@ -4885,6 +5375,7 @@ Danny SHITTU:
   name: Danny SHITTU
   number: 6
   position: DF
+  team: NGA
   team_id: 20
 
 
@@ -4895,6 +5386,7 @@ John UTAKA:
   name: John UTAKA
   number: 7
   position: FW
+  team: NGA
   team_id: 20
 
 
@@ -4905,6 +5397,7 @@ Yakubu AYEGBENI:
   name: Yakubu AYEGBENI
   number: 8
   position: FW
+  team: NGA
   team_id: 20
 
 
@@ -4915,6 +5408,7 @@ Obafemi MARTINS:
   name: Obafemi MARTINS
   number: 9
   position: FW
+  team: NGA
   team_id: 20
 
 
@@ -4925,6 +5419,7 @@ Brown IDEYE:
   name: Brown IDEYE
   number: 10
   position: FW
+  team: NGA
   team_id: 20
 
 
@@ -4935,6 +5430,7 @@ Peter ODEMWINGIE:
   name: Peter ODEMWINGIE
   number: 11
   position: FW
+  team: NGA
   team_id: 20
 
 
@@ -4945,6 +5441,7 @@ Kalu UCHE:
   name: Kalu UCHE
   number: 12
   position: MF
+  team: NGA
   team_id: 20
 
 
@@ -4955,6 +5452,7 @@ Yussuf AYILA:
   name: Yussuf AYILA
   number: 13
   position: MF
+  team: NGA
   team_id: 20
 
 
@@ -4965,6 +5463,7 @@ Sani KAITA:
   name: Sani KAITA
   number: 14
   position: MF
+  team: NGA
   team_id: 20
 
 
@@ -4975,6 +5474,7 @@ Lukman HARUNA:
   name: Lukman HARUNA
   number: 15
   position: MF
+  team: NGA
   team_id: 20
 
 
@@ -4985,6 +5485,7 @@ Austin EJIDE:
   name: Austin EJIDE
   number: 16
   position: GK
+  team: NGA
   team_id: 20
 
 
@@ -4995,6 +5496,7 @@ Chidi ODIAH:
   name: Chidi ODIAH
   number: 17
   position: DF
+  team: NGA
   team_id: 20
 
 
@@ -5005,6 +5507,7 @@ Victor OBINNA:
   name: Victor OBINNA
   number: 18
   position: FW
+  team: NGA
   team_id: 20
 
 
@@ -5015,6 +5518,7 @@ Chinedu OGBUKE OBASI:
   name: Chinedu OGBUKE OBASI
   number: 19
   position: FW
+  team: NGA
   team_id: 20
 
 
@@ -5025,6 +5529,7 @@ Dickson ETUHU:
   name: Dickson ETUHU
   number: 20
   position: MF
+  team: NGA
   team_id: 20
 
 
@@ -5035,6 +5540,7 @@ Uwa ECHIEJILE:
   name: Uwa ECHIEJILE
   number: 21
   position: DF
+  team: NGA
   team_id: 20
 
 
@@ -5045,6 +5551,7 @@ Dele ADELEYE:
   name: Dele ADELEYE
   number: 22
   position: DF
+  team: NGA
   team_id: 20
 
 
@@ -5055,6 +5562,7 @@ Dele AIYENUGBA:
   name: Dele AIYENUGBA
   number: 23
   position: GK
+  team: NGA
   team_id: 20
 
 
@@ -5065,6 +5573,7 @@ Justo VILLAR:
   name: Justo VILLAR
   number: 1
   position: GK
+  team: PAR
   team_id: 22
 
 
@@ -5075,6 +5584,7 @@ Dario VERON:
   name: Dario VERON
   number: 2
   position: DF
+  team: PAR
   team_id: 22
 
 
@@ -5085,6 +5595,7 @@ Claudio MOREL:
   name: Claudio MOREL
   number: 3
   position: DF
+  team: PAR
   team_id: 22
 
 
@@ -5095,6 +5606,7 @@ Denis CANIZA:
   name: Denis CANIZA
   number: 4
   position: DF
+  team: PAR
   team_id: 22
 
 
@@ -5105,6 +5617,7 @@ Julio Cesar CACERES:
   name: Julio Cesar CACERES
   number: 5
   position: DF
+  team: PAR
   team_id: 22
 
 
@@ -5115,6 +5628,7 @@ Carlos BONET:
   name: Carlos BONET
   number: 6
   position: MF
+  team: PAR
   team_id: 22
 
 
@@ -5125,6 +5639,7 @@ Oscar CARDOZO:
   name: Oscar CARDOZO
   number: 7
   position: FW
+  team: PAR
   team_id: 22
 
 
@@ -5135,6 +5650,7 @@ Edgar BARRETO:
   name: Edgar BARRETO
   number: 8
   position: MF
+  team: PAR
   team_id: 22
 
 
@@ -5145,6 +5661,7 @@ Roque SANTA CRUZ:
   name: Roque SANTA CRUZ
   number: 9
   position: FW
+  team: PAR
   team_id: 22
 
 
@@ -5155,6 +5672,7 @@ Edgar BENITEZ:
   name: Edgar BENITEZ
   number: 10
   position: FW
+  team: PAR
   team_id: 22
 
 
@@ -5165,6 +5683,7 @@ Jonathan SANTANA:
   name: Jonathan SANTANA
   number: 11
   position: MF
+  team: PAR
   team_id: 22
 
 
@@ -5175,6 +5694,7 @@ Diego BARRETO:
   name: Diego BARRETO
   number: 12
   position: GK
+  team: PAR
   team_id: 22
 
 
@@ -5185,6 +5705,7 @@ Enrique VERA:
   name: Enrique VERA
   number: 13
   position: MF
+  team: PAR
   team_id: 22
 
 
@@ -5195,6 +5716,7 @@ Paulo DA SILVA:
   name: Paulo DA SILVA
   number: 14
   position: DF
+  team: PAR
   team_id: 22
 
 
@@ -5205,6 +5727,7 @@ Victor CACERES:
   name: Victor CACERES
   number: 15
   position: MF
+  team: PAR
   team_id: 22
 
 
@@ -5215,6 +5738,7 @@ Cristian RIVEROS:
   name: Cristian RIVEROS
   number: 16
   position: MF
+  team: PAR
   team_id: 22
 
 
@@ -5225,6 +5749,7 @@ Aureliano TORRES:
   name: Aureliano TORRES
   number: 17
   position: DF
+  team: PAR
   team_id: 22
 
 
@@ -5235,6 +5760,7 @@ Nelson VALDEZ:
   name: Nelson VALDEZ
   number: 18
   position: FW
+  team: PAR
   team_id: 22
 
 
@@ -5245,6 +5771,7 @@ Lucas BARRIOS:
   name: Lucas BARRIOS
   number: 19
   position: FW
+  team: PAR
   team_id: 22
 
 
@@ -5255,6 +5782,7 @@ Nestor ORTIGOZA:
   name: Nestor ORTIGOZA
   number: 20
   position: MF
+  team: PAR
   team_id: 22
 
 
@@ -5265,6 +5793,7 @@ Antolin ALCARAZ:
   name: Antolin ALCARAZ
   number: 21
   position: DF
+  team: PAR
   team_id: 22
 
 
@@ -5275,6 +5804,7 @@ Aldo BOBADILLA:
   name: Aldo BOBADILLA
   number: 22
   position: GK
+  team: PAR
   team_id: 22
 
 
@@ -5285,6 +5815,7 @@ Rodolfo GAMARRA:
   name: Rodolfo GAMARRA
   number: 23
   position: FW
+  team: PAR
   team_id: 22
 
 
@@ -5295,6 +5826,7 @@ EDUARDO:
   name: EDUARDO
   number: 1
   position: GK
+  team: POR
   team_id: 23
 
 
@@ -5305,6 +5837,7 @@ BRUNO ALVES:
   name: BRUNO ALVES
   number: 2
   position: DF
+  team: POR
   team_id: 23
 
 
@@ -5315,6 +5848,7 @@ PAULO FERREIRA:
   name: PAULO FERREIRA
   number: 3
   position: DF
+  team: POR
   team_id: 23
 
 
@@ -5325,6 +5859,7 @@ ROLANDO:
   name: ROLANDO
   number: 4
   position: DF
+  team: POR
   team_id: 23
 
 
@@ -5335,6 +5870,7 @@ DUDA:
   name: DUDA
   number: 5
   position: DF
+  team: POR
   team_id: 23
 
 
@@ -5345,6 +5881,7 @@ RICARDO CARVALHO:
   name: RICARDO CARVALHO
   number: 6
   position: DF
+  team: POR
   team_id: 23
 
 
@@ -5355,6 +5892,7 @@ CRISTIANO RONALDO:
   name: CRISTIANO RONALDO
   number: 7
   position: FW
+  team: POR
   team_id: 23
 
 
@@ -5365,6 +5903,7 @@ PEDRO MENDES:
   name: PEDRO MENDES
   number: 8
   position: MF
+  team: POR
   team_id: 23
 
 
@@ -5375,6 +5914,7 @@ LIEDSON:
   name: LIEDSON
   number: 9
   position: FW
+  team: POR
   team_id: 23
 
 
@@ -5385,6 +5925,7 @@ DANNY:
   name: DANNY
   number: 10
   position: FW
+  team: POR
   team_id: 23
 
 
@@ -5395,6 +5936,7 @@ SIMAO:
   name: SIMAO
   number: 11
   position: FW
+  team: POR
   team_id: 23
 
 
@@ -5405,6 +5947,7 @@ BETO:
   name: BETO
   number: 12
   position: GK
+  team: POR
   team_id: 23
 
 
@@ -5415,6 +5958,7 @@ MIGUEL:
   name: MIGUEL
   number: 13
   position: DF
+  team: POR
   team_id: 23
 
 
@@ -5425,6 +5969,7 @@ MIGUEL VELOSO:
   name: MIGUEL VELOSO
   number: 14
   position: MF
+  team: POR
   team_id: 23
 
 
@@ -5435,6 +5980,7 @@ PEPE:
   name: PEPE
   number: 15
   position: MF
+  team: POR
   team_id: 23
 
 
@@ -5445,6 +5991,7 @@ RAUL MEIRELES:
   name: RAUL MEIRELES
   number: 16
   position: MF
+  team: POR
   team_id: 23
 
 
@@ -5455,6 +6002,7 @@ NANI:
   name: NANI
   number: 17
   position: FW
+  team: POR
   team_id: 23
 
 
@@ -5465,6 +6013,7 @@ HUGO ALMEIDA:
   name: HUGO ALMEIDA
   number: 18
   position: FW
+  team: POR
   team_id: 23
 
 
@@ -5475,6 +6024,7 @@ TIAGO:
   name: TIAGO
   number: 19
   position: MF
+  team: POR
   team_id: 23
 
 
@@ -5485,6 +6035,7 @@ DECO:
   name: DECO
   number: 20
   position: MF
+  team: POR
   team_id: 23
 
 
@@ -5495,6 +6046,7 @@ RICARDO COSTA:
   name: RICARDO COSTA
   number: 21
   position: DF
+  team: POR
   team_id: 23
 
 
@@ -5505,6 +6057,7 @@ DANIEL FERNANDES:
   name: DANIEL FERNANDES
   number: 22
   position: GK
+  team: POR
   team_id: 23
 
 
@@ -5515,6 +6068,7 @@ FABIO COENTRAO:
   name: FABIO COENTRAO
   number: 23
   position: DF
+  team: POR
   team_id: 23
 
 
@@ -5525,6 +6079,7 @@ Vladimir STOJKOVIC:
   name: Vladimir STOJKOVIC
   number: 1
   position: GK
+  team: SRB
   team_id: 24
 
 
@@ -5535,6 +6090,7 @@ Antonio RUKAVINA:
   name: Antonio RUKAVINA
   number: 2
   position: DF
+  team: SRB
   team_id: 24
 
 
@@ -5545,6 +6101,7 @@ Aleksandar KOLAROV:
   name: Aleksandar KOLAROV
   number: 3
   position: DF
+  team: SRB
   team_id: 24
 
 
@@ -5555,6 +6112,7 @@ Gojko KACAR:
   name: Gojko KACAR
   number: 4
   position: MF
+  team: SRB
   team_id: 24
 
 
@@ -5565,6 +6123,7 @@ Nemanja VIDIC:
   name: Nemanja VIDIC
   number: 5
   position: DF
+  team: SRB
   team_id: 24
 
 
@@ -5575,6 +6134,7 @@ Branislav IVANOVIC:
   name: Branislav IVANOVIC
   number: 6
   position: DF
+  team: SRB
   team_id: 24
 
 
@@ -5585,6 +6145,7 @@ Zoran TOSIC:
   name: Zoran TOSIC
   number: 7
   position: MF
+  team: SRB
   team_id: 24
 
 
@@ -5595,6 +6156,7 @@ Danko LAZOVIC:
   name: Danko LAZOVIC
   number: 8
   position: FW
+  team: SRB
   team_id: 24
 
 
@@ -5605,6 +6167,7 @@ Marko PANTELIC:
   name: Marko PANTELIC
   number: 9
   position: FW
+  team: SRB
   team_id: 24
 
 
@@ -5615,6 +6178,7 @@ Dejan STANKOVIC:
   name: Dejan STANKOVIC
   number: 10
   position: MF
+  team: SRB
   team_id: 24
 
 
@@ -5625,6 +6189,7 @@ Nenad MILIJAS:
   name: Nenad MILIJAS
   number: 11
   position: MF
+  team: SRB
   team_id: 24
 
 
@@ -5635,6 +6200,7 @@ Bojan ISAILOVIC:
   name: Bojan ISAILOVIC
   number: 12
   position: GK
+  team: SRB
   team_id: 24
 
 
@@ -5645,6 +6211,7 @@ Aleksandar LUKOVIC:
   name: Aleksandar LUKOVIC
   number: 13
   position: DF
+  team: SRB
   team_id: 24
 
 
@@ -5655,6 +6222,7 @@ Milan JOVANOVIC:
   name: Milan JOVANOVIC
   number: 14
   position: MF
+  team: SRB
   team_id: 24
 
 
@@ -5665,6 +6233,7 @@ Nikola ZIGIC:
   name: Nikola ZIGIC
   number: 15
   position: FW
+  team: SRB
   team_id: 24
 
 
@@ -5675,6 +6244,7 @@ Ivan OBRADOVIC:
   name: Ivan OBRADOVIC
   number: 16
   position: DF
+  team: SRB
   team_id: 24
 
 
@@ -5685,6 +6255,7 @@ Milos KRASIC:
   name: Milos KRASIC
   number: 17
   position: MF
+  team: SRB
   team_id: 24
 
 
@@ -5695,6 +6266,7 @@ Milos NINKOVIC:
   name: Milos NINKOVIC
   number: 18
   position: MF
+  team: SRB
   team_id: 24
 
 
@@ -5705,6 +6277,7 @@ Radosav PETROVIC:
   name: Radosav PETROVIC
   number: 19
   position: MF
+  team: SRB
   team_id: 24
 
 
@@ -5715,6 +6288,7 @@ Neven SUBOTIC:
   name: Neven SUBOTIC
   number: 20
   position: DF
+  team: SRB
   team_id: 24
 
 
@@ -5725,6 +6299,7 @@ Dragan MRDJA:
   name: Dragan MRDJA
   number: 21
   position: FW
+  team: SRB
   team_id: 24
 
 
@@ -5735,6 +6310,7 @@ Zdravko KUZMANOVIC:
   name: Zdravko KUZMANOVIC
   number: 22
   position: MF
+  team: SRB
   team_id: 24
 
 
@@ -5745,6 +6321,7 @@ Andjelko DJURICIC:
   name: Andjelko DJURICIC
   number: 23
   position: GK
+  team: SRB
   team_id: 24
 
 
@@ -5755,6 +6332,7 @@ Jan MUCHA:
   name: Jan MUCHA
   number: 1
   position: GK
+  team: SVK
   team_id: 25
 
 
@@ -5765,6 +6343,7 @@ Peter PEKARIK:
   name: Peter PEKARIK
   number: 2
   position: DF
+  team: SVK
   team_id: 25
 
 
@@ -5775,6 +6354,7 @@ Martin SKRTEL:
   name: Martin SKRTEL
   number: 3
   position: DF
+  team: SVK
   team_id: 25
 
 
@@ -5785,6 +6365,7 @@ Marek CECH:
   name: Marek CECH
   number: 4
   position: DF
+  team: SVK
   team_id: 25
 
 
@@ -5795,6 +6376,7 @@ Radoslav ZABAVNIK:
   name: Radoslav ZABAVNIK
   number: 5
   position: DF
+  team: SVK
   team_id: 25
 
 
@@ -5805,6 +6387,7 @@ Zdenko STRBA:
   name: Zdenko STRBA
   number: 6
   position: MF
+  team: SVK
   team_id: 25
 
 
@@ -5815,6 +6398,7 @@ Vladimir WEISS:
   name: Vladimir WEISS
   number: 7
   position: MF
+  team: SVK
   team_id: 25
 
 
@@ -5825,6 +6409,7 @@ Jan KOZAK:
   name: Jan KOZAK
   number: 8
   position: MF
+  team: SVK
   team_id: 25
 
 
@@ -5835,6 +6420,7 @@ Stanislav SESTAK:
   name: Stanislav SESTAK
   number: 9
   position: FW
+  team: SVK
   team_id: 25
 
 
@@ -5845,6 +6431,7 @@ Marek SAPARA:
   name: Marek SAPARA
   number: 10
   position: MF
+  team: SVK
   team_id: 25
 
 
@@ -5855,6 +6442,7 @@ Robert VITTEK:
   name: Robert VITTEK
   number: 11
   position: FW
+  team: SVK
   team_id: 25
 
 
@@ -5865,6 +6453,7 @@ Dusan PERNIS:
   name: Dusan PERNIS
   number: 12
   position: GK
+  team: SVK
   team_id: 25
 
 
@@ -5875,6 +6464,7 @@ Filip HOLOSKO:
   name: Filip HOLOSKO
   number: 13
   position: FW
+  team: SVK
   team_id: 25
 
 
@@ -5885,6 +6475,7 @@ Martin JAKUBKO:
   name: Martin JAKUBKO
   number: 14
   position: FW
+  team: SVK
   team_id: 25
 
 
@@ -5895,6 +6486,7 @@ Miroslav STOCH:
   name: Miroslav STOCH
   number: 15
   position: MF
+  team: SVK
   team_id: 25
 
 
@@ -5905,6 +6497,7 @@ Jan DURICA:
   name: Jan DURICA
   number: 16
   position: DF
+  team: SVK
   team_id: 25
 
 
@@ -5915,6 +6508,7 @@ Marek HAMSIK:
   name: Marek HAMSIK
   number: 17
   position: MF
+  team: SVK
   team_id: 25
 
 
@@ -5925,6 +6519,7 @@ Erik JENDRISEK:
   name: Erik JENDRISEK
   number: 18
   position: FW
+  team: SVK
   team_id: 25
 
 
@@ -5935,6 +6530,7 @@ Juraj KUCKA:
   name: Juraj KUCKA
   number: 19
   position: MF
+  team: SVK
   team_id: 25
 
 
@@ -5945,6 +6541,7 @@ Kamil KOPUNEK:
   name: Kamil KOPUNEK
   number: 20
   position: MF
+  team: SVK
   team_id: 25
 
 
@@ -5955,6 +6552,7 @@ Kornel SALATA:
   name: Kornel SALATA
   number: 21
   position: DF
+  team: SVK
   team_id: 25
 
 
@@ -5965,6 +6563,7 @@ Martin PETRAS:
   name: Martin PETRAS
   number: 22
   position: DF
+  team: SVK
   team_id: 25
 
 
@@ -5975,6 +6574,7 @@ Dusan KUCIAK:
   name: Dusan KUCIAK
   number: 23
   position: GK
+  team: SVK
   team_id: 25
 
 
@@ -5985,6 +6585,7 @@ Samir HANDANOVIC:
   name: Samir HANDANOVIC
   number: 1
   position: GK
+  team: SVN
   team_id: 26
 
 
@@ -5995,6 +6596,7 @@ Miso BRECKO:
   name: Miso BRECKO
   number: 2
   position: DF
+  team: SVN
   team_id: 26
 
 
@@ -6005,6 +6607,7 @@ Elvedin DZINIC:
   name: Elvedin DZINIC
   number: 3
   position: DF
+  team: SVN
   team_id: 26
 
 
@@ -6015,6 +6618,7 @@ Marko SULER:
   name: Marko SULER
   number: 4
   position: DF
+  team: SVN
   team_id: 26
 
 
@@ -6025,6 +6629,7 @@ Bostjan CESAR:
   name: Bostjan CESAR
   number: 5
   position: DF
+  team: SVN
   team_id: 26
 
 
@@ -6035,6 +6640,7 @@ Branko ILIC:
   name: Branko ILIC
   number: 6
   position: DF
+  team: SVN
   team_id: 26
 
 
@@ -6045,6 +6651,7 @@ Nejc PECNIK:
   name: Nejc PECNIK
   number: 7
   position: FW
+  team: SVN
   team_id: 26
 
 
@@ -6055,6 +6662,7 @@ Robert KOREN:
   name: Robert KOREN
   number: 8
   position: MF
+  team: SVN
   team_id: 26
 
 
@@ -6065,6 +6673,7 @@ Zlatan LJUBIJANKIC:
   name: Zlatan LJUBIJANKIC
   number: 9
   position: FW
+  team: SVN
   team_id: 26
 
 
@@ -6075,6 +6684,7 @@ Valter BIRSA:
   name: Valter BIRSA
   number: 10
   position: MF
+  team: SVN
   team_id: 26
 
 
@@ -6085,6 +6695,7 @@ Milivoje NOVAKOVIC:
   name: Milivoje NOVAKOVIC
   number: 11
   position: FW
+  team: SVN
   team_id: 26
 
 
@@ -6095,6 +6706,7 @@ Jasmin HANDANOVIC:
   name: Jasmin HANDANOVIC
   number: 12
   position: GK
+  team: SVN
   team_id: 26
 
 
@@ -6105,6 +6717,7 @@ Bojan JOKIC:
   name: Bojan JOKIC
   number: 13
   position: DF
+  team: SVN
   team_id: 26
 
 
@@ -6115,6 +6728,7 @@ Zlatko DEDIC:
   name: Zlatko DEDIC
   number: 14
   position: FW
+  team: SVN
   team_id: 26
 
 
@@ -6125,6 +6739,7 @@ Rene KRHIN:
   name: Rene KRHIN
   number: 15
   position: MF
+  team: SVN
   team_id: 26
 
 
@@ -6135,6 +6750,7 @@ Aleksander SELIGA:
   name: Aleksander SELIGA
   number: 16
   position: GK
+  team: SVN
   team_id: 26
 
 
@@ -6145,6 +6761,7 @@ Andraz KIRM:
   name: Andraz KIRM
   number: 17
   position: MF
+  team: SVN
   team_id: 26
 
 
@@ -6155,6 +6772,7 @@ Aleksandar RADOSAVLJEVIC:
   name: Aleksandar RADOSAVLJEVIC
   number: 18
   position: MF
+  team: SVN
   team_id: 26
 
 
@@ -6165,16 +6783,18 @@ Suad FILEKOVIC:
   name: Suad FILEKOVIC
   number: 19
   position: DF
+  team: SVN
   team_id: 26
 
 
 Andrej KOMAC:
-  comment: Maccabi TelAviv (ISR)
+  comment: Maccabi Tel-Aviv (ISR)
   current_rating: 0.0
   id: 618
   name: Andrej KOMAC
   number: 20
   position: MF
+  team: SVN
   team_id: 26
 
 
@@ -6185,6 +6805,7 @@ Dalibor STEVANOVIC:
   name: Dalibor STEVANOVIC
   number: 21
   position: MF
+  team: SVN
   team_id: 26
 
 
@@ -6195,6 +6816,7 @@ Matej MAVRIC:
   name: Matej MAVRIC
   number: 22
   position: DF
+  team: SVN
   team_id: 26
 
 
@@ -6205,6 +6827,7 @@ Tim MATAVZ:
   name: Tim MATAVZ
   number: 23
   position: FW
+  team: SVN
   team_id: 26
 
 
@@ -6215,6 +6838,7 @@ Moneeb JOSEPHS:
   name: Moneeb JOSEPHS
   number: 1
   position: GK
+  team: RSA
   team_id: 27
 
 
@@ -6225,6 +6849,7 @@ Siboniso GAXA:
   name: Siboniso GAXA
   number: 2
   position: DF
+  team: RSA
   team_id: 27
 
 
@@ -6235,6 +6860,7 @@ Tsepo MASILELA:
   name: Tsepo MASILELA
   number: 3
   position: DF
+  team: RSA
   team_id: 27
 
 
@@ -6245,6 +6871,7 @@ Aaron MOKOENA:
   name: Aaron MOKOENA
   number: 4
   position: DF
+  team: RSA
   team_id: 27
 
 
@@ -6255,6 +6882,7 @@ Anele NGCONGCA:
   name: Anele NGCONGCA
   number: 5
   position: DF
+  team: RSA
   team_id: 27
 
 
@@ -6265,6 +6893,7 @@ MacBeth SIBAYA:
   name: MacBeth SIBAYA
   number: 6
   position: MF
+  team: RSA
   team_id: 27
 
 
@@ -6275,6 +6904,7 @@ Lance DAVIDS:
   name: Lance DAVIDS
   number: 7
   position: MF
+  team: RSA
   team_id: 27
 
 
@@ -6285,6 +6915,7 @@ Siphiwe TSHABALALA:
   name: Siphiwe TSHABALALA
   number: 8
   position: MF
+  team: RSA
   team_id: 27
 
 
@@ -6295,6 +6926,7 @@ Katlego MPHELA:
   name: Katlego MPHELA
   number: 9
   position: FW
+  team: RSA
   team_id: 27
 
 
@@ -6305,6 +6937,7 @@ Steven PIENAAR:
   name: Steven PIENAAR
   number: 10
   position: MF
+  team: RSA
   team_id: 27
 
 
@@ -6315,6 +6948,7 @@ Teko MODISE:
   name: Teko MODISE
   number: 11
   position: MF
+  team: RSA
   team_id: 27
 
 
@@ -6325,6 +6959,7 @@ Reneilwe LETSHOLONYANE:
   name: Reneilwe LETSHOLONYANE
   number: 12
   position: MF
+  team: RSA
   team_id: 27
 
 
@@ -6335,6 +6970,7 @@ Kagisho DIKGACOI:
   name: Kagisho DIKGACOI
   number: 13
   position: MF
+  team: RSA
   team_id: 27
 
 
@@ -6345,6 +6981,7 @@ Matthew BOOTH:
   name: Matthew BOOTH
   number: 14
   position: DF
+  team: RSA
   team_id: 27
 
 
@@ -6355,6 +6992,7 @@ Lucas THWALA:
   name: Lucas THWALA
   number: 15
   position: DF
+  team: RSA
   team_id: 27
 
 
@@ -6365,6 +7003,7 @@ Itumeleng KHUNE:
   name: Itumeleng KHUNE
   number: 16
   position: GK
+  team: RSA
   team_id: 27
 
 
@@ -6375,6 +7014,7 @@ Bernard PARKER:
   name: Bernard PARKER
   number: 17
   position: FW
+  team: RSA
   team_id: 27
 
 
@@ -6385,6 +7025,7 @@ Siyabonga NOMVETHE:
   name: Siyabonga NOMVETHE
   number: 18
   position: FW
+  team: RSA
   team_id: 27
 
 
@@ -6395,6 +7036,7 @@ Surprise MORIRI:
   name: Surprise MORIRI
   number: 19
   position: MF
+  team: RSA
   team_id: 27
 
 
@@ -6405,6 +7047,7 @@ Bongani KHUMALO:
   name: Bongani KHUMALO
   number: 20
   position: DF
+  team: RSA
   team_id: 27
 
 
@@ -6415,6 +7058,7 @@ Siyabonga SANGWENI:
   name: Siyabonga SANGWENI
   number: 21
   position: DF
+  team: RSA
   team_id: 27
 
 
@@ -6422,9 +7066,10 @@ ShuAib WALTERS:
   comment: Maritzburg Utd. (RSA)
   current_rating: 0.0
   id: 643
-  name: ShuAib WALTERS
+  name: Shu-Aib WALTERS
   number: 22
   position: GK
+  team: RSA
   team_id: 27
 
 
@@ -6435,6 +7080,7 @@ Thanduyise KHUBONI:
   name: Thanduyise KHUBONI
   number: 23
   position: MF
+  team: RSA
   team_id: 27
 
 
@@ -6445,6 +7091,7 @@ Iker CASILLAS:
   name: Iker CASILLAS
   number: 1
   position: GK
+  team: ESP
   team_id: 29
 
 
@@ -6455,6 +7102,7 @@ Raul ALBIOL:
   name: Raul ALBIOL
   number: 2
   position: DF
+  team: ESP
   team_id: 29
 
 
@@ -6465,6 +7113,7 @@ Gerard PIQUE:
   name: Gerard PIQUE
   number: 3
   position: DF
+  team: ESP
   team_id: 29
 
 
@@ -6475,6 +7124,7 @@ Carlos MARCHENA:
   name: Carlos MARCHENA
   number: 4
   position: DF
+  team: ESP
   team_id: 29
 
 
@@ -6485,6 +7135,7 @@ Carles PUYOL:
   name: Carles PUYOL
   number: 5
   position: DF
+  team: ESP
   team_id: 29
 
 
@@ -6495,6 +7146,7 @@ Andres INIESTA:
   name: Andres INIESTA
   number: 6
   position: MF
+  team: ESP
   team_id: 29
 
 
@@ -6505,6 +7157,7 @@ David VILLA:
   name: David VILLA
   number: 7
   position: FW
+  team: ESP
   team_id: 29
 
 
@@ -6515,6 +7168,7 @@ XAVI:
   name: XAVI
   number: 8
   position: MF
+  team: ESP
   team_id: 29
 
 
@@ -6525,6 +7179,7 @@ Fernando TORRES:
   name: Fernando TORRES
   number: 9
   position: FW
+  team: ESP
   team_id: 29
 
 
@@ -6535,6 +7190,7 @@ Cesc FABREGAS:
   name: Cesc FABREGAS
   number: 10
   position: MF
+  team: ESP
   team_id: 29
 
 
@@ -6545,6 +7201,7 @@ Joan CAPDEVILA:
   name: Joan CAPDEVILA
   number: 11
   position: DF
+  team: ESP
   team_id: 29
 
 
@@ -6555,6 +7212,7 @@ Victor VALDES:
   name: Victor VALDES
   number: 12
   position: GK
+  team: ESP
   team_id: 29
 
 
@@ -6565,6 +7223,7 @@ Juan Manuel MATA:
   name: Juan Manuel MATA
   number: 13
   position: FW
+  team: ESP
   team_id: 29
 
 
@@ -6575,6 +7234,7 @@ XABI ALONSO:
   name: XABI ALONSO
   number: 14
   position: MF
+  team: ESP
   team_id: 29
 
 
@@ -6585,6 +7245,7 @@ SERGIO RAMOS:
   name: SERGIO RAMOS
   number: 15
   position: DF
+  team: ESP
   team_id: 29
 
 
@@ -6595,6 +7256,7 @@ Sergio BUSQUETS:
   name: Sergio BUSQUETS
   number: 16
   position: MF
+  team: ESP
   team_id: 29
 
 
@@ -6605,6 +7267,7 @@ Alvaro ARBELOA:
   name: Alvaro ARBELOA
   number: 17
   position: DF
+  team: ESP
   team_id: 29
 
 
@@ -6615,6 +7278,7 @@ PEDRO:
   name: PEDRO
   number: 18
   position: FW
+  team: ESP
   team_id: 29
 
 
@@ -6625,6 +7289,7 @@ Fernando LLORENTE:
   name: Fernando LLORENTE
   number: 19
   position: FW
+  team: ESP
   team_id: 29
 
 
@@ -6635,6 +7300,7 @@ Javier MARTINEZ:
   name: Javier MARTINEZ
   number: 20
   position: MF
+  team: ESP
   team_id: 29
 
 
@@ -6645,6 +7311,7 @@ DAVID SILVA:
   name: DAVID SILVA
   number: 21
   position: MF
+  team: ESP
   team_id: 29
 
 
@@ -6655,6 +7322,7 @@ Jesus NAVAS:
   name: Jesus NAVAS
   number: 22
   position: FW
+  team: ESP
   team_id: 29
 
 
@@ -6665,6 +7333,7 @@ Pepe REINA:
   name: Pepe REINA
   number: 23
   position: GK
+  team: ESP
   team_id: 29
 
 
@@ -6675,6 +7344,7 @@ Diego BENAGLIO:
   name: Diego BENAGLIO
   number: 1
   position: GK
+  team: SUI
   team_id: 30
 
 
@@ -6685,6 +7355,7 @@ Stephan LICHTSTEINER:
   name: Stephan LICHTSTEINER
   number: 2
   position: DF
+  team: SUI
   team_id: 30
 
 
@@ -6695,6 +7366,7 @@ Ludovic MAGNIN:
   name: Ludovic MAGNIN
   number: 3
   position: DF
+  team: SUI
   team_id: 30
 
 
@@ -6705,6 +7377,7 @@ Philippe SENDEROS:
   name: Philippe SENDEROS
   number: 4
   position: DF
+  team: SUI
   team_id: 30
 
 
@@ -6715,6 +7388,7 @@ Steve VON BERGEN:
   name: Steve VON BERGEN
   number: 5
   position: DF
+  team: SUI
   team_id: 30
 
 
@@ -6725,6 +7399,7 @@ Benjamin HUGGEL:
   name: Benjamin HUGGEL
   number: 6
   position: MF
+  team: SUI
   team_id: 30
 
 
@@ -6735,6 +7410,7 @@ Tranquillo BARNETTA:
   name: Tranquillo BARNETTA
   number: 7
   position: MF
+  team: SUI
   team_id: 30
 
 
@@ -6745,6 +7421,7 @@ Gokhan INLER:
   name: Gokhan INLER
   number: 8
   position: MF
+  team: SUI
   team_id: 30
 
 
@@ -6755,6 +7432,7 @@ Alexander FREI:
   name: Alexander FREI
   number: 9
   position: FW
+  team: SUI
   team_id: 30
 
 
@@ -6765,6 +7443,7 @@ Blaise NKUFO:
   name: Blaise NKUFO
   number: 10
   position: FW
+  team: SUI
   team_id: 30
 
 
@@ -6775,6 +7454,7 @@ Valon BEHRAMI:
   name: Valon BEHRAMI
   number: 11
   position: MF
+  team: SUI
   team_id: 30
 
 
@@ -6785,6 +7465,7 @@ Marco WOELFLI:
   name: Marco WOELFLI
   number: 12
   position: GK
+  team: SUI
   team_id: 30
 
 
@@ -6795,6 +7476,7 @@ Stephane GRICHTING:
   name: Stephane GRICHTING
   number: 13
   position: DF
+  team: SUI
   team_id: 30
 
 
@@ -6805,6 +7487,7 @@ Marco PADALINO:
   name: Marco PADALINO
   number: 14
   position: MF
+  team: SUI
   team_id: 30
 
 
@@ -6815,16 +7498,18 @@ Hakan YAKIN:
   name: Hakan YAKIN
   number: 15
   position: MF
+  team: SUI
   team_id: 30
 
 
 Gelson FERNANDES:
-  comment: SaintEtienne (FRA)
+  comment: Saint-Etienne (FRA)
   current_rating: 0.0
   id: 683
   name: Gelson FERNANDES
   number: 16
   position: MF
+  team: SUI
   team_id: 30
 
 
@@ -6835,6 +7520,7 @@ Reto ZIEGLER:
   name: Reto ZIEGLER
   number: 17
   position: DF
+  team: SUI
   team_id: 30
 
 
@@ -6845,6 +7531,7 @@ Albert BUNJAKU:
   name: Albert BUNJAKU
   number: 18
   position: FW
+  team: SUI
   team_id: 30
 
 
@@ -6855,6 +7542,7 @@ Eren DERDIYOK:
   name: Eren DERDIYOK
   number: 19
   position: FW
+  team: SUI
   team_id: 30
 
 
@@ -6865,6 +7553,7 @@ Pirmin SCHWEGLER:
   name: Pirmin SCHWEGLER
   number: 20
   position: MF
+  team: SUI
   team_id: 30
 
 
@@ -6875,6 +7564,7 @@ Johnny LEONI:
   name: Johnny LEONI
   number: 21
   position: GK
+  team: SUI
   team_id: 30
 
 
@@ -6885,6 +7575,7 @@ Mario EGGIMANN:
   name: Mario EGGIMANN
   number: 22
   position: DF
+  team: SUI
   team_id: 30
 
 
@@ -6895,6 +7586,7 @@ Xherdan SHAQIRI:
   name: Xherdan SHAQIRI
   number: 23
   position: MF
+  team: SUI
   team_id: 30
 
 
@@ -6905,6 +7597,7 @@ Fernando MUSLERA:
   name: Fernando MUSLERA
   number: 1
   position: GK
+  team: URU
   team_id: 32
 
 
@@ -6915,6 +7608,7 @@ Diego LUGANO:
   name: Diego LUGANO
   number: 2
   position: DF
+  team: URU
   team_id: 32
 
 
@@ -6925,6 +7619,7 @@ Diego GODIN:
   name: Diego GODIN
   number: 3
   position: DF
+  team: URU
   team_id: 32
 
 
@@ -6935,6 +7630,7 @@ Jorge FUCILE:
   name: Jorge FUCILE
   number: 4
   position: DF
+  team: URU
   team_id: 32
 
 
@@ -6945,6 +7641,7 @@ Walter GARGANO:
   name: Walter GARGANO
   number: 5
   position: MF
+  team: URU
   team_id: 32
 
 
@@ -6955,6 +7652,7 @@ Mauricio VICTORINO:
   name: Mauricio VICTORINO
   number: 6
   position: DF
+  team: URU
   team_id: 32
 
 
@@ -6965,6 +7663,7 @@ Edinson CAVANI:
   name: Edinson CAVANI
   number: 7
   position: FW
+  team: URU
   team_id: 32
 
 
@@ -6975,6 +7674,7 @@ Sebastian EGUREN:
   name: Sebastian EGUREN
   number: 8
   position: MF
+  team: URU
   team_id: 32
 
 
@@ -6985,6 +7685,7 @@ Luis SUAREZ:
   name: Luis SUAREZ
   number: 9
   position: FW
+  team: URU
   team_id: 32
 
 
@@ -6995,6 +7696,7 @@ Diego FORLAN:
   name: Diego FORLAN
   number: 10
   position: FW
+  team: URU
   team_id: 32
 
 
@@ -7005,6 +7707,7 @@ Alvaro PEREIRA:
   name: Alvaro PEREIRA
   number: 11
   position: MF
+  team: URU
   team_id: 32
 
 
@@ -7015,6 +7718,7 @@ Juan CASTILLO:
   name: Juan CASTILLO
   number: 12
   position: GK
+  team: URU
   team_id: 32
 
 
@@ -7025,6 +7729,7 @@ Sebastian ABREU:
   name: Sebastian ABREU
   number: 13
   position: FW
+  team: URU
   team_id: 32
 
 
@@ -7035,6 +7740,7 @@ Nicolas LODEIRO:
   name: Nicolas LODEIRO
   number: 14
   position: MF
+  team: URU
   team_id: 32
 
 
@@ -7045,6 +7751,7 @@ Diego PEREZ:
   name: Diego PEREZ
   number: 15
   position: MF
+  team: URU
   team_id: 32
 
 
@@ -7055,6 +7762,7 @@ Maximiliano PEREIRA:
   name: Maximiliano PEREIRA
   number: 16
   position: DF
+  team: URU
   team_id: 32
 
 
@@ -7065,6 +7773,7 @@ Egidio AREVALO:
   name: Egidio AREVALO
   number: 17
   position: MF
+  team: URU
   team_id: 32
 
 
@@ -7075,6 +7784,7 @@ Ignacio GONZALEZ:
   name: Ignacio GONZALEZ
   number: 18
   position: MF
+  team: URU
   team_id: 32
 
 
@@ -7085,6 +7795,7 @@ Andres SCOTTI:
   name: Andres SCOTTI
   number: 19
   position: DF
+  team: URU
   team_id: 32
 
 
@@ -7095,6 +7806,7 @@ Alvaro FERNANDEZ:
   name: Alvaro FERNANDEZ
   number: 20
   position: MF
+  team: URU
   team_id: 32
 
 
@@ -7105,6 +7817,7 @@ Sebastian FERNANDEZ:
   name: Sebastian FERNANDEZ
   number: 21
   position: FW
+  team: URU
   team_id: 32
 
 
@@ -7115,6 +7828,7 @@ Martin CACERES:
   name: Martin CACERES
   number: 22
   position: DF
+  team: URU
   team_id: 32
 
 
@@ -7125,6 +7839,7 @@ Martin SILVA:
   name: Martin SILVA
   number: 23
   position: GK
+  team: URU
   team_id: 32
 
 
@@ -7135,6 +7850,7 @@ Tim HOWARD:
   name: Tim HOWARD
   number: 1
   position: GK
+  team: USA
   team_id: 31
 
 
@@ -7145,6 +7861,7 @@ Jonathan SPECTOR:
   name: Jonathan SPECTOR
   number: 2
   position: DF
+  team: USA
   team_id: 31
 
 
@@ -7155,6 +7872,7 @@ Carlos BOCANEGRA:
   name: Carlos BOCANEGRA
   number: 3
   position: DF
+  team: USA
   team_id: 31
 
 
@@ -7165,6 +7883,7 @@ Michael BRADLEY:
   name: Michael BRADLEY
   number: 4
   position: MF
+  team: USA
   team_id: 31
 
 
@@ -7175,6 +7894,7 @@ Oguchi ONYEWU:
   name: Oguchi ONYEWU
   number: 5
   position: DF
+  team: USA
   team_id: 31
 
 
@@ -7185,6 +7905,7 @@ Steve CHERUNDOLO:
   name: Steve CHERUNDOLO
   number: 6
   position: DF
+  team: USA
   team_id: 31
 
 
@@ -7195,6 +7916,7 @@ DaMarcus BEASLEY:
   name: DaMarcus BEASLEY
   number: 7
   position: MF
+  team: USA
   team_id: 31
 
 
@@ -7205,6 +7927,7 @@ Clint DEMPSEY:
   name: Clint DEMPSEY
   number: 8
   position: MF
+  team: USA
   team_id: 31
 
 
@@ -7215,6 +7938,7 @@ Herculez GOMEZ:
   name: Herculez GOMEZ
   number: 9
   position: FW
+  team: USA
   team_id: 31
 
 
@@ -7225,6 +7949,7 @@ Landon DONOVAN:
   name: Landon DONOVAN
   number: 10
   position: MF
+  team: USA
   team_id: 31
 
 
@@ -7235,6 +7960,7 @@ Stuart HOLDEN:
   name: Stuart HOLDEN
   number: 11
   position: MF
+  team: USA
   team_id: 31
 
 
@@ -7245,6 +7971,7 @@ Jonathan BORNSTEIN:
   name: Jonathan BORNSTEIN
   number: 12
   position: DF
+  team: USA
   team_id: 31
 
 
@@ -7255,6 +7982,7 @@ Ricardo CLARK:
   name: Ricardo CLARK
   number: 13
   position: MF
+  team: USA
   team_id: 31
 
 
@@ -7265,6 +7993,7 @@ Edson BUDDLE:
   name: Edson BUDDLE
   number: 14
   position: FW
+  team: USA
   team_id: 31
 
 
@@ -7275,6 +8004,7 @@ Jay DeMERIT:
   name: Jay DeMERIT
   number: 15
   position: DF
+  team: USA
   team_id: 31
 
 
@@ -7285,6 +8015,7 @@ Francisco TORRES:
   name: Francisco TORRES
   number: 16
   position: MF
+  team: USA
   team_id: 31
 
 
@@ -7295,6 +8026,7 @@ Jozy ALTIDORE:
   name: Jozy ALTIDORE
   number: 17
   position: FW
+  team: USA
   team_id: 31
 
 
@@ -7305,6 +8037,7 @@ Brad GUZAN:
   name: Brad GUZAN
   number: 18
   position: GK
+  team: USA
   team_id: 31
 
 
@@ -7315,6 +8048,7 @@ Maurice EDU:
   name: Maurice EDU
   number: 19
   position: MF
+  team: USA
   team_id: 31
 
 
@@ -7325,6 +8059,7 @@ Robbie FINDLEY:
   name: Robbie FINDLEY
   number: 20
   position: FW
+  team: USA
   team_id: 31
 
 
@@ -7335,6 +8070,7 @@ Clarence GOODSON:
   name: Clarence GOODSON
   number: 21
   position: DF
+  team: USA
   team_id: 31
 
 
@@ -7345,6 +8081,7 @@ Benny FEILHABER:
   name: Benny FEILHABER
   number: 22
   position: MF
+  team: USA
   team_id: 31
 
 
@@ -7355,5 +8092,6 @@ Marcus HAHNEMANN:
   name: Marcus HAHNEMANN
   number: 23
   position: GK
+  team: USA
   team_id: 31
   

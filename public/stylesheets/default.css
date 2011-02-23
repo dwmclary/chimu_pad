@@ -1,0 +1,4 @@
+#homegraph { width: 512px; border: 1px solid black; float: left}
+#awaygraph { width: 512px; border: 1px solid black; float: right}
+
+.clear { clear: both;}

@@ -34,8 +34,9 @@ ChimuPad::Application.routes.draw do
   #   end
   resources :league
   resources :team do
-    get 'show_roster'
+    get 'roster'
   end
+  resources :match
   resources :player
     
 
