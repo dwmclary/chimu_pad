@@ -1,0 +1,325 @@
+
+
+Match1_Play98:
+  goals: 0
+  id: 1
+  match_id: 1
+  passes_attempted: 63
+  passes_completed: 52
+  player_id: 98
+  position: MF
+  rating: 9.2711503447302785
+  shots: 0
+
+
+Match1_Play294:
+  goals: 0
+  id: 2
+  match_id: 1
+  passes_attempted: 31
+  passes_completed: 23
+  player_id: 294
+  position: MF
+  rating: 8.5470395889168636
+  shots: 1
+
+
+Match1_Play485:
+  goals: 0
+  id: 3
+  match_id: 1
+  passes_attempted: 74
+  passes_completed: 70
+  player_id: 485
+  position: DF
+  rating: 9.5517564733296414
+  shots: 0
+
+
+Match1_Play678:
+  goals: 0
+  id: 4
+  match_id: 1
+  passes_attempted: 19
+  passes_completed: 14
+  player_id: 678
+  position: MF
+  rating: 10.0
+  shots: 1
+
+
+Match1_Play361:
+  goals: 0
+  id: 5
+  match_id: 1
+  passes_attempted: 48
+  passes_completed: 42
+  player_id: 361
+  position: FW
+  rating: 0.0
+  shots: 0
+
+
+Match1_Play55:
+  goals: 0
+  id: 6
+  match_id: 1
+  passes_attempted: 20
+  passes_completed: 15
+  player_id: 55
+  position: FW
+  rating: 9.52593916859316
+  shots: 3
+
+
+Match1_Play12:
+  goals: 0
+  id: 7
+  match_id: 1
+  passes_attempted: 30
+  passes_completed: 21
+  player_id: 12
+  position: DF
+  rating: 9.1228905583582502
+  shots: 0
+
+
+Match1_Play418:
+  goals: 1
+  id: 8
+  match_id: 1
+  passes_attempted: 67
+  passes_completed: 57
+  player_id: 418
+  position: DF
+  rating: 8.362977908449734
+  shots: 2
+
+
+Match1_Play79:
+  goals: 0
+  id: 9
+  match_id: 1
+  passes_attempted: 23
+  passes_completed: 14
+  player_id: 79
+  position: MF
+  rating: 8.9906258456756323
+  shots: 1
+
+
+Match1_Play661:
+  goals: 0
+  id: 10
+  match_id: 1
+  passes_attempted: 36
+  passes_completed: 21
+  player_id: 661
+  position: DF
+  rating: 6.9672209888222554
+  shots: 4
+
+
+Match1_Play599:
+  goals: 0
+  id: 11
+  match_id: 1
+  passes_attempted: 36
+  passes_completed: 31
+  player_id: 599
+  position: GK
+  rating: 7.1917489633719534
+  shots: 0
+
+
+Match1_Play428:
+  goals: 0
+  id: 12
+  match_id: 1
+  passes_attempted: 4
+  passes_completed: 2
+  player_id: 428
+  position: FW
+  rating: 7.594914987137412
+  shots: 1
+
+
+Match1_Play670:
+  goals: 0
+  id: 13
+  match_id: 1
+  passes_attempted: 55
+  passes_completed: 40
+  player_id: 670
+  position: DF
+  rating: 7.9044424861342666
+  shots: 1
+
+
+Match1_Play511:
+  goals: 0
+  id: 14
+  match_id: 1
+  passes_attempted: 55
+  passes_completed: 45
+  player_id: 511
+  position: DF
+  rating: 8.4730746567940169
+  shots: 0
+
+
+Match1_Play418:
+  goals: 0
+  id: 15
+  match_id: 1
+  passes_attempted: 18
+  passes_completed: 10
+  player_id: 418
+  position: DF
+  rating: 8.362977908449734
+  shots: 0
+
+
+Match1_Play485:
+  goals: 0
+  id: 16
+  match_id: 1
+  passes_attempted: 25
+  passes_completed: 19
+  player_id: 485
+  position: DF
+  rating: 9.5517564733296414
+  shots: 1
+
+
+Match1_Play678:
+  goals: 0
+  id: 17
+  match_id: 1
+  passes_attempted: 41
+  passes_completed: 17
+  player_id: 678
+  position: MF
+  rating: 10.0
+  shots: 3
+
+
+Match1_Play361:
+  goals: 0
+  id: 18
+  match_id: 1
+  passes_attempted: 30
+  passes_completed: 12
+  player_id: 361
+  position: FW
+  rating: 0.0
+  shots: 0
+
+
+Match1_Play266:
+  goals: 0
+  id: 19
+  match_id: 1
+  passes_attempted: 33
+  passes_completed: 23
+  player_id: 266
+  position: MF
+  rating: 9.3508209423018176
+  shots: 2
+
+
+Match1_Play12:
+  goals: 0
+  id: 20
+  match_id: 1
+  passes_attempted: 34
+  passes_completed: 29
+  player_id: 12
+  position: DF
+  rating: 9.1228905583582502
+  shots: 0
+
+
+Match1_Play79:
+  goals: 0
+  id: 21
+  match_id: 1
+  passes_attempted: 27
+  passes_completed: 19
+  player_id: 79
+  position: MF
+  rating: 8.9906258456756323
+  shots: 1
+
+
+Match1_Play670:
+  goals: 0
+  id: 22
+  match_id: 1
+  passes_attempted: 15
+  passes_completed: 12
+  player_id: 670
+  position: DF
+  rating: 7.9044424861342666
+  shots: 0
+
+
+Match1_Play54:
+  goals: 1
+  id: 23
+  match_id: 1
+  passes_attempted: 41
+  passes_completed: 18
+  player_id: 54
+  position: DF
+  rating: 8.9044685975635307
+  shots: 1
+
+
+Match1_Play55:
+  goals: 0
+  id: 24
+  match_id: 1
+  passes_attempted: 22
+  passes_completed: 15
+  player_id: 55
+  position: FW
+  rating: 9.52593916859316
+  shots: 1
+
+
+Match1_Play15:
+  goals: 0
+  id: 25
+  match_id: 1
+  passes_attempted: 30
+  passes_completed: 22
+  player_id: 15
+  position: MF
+  rating: 8.5183344416500066
+  shots: 0
+
+
+Match1_Play158:
+  goals: 0
+  id: 26
+  match_id: 1
+  passes_attempted: 16
+  passes_completed: 11
+  player_id: 158
+  position: DF
+  rating: 7.8648122597022923
+  shots: 0
+
+
+Match1_Play661:
+  goals: 0
+  id: 27
+  match_id: 1
+  passes_attempted: 3
+  passes_completed: 2
+  player_id: 661
+  position: DF
+  rating: 6.9672209888222554
+  shots: 0
+  
