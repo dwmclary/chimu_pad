@@ -8,11 +8,18 @@ function BUDEffect(element){
 }
 </script>
 
-<h3>
+<div id="sidebar">
+<h2>View</h2>
 <div onclick="BUDEffect($(matches))">
-    Matches
+    <li>Matches</li>
 </div>
-</h3>
+
+<div onclick="BUDEffect($(leagueTeams))">
+    <li>Teams</li>
+</div>
+
+</div>
+<center>
 <div id="matches" style="display: none">
     <table id="leagueMatchTable">
     <thead>
@@ -28,14 +35,12 @@ function BUDEffect(element){
     </tbody>
     </table>
 </div>
+</center>
 
-<h3>
-<div onclick="BUDEffect($(leagueTeams))">
-    Teams
-</div>
-</h3>
+<center>
 <div id="leagueTeams" style="display: none">
     <% for t in @league.teams %>
     <p><%= link_to t.name, :controller => "team", :action => "show", :id => t.id%></p>
     <% end %>
 </div>
+</center>

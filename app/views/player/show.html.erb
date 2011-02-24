@@ -1,0 +1,46 @@
+<%= javascript_include_tag "flotr"%>
+<%= javascript_include_tag "excanvas"%>
+<%= javascript_include_tag "prototype-1.6.0.2.js"%>
+<center>
+    <%= @player.name%>
+    </br>
+    <%= @player.team %> <%= @player.number%>
+<div id="performance_lines" style="width:600px;height:300px;"></div>
+</center>
+<script type="text/javascript">
+var player_data = [];
+var player_rating = <%= array_or_string_for_javascript(@rating_data)%>;
+
+//populate player data
+for (var i = 0; i < <%=@rating_data.size()%>;i++)
+{
+    player_data.push([i, parseFloat(player_rating[i])]);
+}
+var f = Flotr.draw(
+	$('performance_lines'), 
+	[{data:player_data,mouse:{track: true}}],
+	{mouse:{
+		track: true,
+		color: 'purple',
+		sensibility: 1, // => distance to show point get's smaller
+		trackDecimals: 2,
+		trackFormatter: function(obj){ return 'x = ' + obj.x +', y = ' + obj.y; }
+	}}
+);</script>
+<div id="performance_table">
+<center>
+<table>
+<thead>
+    <th> VS </th>
+    <th> Shots </th>
+    <th> Goals </th>
+    <th> PA </th>
+    <th> PC</th>
+    <th> Rating </th>
+<thead>
+<tbody>
+    <%= render "plays"%>
+</tbody>
+<center>
+</div>
+

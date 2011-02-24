@@ -1,4 +1,6 @@
 <tr>
-    <td><%= player.name %></td>
+    <td><%= link_to player.name, :controller => "player", :action => "show", :id => player.id %></td>
     <td><%= player.number %></td>
+    <td><%= player.position %></td>
+    <td><%= player.current_rating %></td>
 </tr>

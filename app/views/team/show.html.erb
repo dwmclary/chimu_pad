@@ -8,22 +8,24 @@ function BUDEffect(element){
 }
 </script>
 
-<h3>
+<div id="sidebar">
 <div onclick="BUDEffect($(roster))">
-    Roster
+   <li> Roster </li>
 </div>    
+</p>
+<div onclick="BUDEffect($(matches))">
+   <li>Matches</li>
+</div>
+</div>
 
-</h3>
-
-<div id = "roster">
+<center>
+<div id = "roster" style="display: none">
     <%=render "roster"%>
 </div>
 
-<h3>
-<div onclick="BUDEffect($(matches))">
-   Matches
-</div>
-</h3>
-<div id = "matches">
+
+
+<div id = "matches" style="display: none">
     <%= render "match_list" %>
 </div>
+<center>

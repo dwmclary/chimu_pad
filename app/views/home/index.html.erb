@@ -1,4 +1,5 @@
-<h1>ChimuPad: Soccer Analytics Workbench</h1>
+<center>
 <% @leagues.each do |l| %>
-    <h3><%= link_to l.name, :controller => 'league', :id => l.id %></h3>
+    <h2><%= link_to l.name, :controller => 'league', :id => l.id %></h2>
 <% end %>
+</center>

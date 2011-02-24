@@ -1,0 +1,12 @@
+<% i = 0 %>
+<% for p in @plays %>
+<tr>
+<td><%= @opponents[i]%></td>
+<td><%= p.shots %></td>
+<td><%= p.goals %></td>
+<td><%= p.passes_attempted %></td>
+<td><%= p.passes_completed%></td>
+<td><%= '%.2f' % p.rating %></td>
+</tr>
+<% i += 1 %>
+<% end %>

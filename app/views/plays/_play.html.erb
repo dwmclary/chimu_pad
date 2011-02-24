@@ -1,0 +1,11 @@
+<tr>
+    <td><%p = Player.find(play.player_id)%></td>
+    <td><%= link_to p.name, :controller => "player", :action => "show", :id => p.id %></td>
+    <td><%= p.number %></td>
+    <td><%= play.position %></td>
+    <td><%= play.shots %></td>
+    <td><%= play.goals %></td>
+    <td><%= play.passes_attempted %></td>
+    <td><%= play.passes_completed%></td>
+    <td><%= '%.2f' % play.rating %></td>
+</tr>

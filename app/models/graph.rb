@@ -46,7 +46,7 @@ class Graph < ActiveRecord::Base
         size = size.split(":")
         size = {"size" => size.last.to_f(), "color"=>set_color(size.last.to_f()), "x"=>x, "y"=>y}
       else
-        size = {"size" => 5.0, "color"=>"#2CA25F"}
+        size = {"size" => 5.0, "color"=>"43A2CA"}
       end
       
       nodelist.push([node_id, size])

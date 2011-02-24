@@ -248,9 +248,17 @@ def simulate_ball_movement(G1, G2):
 	for n in unified_graph.nodes(data=True):
 		if "size" in n[1]:
 			n[1]["scaled_size"] = ((n[1]["size"]-min(unified_bcws))/(max(unified_bcws) - min(unified_bcws)))*rating_scale
+	for G in graphs:
+		for n in G.nodes(data=True):
+			if "size" in n[1]:
+				n[1]["scaled_size"] = ((n[1]["size"]-min(unified_bcws))/(max(unified_bcws) - min(unified_bcws)))*rating_scale
 	for e in unified_graph.edges(data=True):
 		if "lb_weight" in e[2]:
 			e[2]['scaled_lb_weight'] = ((e[2]["lb_weight"]-min(unified_bclws))/(max(unified_bclws) - min(unified_bclws)))*rating_scale
+	for G in graphs:
+		for e in G.edges(data=True):
+			if "lb_weight" in e[2]:
+				e[2]['scaled_lb_weight'] = ((e[2]["lb_weight"]-min(unified_bclws))/(max(unified_bclws) - min(unified_bclws)))*rating_scale
 	print unified_graph.nodes(data=True)
 	return [graphs, unified_graph]
 
