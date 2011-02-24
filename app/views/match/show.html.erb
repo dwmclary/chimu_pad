@@ -9,12 +9,15 @@
  </script>
 
     <div id="sidebar">
+        <li><%= link_to @home_team_name, :controller => "team", :action => "show", :id =>@match.home_team_id %></li>
+        
         <div onclick="BUDEffect($(homeplays))">
-            <li><%= @home_team_name %></li>
+            Show/Hide
         </div>
        <p></p>
+       <li><%= link_to @away_team_name, :controller => "team", :action => "show", :id =>@match.away_team_id %></li>
         <div onclick="BUDEffect($(awayplays))">
-            <li><%= @away_team_name %></li>
+            Show/Hide
         </div>
          <div id="homeplays" style="font-size:11px; display:none">
                 <table>

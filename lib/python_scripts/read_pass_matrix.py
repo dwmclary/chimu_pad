@@ -77,9 +77,15 @@ def build_pass_matrix(tds, players):
 		pc = end_of_passes+1
 		pa = end_of_passes+2
 		accuracy = end_of_passes+3
-		pass_matrix[player_number]["passes_completed"] = int(tds[i][pc])
 		try:
-			pass_matrix[player_number]["passes_attempted"] = int(tds[i][pa])
+			if tds[i][pc] == "-":
+				pass_matrix[player_number]["passes_completed"] = 0
+			else:
+				pass_matrix[player_number]["passes_completed"] = int(tds[i][pc])
+			if tds[i][pa] == "-":
+				pass_matrix[player_number]["passes_attempted"] = 0
+			else:
+				pass_matrix[player_number]["passes_attempted"] = int(tds[i][pa])
 		except Exception:
 			print tds[i]
 			print pa

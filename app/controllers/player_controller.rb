@@ -2,6 +2,7 @@ class PlayerController < ApplicationController
   
   def index
     @players = Player.all()
+    @players.sort!{|p1,p2| p2.current_rating <=> p1.current_rating}
     respond_to do |format|
       format.html
     end
@@ -25,6 +26,7 @@ class PlayerController < ApplicationController
     ratings.each_with_index{|r,i|
       @rating_data.push(r)
     }
+    @average_ratings = @player.team.match_ratings()
     respond_to do |format|
       format.html
     end   

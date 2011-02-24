@@ -4,29 +4,45 @@
 <center>
     <%= @player.name%>
     </br>
-    <%= @player.team %> <%= @player.number%>
+    <%= @player.team.name %> <%= @player.number%>
 <div id="performance_lines" style="width:600px;height:300px;"></div>
 </center>
 <script type="text/javascript">
 var player_data = [];
+var team_data = [];
 var player_rating = <%= array_or_string_for_javascript(@rating_data)%>;
+var average_rating = <%= array_or_string_for_javascript(@average_ratings)%>;
 
 //populate player data
 for (var i = 0; i < <%=@rating_data.size()%>;i++)
 {
     player_data.push([i, parseFloat(player_rating[i])]);
+    team_data.push([i,parseFloat(average_rating[i])]);
 }
 var f = Flotr.draw(
 	$('performance_lines'), 
-	[{data:player_data,mouse:{track: true}}],
-	{mouse:{
-		track: true,
-		color: 'purple',
-		sensibility: 1, // => distance to show point get's smaller
-		trackDecimals: 2,
-		trackFormatter: function(obj){ return 'x = ' + obj.x +', y = ' + obj.y; }
-	}}
-);</script>
+        [ 
+    		{data:player_data, label:'Player Performance', lines:{show:true}, points:{show:true}, mouse:{track:true}},
+    		{data:team_data, label:'Team Performance', lines:{fill: true}}											
+    	],{
+    		legend:{
+    			position: 'sw', // => position the legend 'south-east'.
+    			backgroundColor: '#D2E8FF' // => a light blue background color.
+    		},
+    		yaxis:{
+    		    min:0,
+    		    max:10
+    		},
+    		mouse:{
+    		    track: true,
+        		color: 'purple',
+        		sensibility: 1, // => distance to show point get's smaller
+        		trackDecimals: 2,
+        		trackFormatter: function(obj){ return 'Rating = ' + obj.y; }
+    		}
+    	}
+    );
+</script>
 <div id="performance_table">
 <center>
 <table>

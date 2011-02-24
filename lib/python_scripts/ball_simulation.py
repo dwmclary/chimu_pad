@@ -31,6 +31,7 @@ to = lambda e:e[1]
 accuracy = lambda n:n[1]["accuracy"]
 in_capacity = lambda n,G:sum(map(weight,G.in_edges(n, data=True)))
 out_capacity = lambda n,G:sum(map(weight,G.out_edges(n, data=True)))
+scaling = lambda x:(x+7.0)*0.66
 ignored_nodes = ["shots_wide", "shots_on_goal","lost"]
 def determine_ball_count(G):
 	#for each player, compute the likelihood of losing the ball
@@ -229,10 +230,14 @@ def simulate_ball_movement(G1, G2):
 				normalized_graph.add_edge(pass_entry[0],pass_entry[1], weight=float(log10(bcLW)-meanLW), b_weight=bcLW, log_b=log10(bcLW))
 		for node in G.nodes(data=True):
 			if "size" in node[1]:
-				node[1]["scaled_size"] = ((node[1]["size"]-min(bcWs))/(max(bcWs) - min(bcWs)))*rating_scale
+				#mean-scaling is commented out
+				node[1]["scaled_size"] = scaling(node[1]["size"])
+				# node[1]["scaled_size"] = ((node[1]["size"]-min(bcWs))/(max(bcWs) - min(bcWs)))*rating_scale
 		for edge in G.edges(data=True):
 			if "lb_weight" in edge[2]:
-				edge[2]['scaled_lb_weight'] = ((edge[2]["lb_weight"]-min(bcLWs))/(max(bcLWs) - min(bcLWs)))*rating_scale
+				#mean-scaling is commented out
+				edge[2]['scaled_lb_weight'] = scaling(edge[2]['lb_weight'])
+				# edge[2]['scaled_lb_weight'] = ((edge[2]["lb_weight"]-min(bcLWs))/(max(bcLWs) - min(bcLWs)))*rating_scale
 		
 		unified_bcws += bcWs
 		unified_bclws += bcLWs
@@ -247,18 +252,16 @@ def simulate_ball_movement(G1, G2):
 
 	for n in unified_graph.nodes(data=True):
 		if "size" in n[1]:
-			n[1]["scaled_size"] = ((n[1]["size"]-min(unified_bcws))/(max(unified_bcws) - min(unified_bcws)))*rating_scale
-	for G in graphs:
-		for n in G.nodes(data=True):
-			if "size" in n[1]:
-				n[1]["scaled_size"] = ((n[1]["size"]-min(unified_bcws))/(max(unified_bcws) - min(unified_bcws)))*rating_scale
+			#mean-scaling is commented out
+			# n[1]["scaled_size"] = ((n[1]["size"]-min(unified_bcws))/(max(unified_bcws) - min(unified_bcws)))*rating_scale
+			n[1]["scaled_size"] = scaling(n[1]["size"])
+
 	for e in unified_graph.edges(data=True):
 		if "lb_weight" in e[2]:
-			e[2]['scaled_lb_weight'] = ((e[2]["lb_weight"]-min(unified_bclws))/(max(unified_bclws) - min(unified_bclws)))*rating_scale
-	for G in graphs:
-		for e in G.edges(data=True):
-			if "lb_weight" in e[2]:
-				e[2]['scaled_lb_weight'] = ((e[2]["lb_weight"]-min(unified_bclws))/(max(unified_bclws) - min(unified_bclws)))*rating_scale
+			#mean-scaling is commented out
+			e[2]['scaled_lb_weight'] = scaling(e[2]['lb_weight'])
+			# e[2]['scaled_lb_weight'] = ((e[2]["lb_weight"]-min(unified_bclws))/(max(unified_bclws) - min(unified_bclws)))*rating_scale
+
 	print unified_graph.nodes(data=True)
 	return [graphs, unified_graph]
 
