@@ -16,8 +16,8 @@ ActiveRecord::Schema.define(:version => 20110224233642) do
     t.integer  "match_id"
     t.integer  "team_id"
     t.string   "kind"
-    t.string   "nodes"
-    t.string   "edges"
+    t.text     "nodes"
+    t.text     "edges"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
@@ -71,9 +71,9 @@ ActiveRecord::Schema.define(:version => 20110224233642) do
     t.integer  "league_id",      :null => false
     t.string   "country"
     t.string   "abbreviation"
+    t.float    "current_rating"
     t.datetime "created_at"
     t.datetime "updated_at"
-    t.float    "current_rating"
   end
 
 end

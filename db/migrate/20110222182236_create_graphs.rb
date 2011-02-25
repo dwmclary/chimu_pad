@@ -4,8 +4,8 @@ class CreateGraphs < ActiveRecord::Migration
       t.integer :match_id
       t.integer :team_id
       t.string :kind
-      t.string :nodes
-      t.string :edges
+      t.text :nodes
+      t.text :edges
 
       t.timestamps
     end

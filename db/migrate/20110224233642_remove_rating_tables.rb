@@ -2,7 +2,7 @@ class RemoveRatingTables < ActiveRecord::Migration
   def self.up
     drop_table :player_ratings
     drop_table :team_ratings
-    add_column :teams, :current_rating, :float
+    
   end
 
   def self.down
@@ -24,6 +24,5 @@ class RemoveRatingTables < ActiveRecord::Migration
       t.timestamps
     end
     
-    remove_column :teams, :current_rating
   end
 end
