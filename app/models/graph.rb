@@ -44,7 +44,11 @@ class Graph < ActiveRecord::Base
       
       if size
         size = size.split(":")
-        size = {"size" => size.last.to_f(), "color"=>set_color(size.last.to_f()), "x"=>x, "y"=>y}
+        if size.last.to_f() > 0
+          size = {"size" => size.last.to_f(), "color"=>set_color(size.last.to_f()), "x"=>x, "y"=>y}
+        else
+          size = {"size" => 5.0, "color"=>"FFFFE5", "x"=>x, "y"=>y}
+        end
       else
         size = {"size" => 5.0, "color"=>"43A2CA"}
       end
@@ -103,7 +107,7 @@ class Graph < ActiveRecord::Base
   end
   
   def set_color(rating)
-    colors = {0 => "#FFF00",1 => "#FFF00", 2 => "#FFFCC", 3 => "#FFEDA0",4=> "#FED976", 5=>"#FEB24C" ,6=> "#FD8D3C" ,7=> "#FC4E2A", 8=> "#E31A1C",9=>"#BD0026", 10=>"#800026"}
+    colors = {0 => "FFFAA",1 => "FFFBB", 2 => "FFFCC", 3 => "FFEDA0",4=> "FED976", 5=>"FEB24C" ,6=> "FD8D3C" ,7=> "FC4E2A", 8=> "E31A1C",9=>"BD0026", 10=>"800026"}
     return colors[rating.ceil()]
   end
 end

@@ -1,7 +1,7 @@
 <% i = 0 %>
 <% for p in @plays %>
 <tr>
-<td><%= @opponents[i]%></td>
+<td><%= link_to @opponents[i], :controller => "match", :action => "show", :id => p.match_id%></td>
 <td><%= p.shots %></td>
 <td><%= p.goals %></td>
 <td><%= p.passes_attempted %></td>

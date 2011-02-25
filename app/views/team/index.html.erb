@@ -1,0 +1,14 @@
+<center>
+<div id="leagueTeams">
+    <table>
+    <% for c in @team_columns%>
+    <tr>
+        <% black = true %>
+        <%for t in c %>
+            <td><p><%= link_to t.name+"(%.2f"%t.current_rating+")", :controller => "team", :action => "show", :id => t.id%></p></td>
+        <%end%>
+    </tr>
+    <% end %>
+    </table>
+</div>
+</center>

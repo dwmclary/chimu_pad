@@ -26,7 +26,8 @@ class PlayerController < ApplicationController
     ratings.each_with_index{|r,i|
       @rating_data.push(r)
     }
-    @average_ratings = @player.team.match_ratings()
+    @team = Team.find(@player.team_id)
+    @average_ratings = @team.match_ratings()
     respond_to do |format|
       format.html
     end   

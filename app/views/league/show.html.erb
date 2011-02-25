@@ -39,8 +39,14 @@ function BUDEffect(element){
 
 <center>
 <div id="leagueTeams" style="display: none">
-    <% for t in @league.teams %>
-    <p><%= link_to t.name, :controller => "team", :action => "show", :id => t.id%></p>
+    <table>
+    <% for c in @team_columns%>
+    <tr>
+        <%for t in c %>
+            <td><p><%= link_to t.name, :controller => "team", :action => "show", :id => t.id%></p></td>
+        <%end%>
+    </tr>
     <% end %>
+    </table>
 </div>
 </center>

@@ -20,7 +20,7 @@
     				<ul>
     					<li class="current_page_item"><%=link_to "Home", root_url%></li>
     					<li><%=link_to "Leagues", :controller => "league", :action => "show", :id => 1%></li>
-    					<li><a href="#">Teams</a></li>
+    					<li><%= link_to "Teams", :controller => "team", :action => "index" %></li>
     					<li><%=link_to "Players", :controller => "player", :action => "index"%></li>
     					<li><a href="#">About</a></li>
     				</ul>

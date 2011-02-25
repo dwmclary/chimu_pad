@@ -11,12 +11,17 @@ function BUDEffect(element){
 }
 </script>
 
-<div id="performance_lines" style="width:600px;height:300px;float:right;margin-right:400px"></div>
 <div id="sidebar">
 <div onclick="BUDEffect($(roster))">
    <li> Roster </li>
 </div>    
 </div>
+<div id="teamName" style="float:center;margin-left:500px">
+<h2> <%= @team.name %> </h2>
+<h3>Average Rating: <span><%='%.2f' % @team.current_rating %></span></h3>
+</div>
+<div id="performance_lines" style="width:600px;height:300px;float:right;margin-right:325px"></div>
+
 <script type="text/javascript">
 var team_data = [];
 var best_data = [];
@@ -60,15 +65,14 @@ var f = Flotr.draw(
     );
 </script>
 
-<center>
 
 <div id = "roster" style="display: none;float:left">
     <%=render "roster"%>
 </div>
-</center>
 
 
-<div id = "matches" style="float:bottom;margin-left:390px;">
+<div id = "teammatches">
     <%= render "match_list" %>
 </div>
+
 

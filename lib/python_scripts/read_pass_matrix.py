@@ -289,10 +289,12 @@ def main(match_id, pass_file, shots_file, teams, matches, players, previous_play
 			team_id = G.graph["team"]
 			last_id += 1
 			graph_id = last_id
+			nx.write_gml(G,open("Match_m"+str(match_id)+"_t"+str(team_id)+".gml", "w"))
 			print >> f, str(graph_id)+","+str(match_id)+","+str(team_id)+","+"single,"+'"'+g_nodes+'","'+g_edges+'"'
 		last_id += 1
 		graph_id = last_id
 		u_nodes, u_edges = graph_to_js_list(unified_graph)
+		nx.write_gml(unified_graph,open("Match_m"+str(match_id)+".gml", "w"))
 		print >> f, str(graph_id)+","+str(match_id)+","+","+"double,"+'"'+u_nodes+'","'+u_edges+'"'
 		f.close()
 

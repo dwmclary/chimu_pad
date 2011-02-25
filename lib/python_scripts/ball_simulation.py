@@ -31,7 +31,7 @@ to = lambda e:e[1]
 accuracy = lambda n:n[1]["accuracy"]
 in_capacity = lambda n,G:sum(map(weight,G.in_edges(n, data=True)))
 out_capacity = lambda n,G:sum(map(weight,G.out_edges(n, data=True)))
-scaling = lambda x:(x+7.0)*0.66
+scaling = lambda x:(x+7.0)
 ignored_nodes = ["shots_wide", "shots_on_goal","lost"]
 def determine_ball_count(G):
 	#for each player, compute the likelihood of losing the ball
@@ -231,7 +231,10 @@ def simulate_ball_movement(G1, G2):
 		for node in G.nodes(data=True):
 			if "size" in node[1]:
 				#mean-scaling is commented out
-				node[1]["scaled_size"] = scaling(node[1]["size"])
+				if scaling(node[1]["size"]) < 0:
+					node[1]["scaled_size"] = 0.0
+				else:
+					node[1]["scaled_size"] = scaling(node[1]["size"])
 				# node[1]["scaled_size"] = ((node[1]["size"]-min(bcWs))/(max(bcWs) - min(bcWs)))*rating_scale
 		for edge in G.edges(data=True):
 			if "lb_weight" in edge[2]:
@@ -254,7 +257,10 @@ def simulate_ball_movement(G1, G2):
 		if "size" in n[1]:
 			#mean-scaling is commented out
 			# n[1]["scaled_size"] = ((n[1]["size"]-min(unified_bcws))/(max(unified_bcws) - min(unified_bcws)))*rating_scale
-			n[1]["scaled_size"] = scaling(n[1]["size"])
+			if scaling(n[1]["size"]) < 0:
+				n[1]["scaled_size"] = 0.0
+			else:
+				n[1]["scaled_size"] = scaling(n[1]["size"])
 
 	for e in unified_graph.edges(data=True):
 		if "lb_weight" in e[2]:

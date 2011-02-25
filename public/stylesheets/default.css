@@ -95,6 +95,10 @@ a:hover {
 	color: #EB1D1D;
 }
 
+h3 span{
+	color: #0C0C0C;
+}
+
 #logo p {
 	margin: -5px 0px 0px 0px;
 	padding: 0px 0 0 px;
@@ -203,44 +207,6 @@ a:hover {
 
 #page-bgtop {
 }
-/* Content */
-
-#content {
-	float: left;
-	width: 660px;
-	padding: 0px 0px 0px 0px;
-	background: #FFFFFF;
-}
-
-.post {
-	margin-bottom: 30px;
-	padding: 0px 0px;
-}
-
-.post .title {
-	height: 41px;
-	padding: 0px 0px 0px 0px;
-}
-
-.post .title a {
-	letter-spacing: -2px;
-	text-decoration: none;
-	text-transform: lowercase;
-	color: #414141;
-	border: none;
-}
-
-.post .entry {
-	padding: 10px 0px 20px 0px;
-	padding-bottom: 20px;
-	border-bottom: 1px solid #BBBBBB;
-	text-align: justify;
-}
-
-.post .meta {
-	overflow: hidden;
-	padding-top: 10px;
-}
 
 /* Sidebar */
 
@@ -313,26 +279,6 @@ a:hover {
 	text-decoration: underline;
 }
 
-/* Calendar */
-
-#calendar {
-}
-
-#calendar_wrap {
-	padding: 20px;
-}
-
-#calendar table {
-	width: 100%;
-}
-
-#calendar tbody td {
-	text-align: center;
-}
-
-#calendar #next {
-	text-align: right;
-}
 
 /* Footer */
 
@@ -362,5 +308,6 @@ a:hover {
 
 #homegraph { width: 500px; border: 1px solid black; float: left}
 #awaygraph { width: 500px; border: 1px solid black; float: right}
-
+#roster { width: 200px; float: left}
+#teammatches { width: 500px; float: right; margin-right:350px;}
 .clear { clear: both;}

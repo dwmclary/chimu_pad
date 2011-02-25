@@ -62,17 +62,16 @@
                 // pt:   {x:#, y:#}  node position in screen coords
 
                 // draw a rectangle centered at pt
-                var w = node.data.size*2
-                ctx.fillStyle = node.data.color
+                var w = node.data.size*2.5
                 ctx.fillStyle = node.data.color
                 if (node.name == "lost"){
-                    ctx.fillRect(pt.x-w/2, pt.y-w/2, w,w)
+                    ctx.fillRect(pt.x-w/2, pt.y-w/2, w*2.5,w*2.5)
                 }
                 else if (node.name=="shots_on_goal"){
-                    ctx.fillRect(pt.x-w/2, pt.y-w/2, w,w)
+                    ctx.fillRect(pt.x-w/2, pt.y-w/2,w*2.5,w*2.5)
                 }
                 else if (node.name=="shots_wide"){
-                    ctx.fillRect(pt.x-w/2, pt.y-w/2, w,w)
+                    ctx.fillRect(pt.x-w/2, pt.y-w/2,w*2.5,w*2.5)
                 }
                 else{
                     var startAngle = 0                     // Starting point on circle
@@ -82,9 +81,10 @@
                     ctx.closePath()
                     ctx.fill()
                 }
-                ctx.fillStyle = "white"
-                ctx.font = "bold 12px sans-serif"
-                ctx.fillText(node.name, pt.x, pt.y)
+                ctx.fillStyle = "DarkOrchid"
+                ctx.font = "bold 14px sans-serif"
+                ctx.fillText(node.name, pt.x-w, pt.y)
+                ctx.fillStyle = node.data.color
               })    			
             },
 

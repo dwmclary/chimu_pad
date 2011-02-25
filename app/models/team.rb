@@ -25,12 +25,11 @@ class Team < ActiveRecord::Base
   end
   
   def average_rating
-    match_ratings = self.average_rating()
+    match_ratings = self.match_ratings()
     rating = 0.0
     if match_ratings.size() > 0:
-      rating match_ratings.sum/match_ratings.size()
+      self.current_rating = match_ratings.sum/match_ratings.size()
     end
-    return rating
   end
     
     
