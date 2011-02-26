@@ -24,11 +24,25 @@ class Team < ActiveRecord::Base
     return all_ratings
   end
   
+  def match_count
+    home_matches = Match.count(:conditions => ["home_team_id = (?)",self.id])
+    away_matches = Match.count(:conditions => ["away_team_id = (?)",self.id])
+    return home_matches + away_matches
+  end
+  
   def average_rating
     match_ratings = self.match_ratings()
-    rating = 0.0
+    # we need to find the maximum Match count for all teams
+    matches = Team.all().map{|t| t.match_count()}
+    max_matches = matches.max
+    while match_ratings.size() < max_matches do
+      match_ratings.push(0.0)
+    end
+    
     if match_ratings.size() > 0:
-      self.current_rating = match_ratings.sum/match_ratings.size()
+      self.current_rating = match_ratings.sum/max_matches
+    else
+      self.current_rating = 0.0
     end
   end
     

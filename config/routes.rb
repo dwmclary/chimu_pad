@@ -38,6 +38,7 @@ ChimuPad::Application.routes.draw do
   end
   resources :match
   resources :player
+  resources :about
     
 
   # Sample resource route with more complex sub-resources

@@ -11,6 +11,7 @@ class MatchController < ApplicationController
     hp_ids = home_players.map(&:id)
     aw_ids = away_players.map(&:id)
     @home_plays = Play.all(:conditions => ["match_id = (?) AND player_id IN (?)", @match.id, hp_ids])
+    puts @home_plays.size()
     @home_plays.sort!{|m1,m2| m2.rating <=> m1.rating}
     @away_plays = Play.all(:conditions => ["match_id = (?) AND player_id IN (?)", @match.id, aw_ids])
     @away_plays.sort!{|m1,m2| m2.rating <=> m1.rating}

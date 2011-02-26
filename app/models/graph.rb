@@ -28,6 +28,22 @@ class Graph < ActiveRecord::Base
     return edgelist
   end
   
+  def get_node_ids
+    ignored_nodes = ["lost", "shots_on_goal", "shots_wide"]
+    nodes = {}
+    nodelist = self.nodes.split(",")
+    nodelist.each{|node|
+      node_id, size = node.split()
+      if not ignored_nodes.include? node_id
+        if size
+          size = size.split(":").last.to_f()
+          nodes[node_id.to_i()] = size
+        end
+      end
+    }
+    return nodes
+  end
+  
   def get_nodelist
     ignored_nodes = ["lost", "shots_on_goal", "shots_wide"]
     nodelist = []
@@ -42,7 +58,7 @@ class Graph < ActiveRecord::Base
         node_id = player.number
       end
       
-      if size
+      if size and not ignored_nodes.include? node_id
         size = size.split(":")
         if size.last.to_f() > 0
           size = {"size" => size.last.to_f(), "color"=>set_color(size.last.to_f()), "x"=>x, "y"=>y}

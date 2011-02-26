@@ -31,7 +31,7 @@ to = lambda e:e[1]
 accuracy = lambda n:n[1]["accuracy"]
 in_capacity = lambda n,G:sum(map(weight,G.in_edges(n, data=True)))
 out_capacity = lambda n,G:sum(map(weight,G.out_edges(n, data=True)))
-scaling = lambda x:(x+7.0)
+scaling = lambda x:(x+18.45)*0.465
 ignored_nodes = ["shots_wide", "shots_on_goal","lost"]
 def determine_ball_count(G):
 	#for each player, compute the likelihood of losing the ball
