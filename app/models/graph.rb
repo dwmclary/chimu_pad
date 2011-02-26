@@ -124,6 +124,6 @@ class Graph < ActiveRecord::Base
   
   def set_color(rating)
     colors = {0 => "FFFAA",1 => "FFFBB", 2 => "FFFCC", 3 => "FFEDA0",4=> "FED976", 5=>"FEB24C" ,6=> "FD8D3C" ,7=> "FC4E2A", 8=> "E31A1C",9=>"BD0026", 10=>"800026"}
-    return colors[rating.ceil()]
+    return colors[rating.floor()]
   end
 end
