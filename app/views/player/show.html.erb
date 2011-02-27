@@ -6,7 +6,7 @@
     </br>
     <%= @team.name %> <%= @player.number%>
     </br>
-    <span>Average Rating</span> <%= @player.current_rating %>
+    <span>Average Rating</span> <%= '%.2f' % @player.current_rating %>
 <div id="performance_lines" style="width:600px;height:300px;"></div>
 </center>
 <script type="text/javascript">
