@@ -7,10 +7,11 @@ namespace :player do
     players.each{|p|
       puts p.name    
       ratings = p.ratings()
-      while ratings.size < max_ratings do
-        ratings.push(0.0)
+      if ratings.size > 0:
+        p.current_rating = ratings.sum/ratings.size
+      else
+        p.current_rating = 0.0
       end
-      p.current_rating = ratings.sum/max_ratings
       p.save()
     }
   end
