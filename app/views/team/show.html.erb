@@ -16,10 +16,11 @@ function BUDEffect(element){
    <li> Roster </li>
 </div>    
 </div>
-<div id="teamName" style="float:center;margin-left:500px">
+<div id="teamName" style="float:center;margin-left:600px">
 <h2> <%= @team.name %> </h2>
 <h3>Average Rating: <span><%='%.2f' % @team.current_rating %></span></h3>
 </div>
+
 <div id="performance_lines" style="width:600px;height:300px;float:right;margin-right:325px"></div>
 
 <script type="text/javascript">
@@ -33,9 +34,9 @@ var worst_rating = <%= array_or_string_for_javascript(@worst_ratings)%>;
 //populate player data
 for (var i = 0; i < <%=@match_ratings.size()%>;i++)
 {
-    team_data.push([i, parseFloat(average_rating[i])]);
-    best_data.push([i, parseFloat(best_rating[i])]);
-    worst_data.push([i, parseFloat(worst_rating[i])]);
+    team_data.push([i+1, parseFloat(average_rating[i])]);
+    best_data.push([i+1, parseFloat(best_rating[i])]);
+    worst_data.push([i+1, parseFloat(worst_rating[i])]);
     
 }
 var f = Flotr.draw(
@@ -66,7 +67,7 @@ var f = Flotr.draw(
 </script>
 
 
-<div id = "roster" style="display: none;float:left">
+<div id = "roster" style="display: none;float:left;margin-left:100px">
     <%=render "roster"%>
 </div>
 

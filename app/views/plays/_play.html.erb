@@ -1,5 +1,5 @@
 <tr>
-    <td><%p = Player.find(play.player_id)%></td>
+    <%p = Player.find(play.player_id)%>
     <td><%= link_to p.name, :controller => "player", :action => "show", :id => p.id %></td>
     <td><%= p.number %></td>
     <td><%= play.position %></td>

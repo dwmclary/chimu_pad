@@ -1,13 +1,10 @@
 class TeamController < ApplicationController
   
   def index
-    teams = Team.where(:league_id => 1)
-    teams.each{|team|
-      team.average_rating()
-    }
-    teams.sort!{|t1,t2| t2.current_rating <=> t1.current_rating}
-    @team_ratings = teams.map(&:current_rating)
-    @team_columns = get_team_columns(teams)
+    @teams = Team.where(:league_id => 1)
+    @teams.sort!{|t1,t2| t2.current_rating <=> t1.current_rating}
+    @team_ratings = @teams.map(&:current_rating)
+    @team_columns = get_team_columns(@teams)
     respond_to do |format|
       format.html 
     end

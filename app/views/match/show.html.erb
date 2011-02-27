@@ -20,7 +20,7 @@
             Show/Hide
         </div>
          <div id="homeplays" style="font-size:11px; display:none">
-                <table>
+                <table class="pretty-table">
                 <%= render "playhead"%>
                 <tbody>
                 <% for p in @home_plays %>
@@ -30,7 +30,7 @@
                 </table>
         </div>
         <div id="awayplays" style="font-size:11px; display:none">
-                <table>
+                <table class="pretty-table">
                 <%= render "playhead"%>
                 <tbody>
                 <% for p in @away_plays %>

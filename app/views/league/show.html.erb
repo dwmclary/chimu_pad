@@ -8,7 +8,7 @@ function BUDEffect(element){
 }
 </script>
 
-<div id="sidebar">
+<div id="sidebar" >
 <h2>View</h2>
 <div onclick="BUDEffect($(matches))">
     <li>Matches</li>
@@ -20,7 +20,7 @@ function BUDEffect(element){
 
 </div>
 <center>
-<div id="matches" style="display: none">
+<div id="matches">
     <table id="leagueMatchTable">
     <thead>
         <th>Home Team</th>
@@ -31,14 +31,16 @@ function BUDEffect(element){
         <th>Date</th>
     </thead>
     <tbody>
-        <%= render(@league.matches)%>
+        <%= render(@matches)%>
     </tbody>
+    <p><%= will_paginate @matches %></p>
     </table>
+    
 </div>
 </center>
 
 <center>
-<div id="leagueTeams" style="display: none">
+<div id="leagueTeams" style="display: none;margin-left:400px;padding-top:50px">
     <table>
     <% for c in @team_columns%>
     <tr>
@@ -48,5 +50,7 @@ function BUDEffect(element){
     </tr>
     <% end %>
     </table>
+    <%= render "team/bargraph"%>
+    
 </div>
 </center>

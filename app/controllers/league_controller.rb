@@ -8,8 +8,9 @@ class LeagueController < ApplicationController
   
   def show
     @league = League.find(params["id"])
-    @league.matches.sort!{|m1,m2| m1.match_date <=> m2.match_date}
-    @team_columns = get_team_columns(@league.teams)
+    @matches = Match.paginate :page => params[:page], :order => "match_date asc", :per_page => 10
+    @teams = @league.teams.sort{|t1,t2|t2.current_rating <=> t1.current_rating}
+    @team_columns = get_team_columns(@teams)
     respond_to do |format|
       format.html
     end

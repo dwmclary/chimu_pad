@@ -64,6 +64,7 @@ a:hover {
 	width: 1000px;
 	height: 50px;
 	margin: 0px auto 20px auto;
+	margin-left:100px;
 	
 }
 
@@ -213,8 +214,8 @@ h3 span{
 #sidebar {
 	float: left;
 	width: 300px;
-	margin: 0px;
 	padding: 0px 0px 0px 0px;
+	margin-left:86px;
 }
 
 #sidebar ul {
@@ -311,3 +312,5 @@ h3 span{
 #roster { width: 200px; float: left}
 #teammatches { width: 500px; float: right; margin-right:350px;}
 .clear { clear: both;}
+.pretty-table { border-collapse: collapse;}
+.pretty-table th, .pretty-table td { padding: 5px; }
