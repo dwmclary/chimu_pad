@@ -2,5 +2,5 @@
     <td><%= link_to player.name, :controller => "player", :action => "show", :id => player.id %></td>
     <td><%= player.number %></td>
     <td><%= player.position %></td>
-    <td><%= '%.2f' % player.average_rating() %></td>
+    <td><%= '%.2f' % player.current_rating %></td>
 </tr>

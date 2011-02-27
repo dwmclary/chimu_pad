@@ -80,6 +80,9 @@
                     ctx.arc(pt.x-w/2, pt.y-w/2, w, startAngle, endAngle, true);
                     ctx.closePath()
                     ctx.fill()
+                    ctx.fillStyle = "black"
+                    ctx.stroke()
+                    ctx.fillStyle = node.data.color
                 }
                 ctx.fillStyle = "DarkOrchid"
                 ctx.font = "bold 14px sans-serif"
@@ -144,8 +147,8 @@
         }    
 
         $(document).ready(function(){
-          var sys = arbor.ParticleSystem(1000, 800, 0.9) // create the system with sensible repulsion/stiffness/friction
-          sys.parameters({gravity:true}) // use center-gravity to make the graph settle nicely (ymmv)
+          var sys = arbor.ParticleSystem(1500, 1000,0.95) // create the system with sensible repulsion/stiffness/friction
+          sys.parameters({gravity:false}) // use center-gravity to make the graph settle nicely (ymmv)
           sys.renderer = Renderer("#viewport") // our newly created renderer will have its .init() method called shortly by sys...
 
           // add some nodes to the graph and watch it go...

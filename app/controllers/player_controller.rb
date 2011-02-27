@@ -1,8 +1,7 @@
 class PlayerController < ApplicationController
   
   def index
-    @players = Player.all()
-    @players.sort!{|p1,p2| p2.current_rating <=> p1.current_rating}
+    @players = Player.paginate :page => params[:page], :order => "current_rating desc", :per_page => 10
     respond_to do |format|
       format.html
     end

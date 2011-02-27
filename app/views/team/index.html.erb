@@ -1,11 +1,14 @@
+<%= javascript_include_tag :defaults %>
+<%= javascript_include_tag "flotr"%>
+<%= javascript_include_tag "excanvas"%>
+<%= csrf_meta_tag %>
 <center>
 <div id="leagueTeams">
     <table>
     <% for c in @team_columns%>
     <tr>
-        <% black = true %>
         <%for t in c %>
-            <td><p><%= link_to t.name+"(%.2f"%t.current_rating+")", :controller => "team", :action => "show", :id => t.id%></p></td>
+            <td><p><%= link_to t.name, :controller => "team", :action => "show", :id => t.id%></p></td>
         <%end%>
     </tr>
     <% end %>

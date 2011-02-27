@@ -26,7 +26,9 @@ ChimuPad::Application.configure do
 
   # Use a different cache store in production
   # config.cache_store = :mem_cache_store
-
+  require 'active_support/cache/dalli_store23'
+  config.cache_store = :dalli_store
+  
   # Disable Rails's static asset server
   # In production, Apache or nginx will already do this
   config.serve_static_assets = true

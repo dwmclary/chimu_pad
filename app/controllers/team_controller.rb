@@ -6,6 +6,7 @@ class TeamController < ApplicationController
       team.average_rating()
     }
     teams.sort!{|t1,t2| t2.current_rating <=> t1.current_rating}
+    @team_ratings = teams.map(&:current_rating)
     @team_columns = get_team_columns(teams)
     respond_to do |format|
       format.html 
@@ -19,17 +20,20 @@ class TeamController < ApplicationController
     away_matches = Match.where(:away_team_id => @team.id)
     @matches = home_matches + away_matches
     @players = @team.players
-    @players.sort!{|p1,p2| p2.current_rating <=> p1.current_rating}
-    @matches.sort!{|m1,m2| m1.match_date <=> m2.match_date}
-    @match_ratings = @team.match_ratings()
-    @best_ratings = @players.first.ratings()
-    worst_player = nil
-    @players.reverse_each{|x|
-      if x.ratings().size() > 0:
-        worst_player = x
+    play_counts = @players.map{|p| p.play_count()}
+    max_plays = play_counts.max
+    @best_players = []
+    @players.each{|p|
+      if p.play_count() == max_plays
+        @best_players.push(p)
       end
     }
-    @worst_ratings = worst_player.ratings()
+    @best_players.sort!{|p1,p2| p2.current_rating <=> p1.current_rating}
+    @matches.sort!{|m1,m2| m1.match_date <=> m2.match_date}
+    @players.sort!{|p1,p2| p2.current_rating <=> p1.current_rating}
+    @match_ratings = @team.match_ratings()
+    @best_ratings = @best_players.first.ratings()
+    @worst_ratings = @best_players.last.ratings()
     respond_to do |format|
       format.html
     end
