@@ -5,7 +5,7 @@ namespace :team do
     matches = Team.all().map{|t| t.match_count()}
     max_matches = matches.max
     teams.each{|t|
-      puts t.name
+      # puts t.name
       match_ratings = t.match_ratings()
       while match_ratings.size() < max_matches do
         match_ratings.push(0.0)

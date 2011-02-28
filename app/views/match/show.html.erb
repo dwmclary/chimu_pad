@@ -9,13 +9,22 @@
  </script>
 
     <div id="sidebar">
-        <li><%= link_to @home_team_name, :controller => "team", :action => "show", :id =>@match.home_team_id %></li>
-        
+        <li><%= link_to @home_team_name, :controller => "team", :action => "show", :id =>@match.home_team_id %>
+        <%= @match.home_team_score %>
+        <% if @match.home_team_score > @match.away_team_score%>
+        <%= image_tag "win_shield.png"%>
+        <% end %>
+        </li>
         <div onclick="BUDEffect($(homeplays))">
             Show/Hide
         </div>
        <p></p>
-       <li><%= link_to @away_team_name, :controller => "team", :action => "show", :id =>@match.away_team_id %></li>
+       <li><%= link_to @away_team_name, :controller => "team", :action => "show", :id =>@match.away_team_id %>
+       <%= @match.away_team_score %>
+       <% if @match.home_team_score < @match.away_team_score%>
+       <%= image_tag "win_shield.png"%>
+       <% end %>
+       </li>
         <div onclick="BUDEffect($(awayplays))">
             Show/Hide
         </div>
