@@ -1,0 +1,289 @@
+--- 
+teams_024: 
+  name: Serbia
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: Serbia
+  current_rating: 3.35885278506623
+  updated_at: 2011-02-27 07:08:07.378023
+  id: 24
+  abbreviation: SRB
+teams_013: 
+  name: Honduras
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: Honduras
+  current_rating: 2.92954591352429
+  updated_at: 2011-02-27 07:08:06.814789
+  id: 13
+  abbreviation: HON
+teams_002: 
+  name: Argentina
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: Argentina
+  current_rating: 4.41833097779004
+  updated_at: 2011-02-27 07:08:05.968201
+  id: 2
+  abbreviation: ARG
+teams_025: 
+  name: Slovakia
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: Slovakia
+  current_rating: 3.7091548167802
+  updated_at: 2011-02-27 07:08:07.405320
+  id: 25
+  abbreviation: SVK
+teams_014: 
+  name: Italy
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: Italy
+  current_rating: 3.17266518720041
+  updated_at: 2011-02-27 07:08:06.872197
+  id: 14
+  abbreviation: ITA
+teams_003: 
+  name: Australia
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: Australia
+  current_rating: 2.94155571431806
+  updated_at: 2011-02-27 07:08:06.048340
+  id: 3
+  abbreviation: AUS
+teams_026: 
+  name: Slovenia
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: Slovenia
+  current_rating: 2.79452491126924
+  updated_at: 2011-02-27 07:08:07.437413
+  id: 26
+  abbreviation: SVN
+teams_015: 
+  name: Ivory Coast
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: Ivory Coast
+  current_rating: 3.20947766455469
+  updated_at: 2011-02-27 07:08:06.921104
+  id: 15
+  abbreviation: CIV
+teams_004: 
+  name: Brazil
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: Brazil
+  current_rating: 5.69259355041268
+  updated_at: 2011-02-27 07:08:06.248075
+  id: 4
+  abbreviation: BRA
+teams_027: 
+  name: South Africa
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: South Africa
+  current_rating: 3.08519866664413
+  updated_at: 2011-02-27 07:08:07.460255
+  id: 27
+  abbreviation: RSA
+teams_016: 
+  name: Japan
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: Japan
+  current_rating: 3.70850228540459
+  updated_at: 2011-02-27 07:08:06.965519
+  id: 16
+  abbreviation: JPN
+teams_005: 
+  name: Cameroon
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: Cameroon
+  current_rating: 3.28222256983571
+  updated_at: 2011-02-27 07:08:06.299018
+  id: 5
+  abbreviation: CMR
+teams_028: 
+  name: South Korea
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: South Korea
+  current_rating: 4.17350662747552
+  updated_at: 2011-02-27 07:08:07.482187
+  id: 28
+  abbreviation: KOR
+teams_017: 
+  name: Mexico
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: Mexico
+  current_rating: 4.41099169008356
+  updated_at: 2011-02-27 07:08:07.062146
+  id: 17
+  abbreviation: MEX
+teams_006: 
+  name: Chile
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: Chile
+  current_rating: 4.32638085996408
+  updated_at: 2011-02-27 07:08:06.346534
+  id: 6
+  abbreviation: CHI
+teams_029: 
+  name: Spain
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: Spain
+  current_rating: 7.41281536670247
+  updated_at: 2011-02-27 07:08:07.521905
+  id: 29
+  abbreviation: ESP
+teams_018: 
+  name: Netherlands
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: Netherlands
+  current_rating: 6.98933862443524
+  updated_at: 2011-02-27 07:08:07.132394
+  id: 18
+  abbreviation: NED
+teams_007: 
+  name: Denmark
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: Denmark
+  current_rating: 3.27925487959031
+  updated_at: 2011-02-27 07:08:06.378603
+  id: 7
+  abbreviation: DEN
+teams_030: 
+  name: Switzerland
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: Switzerland
+  current_rating: 2.96440177748204
+  updated_at: 2011-02-27 07:08:07.560307
+  id: 30
+  abbreviation: SUI
+teams_019: 
+  name: New Zealand
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: New Zealand
+  current_rating: 1.4502815613718
+  updated_at: 2011-02-27 07:08:07.268585
+  id: 19
+  abbreviation: NZL
+teams_008: 
+  name: England
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: England
+  current_rating: 4.18006237975564
+  updated_at: 2011-02-27 07:08:06.410891
+  id: 8
+  abbreviation: ENG
+teams_031: 
+  name: United States
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: United States
+  current_rating: 4.26379709908355
+  updated_at: 2011-02-27 07:08:07.598555
+  id: 31
+  abbreviation: USA
+teams_020: 
+  name: Nigeria
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: Nigeria
+  current_rating: 2.9908532065201
+  updated_at: 2011-02-27 07:08:07.287712
+  id: 20
+  abbreviation: NGA
+teams_009: 
+  name: France
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: France
+  current_rating: 2.88515405139834
+  updated_at: 2011-02-27 07:08:06.528649
+  id: 9
+  abbreviation: FRA
+teams_032: 
+  name: Uruguay
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: Uruguay
+  current_rating: 6.14095460899878
+  updated_at: 2011-02-27 07:08:07.650488
+  id: 32
+  abbreviation: URU
+teams_021: 
+  name: North Korea
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: North Korea
+  current_rating: 3.10458660215529
+  updated_at: 2011-02-27 07:08:07.306599
+  id: 21
+  abbreviation: PRK
+teams_010: 
+  name: Germany
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: Germany
+  current_rating: 7.31169248749898
+  updated_at: 2011-02-27 07:08:06.617529
+  id: 10
+  abbreviation: GER
+teams_022: 
+  name: Paraguay
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: Paraguay
+  current_rating: 3.88457408545663
+  updated_at: 2011-02-27 07:08:07.336560
+  id: 22
+  abbreviation: PAR
+teams_011: 
+  name: Ghana
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: Ghana
+  current_rating: 5.06846522836027
+  updated_at: 2011-02-27 07:08:06.663559
+  id: 11
+  abbreviation: GHA
+teams_023: 
+  name: Portugal
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: Portugal
+  current_rating: 4.11179941435184
+  updated_at: 2011-02-27 07:08:07.360829
+  id: 23
+  abbreviation: POR
+teams_012: 
+  name: Greece
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: Greece
+  current_rating: 2.2471619433214
+  updated_at: 2011-02-27 07:08:06.706996
+  id: 12
+  abbreviation: GRE
+teams_001: 
+  name: Algeria
+  league_id: 1
+  created_at: 2011-02-26 00:36:20
+  country: Algeria
+  current_rating: 3.16421692994245
+  updated_at: 2011-02-27 07:08:05.928665
+  id: 1
+  abbreviation: ALG

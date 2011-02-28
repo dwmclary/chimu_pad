@@ -1,0 +1,8097 @@
+--- 
+players_700: 
+  name: Diego FORLAN
+  number: 10
+  position: FW
+  comment: Atletico Madrid (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.94849093553714
+  updated_at: 2011-02-27 23:08:52.067125
+  id: 700
+  team_id: 32
+  team: URU
+players_698: 
+  name: Sebastian EGUREN
+  number: 8
+  position: MF
+  comment: AIK Stockholm (SWE)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 698
+  team_id: 32
+  team: URU
+players_510: 
+  name: Denis CANIZA
+  number: 4
+  position: DF
+  comment: Leon (MEX)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 510
+  team_id: 22
+  team: PAR
+players_320: 
+  name: Emilio IZAGUIRRE
+  number: 21
+  position: DF
+  comment: Motagua (HON)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.230318855785
+  updated_at: 2011-02-27 23:08:49.461026
+  id: 320
+  team_id: 13
+  team: HON
+players_130: 
+  name: Jean BEAUSEJOUR
+  number: 15
+  position: FW
+  comment: America (MEX)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.0555553608225
+  updated_at: 2011-02-27 23:08:48.274669
+  id: 130
+  team_id: 6
+  team: CHI
+players_701: 
+  name: Alvaro PEREIRA
+  number: 11
+  position: MF
+  comment: Porto (POR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.50763038152
+  updated_at: 2011-02-27 23:08:52.071896
+  id: 701
+  team_id: 32
+  team: URU
+players_699: 
+  name: Luis SUAREZ
+  number: 9
+  position: FW
+  comment: Ajax (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.72049552487833
+  updated_at: 2011-02-27 23:08:52.059728
+  id: 699
+  team_id: 32
+  team: URU
+players_511: 
+  name: Julio Cesar CACERES
+  number: 5
+  position: DF
+  comment: Atletico Mineiro (BRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 511
+  team_id: 22
+  team: PAR
+players_321: 
+  name: Donis ESCOBER
+  number: 22
+  position: GK
+  comment: Olimpia Tegucigalpa (HON)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 321
+  team_id: 13
+  team: HON
+players_131: 
+  name: Fabian ORELLANA
+  number: 16
+  position: FW
+  comment: Xerez (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.41790736491
+  updated_at: 2011-02-27 23:08:48.279919
+  id: 131
+  team_id: 6
+  team: CHI
+players_702: 
+  name: Juan CASTILLO
+  number: 12
+  position: GK
+  comment: Deportivo Cali (COL)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 702
+  team_id: 32
+  team: URU
+players_512: 
+  name: Carlos BONET
+  number: 6
+  position: MF
+  comment: Olimpia Asuncion (PAR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.77186264721
+  updated_at: 2011-02-27 23:08:50.524829
+  id: 512
+  team_id: 22
+  team: PAR
+players_322: 
+  name: Sergio MENDOZA
+  number: 23
+  position: DF
+  comment: Motagua (HON)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.61512012008
+  updated_at: 2011-02-27 23:08:49.469776
+  id: 322
+  team_id: 13
+  team: HON
+players_132: 
+  name: Gary MEDEL
+  number: 17
+  position: DF
+  comment: Boca Juniors (ARG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.00940479426333
+  updated_at: 2011-02-27 23:08:48.289517
+  id: 132
+  team_id: 6
+  team: CHI
+players_370: 
+  name: CHA Jong Hyok
+  number: 2
+  position: DF
+  comment: Amrokgang (PRK)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.29933943124667
+  updated_at: 2011-02-27 23:08:49.741258
+  id: 370
+  team_id: 21
+  team: PRK
+players_180: 
+  name: Dennis ROMMEDAHL
+  number: 19
+  position: FW
+  comment: Ajax (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.98682620135
+  updated_at: 2011-02-27 23:08:48.619466
+  id: 180
+  team_id: 7
+  team: DEN
+players_703: 
+  name: Sebastian ABREU
+  number: 13
+  position: FW
+  comment: Botafogo (BRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 2.4150944325575
+  updated_at: 2011-02-27 23:08:52.078053
+  id: 703
+  team_id: 32
+  team: URU
+players_560: 
+  name: Danko LAZOVIC
+  number: 8
+  position: FW
+  comment: Zenit St Petersburg (RUS)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.82955611201333
+  updated_at: 2011-02-27 23:08:51.014133
+  id: 560
+  team_id: 24
+  team: SRB
+players_513: 
+  name: Oscar CARDOZO
+  number: 7
+  position: FW
+  comment: Benfica (POR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.74176287771
+  updated_at: 2011-02-27 23:08:50.531784
+  id: 513
+  team_id: 22
+  team: PAR
+players_323: 
+  name: Gianluigi BUFFON
+  number: 1
+  position: GK
+  comment: Juventus (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 4.11284658382
+  updated_at: 2011-02-27 23:08:49.484517
+  id: 323
+  team_id: 14
+  team: ITA
+players_133: 
+  name: Gonzalo JARA
+  number: 18
+  position: DF
+  comment: West Bromwich Albion (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.87370555166
+  updated_at: 2011-02-27 23:08:48.298048
+  id: 133
+  team_id: 6
+  team: CHI
+players_181: 
+  name: Thomas ENEVOLDSEN
+  number: 20
+  position: MF
+  comment: Groningen (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.27278951876
+  updated_at: 2011-02-27 23:08:48.625930
+  id: 181
+  team_id: 7
+  team: DEN
+players_704: 
+  name: Nicolas LODEIRO
+  number: 14
+  position: MF
+  comment: Ajax (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.37652719196
+  updated_at: 2011-02-27 23:08:52.092138
+  id: 704
+  team_id: 32
+  team: URU
+players_561: 
+  name: Marko PANTELIC
+  number: 9
+  position: FW
+  comment: Ajax (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.55647546767
+  updated_at: 2011-02-27 23:08:51.019729
+  id: 561
+  team_id: 24
+  team: SRB
+players_514: 
+  name: Edgar BARRETO
+  number: 8
+  position: MF
+  comment: Atalanta (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 4.60859165806
+  updated_at: 2011-02-27 23:08:50.539224
+  id: 514
+  team_id: 22
+  team: PAR
+players_324: 
+  name: Christian MAGGIO
+  number: 2
+  position: DF
+  comment: Napoli (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.60218981133
+  updated_at: 2011-02-27 23:08:49.490015
+  id: 324
+  team_id: 14
+  team: ITA
+players_134: 
+  name: Gonzalo FIERRO
+  number: 19
+  position: MF
+  comment: Flamengo (BRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 134
+  team_id: 6
+  team: CHI
+players_371: 
+  name: RI Jun Il
+  number: 3
+  position: DF
+  comment: Sobaeksu (PRK)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.35902785628333
+  updated_at: 2011-02-27 23:08:49.747667
+  id: 371
+  team_id: 21
+  team: PRK
+players_182: 
+  name: Christian ERIKSEN
+  number: 21
+  position: MF
+  comment: Ajax (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.724461132925
+  updated_at: 2011-02-27 23:08:48.631279
+  id: 182
+  team_id: 7
+  team: DEN
+players_705: 
+  name: Diego PEREZ
+  number: 15
+  position: MF
+  comment: Monaco (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.19898435000429
+  updated_at: 2011-02-27 23:08:52.098103
+  id: 705
+  team_id: 32
+  team: URU
+players_562: 
+  name: Dejan STANKOVIC
+  number: 10
+  position: MF
+  comment: Inter (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.59674555047
+  updated_at: 2011-02-27 23:08:51.028340
+  id: 562
+  team_id: 24
+  team: SRB
+players_515: 
+  name: Roque SANTA CRUZ
+  number: 9
+  position: FW
+  comment: Manchester City (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.3494326995875
+  updated_at: 2011-02-27 23:08:50.544645
+  id: 515
+  team_id: 22
+  team: PAR
+players_325: 
+  name: Domenico CRISCITO
+  number: 3
+  position: DF
+  comment: Genoa (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.66438159667667
+  updated_at: 2011-02-27 23:08:49.497027
+  id: 325
+  team_id: 14
+  team: ITA
+players_135: 
+  name: Rodrigo MILLAR
+  number: 20
+  position: MF
+  comment: Colo Colo (CHI)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.67471111397
+  updated_at: 2011-02-27 23:08:48.305160
+  id: 135
+  team_id: 6
+  team: CHI
+players_372: 
+  name: PAK Nam Chol
+  number: 4
+  position: MF
+  comment: April 25 (PRK)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.60263936373
+  updated_at: 2011-02-27 23:08:49.759044
+  id: 372
+  team_id: 21
+  team: PRK
+players_183: 
+  name: Jesper CHRISTIANSEN
+  number: 22
+  position: GK
+  comment: Copenhagen (DEN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 183
+  team_id: 7
+  team: DEN
+players_706: 
+  name: Maximiliano PEREIRA
+  number: 16
+  position: DF
+  comment: Benfica (POR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.50907776089143
+  updated_at: 2011-02-27 23:08:52.106079
+  id: 706
+  team_id: 32
+  team: URU
+players_563: 
+  name: Nenad MILIJAS
+  number: 11
+  position: MF
+  comment: Wolverhampton (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.2932923802
+  updated_at: 2011-02-27 23:08:51.033434
+  id: 563
+  team_id: 24
+  team: SRB
+players_516: 
+  name: Edgar BENITEZ
+  number: 10
+  position: FW
+  comment: Pachuca (MEX)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.14758574846
+  updated_at: 2011-02-27 23:08:50.548790
+  id: 516
+  team_id: 22
+  team: PAR
+players_326: 
+  name: Giorgio CHIELLINI
+  number: 4
+  position: DF
+  comment: Juventus (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.81532806704333
+  updated_at: 2011-02-27 23:08:49.501253
+  id: 326
+  team_id: 14
+  team: ITA
+players_136: 
+  name: Rodrigo TELLO
+  number: 21
+  position: MF
+  comment: Besiktas (TUR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.39857293082
+  updated_at: 2011-02-27 23:08:48.309244
+  id: 136
+  team_id: 6
+  team: CHI
+players_373: 
+  name: RI Kwang Chon
+  number: 5
+  position: DF
+  comment: April 25 (PRK)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.63017532106
+  updated_at: 2011-02-27 23:08:49.765308
+  id: 373
+  team_id: 21
+  team: PRK
+players_707: 
+  name: Egidio AREVALO
+  number: 17
+  position: MF
+  comment: Penarol (URU)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.49126793022143
+  updated_at: 2011-02-27 23:08:52.112540
+  id: 707
+  team_id: 32
+  team: URU
+players_564: 
+  name: Bojan ISAILOVIC
+  number: 12
+  position: GK
+  comment: Zaglebie Lubin (POL)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 564
+  team_id: 24
+  team: SRB
+players_517: 
+  name: Jonathan SANTANA
+  number: 11
+  position: MF
+  comment: Wolfsburg (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.08967178555
+  updated_at: 2011-02-27 23:08:50.556988
+  id: 517
+  team_id: 22
+  team: PAR
+players_327: 
+  name: Fabio CANNAVARO
+  number: 5
+  position: DF
+  comment: Juventus (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.52154638826
+  updated_at: 2011-02-27 23:08:49.508028
+  id: 327
+  team_id: 14
+  team: ITA
+players_137: 
+  name: Esteban PAREDES
+  number: 22
+  position: FW
+  comment: Colo Colo (CHI)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.47186953225
+  updated_at: 2011-02-27 23:08:48.313475
+  id: 137
+  team_id: 6
+  team: CHI
+players_374: 
+  name: KIM Kum Il
+  number: 6
+  position: MF
+  comment: April 25 (PRK)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.314423139735
+  updated_at: 2011-02-27 23:08:49.769696
+  id: 374
+  team_id: 21
+  team: PRK
+players_184: 
+  name: Patrick MTILIGA
+  number: 23
+  position: DF
+  comment: Malaga (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 184
+  team_id: 7
+  team: DEN
+players_708: 
+  name: Ignacio GONZALEZ
+  number: 18
+  position: MF
+  comment: Valencia (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.03088487662
+  updated_at: 2011-02-27 23:08:52.119143
+  id: 708
+  team_id: 32
+  team: URU
+players_565: 
+  name: Aleksandar LUKOVIC
+  number: 13
+  position: DF
+  comment: Udinese (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.9002877049
+  updated_at: 2011-02-27 23:08:51.050170
+  id: 565
+  team_id: 24
+  team: SRB
+players_518: 
+  name: Diego BARRETO
+  number: 12
+  position: GK
+  comment: Cerro Porteno (PAR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 518
+  team_id: 22
+  team: PAR
+players_328: 
+  name: Daniele DE ROSSI
+  number: 6
+  position: MF
+  comment: AS Roma (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.22984293999
+  updated_at: 2011-02-27 23:08:49.512736
+  id: 328
+  team_id: 14
+  team: ITA
+players_138: 
+  name: Luis MARIN
+  number: 23
+  position: GK
+  comment: Union Espanola (CHI)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 138
+  team_id: 6
+  team: CHI
+players_375: 
+  name: AN Chol Hyok
+  number: 7
+  position: FW
+  comment: Rimyongsu (PRK)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 375
+  team_id: 21
+  team: PRK
+players_185: 
+  name: David JAMES
+  number: 1
+  position: GK
+  comment: Portsmouth (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.74519951672
+  updated_at: 2011-02-27 23:08:48.640322
+  id: 185
+  team_id: 8
+  team: ENG
+players_709: 
+  name: Andres SCOTTI
+  number: 19
+  position: DF
+  comment: Colo Colo (CHI)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 2.638093003785
+  updated_at: 2011-02-27 23:08:52.123918
+  id: 709
+  team_id: 32
+  team: URU
+players_566: 
+  name: Milan JOVANOVIC
+  number: 14
+  position: MF
+  comment: Standard Liege (BEL)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.11340980740333
+  updated_at: 2011-02-27 23:08:51.060003
+  id: 566
+  team_id: 24
+  team: SRB
+players_519: 
+  name: Enrique VERA
+  number: 13
+  position: MF
+  comment: Liga de Quito (ECU)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.0917583839475
+  updated_at: 2011-02-27 23:08:50.570067
+  id: 519
+  team_id: 22
+  team: PAR
+players_329: 
+  name: Simone PEPE
+  number: 7
+  position: MF
+  comment: Udinese (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.55835773055
+  updated_at: 2011-02-27 23:08:49.518650
+  id: 329
+  team_id: 14
+  team: ITA
+players_139: 
+  name: Boubacar BARRY
+  number: 1
+  position: GK
+  comment: Lokeren (BEL)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 3.87974090882333
+  updated_at: 2011-02-27 23:08:48.322375
+  id: 139
+  team_id: 15
+  team: CIV
+players_376: 
+  name: JI Yun Nam
+  number: 8
+  position: DF
+  comment: April 25 (PRK)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.66639768284
+  updated_at: 2011-02-27 23:08:49.777422
+  id: 376
+  team_id: 21
+  team: PRK
+players_186: 
+  name: Glen JOHNSON
+  number: 2
+  position: DF
+  comment: Liverpool (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.8332031639825
+  updated_at: 2011-02-27 23:08:48.645636
+  id: 186
+  team_id: 8
+  team: ENG
+players_567: 
+  name: Nikola ZIGIC
+  number: 15
+  position: FW
+  comment: Valencia (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.80461453154667
+  updated_at: 2011-02-27 23:08:51.071184
+  id: 567
+  team_id: 24
+  team: SRB
+players_377: 
+  name: JONG Tae Se
+  number: 9
+  position: FW
+  comment: Kawasaki Frontale (JPN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.02738941407
+  updated_at: 2011-02-27 23:08:49.782764
+  id: 377
+  team_id: 21
+  team: PRK
+players_187: 
+  name: Ashley COLE
+  number: 3
+  position: DF
+  comment: Chelsea (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.7326866731025
+  updated_at: 2011-02-27 23:08:48.655476
+  id: 187
+  team_id: 8
+  team: ENG
+players_568: 
+  name: Ivan OBRADOVIC
+  number: 16
+  position: DF
+  comment: Zaragoza (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.28586545921
+  updated_at: 2011-02-27 23:08:51.079266
+  id: 568
+  team_id: 24
+  team: SRB
+players_378: 
+  name: HONG Yong Jo
+  number: 10
+  position: FW
+  comment: FK Rostov (RUS)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.86746855863333
+  updated_at: 2011-02-27 23:08:49.787313
+  id: 378
+  team_id: 21
+  team: PRK
+players_188: 
+  name: Steven GERRARD
+  number: 4
+  position: MF
+  comment: Liverpool (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.5783174149
+  updated_at: 2011-02-27 23:08:48.665580
+  id: 188
+  team_id: 8
+  team: ENG
+players_569: 
+  name: Milos KRASIC
+  number: 17
+  position: MF
+  comment: CSKA Moscow (RUS)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.07813338357
+  updated_at: 2011-02-27 23:08:51.105026
+  id: 569
+  team_id: 24
+  team: SRB
+players_001: 
+  name: Lounes GAOUAOUI
+  number: 1
+  position: GK
+  comment: Chlef (ALG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 1
+  team_id: 1
+  team: ALG
+players_379: 
+  name: MUN In Guk
+  number: 11
+  position: MF
+  comment: April 25 (PRK)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.36775115954667
+  updated_at: 2011-02-27 23:08:49.791498
+  id: 379
+  team_id: 21
+  team: PRK
+players_189: 
+  name: Michael DAWSON
+  number: 5
+  position: DF
+  comment: Tottenham Hotspur (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 189
+  team_id: 8
+  team: ENG
+players_050: 
+  name: Tim CAHILL
+  number: 4
+  position: FW
+  comment: Everton (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.800805746285
+  updated_at: 2011-02-27 23:08:47.829787
+  id: 50
+  team_id: 3
+  team: AUS
+players_002: 
+  name: Madjid BOUGHERRA
+  number: 2
+  position: DF
+  comment: Rangers (SCO)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.88596524650667
+  updated_at: 2011-02-27 23:08:47.596263
+  id: 2
+  team_id: 1
+  team: ALG
+players_620: 
+  name: Matej MAVRIC
+  number: 22
+  position: DF
+  comment: TuS Koblenz (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 620
+  team_id: 26
+  team: SVN
+players_430: 
+  name: Efrain JUAREZ
+  number: 16
+  position: DF
+  comment: Pumas UNAM (MEX)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.66746107714
+  updated_at: 2011-02-27 23:08:50.131619
+  id: 430
+  team_id: 17
+  team: MEX
+players_240: 
+  name: Lukas PODOLSKI
+  number: 10
+  position: FW
+  comment: FC Cologne (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.90489854119833
+  updated_at: 2011-02-27 23:08:48.947229
+  id: 240
+  team_id: 10
+  team: GER
+players_051: 
+  name: Jason CULINA
+  number: 5
+  position: MF
+  comment: Gold Coast United (AUS)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.98702775366333
+  updated_at: 2011-02-27 23:08:47.838510
+  id: 51
+  team_id: 3
+  team: AUS
+players_003: 
+  name: Nadir BELHADJ
+  number: 3
+  position: DF
+  comment: Portsmouth (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.30830271517667
+  updated_at: 2011-02-27 23:08:47.602755
+  id: 3
+  team_id: 1
+  team: ALG
+players_621: 
+  name: Tim MATAVZ
+  number: 23
+  position: FW
+  comment: Groningen (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.36458688978
+  updated_at: 2011-02-27 23:08:51.597457
+  id: 621
+  team_id: 26
+  team: SVN
+players_431: 
+  name: Giovani DOS SANTOS
+  number: 17
+  position: FW
+  comment: Galatasaray (TUR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.21162646637
+  updated_at: 2011-02-27 23:08:50.136571
+  id: 431
+  team_id: 17
+  team: MEX
+players_241: 
+  name: Miroslav KLOSE
+  number: 11
+  position: FW
+  comment: Bayern Munich (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.841434592072
+  updated_at: 2011-02-27 23:08:48.952422
+  id: 241
+  team_id: 10
+  team: GER
+players_004: 
+  name: Anther YAHIA
+  number: 4
+  position: DF
+  comment: Bochum (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.90900628881333
+  updated_at: 2011-02-27 23:08:47.606748
+  id: 4
+  team_id: 1
+  team: ALG
+players_622: 
+  name: Moneeb JOSEPHS
+  number: 1
+  position: GK
+  comment: Orlando Pirates (RSA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 4.112033133485
+  updated_at: 2011-02-27 23:08:51.601989
+  id: 622
+  team_id: 27
+  team: RSA
+players_480: 
+  name: Chris WOOD
+  number: 20
+  position: FW
+  comment: West Bromwich Albion (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.255046887155
+  updated_at: 2011-02-27 23:08:50.363817
+  id: 480
+  team_id: 19
+  team: NZL
+players_432: 
+  name: Andres GUARDADO
+  number: 18
+  position: MF
+  comment: Deportivo La Coruna (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.18719753835333
+  updated_at: 2011-02-27 23:08:50.140922
+  id: 432
+  team_id: 17
+  team: MEX
+players_242: 
+  name: Tim WIESE
+  number: 12
+  position: GK
+  comment: Werder Bremen (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 242
+  team_id: 10
+  team: GER
+players_052: 
+  name: Michael BEAUCHAMP
+  number: 6
+  position: DF
+  comment: Al Jazira (UAE)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.35365650552
+  updated_at: 2011-02-27 23:08:47.847841
+  id: 52
+  team_id: 3
+  team: AUS
+players_005: 
+  name: Rafik HALLICHE
+  number: 5
+  position: DF
+  comment: Nacional Madeira (POR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.71659820187
+  updated_at: 2011-02-27 23:08:47.615039
+  id: 5
+  team_id: 1
+  team: ALG
+players_290: 
+  name: Dimitrios SALPINGIDIS
+  number: 14
+  position: FW
+  comment: Panathinaikos (GRE)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.36108966845
+  updated_at: 2011-02-27 23:08:49.294778
+  id: 290
+  team_id: 12
+  team: GRE
+players_670: 
+  name: Ludovic MAGNIN
+  number: 3
+  position: DF
+  comment: FC Zurich (SUI)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 670
+  team_id: 30
+  team: SUI
+players_623: 
+  name: Siboniso GAXA
+  number: 2
+  position: DF
+  comment: Mamelodi Sundowns (RSA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.89380198236
+  updated_at: 2011-02-27 23:08:51.610010
+  id: 623
+  team_id: 27
+  team: RSA
+players_433: 
+  name: Jonny MAGALLON
+  number: 19
+  position: DF
+  comment: Chivas (MEX)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 433
+  team_id: 17
+  team: MEX
+players_243: 
+  name: Thomas MUELLER
+  number: 13
+  position: MF
+  comment: Bayern Munich (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.08182225002833
+  updated_at: 2011-02-27 23:08:48.965403
+  id: 243
+  team_id: 10
+  team: GER
+players_053: 
+  name: Brett EMERTON
+  number: 7
+  position: MF
+  comment: Blackburn Rovers (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.80091345428333
+  updated_at: 2011-02-27 23:08:47.852252
+  id: 53
+  team_id: 3
+  team: AUS
+players_006: 
+  name: Yazid MANSOURI
+  number: 6
+  position: MF
+  comment: Lorient (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 6
+  team_id: 1
+  team: ALG
+players_291: 
+  name: Vasileios TOROSIDIS
+  number: 15
+  position: DF
+  comment: Olympiacos (GRE)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.532101523665
+  updated_at: 2011-02-27 23:08:49.298999
+  id: 291
+  team_id: 12
+  team: GRE
+players_671: 
+  name: Philippe SENDEROS
+  number: 4
+  position: DF
+  comment: Everton (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.8144825234
+  updated_at: 2011-02-27 23:08:51.890352
+  id: 671
+  team_id: 30
+  team: SUI
+players_624: 
+  name: Tsepo MASILELA
+  number: 3
+  position: DF
+  comment: Maccabi Haifa (ISR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.78293670331667
+  updated_at: 2011-02-27 23:08:51.614365
+  id: 624
+  team_id: 27
+  team: RSA
+players_481: 
+  name: Jeremy CHRISTIE
+  number: 21
+  position: MF
+  comment: Tampa Bay (USA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 2.02703239621
+  updated_at: 2011-02-27 23:08:50.368421
+  id: 481
+  team_id: 19
+  team: NZL
+players_434: 
+  name: Jorge TORRES
+  number: 20
+  position: MF
+  comment: Atlas (MEX)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 434
+  team_id: 17
+  team: MEX
+players_244: 
+  name: Holger BADSTUBER
+  number: 14
+  position: DF
+  comment: Bayern Munich (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.78530772201
+  updated_at: 2011-02-27 23:08:48.970289
+  id: 244
+  team_id: 10
+  team: GER
+players_054: 
+  name: Luke WILKSHIRE
+  number: 8
+  position: DF
+  comment: Dynamo Moscow (RUS)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.13877541956667
+  updated_at: 2011-02-27 23:08:47.857811
+  id: 54
+  team_id: 3
+  team: AUS
+players_007: 
+  name: Ryad BOUDEBOUZ
+  number: 7
+  position: MF
+  comment: Sochaux (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.37728353035
+  updated_at: 2011-02-27 23:08:47.620863
+  id: 7
+  team_id: 1
+  team: ALG
+players_292: 
+  name: Sotirios KYRGIAKOS
+  number: 16
+  position: DF
+  comment: Liverpool (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 9.20995964656
+  updated_at: 2011-02-27 23:08:49.305304
+  id: 292
+  team_id: 12
+  team: GRE
+players_672: 
+  name: Steve VON BERGEN
+  number: 5
+  position: DF
+  comment: Hertha Berlin (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.30536732324
+  updated_at: 2011-02-27 23:08:51.903094
+  id: 672
+  team_id: 30
+  team: SUI
+players_625: 
+  name: Aaron MOKOENA
+  number: 4
+  position: DF
+  comment: Portsmouth (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.96490547122667
+  updated_at: 2011-02-27 23:08:51.618645
+  id: 625
+  team_id: 27
+  team: RSA
+players_482: 
+  name: Jeremy BROCKIE
+  number: 22
+  position: FW
+  comment: North Queensland Fury (AUS)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 482
+  team_id: 19
+  team: NZL
+players_435: 
+  name: Adolfo BAUTISTA
+  number: 21
+  position: FW
+  comment: Chivas (MEX)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.37217784191
+  updated_at: 2011-02-27 23:08:50.150175
+  id: 435
+  team_id: 17
+  team: MEX
+players_245: 
+  name: Piotr TROCHOWSKI
+  number: 15
+  position: MF
+  comment: Hamburger SV (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.3655636777475
+  updated_at: 2011-02-27 23:08:48.974443
+  id: 245
+  team_id: 10
+  team: GER
+players_055: 
+  name: Joshua KENNEDY
+  number: 9
+  position: FW
+  comment: Nagoya Grampus Eight (JPN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.875638867625
+  updated_at: 2011-02-27 23:08:47.861894
+  id: 55
+  team_id: 3
+  team: AUS
+players_008: 
+  name: Medhi LACEN
+  number: 8
+  position: MF
+  comment: Racing Santander (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.36423739305333
+  updated_at: 2011-02-27 23:08:47.627053
+  id: 8
+  team_id: 1
+  team: ALG
+players_293: 
+  name: Theofanis GEKAS
+  number: 17
+  position: FW
+  comment: Hertha Berlin (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.271735094235
+  updated_at: 2011-02-27 23:08:49.309643
+  id: 293
+  team_id: 12
+  team: GRE
+players_673: 
+  name: Benjamin HUGGEL
+  number: 6
+  position: MF
+  comment: Basel (SUI)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.58235793334
+  updated_at: 2011-02-27 23:08:51.909164
+  id: 673
+  team_id: 30
+  team: SUI
+players_626: 
+  name: Anele NGCONGCA
+  number: 5
+  position: DF
+  comment: Racing Genk (BEL)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.66463328828
+  updated_at: 2011-02-27 23:08:51.631927
+  id: 626
+  team_id: 27
+  team: RSA
+players_483: 
+  name: James BANNATYNE
+  number: 23
+  position: GK
+  comment: Team Wellington (NZL)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 483
+  team_id: 19
+  team: NZL
+players_436: 
+  name: Alberto MEDINA
+  number: 22
+  position: FW
+  comment: Chivas (MEX)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 436
+  team_id: 17
+  team: MEX
+players_246: 
+  name: Philipp LAHM
+  number: 16
+  position: DF
+  comment: Bayern Munich (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.95462126548333
+  updated_at: 2011-02-27 23:08:48.979075
+  id: 246
+  team_id: 10
+  team: GER
+players_056: 
+  name: Harry KEWELL
+  number: 10
+  position: FW
+  comment: Galatasaray (TUR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.92287024342
+  updated_at: 2011-02-27 23:08:47.866118
+  id: 56
+  team_id: 3
+  team: AUS
+players_009: 
+  name: Abdelkader GHEZZAL
+  number: 9
+  position: FW
+  comment: Siena (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.118768559135
+  updated_at: 2011-02-27 23:08:47.631418
+  id: 9
+  team_id: 1
+  team: ALG
+players_674: 
+  name: Tranquillo BARNETTA
+  number: 7
+  position: MF
+  comment: Bayer Leverkusen (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.17200137456
+  updated_at: 2011-02-27 23:08:51.913911
+  id: 674
+  team_id: 30
+  team: SUI
+players_627: 
+  name: MacBeth SIBAYA
+  number: 6
+  position: MF
+  comment: Rubin Kazan (RUS)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.7151671165
+  updated_at: 2011-02-27 23:08:51.636298
+  id: 627
+  team_id: 27
+  team: RSA
+players_484: 
+  name: Vincent ENYEAMA
+  number: 1
+  position: GK
+  comment: Hapoel Tel-Aviv (ISR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 3.86110679839333
+  updated_at: 2011-02-27 23:08:50.378153
+  id: 484
+  team_id: 20
+  team: NGA
+players_437: 
+  name: Luis MICHEL
+  number: 23
+  position: GK
+  comment: Chivas (MEX)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 437
+  team_id: 17
+  team: MEX
+players_247: 
+  name: Per MERTESACKER
+  number: 17
+  position: DF
+  comment: Werder Bremen (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.05279981992286
+  updated_at: 2011-02-27 23:08:48.987082
+  id: 247
+  team_id: 10
+  team: GER
+players_057: 
+  name: Scott CHIPPERFIELD
+  number: 11
+  position: DF
+  comment: Basel (SUI)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 4.82394231917
+  updated_at: 2011-02-27 23:08:47.872832
+  id: 57
+  team_id: 3
+  team: AUS
+players_294: 
+  name: Sotiris NINIS
+  number: 18
+  position: MF
+  comment: Panathinaikos (GRE)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.10631635416
+  updated_at: 2011-02-27 23:08:49.315177
+  id: 294
+  team_id: 12
+  team: GRE
+players_675: 
+  name: Gokhan INLER
+  number: 8
+  position: MF
+  comment: Udinese (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.62437767643667
+  updated_at: 2011-02-27 23:08:51.921614
+  id: 675
+  team_id: 30
+  team: SUI
+players_628: 
+  name: Lance DAVIDS
+  number: 7
+  position: MF
+  comment: Ajax Cape Town (RSA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 628
+  team_id: 27
+  team: RSA
+players_485: 
+  name: Joseph YOBO
+  number: 2
+  position: DF
+  comment: Everton (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.33105629877333
+  updated_at: 2011-02-27 23:08:50.382810
+  id: 485
+  team_id: 20
+  team: NGA
+players_438: 
+  name: Maarten STEKELENBURG
+  number: 1
+  position: GK
+  comment: Ajax (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 4.41815744829
+  updated_at: 2011-02-27 23:08:50.159342
+  id: 438
+  team_id: 18
+  team: NED
+players_248: 
+  name: Toni KROOS
+  number: 18
+  position: MF
+  comment: Bayer Leverkusen (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.07778916177
+  updated_at: 2011-02-27 23:08:48.991368
+  id: 248
+  team_id: 10
+  team: GER
+players_058: 
+  name: Adam FEDERICI
+  number: 12
+  position: GK
+  comment: Reading (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 58
+  team_id: 3
+  team: AUS
+players_295: 
+  name: Sokratis PAPASTATHOPOULOS
+  number: 19
+  position: DF
+  comment: Genoa (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.86421247233
+  updated_at: 2011-02-27 23:08:49.319838
+  id: 295
+  team_id: 12
+  team: GRE
+players_676: 
+  name: Alexander FREI
+  number: 9
+  position: FW
+  comment: Basel (SUI)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.715204094955
+  updated_at: 2011-02-27 23:08:51.926613
+  id: 676
+  team_id: 30
+  team: SUI
+players_629: 
+  name: Siphiwe TSHABALALA
+  number: 8
+  position: MF
+  comment: Kaizer Chiefs (RSA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.33765982463333
+  updated_at: 2011-02-27 23:08:51.642932
+  id: 629
+  team_id: 27
+  team: RSA
+players_486: 
+  name: Taye TAIWO
+  number: 3
+  position: DF
+  comment: Marseille (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.42690703587
+  updated_at: 2011-02-27 23:08:50.394479
+  id: 486
+  team_id: 20
+  team: NGA
+players_439: 
+  name: Gregory VAN DER WIEL
+  number: 2
+  position: DF
+  comment: Ajax (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.269003705302
+  updated_at: 2011-02-27 23:08:50.164405
+  id: 439
+  team_id: 18
+  team: NED
+players_249: 
+  name: CACAU
+  number: 19
+  position: FW
+  comment: VfB Stuttgart (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.5067751079325
+  updated_at: 2011-02-27 23:08:48.996910
+  id: 249
+  team_id: 10
+  team: GER
+players_059: 
+  name: Vince GRELLA
+  number: 13
+  position: MF
+  comment: Blackburn Rovers (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.86321488908
+  updated_at: 2011-02-27 23:08:47.887324
+  id: 59
+  team_id: 3
+  team: AUS
+players_296: 
+  name: Pantelis KAPETANOS
+  number: 20
+  position: FW
+  comment: Steaua (ROU)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.99083424777
+  updated_at: 2011-02-27 23:08:49.330134
+  id: 296
+  team_id: 12
+  team: GRE
+players_677: 
+  name: Blaise NKUFO
+  number: 10
+  position: FW
+  comment: Twente Enschede (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.5792234479
+  updated_at: 2011-02-27 23:08:51.932509
+  id: 677
+  team_id: 30
+  team: SUI
+players_487: 
+  name: Nwankwo KANU
+  number: 4
+  position: MF
+  comment: Portsmouth (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.4887828709
+  updated_at: 2011-02-27 23:08:50.399892
+  id: 487
+  team_id: 20
+  team: NGA
+players_297: 
+  name: Konstantinos KATSOURANIS
+  number: 21
+  position: MF
+  comment: Panathinaikos (GRE)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.598038218565
+  updated_at: 2011-02-27 23:08:49.334978
+  id: 297
+  team_id: 12
+  team: GRE
+players_678: 
+  name: Valon BEHRAMI
+  number: 11
+  position: MF
+  comment: West Ham Utd. (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.91868977158
+  updated_at: 2011-02-27 23:08:51.936844
+  id: 678
+  team_id: 30
+  team: SUI
+players_488: 
+  name: Rabiu AFOLABI
+  number: 5
+  position: DF
+  comment: Red Bull Salzburg (AUT)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.007747973995
+  updated_at: 2011-02-27 23:08:50.404251
+  id: 488
+  team_id: 20
+  team: NGA
+players_300: 
+  name: Ricardo CANALES
+  number: 1
+  position: GK
+  comment: Motagua (HON)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 300
+  team_id: 13
+  team: HON
+players_110: 
+  name: Eyong ENOH
+  number: 18
+  position: MF
+  comment: Ajax (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.893222777625
+  updated_at: 2011-02-27 23:08:48.170100
+  id: 110
+  team_id: 5
+  team: CMR
+players_298: 
+  name: Stelios MALEZAS
+  number: 22
+  position: DF
+  comment: PAOK (GRE)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 298
+  team_id: 12
+  team: GRE
+players_679: 
+  name: Marco WOELFLI
+  number: 12
+  position: GK
+  comment: Young Boys (SUI)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 679
+  team_id: 30
+  team: SUI
+players_489: 
+  name: Danny SHITTU
+  number: 6
+  position: DF
+  comment: Bolton Wanderers (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.27196151379333
+  updated_at: 2011-02-27 23:08:50.409812
+  id: 489
+  team_id: 20
+  team: NGA
+players_301: 
+  name: Osman CHAVEZ
+  number: 2
+  position: DF
+  comment: Platense (HON)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.79275511188333
+  updated_at: 2011-02-27 23:08:49.345268
+  id: 301
+  team_id: 13
+  team: HON
+players_111: 
+  name: Stephane MBIA
+  number: 19
+  position: DF
+  comment: Marseille (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.31110956882667
+  updated_at: 2011-02-27 23:08:48.176073
+  id: 111
+  team_id: 5
+  team: CMR
+players_299: 
+  name: Athanasios PRITTAS
+  number: 23
+  position: MF
+  comment: Aris Thessaloniki (GRE)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 299
+  team_id: 12
+  team: GRE
+players_160: 
+  name: Souleymane BAMBA
+  number: 22
+  position: DF
+  comment: Hibernian (SCO)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 160
+  team_id: 15
+  team: CIV
+players_302: 
+  name: Maynor FIGUEROA
+  number: 3
+  position: DF
+  comment: Wigan (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.53882305109667
+  updated_at: 2011-02-27 23:08:49.352651
+  id: 302
+  team_id: 13
+  team: HON
+players_112: 
+  name: Georges MANDJECK
+  number: 20
+  position: MF
+  comment: Kaiserslautern (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 112
+  team_id: 5
+  team: CMR
+players_730: 
+  name: Jozy ALTIDORE
+  number: 17
+  position: FW
+  comment: Hull City (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.81635119437
+  updated_at: 2011-02-27 23:08:52.336451
+  id: 730
+  team_id: 31
+  team: USA
+players_540: 
+  name: SIMAO
+  number: 11
+  position: FW
+  comment: Atletico Madrid (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.75050356852
+  updated_at: 2011-02-27 23:08:50.832784
+  id: 540
+  team_id: 23
+  team: POR
+players_350: 
+  name: Yuto NAGATOMO
+  number: 5
+  position: DF
+  comment: FC Tokyo (JPN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.094098206795
+  updated_at: 2011-02-27 23:08:49.643188
+  id: 350
+  team_id: 16
+  team: JPN
+players_161: 
+  name: Daniel YEBOAH
+  number: 23
+  position: GK
+  comment: ASEC Mimosas (CIV)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 161
+  team_id: 15
+  team: CIV
+players_303: 
+  name: Jhony PALACIOS
+  number: 4
+  position: DF
+  comment: Olimpia Tegucigalpa (HON)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 303
+  team_id: 13
+  team: HON
+players_113: 
+  name: Joel MATIP
+  number: 21
+  position: MF
+  comment: Schalke 04 (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.07668642163
+  updated_at: 2011-02-27 23:08:48.181509
+  id: 113
+  team_id: 5
+  team: CMR
+players_731: 
+  name: Brad GUZAN
+  number: 18
+  position: GK
+  comment: Aston Villa (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 731
+  team_id: 31
+  team: USA
+players_541: 
+  name: BETO
+  number: 12
+  position: GK
+  comment: Porto (POR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 541
+  team_id: 23
+  team: POR
+players_351: 
+  name: Atsuto UCHIDA
+  number: 6
+  position: DF
+  comment: Kashima Antlers (JPN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 351
+  team_id: 16
+  team: JPN
+players_304: 
+  name: Victor BERNARDEZ
+  number: 5
+  position: DF
+  comment: Anderlecht (BEL)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.45871588537
+  updated_at: 2011-02-27 23:08:49.358573
+  id: 304
+  team_id: 13
+  team: HON
+players_114: 
+  name: Guy NDY
+  number: 22
+  position: GK
+  comment: Valenciennes (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 114
+  team_id: 5
+  team: CMR
+players_732: 
+  name: Maurice EDU
+  number: 19
+  position: MF
+  comment: Rangers (SCO)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.82024723209667
+  updated_at: 2011-02-27 23:08:52.343576
+  id: 732
+  team_id: 31
+  team: USA
+players_590: 
+  name: Miroslav STOCH
+  number: 15
+  position: MF
+  comment: Twente Enschede (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.4278030344625
+  updated_at: 2011-02-27 23:08:51.423892
+  id: 590
+  team_id: 25
+  team: SVK
+players_542: 
+  name: MIGUEL
+  number: 13
+  position: DF
+  comment: Valencia (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 9.84266051595
+  updated_at: 2011-02-27 23:08:50.840099
+  id: 542
+  team_id: 23
+  team: POR
+players_352: 
+  name: Yasuhito ENDO
+  number: 7
+  position: MF
+  comment: Gamba Osaka (JPN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.733065422645
+  updated_at: 2011-02-27 23:08:49.649052
+  id: 352
+  team_id: 16
+  team: JPN
+players_162: 
+  name: Thomas SORENSEN
+  number: 1
+  position: GK
+  comment: Stoke City (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.39729947093667
+  updated_at: 2011-02-27 23:08:48.518457
+  id: 162
+  team_id: 7
+  team: DEN
+players_305: 
+  name: Hendry THOMAS
+  number: 6
+  position: MF
+  comment: Wigan (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.816184118035
+  updated_at: 2011-02-27 23:08:49.364458
+  id: 305
+  team_id: 13
+  team: HON
+players_115: 
+  name: Vincent ABOUBAKAR
+  number: 23
+  position: FW
+  comment: Coton Sport (CMR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.046234495015
+  updated_at: 2011-02-27 23:08:48.188579
+  id: 115
+  team_id: 5
+  team: CMR
+players_733: 
+  name: Robbie FINDLEY
+  number: 20
+  position: FW
+  comment: Real Salt Lake (USA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.773930319
+  updated_at: 2011-02-27 23:08:52.349126
+  id: 733
+  team_id: 31
+  team: USA
+players_543: 
+  name: MIGUEL VELOSO
+  number: 14
+  position: MF
+  comment: Sporting Lisbon (POR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.508906315515
+  updated_at: 2011-02-27 23:08:50.854383
+  id: 543
+  team_id: 23
+  team: POR
+players_353: 
+  name: Daisuke MATSUI
+  number: 8
+  position: MF
+  comment: Grenoble (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.5354269632775
+  updated_at: 2011-02-27 23:08:49.654518
+  id: 353
+  team_id: 16
+  team: JPN
+players_163: 
+  name: Christian POULSEN
+  number: 2
+  position: MF
+  comment: Juventus (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.33745618301333
+  updated_at: 2011-02-27 23:08:48.527656
+  id: 163
+  team_id: 7
+  team: DEN
+players_306: 
+  name: Ramon NUNEZ
+  number: 7
+  position: MF
+  comment: Olimpia Tegucigalpa (HON)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.36686911147333
+  updated_at: 2011-02-27 23:08:49.369304
+  id: 306
+  team_id: 13
+  team: HON
+players_116: 
+  name: Claudio BRAVO
+  number: 1
+  position: GK
+  comment: Real Sociedad (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.6773740947925
+  updated_at: 2011-02-27 23:08:48.193080
+  id: 116
+  team_id: 6
+  team: CHI
+players_734: 
+  name: Clarence GOODSON
+  number: 21
+  position: DF
+  comment: IK Start (NOR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 734
+  team_id: 31
+  team: USA
+players_591: 
+  name: Jan DURICA
+  number: 16
+  position: DF
+  comment: Hannover 96 (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.0925747270475
+  updated_at: 2011-02-27 23:08:51.428465
+  id: 591
+  team_id: 25
+  team: SVK
+players_544: 
+  name: PEPE
+  number: 15
+  position: MF
+  comment: Real Madrid (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.13093536956
+  updated_at: 2011-02-27 23:08:50.861075
+  id: 544
+  team_id: 23
+  team: POR
+players_354: 
+  name: Shinji OKAZAKI
+  number: 9
+  position: FW
+  comment: Shimizu S Pulse (JPN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.897109231615
+  updated_at: 2011-02-27 23:08:49.665415
+  id: 354
+  team_id: 16
+  team: JPN
+players_164: 
+  name: Simon KJAER
+  number: 3
+  position: DF
+  comment: Palermo (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.903309123085
+  updated_at: 2011-02-27 23:08:48.533774
+  id: 164
+  team_id: 7
+  team: DEN
+players_307: 
+  name: Wilson PALACIOS
+  number: 8
+  position: MF
+  comment: Tottenham Hotspur (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.40301019011
+  updated_at: 2011-02-27 23:08:49.386029
+  id: 307
+  team_id: 13
+  team: HON
+players_117: 
+  name: Ismael FUENTES
+  number: 2
+  position: DF
+  comment: Univ. Catolica (CHI)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.58696220164
+  updated_at: 2011-02-27 23:08:48.205453
+  id: 117
+  team_id: 6
+  team: CHI
+players_735: 
+  name: Benny FEILHABER
+  number: 22
+  position: MF
+  comment: AGF Aarhus (DEN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.83184291352
+  updated_at: 2011-02-27 23:08:52.357494
+  id: 735
+  team_id: 31
+  team: USA
+players_592: 
+  name: Marek HAMSIK
+  number: 17
+  position: MF
+  comment: Napoli (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.4883594666925
+  updated_at: 2011-02-27 23:08:51.432965
+  id: 592
+  team_id: 25
+  team: SVK
+players_545: 
+  name: RAUL MEIRELES
+  number: 16
+  position: MF
+  comment: Porto (POR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.71640333499
+  updated_at: 2011-02-27 23:08:50.866288
+  id: 545
+  team_id: 23
+  team: POR
+players_355: 
+  name: Shunsuke NAKAMURA
+  number: 10
+  position: MF
+  comment: Yokohama F Marinos (JPN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.01122634659
+  updated_at: 2011-02-27 23:08:49.672576
+  id: 355
+  team_id: 16
+  team: JPN
+players_165: 
+  name: Daniel AGGER
+  number: 4
+  position: DF
+  comment: Liverpool (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.42391059076
+  updated_at: 2011-02-27 23:08:48.538707
+  id: 165
+  team_id: 7
+  team: DEN
+players_308: 
+  name: Carlos PAVON
+  number: 9
+  position: FW
+  comment: Real Espana (HON)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.1341738702
+  updated_at: 2011-02-27 23:08:49.391231
+  id: 308
+  team_id: 13
+  team: HON
+players_118: 
+  name: Waldo PONCE
+  number: 3
+  position: DF
+  comment: Univ. Catolica (CHI)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.96627630547
+  updated_at: 2011-02-27 23:08:48.209427
+  id: 118
+  team_id: 6
+  team: CHI
+players_736: 
+  name: Marcus HAHNEMANN
+  number: 23
+  position: GK
+  comment: Wolverhampton (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 736
+  team_id: 31
+  team: USA
+players_593: 
+  name: Erik JENDRISEK
+  number: 18
+  position: FW
+  comment: Kaiserslautern (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.03333838255333
+  updated_at: 2011-02-27 23:08:51.438886
+  id: 593
+  team_id: 25
+  team: SVK
+players_546: 
+  name: NANI
+  number: 17
+  position: FW
+  comment: Manchester Utd. (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.6255385418
+  updated_at: 2011-02-27 23:08:50.884104
+  id: 546
+  team_id: 23
+  team: POR
+players_356: 
+  name: Keiji TAMADA
+  number: 11
+  position: FW
+  comment: Nagoya Grampus Eight (JPN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.30680483259
+  updated_at: 2011-02-27 23:08:49.677435
+  id: 356
+  team_id: 16
+  team: JPN
+players_166: 
+  name: William KVIST
+  number: 5
+  position: MF
+  comment: Copenhagen (DEN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 166
+  team_id: 7
+  team: DEN
+players_309: 
+  name: Julio Cesar DE LEON
+  number: 10
+  position: MF
+  comment: Torino (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.52470767553
+  updated_at: 2011-02-27 23:08:49.395953
+  id: 309
+  team_id: 13
+  team: HON
+players_119: 
+  name: Mauricio ISLA
+  number: 4
+  position: DF
+  comment: Udinese (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.90842417446
+  updated_at: 2011-02-27 23:08:48.216210
+  id: 119
+  team_id: 6
+  team: CHI
+players_594: 
+  name: Juraj KUCKA
+  number: 19
+  position: MF
+  comment: Sparta Prague (CZE)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.21359078442333
+  updated_at: 2011-02-27 23:08:51.454232
+  id: 594
+  team_id: 25
+  team: SVK
+players_547: 
+  name: HUGO ALMEIDA
+  number: 18
+  position: FW
+  comment: Werder Bremen (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.65284823302
+  updated_at: 2011-02-27 23:08:50.898642
+  id: 547
+  team_id: 23
+  team: POR
+players_357: 
+  name: Kisho YANO
+  number: 12
+  position: FW
+  comment: Albirex Niigata (JPN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 4.32565101978
+  updated_at: 2011-02-27 23:08:49.683260
+  id: 357
+  team_id: 16
+  team: JPN
+players_167: 
+  name: Lars JACOBSEN
+  number: 6
+  position: DF
+  comment: Blackburn Rovers (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.18345200068333
+  updated_at: 2011-02-27 23:08:48.544745
+  id: 167
+  team_id: 7
+  team: DEN
+players_595: 
+  name: Kamil KOPUNEK
+  number: 20
+  position: MF
+  comment: Spartak Trnava (SVK)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.87425109567
+  updated_at: 2011-02-27 23:08:51.458452
+  id: 595
+  team_id: 25
+  team: SVK
+players_548: 
+  name: TIAGO
+  number: 19
+  position: MF
+  comment: Atletico Madrid (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.37285683827
+  updated_at: 2011-02-27 23:08:50.907850
+  id: 548
+  team_id: 23
+  team: POR
+players_358: 
+  name: Daiki IWAMASA
+  number: 13
+  position: DF
+  comment: Kashima Antlers (JPN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 358
+  team_id: 16
+  team: JPN
+players_168: 
+  name: Daniel JENSEN
+  number: 7
+  position: MF
+  comment: Werder Bremen (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.21058920496
+  updated_at: 2011-02-27 23:08:48.549912
+  id: 168
+  team_id: 7
+  team: DEN
+players_596: 
+  name: Kornel SALATA
+  number: 21
+  position: DF
+  comment: Slovan Bratislava (SVK)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.51588940399
+  updated_at: 2011-02-27 23:08:51.466069
+  id: 596
+  team_id: 25
+  team: SVK
+players_549: 
+  name: DECO
+  number: 20
+  position: MF
+  comment: Chelsea (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.80794667137
+  updated_at: 2011-02-27 23:08:50.915841
+  id: 549
+  team_id: 23
+  team: POR
+players_359: 
+  name: Kengo NAKAMURA
+  number: 14
+  position: MF
+  comment: Kawasaki Frontale (JPN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.12581169712
+  updated_at: 2011-02-27 23:08:49.689948
+  id: 359
+  team_id: 16
+  team: JPN
+players_169: 
+  name: Jesper GRONKJAER
+  number: 8
+  position: FW
+  comment: Copenhagen (DEN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.160601670245
+  updated_at: 2011-02-27 23:08:48.554226
+  id: 169
+  team_id: 7
+  team: DEN
+players_597: 
+  name: Martin PETRAS
+  number: 22
+  position: DF
+  comment: Cesena (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 597
+  team_id: 25
+  team: SVK
+players_600: 
+  name: Miso BRECKO
+  number: 2
+  position: DF
+  comment: FC Cologne (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.77893063087667
+  updated_at: 2011-02-27 23:08:51.484442
+  id: 600
+  team_id: 26
+  team: SVN
+players_598: 
+  name: Dusan KUCIAK
+  number: 23
+  position: GK
+  comment: Vaslui (ROU)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 598
+  team_id: 25
+  team: SVK
+players_410: 
+  name: YEOM Ki Hun
+  number: 19
+  position: MF
+  comment: Suwon Bluewings (KOR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.79534090216
+  updated_at: 2011-02-27 23:08:49.947068
+  id: 410
+  team_id: 28
+  team: KOR
+players_220: 
+  name: Patrice EVRA
+  number: 13
+  position: DF
+  comment: Manchester Utd. (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.66961816992
+  updated_at: 2011-02-27 23:08:48.837607
+  id: 220
+  team_id: 9
+  team: FRA
+players_030: 
+  name: Angel DI MARIA
+  number: 7
+  position: MF
+  comment: Benfica (POR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.1625479808225
+  updated_at: 2011-02-27 23:08:47.725241
+  id: 30
+  team_id: 2
+  team: ARG
+players_601: 
+  name: Elvedin DZINIC
+  number: 3
+  position: DF
+  comment: Maribor (SVN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 601
+  team_id: 26
+  team: SVN
+players_599: 
+  name: Samir HANDANOVIC
+  number: 1
+  position: GK
+  comment: Udinese (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 4.08255121459333
+  updated_at: 2011-02-27 23:08:51.480272
+  id: 599
+  team_id: 26
+  team: SVN
+players_411: 
+  name: LEE Dong Gook
+  number: 20
+  position: FW
+  comment: Jeonbuk Motors (KOR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.044164722825
+  updated_at: 2011-02-27 23:08:49.953522
+  id: 411
+  team_id: 28
+  team: KOR
+players_221: 
+  name: Jeremy TOULALAN
+  number: 14
+  position: MF
+  comment: Lyon (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.541665259045
+  updated_at: 2011-02-27 23:08:48.841655
+  id: 221
+  team_id: 9
+  team: FRA
+players_031: 
+  name: Juan VERON
+  number: 8
+  position: MF
+  comment: Estudiantes La Plata (ARG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.252382188615
+  updated_at: 2011-02-27 23:08:47.730443
+  id: 31
+  team_id: 2
+  team: ARG
+players_602: 
+  name: Marko SULER
+  number: 4
+  position: DF
+  comment: Gent (BEL)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.07809061277667
+  updated_at: 2011-02-27 23:08:51.500477
+  id: 602
+  team_id: 26
+  team: SVN
+players_412: 
+  name: KIM Young Kwang
+  number: 21
+  position: GK
+  comment: Ulsan Hyundai (KOR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 412
+  team_id: 28
+  team: KOR
+players_270: 
+  name: Ibrahim AYEW
+  number: 17
+  position: DF
+  comment: Zamalek (EGY)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 270
+  team_id: 11
+  team: GHA
+players_080: 
+  name: ROBINHO
+  number: 11
+  position: FW
+  comment: Santos (BRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.644244443515
+  updated_at: 2011-02-27 23:08:48.003251
+  id: 80
+  team_id: 4
+  team: BRA
+players_222: 
+  name: Florent MALOUDA
+  number: 15
+  position: MF
+  comment: Chelsea (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.69843910319667
+  updated_at: 2011-02-27 23:08:48.849521
+  id: 222
+  team_id: 9
+  team: FRA
+players_032: 
+  name: Gonzalo HIGUAIN
+  number: 9
+  position: FW
+  comment: Real Madrid (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.807031266325
+  updated_at: 2011-02-27 23:08:47.734754
+  id: 32
+  team_id: 2
+  team: ARG
+players_650: 
+  name: Andres INIESTA
+  number: 6
+  position: MF
+  comment: Barcelona (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.21843908212833
+  updated_at: 2011-02-27 23:08:51.764280
+  id: 650
+  team_id: 29
+  team: ESP
+players_603: 
+  name: Bostjan CESAR
+  number: 5
+  position: DF
+  comment: Grenoble (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.31919574384
+  updated_at: 2011-02-27 23:08:51.505870
+  id: 603
+  team_id: 26
+  team: SVN
+players_460: 
+  name: Rafael VAN DER VAART
+  number: 23
+  position: MF
+  comment: Real Madrid (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.509085180166
+  updated_at: 2011-02-27 23:08:50.278322
+  id: 460
+  team_id: 18
+  team: NED
+players_413: 
+  name: CHA Du Ri
+  number: 22
+  position: DF
+  comment: SC Freiburg (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.89558560260333
+  updated_at: 2011-02-27 23:08:49.959733
+  id: 413
+  team_id: 28
+  team: KOR
+players_271: 
+  name: Dominic ADIYIAH
+  number: 18
+  position: FW
+  comment: AC Milan (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.78016855888
+  updated_at: 2011-02-27 23:08:49.112729
+  id: 271
+  team_id: 11
+  team: GHA
+players_081: 
+  name: GOMES
+  number: 12
+  position: GK
+  comment: Tottenham Hotspur (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 81
+  team_id: 4
+  team: BRA
+players_223: 
+  name: Steve MANDANDA
+  number: 16
+  position: GK
+  comment: Marseille (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 223
+  team_id: 9
+  team: FRA
+players_033: 
+  name: Lionel MESSI
+  number: 10
+  position: FW
+  comment: Barcelona (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.9494185351075
+  updated_at: 2011-02-27 23:08:47.739867
+  id: 33
+  team_id: 2
+  team: ARG
+players_651: 
+  name: David VILLA
+  number: 7
+  position: FW
+  comment: Valencia (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.60486281262571
+  updated_at: 2011-02-27 23:08:51.769863
+  id: 651
+  team_id: 29
+  team: ESP
+players_604: 
+  name: Branko ILIC
+  number: 6
+  position: DF
+  comment: Lokomotiv Moscow (RUS)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 604
+  team_id: 26
+  team: SVN
+players_461: 
+  name: Mark PASTON
+  number: 1
+  position: GK
+  comment: Wellington Phoenix (NZL)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 4.74374420918
+  updated_at: 2011-02-27 23:08:50.282526
+  id: 461
+  team_id: 19
+  team: NZL
+players_414: 
+  name: KANG Min Soo
+  number: 23
+  position: DF
+  comment: Suwon Bluewings (KOR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 414
+  team_id: 28
+  team: KOR
+players_082: 
+  name: DANI ALVES
+  number: 13
+  position: DF
+  comment: Barcelona (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.413495728092
+  updated_at: 2011-02-27 23:08:48.011378
+  id: 82
+  team_id: 4
+  team: BRA
+players_224: 
+  name: Sebastien SQUILLACI
+  number: 17
+  position: DF
+  comment: Sevilla FC (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.10782605089
+  updated_at: 2011-02-27 23:08:48.854963
+  id: 224
+  team_id: 9
+  team: FRA
+players_034: 
+  name: Carlos TEVEZ
+  number: 11
+  position: FW
+  comment: Manchester City (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.58256951659
+  updated_at: 2011-02-27 23:08:47.745347
+  id: 34
+  team_id: 2
+  team: ARG
+players_652: 
+  name: XAVI
+  number: 8
+  position: MF
+  comment: Barcelona (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.45232467855286
+  updated_at: 2011-02-27 23:08:51.774575
+  id: 652
+  team_id: 29
+  team: ESP
+players_605: 
+  name: Nejc PECNIK
+  number: 7
+  position: FW
+  comment: Nacional Madeira (POR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 3.194397747515
+  updated_at: 2011-02-27 23:08:51.513377
+  id: 605
+  team_id: 26
+  team: SVN
+players_462: 
+  name: Ben SIGMUND
+  number: 2
+  position: DF
+  comment: Wellington Phoenix (NZL)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 462
+  team_id: 19
+  team: NZL
+players_415: 
+  name: Oscar PEREZ
+  number: 1
+  position: GK
+  comment: Jaguares (MEX)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.528537399395
+  updated_at: 2011-02-27 23:08:49.967812
+  id: 415
+  team_id: 17
+  team: MEX
+players_272: 
+  name: Lee ADDY
+  number: 19
+  position: DF
+  comment: Bechem Chelsea (GHA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 4.69847202021333
+  updated_at: 2011-02-27 23:08:49.119180
+  id: 272
+  team_id: 11
+  team: GHA
+players_083: 
+  name: LUISAO
+  number: 14
+  position: DF
+  comment: Benfica (POR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 83
+  team_id: 4
+  team: BRA
+players_225: 
+  name: Alou DIARRA
+  number: 18
+  position: MF
+  comment: Bordeaux (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.32950656367
+  updated_at: 2011-02-27 23:08:48.859418
+  id: 225
+  team_id: 9
+  team: FRA
+players_035: 
+  name: Ariel GARCE
+  number: 12
+  position: DF
+  comment: Atletico Colon (ARG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 35
+  team_id: 2
+  team: ARG
+players_653: 
+  name: Fernando TORRES
+  number: 9
+  position: FW
+  comment: Liverpool (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.79648852620571
+  updated_at: 2011-02-27 23:08:51.781247
+  id: 653
+  team_id: 29
+  team: ESP
+players_606: 
+  name: Robert KOREN
+  number: 8
+  position: MF
+  comment: West Bromwich Albion (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.70178201890333
+  updated_at: 2011-02-27 23:08:51.519929
+  id: 606
+  team_id: 26
+  team: SVN
+players_463: 
+  name: Tony LOCHHEAD
+  number: 3
+  position: DF
+  comment: Wellington Phoenix (NZL)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.61140779892
+  updated_at: 2011-02-27 23:08:50.288495
+  id: 463
+  team_id: 19
+  team: NZL
+players_416: 
+  name: Francisco RODRIGUEZ
+  number: 2
+  position: DF
+  comment: PSV Eindhoven (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.792017419725
+  updated_at: 2011-02-27 23:08:49.975937
+  id: 416
+  team_id: 17
+  team: MEX
+players_273: 
+  name: Quincy OWUSU-ABEYIE
+  number: 20
+  position: FW
+  comment: Al Sadd (QAT)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 4.04755420871
+  updated_at: 2011-02-27 23:08:49.123451
+  id: 273
+  team_id: 11
+  team: GHA
+players_084: 
+  name: THIAGO SILVA
+  number: 15
+  position: DF
+  comment: AC Milan (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 84
+  team_id: 4
+  team: BRA
+players_226: 
+  name: Abou DIABY
+  number: 19
+  position: MF
+  comment: Arsenal (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.86201010603
+  updated_at: 2011-02-27 23:08:48.867105
+  id: 226
+  team_id: 9
+  team: FRA
+players_036: 
+  name: Walter SAMUEL
+  number: 13
+  position: DF
+  comment: Inter (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.80461692304
+  updated_at: 2011-02-27 23:08:47.759445
+  id: 36
+  team_id: 2
+  team: ARG
+players_654: 
+  name: Cesc FABREGAS
+  number: 10
+  position: MF
+  comment: Arsenal (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.8123601693475
+  updated_at: 2011-02-27 23:08:51.786713
+  id: 654
+  team_id: 29
+  team: ESP
+players_607: 
+  name: Zlatan LJUBIJANKIC
+  number: 9
+  position: FW
+  comment: Gent (BEL)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.53060027523
+  updated_at: 2011-02-27 23:08:51.524215
+  id: 607
+  team_id: 26
+  team: SVN
+players_464: 
+  name: Winston REID
+  number: 4
+  position: DF
+  comment: Midtjylland (DEN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.60217504367
+  updated_at: 2011-02-27 23:08:50.293487
+  id: 464
+  team_id: 19
+  team: NZL
+players_417: 
+  name: Carlos SALCIDO
+  number: 3
+  position: DF
+  comment: PSV Eindhoven (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.46994650562
+  updated_at: 2011-02-27 23:08:49.981897
+  id: 417
+  team_id: 17
+  team: MEX
+players_274: 
+  name: Kwadwo ASAMOAH
+  number: 21
+  position: MF
+  comment: Udinese (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.13892111803
+  updated_at: 2011-02-27 23:08:49.128721
+  id: 274
+  team_id: 11
+  team: GHA
+players_227: 
+  name: Mathieu VALBUENA
+  number: 20
+  position: FW
+  comment: Marseille (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.09764446482
+  updated_at: 2011-02-27 23:08:48.877651
+  id: 227
+  team_id: 9
+  team: FRA
+players_037: 
+  name: Javier MASCHERANO
+  number: 14
+  position: MF
+  comment: Liverpool (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.2667089275425
+  updated_at: 2011-02-27 23:08:47.766298
+  id: 37
+  team_id: 2
+  team: ARG
+players_655: 
+  name: Joan CAPDEVILA
+  number: 11
+  position: DF
+  comment: Villarreal (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.03745145343
+  updated_at: 2011-02-27 23:08:51.793512
+  id: 655
+  team_id: 29
+  team: ESP
+players_608: 
+  name: Valter BIRSA
+  number: 10
+  position: MF
+  comment: Auxerre (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.20783803013667
+  updated_at: 2011-02-27 23:08:51.529280
+  id: 608
+  team_id: 26
+  team: SVN
+players_465: 
+  name: Ivan VICELICH
+  number: 5
+  position: DF
+  comment: Auckland City (NZL)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.466951037615
+  updated_at: 2011-02-27 23:08:50.300209
+  id: 465
+  team_id: 19
+  team: NZL
+players_418: 
+  name: Rafael MARQUEZ
+  number: 4
+  position: DF
+  comment: Barcelona (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.3032271301325
+  updated_at: 2011-02-27 23:08:49.985978
+  id: 418
+  team_id: 17
+  team: MEX
+players_275: 
+  name: Richard KINGSON
+  number: 22
+  position: GK
+  comment: Wigan (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.06619305087
+  updated_at: 2011-02-27 23:08:49.132931
+  id: 275
+  team_id: 11
+  team: GHA
+players_085: 
+  name: GILBERTO MELO
+  number: 16
+  position: DF
+  comment: Cruzeiro (BRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 4.437640402795
+  updated_at: 2011-02-27 23:08:48.029285
+  id: 85
+  team_id: 4
+  team: BRA
+players_228: 
+  name: Nicolas ANELKA
+  number: 21
+  position: FW
+  comment: Chelsea (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.60496073137
+  updated_at: 2011-02-27 23:08:48.883020
+  id: 228
+  team_id: 9
+  team: FRA
+players_038: 
+  name: Nicolas OTAMENDI
+  number: 15
+  position: DF
+  comment: Velez Sarsfield (ARG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.677075462285
+  updated_at: 2011-02-27 23:08:47.770818
+  id: 38
+  team_id: 2
+  team: ARG
+players_656: 
+  name: Victor VALDES
+  number: 12
+  position: GK
+  comment: Barcelona (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 656
+  team_id: 29
+  team: ESP
+players_609: 
+  name: Milivoje NOVAKOVIC
+  number: 11
+  position: FW
+  comment: FC Cologne (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.29452736116
+  updated_at: 2011-02-27 23:08:51.544302
+  id: 609
+  team_id: 26
+  team: SVN
+players_466: 
+  name: Ryan NELSEN
+  number: 6
+  position: DF
+  comment: Blackburn Rovers (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.807260483495
+  updated_at: 2011-02-27 23:08:50.308403
+  id: 466
+  team_id: 19
+  team: NZL
+players_419: 
+  name: Ricardo OSORIO
+  number: 5
+  position: DF
+  comment: VfB Stuttgart (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.8113552092575
+  updated_at: 2011-02-27 23:08:49.991146
+  id: 419
+  team_id: 17
+  team: MEX
+players_276: 
+  name: Kevin Prince BOATENG
+  number: 23
+  position: FW
+  comment: Portsmouth (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.38722581742
+  updated_at: 2011-02-27 23:08:49.147433
+  id: 276
+  team_id: 11
+  team: GHA
+players_086: 
+  name: JOSUE
+  number: 17
+  position: MF
+  comment: Wolfsburg (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.86517383396
+  updated_at: 2011-02-27 23:08:48.033719
+  id: 86
+  team_id: 4
+  team: BRA
+players_229: 
+  name: Gael CLICHY
+  number: 22
+  position: DF
+  comment: Arsenal (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.96273698104
+  updated_at: 2011-02-27 23:08:48.887149
+  id: 229
+  team_id: 9
+  team: FRA
+players_039: 
+  name: Sergio AGUERO
+  number: 16
+  position: FW
+  comment: Atletico Madrid (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.98025716936
+  updated_at: 2011-02-27 23:08:47.775640
+  id: 39
+  team_id: 2
+  team: ARG
+players_657: 
+  name: Juan Manuel MATA
+  number: 13
+  position: FW
+  comment: Valencia (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.83347469234
+  updated_at: 2011-02-27 23:08:51.799606
+  id: 657
+  team_id: 29
+  team: ESP
+players_467: 
+  name: Simon ELLIOTT
+  number: 7
+  position: MF
+  comment: no club affiliation (UNK)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.650669387345
+  updated_at: 2011-02-27 23:08:50.313446
+  id: 467
+  team_id: 19
+  team: NZL
+players_277: 
+  name: Konstantinos CHALKIAS
+  number: 1
+  position: GK
+  comment: PAOK (GRE)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 277
+  team_id: 12
+  team: GRE
+players_087: 
+  name: RAMIRES
+  number: 18
+  position: MF
+  comment: Benfica (POR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.682752577085
+  updated_at: 2011-02-27 23:08:48.038040
+  id: 87
+  team_id: 4
+  team: BRA
+players_658: 
+  name: XABI ALONSO
+  number: 14
+  position: MF
+  comment: Real Madrid (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.32371268110143
+  updated_at: 2011-02-27 23:08:51.815788
+  id: 658
+  team_id: 29
+  team: ESP
+players_468: 
+  name: Tim BROWN
+  number: 8
+  position: MF
+  comment: Wellington Phoenix (NZL)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 468
+  team_id: 19
+  team: NZL
+players_278: 
+  name: Giourkas SEITARIDIS
+  number: 2
+  position: DF
+  comment: Panathinaikos (GRE)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.59510398291
+  updated_at: 2011-02-27 23:08:49.153671
+  id: 278
+  team_id: 12
+  team: GRE
+players_088: 
+  name: JULIO BAPTISTA
+  number: 19
+  position: MF
+  comment: AS Roma (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.41540858789
+  updated_at: 2011-02-27 23:08:48.043531
+  id: 88
+  team_id: 4
+  team: BRA
+players_659: 
+  name: SERGIO RAMOS
+  number: 15
+  position: DF
+  comment: Real Madrid (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.26583407542857
+  updated_at: 2011-02-27 07:07:59.147543
+  id: 659
+  team_id: 29
+  team: ESP
+players_469: 
+  name: Shane SMELTZ
+  number: 9
+  position: FW
+  comment: Gold Coast United (AUS)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.759638525145
+  updated_at: 2011-02-27 23:08:50.320849
+  id: 469
+  team_id: 19
+  team: NZL
+players_279: 
+  name: Christos PATSATZOGLOU
+  number: 3
+  position: DF
+  comment: Omonia (CYP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.19568598709
+  updated_at: 2011-02-27 23:08:49.158992
+  id: 279
+  team_id: 12
+  team: GRE
+players_089: 
+  name: KLEBERSON
+  number: 20
+  position: MF
+  comment: Flamengo (BRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 89
+  team_id: 4
+  team: BRA
+players_710: 
+  name: Alvaro FERNANDEZ
+  number: 20
+  position: MF
+  comment: Univ. de Chile (CHI)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 4.558081467375
+  updated_at: 2011-02-27 23:08:52.134015
+  id: 710
+  team_id: 32
+  team: URU
+players_520: 
+  name: Paulo DA SILVA
+  number: 14
+  position: DF
+  comment: Sunderland (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.1498212485375
+  updated_at: 2011-02-27 23:08:50.575884
+  id: 520
+  team_id: 22
+  team: PAR
+players_330: 
+  name: Gennaro GATTUSO
+  number: 8
+  position: MF
+  comment: AC Milan (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.44707875202
+  updated_at: 2011-02-27 23:08:49.524830
+  id: 330
+  team_id: 14
+  team: ITA
+players_140: 
+  name: Brou ANGOUA
+  number: 2
+  position: DF
+  comment: Valenciennes (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 140
+  team_id: 15
+  team: CIV
+players_711: 
+  name: Sebastian FERNANDEZ
+  number: 21
+  position: FW
+  comment: Banfield (ARG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 711
+  team_id: 32
+  team: URU
+players_521: 
+  name: Victor CACERES
+  number: 15
+  position: MF
+  comment: Libertad (PAR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.26733283690333
+  updated_at: 2011-02-27 23:08:50.591796
+  id: 521
+  team_id: 22
+  team: PAR
+players_331: 
+  name: Vincenzo IAQUINTA
+  number: 9
+  position: FW
+  comment: Juventus (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.55520435295
+  updated_at: 2011-02-27 23:08:49.530994
+  id: 331
+  team_id: 14
+  team: ITA
+players_141: 
+  name: Arthur BOKA
+  number: 3
+  position: DF
+  comment: VfB Stuttgart (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.86078337829
+  updated_at: 2011-02-27 23:08:48.335586
+  id: 141
+  team_id: 15
+  team: CIV
+players_712: 
+  name: Martin CACERES
+  number: 22
+  position: DF
+  comment: Juventus (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.67391498224
+  updated_at: 2011-02-27 23:08:52.140546
+  id: 712
+  team_id: 32
+  team: URU
+players_522: 
+  name: Cristian RIVEROS
+  number: 16
+  position: MF
+  comment: Cruz Azul (MEX)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.5842840898875
+  updated_at: 2011-02-27 23:08:50.602286
+  id: 522
+  team_id: 22
+  team: PAR
+players_380: 
+  name: CHOE Kum Chol
+  number: 12
+  position: FW
+  comment: April 25 (PRK)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.0516630621
+  updated_at: 2011-02-27 23:08:49.801264
+  id: 380
+  team_id: 21
+  team: PRK
+players_190: 
+  name: John TERRY
+  number: 6
+  position: DF
+  comment: Chelsea (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.071924401295
+  updated_at: 2011-02-27 23:08:48.672765
+  id: 190
+  team_id: 8
+  team: ENG
+players_332: 
+  name: Antonio DI NATALE
+  number: 10
+  position: FW
+  comment: Udinese (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.46146717929
+  updated_at: 2011-02-27 23:08:49.536296
+  id: 332
+  team_id: 14
+  team: ITA
+players_142: 
+  name: Kolo TOURE
+  number: 4
+  position: DF
+  comment: Manchester City (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.29110085689
+  updated_at: 2011-02-27 23:08:48.340221
+  id: 142
+  team_id: 15
+  team: CIV
+players_713: 
+  name: Martin SILVA
+  number: 23
+  position: GK
+  comment: Defensor Sporting (URU)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 713
+  team_id: 32
+  team: URU
+players_570: 
+  name: Milos NINKOVIC
+  number: 18
+  position: MF
+  comment: Dynamo Kyiv (UKR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.417975278345
+  updated_at: 2011-02-27 23:08:51.118406
+  id: 570
+  team_id: 24
+  team: SRB
+players_523: 
+  name: Aureliano TORRES
+  number: 17
+  position: DF
+  comment: San Lorenzo (ARG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.227391377085
+  updated_at: 2011-02-27 23:08:50.625734
+  id: 523
+  team_id: 22
+  team: PAR
+players_381: 
+  name: PAK Chol Jin
+  number: 13
+  position: DF
+  comment: Amrokgang (PRK)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.96335686795333
+  updated_at: 2011-02-27 23:08:49.806265
+  id: 381
+  team_id: 21
+  team: PRK
+players_191: 
+  name: Aaron LENNON
+  number: 7
+  position: MF
+  comment: Tottenham Hotspur (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.707953544805
+  updated_at: 2011-02-27 23:08:48.678019
+  id: 191
+  team_id: 8
+  team: ENG
+players_333: 
+  name: Alberto GILARDINO
+  number: 11
+  position: FW
+  comment: Fiorentina (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.96474292855
+  updated_at: 2011-02-27 23:08:49.540833
+  id: 333
+  team_id: 14
+  team: ITA
+players_143: 
+  name: Didier ZOKORA
+  number: 5
+  position: MF
+  comment: Sevilla FC (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.84663298786
+  updated_at: 2011-02-27 23:08:48.344827
+  id: 143
+  team_id: 15
+  team: CIV
+players_714: 
+  name: Tim HOWARD
+  number: 1
+  position: GK
+  comment: Everton (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.48073089332
+  updated_at: 2011-02-27 23:08:52.242883
+  id: 714
+  team_id: 31
+  team: USA
+players_571: 
+  name: Radosav PETROVIC
+  number: 19
+  position: MF
+  comment: Partizan (SRB)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.14884120078
+  updated_at: 2011-02-27 23:08:51.128260
+  id: 571
+  team_id: 24
+  team: SRB
+players_524: 
+  name: Nelson VALDEZ
+  number: 18
+  position: FW
+  comment: Borussia Dortmund (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.5450482657225
+  updated_at: 2011-02-27 23:08:50.646449
+  id: 524
+  team_id: 22
+  team: PAR
+players_192: 
+  name: Frank LAMPARD
+  number: 8
+  position: MF
+  comment: Chelsea (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.8038134170575
+  updated_at: 2011-02-27 23:08:48.684315
+  id: 192
+  team_id: 8
+  team: ENG
+players_334: 
+  name: Federico MARCHETTI
+  number: 12
+  position: GK
+  comment: Cagliari (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.98645430117
+  updated_at: 2011-02-27 23:08:49.547719
+  id: 334
+  team_id: 14
+  team: ITA
+players_144: 
+  name: Steve GOHOURI
+  number: 6
+  position: DF
+  comment: Wigan (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 144
+  team_id: 15
+  team: CIV
+players_715: 
+  name: Jonathan SPECTOR
+  number: 2
+  position: DF
+  comment: West Ham Utd. (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 715
+  team_id: 31
+  team: USA
+players_572: 
+  name: Neven SUBOTIC
+  number: 20
+  position: DF
+  comment: Borussia Dortmund (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.266001583875
+  updated_at: 2011-02-27 23:08:51.134010
+  id: 572
+  team_id: 24
+  team: SRB
+players_525: 
+  name: Lucas BARRIOS
+  number: 19
+  position: FW
+  comment: Borussia Dortmund (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.9612067696875
+  updated_at: 2011-02-27 23:08:50.672197
+  id: 525
+  team_id: 22
+  team: PAR
+players_382: 
+  name: PAK Nam Chool
+  number: 14
+  position: DF
+  comment: Amrokgang (PRK)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 382
+  team_id: 21
+  team: PRK
+players_193: 
+  name: Peter CROUCH
+  number: 9
+  position: FW
+  comment: Tottenham Hotspur (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 3.213683211035
+  updated_at: 2011-02-27 23:08:48.688720
+  id: 193
+  team_id: 8
+  team: ENG
+players_335: 
+  name: Salvatore BOCCHETTI
+  number: 13
+  position: DF
+  comment: Genoa (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 335
+  team_id: 14
+  team: ITA
+players_145: 
+  name: Seydou DOUMBIA
+  number: 7
+  position: FW
+  comment: Young Boys (SUI)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.00299910264
+  updated_at: 2011-02-27 23:08:48.435833
+  id: 145
+  team_id: 15
+  team: CIV
+players_716: 
+  name: Carlos BOCANEGRA
+  number: 3
+  position: DF
+  comment: Rennes (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.5879100361525
+  updated_at: 2011-02-27 23:08:52.249183
+  id: 716
+  team_id: 31
+  team: USA
+players_573: 
+  name: Dragan MRDJA
+  number: 21
+  position: FW
+  comment: Vojvodina Novi Sad (SRB)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 573
+  team_id: 24
+  team: SRB
+players_526: 
+  name: Nestor ORTIGOZA
+  number: 20
+  position: MF
+  comment: Argentinos Juniors (ARG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.94879424311
+  updated_at: 2011-02-27 23:08:50.687585
+  id: 526
+  team_id: 22
+  team: PAR
+players_383: 
+  name: KIM Yong Jun
+  number: 15
+  position: MF
+  comment: Pyongyang City (PRK)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.55129729646
+  updated_at: 2011-02-27 23:08:49.815399
+  id: 383
+  team_id: 21
+  team: PRK
+players_194: 
+  name: Wayne ROONEY
+  number: 10
+  position: FW
+  comment: Manchester Utd. (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.32376633288
+  updated_at: 2011-02-27 23:08:48.694707
+  id: 194
+  team_id: 8
+  team: ENG
+players_336: 
+  name: Morgan DE SANCTIS
+  number: 14
+  position: GK
+  comment: Napoli (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 336
+  team_id: 14
+  team: ITA
+players_146: 
+  name: Salomon KALOU
+  number: 8
+  position: FW
+  comment: Chelsea (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.57085719513333
+  updated_at: 2011-02-27 23:08:48.441421
+  id: 146
+  team_id: 15
+  team: CIV
+players_717: 
+  name: Michael BRADLEY
+  number: 4
+  position: MF
+  comment: Borussia Moenchengladbach (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.2909602678275
+  updated_at: 2011-02-27 23:08:52.253680
+  id: 717
+  team_id: 31
+  team: USA
+players_574: 
+  name: Zdravko KUZMANOVIC
+  number: 22
+  position: MF
+  comment: VfB Stuttgart (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.0874344488
+  updated_at: 2011-02-27 23:08:51.305795
+  id: 574
+  team_id: 24
+  team: SRB
+players_527: 
+  name: Antolin ALCARAZ
+  number: 21
+  position: DF
+  comment: Club Brugge (BEL)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.2065962069
+  updated_at: 2011-02-27 23:08:50.698598
+  id: 527
+  team_id: 22
+  team: PAR
+players_384: 
+  name: NAM Song Chol
+  number: 16
+  position: DF
+  comment: April 25 (PRK)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.72410449571
+  updated_at: 2011-02-27 23:08:49.819802
+  id: 384
+  team_id: 21
+  team: PRK
+players_337: 
+  name: Claudio MARCHISIO
+  number: 15
+  position: MF
+  comment: Juventus (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.61539000081
+  updated_at: 2011-02-27 23:08:49.557873
+  id: 337
+  team_id: 14
+  team: ITA
+players_147: 
+  name: Ismael TIOTE
+  number: 9
+  position: MF
+  comment: Twente Enschede (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.56689738314667
+  updated_at: 2011-02-27 23:08:48.445715
+  id: 147
+  team_id: 15
+  team: CIV
+players_718: 
+  name: Oguchi ONYEWU
+  number: 5
+  position: DF
+  comment: AC Milan (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.99287996741
+  updated_at: 2011-02-27 23:08:52.258982
+  id: 718
+  team_id: 31
+  team: USA
+players_575: 
+  name: Andjelko DJURICIC
+  number: 23
+  position: GK
+  comment: Leiria (POR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 575
+  team_id: 24
+  team: SRB
+players_528: 
+  name: Aldo BOBADILLA
+  number: 22
+  position: GK
+  comment: Independiente Medellin (COL)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 528
+  team_id: 22
+  team: PAR
+players_385: 
+  name: AN Yong Hak
+  number: 17
+  position: MF
+  comment: Omiya Ardija (JPN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.92807736485667
+  updated_at: 2011-02-27 23:08:49.825235
+  id: 385
+  team_id: 21
+  team: PRK
+players_195: 
+  name: Joe COLE
+  number: 11
+  position: MF
+  comment: Chelsea (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.85733636555
+  updated_at: 2011-02-27 23:08:48.702023
+  id: 195
+  team_id: 8
+  team: ENG
+players_338: 
+  name: Mauro CAMORANESI
+  number: 16
+  position: MF
+  comment: Juventus (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.43239656384
+  updated_at: 2011-02-27 23:08:49.562710
+  id: 338
+  team_id: 14
+  team: ITA
+players_148: 
+  name: GERVINHO
+  number: 10
+  position: FW
+  comment: Lille (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.11280658195667
+  updated_at: 2011-02-27 23:08:48.451871
+  id: 148
+  team_id: 15
+  team: CIV
+players_719: 
+  name: Steve CHERUNDOLO
+  number: 6
+  position: DF
+  comment: Hannover 96 (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.0094501213175
+  updated_at: 2011-02-27 23:08:52.266494
+  id: 719
+  team_id: 31
+  team: USA
+players_576: 
+  name: Jan MUCHA
+  number: 1
+  position: GK
+  comment: Legia Warsaw (POL)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.26796277121
+  updated_at: 2011-02-27 23:08:51.314748
+  id: 576
+  team_id: 25
+  team: SVK
+players_529: 
+  name: Rodolfo GAMARRA
+  number: 23
+  position: FW
+  comment: Libertad (PAR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 529
+  team_id: 22
+  team: PAR
+players_386: 
+  name: KIM Myong Gil
+  number: 18
+  position: GK
+  comment: Amrokgang (PRK)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 386
+  team_id: 21
+  team: PRK
+players_196: 
+  name: Robert GREEN
+  number: 12
+  position: GK
+  comment: West Ham Utd. (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.86816474188
+  updated_at: 2011-02-27 23:08:48.708832
+  id: 196
+  team_id: 8
+  team: ENG
+players_339: 
+  name: Angelo PALOMBO
+  number: 17
+  position: MF
+  comment: Sampdoria (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 339
+  team_id: 14
+  team: ITA
+players_149: 
+  name: Didier DROGBA
+  number: 11
+  position: FW
+  comment: Chelsea (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.4416555386
+  updated_at: 2011-02-27 23:08:48.455812
+  id: 149
+  team_id: 15
+  team: CIV
+players_577: 
+  name: Peter PEKARIK
+  number: 2
+  position: DF
+  comment: Wolfsburg (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.10314642879
+  updated_at: 2011-02-27 23:08:51.321827
+  id: 577
+  team_id: 25
+  team: SVK
+players_197: 
+  name: Stephen WARNOCK
+  number: 13
+  position: DF
+  comment: Aston Villa (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 197
+  team_id: 8
+  team: ENG
+players_387: 
+  name: RI Chol Myong
+  number: 19
+  position: MF
+  comment: Pyongyang City (PRK)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 387
+  team_id: 21
+  team: PRK
+players_578: 
+  name: Martin SKRTEL
+  number: 3
+  position: DF
+  comment: Liverpool (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.03764757692
+  updated_at: 2011-02-27 23:08:51.330994
+  id: 578
+  team_id: 25
+  team: SVK
+players_198: 
+  name: Gareth BARRY
+  number: 14
+  position: MF
+  comment: Manchester City (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.46528319305667
+  updated_at: 2011-02-27 23:08:48.717372
+  id: 198
+  team_id: 8
+  team: ENG
+players_200: 
+  name: James MILNER
+  number: 16
+  position: MF
+  comment: Aston Villa (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.32543855618
+  updated_at: 2011-02-27 23:08:48.727230
+  id: 200
+  team_id: 8
+  team: ENG
+players_010: 
+  name: Rafik SAIFI
+  number: 10
+  position: FW
+  comment: Istres (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.762708333495
+  updated_at: 2011-02-27 23:08:47.638013
+  id: 10
+  team_id: 1
+  team: ALG
+players_388: 
+  name: KIM Myong Won
+  number: 20
+  position: GK
+  comment: Amrokgang (PRK)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 388
+  team_id: 21
+  team: PRK
+players_579: 
+  name: Marek CECH
+  number: 4
+  position: DF
+  comment: West Bromwich Albion (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.68811238451
+  updated_at: 2011-02-27 23:08:51.339143
+  id: 579
+  team_id: 25
+  team: SVK
+players_201: 
+  name: Shaun WRIGHT-PHILLIPS
+  number: 17
+  position: MF
+  comment: Manchester City (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.04006354548
+  updated_at: 2011-02-27 23:08:48.732724
+  id: 201
+  team_id: 8
+  team: ENG
+players_011: 
+  name: Rafik DJEBBOUR
+  number: 11
+  position: FW
+  comment: AEK Athens (GRE)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.563331738025
+  updated_at: 2011-02-27 23:08:47.642316
+  id: 11
+  team_id: 1
+  team: ALG
+players_389: 
+  name: RI Kwang Hyok
+  number: 21
+  position: DF
+  comment: Kyonggongop (PRK)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 389
+  team_id: 21
+  team: PRK
+players_199: 
+  name: Matt UPSON
+  number: 15
+  position: DF
+  comment: West Ham Utd. (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.301162583815
+  updated_at: 2011-02-27 23:08:48.722827
+  id: 199
+  team_id: 8
+  team: ENG
+players_060: 
+  name: Brett HOLMAN
+  number: 14
+  position: FW
+  comment: AZ Alkmaar (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.31066052006667
+  updated_at: 2011-02-27 23:08:47.892835
+  id: 60
+  team_id: 3
+  team: AUS
+players_202: 
+  name: Jamie CARRAGHER
+  number: 18
+  position: DF
+  comment: Liverpool (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.97383032619
+  updated_at: 2011-02-27 23:08:48.737447
+  id: 202
+  team_id: 8
+  team: ENG
+players_012: 
+  name: Habib BELLAID
+  number: 12
+  position: DF
+  comment: Boulogne (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 12
+  team_id: 1
+  team: ALG
+players_630: 
+  name: Katlego MPHELA
+  number: 9
+  position: FW
+  comment: Mamelodi Sundowns (RSA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.08602376285333
+  updated_at: 2011-02-27 23:08:51.649648
+  id: 630
+  team_id: 27
+  team: RSA
+players_440: 
+  name: John HEITINGA
+  number: 3
+  position: DF
+  comment: Everton (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.54606549826
+  updated_at: 2011-02-27 07:07:57.553277
+  id: 440
+  team_id: 18
+  team: NED
+players_250: 
+  name: Jerome BOATENG
+  number: 20
+  position: DF
+  comment: Hamburger SV (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.228391769054
+  updated_at: 2011-02-27 23:08:49.001720
+  id: 250
+  team_id: 10
+  team: GER
+players_061: 
+  name: Mile JEDINAK
+  number: 15
+  position: MF
+  comment: Antalyaspor (TUR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.30741832843
+  updated_at: 2011-02-27 23:08:47.897708
+  id: 61
+  team_id: 3
+  team: AUS
+players_203: 
+  name: Jermain DEFOE
+  number: 19
+  position: FW
+  comment: Tottenham Hotspur (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.52154215923333
+  updated_at: 2011-02-27 23:08:48.750922
+  id: 203
+  team_id: 8
+  team: ENG
+players_013: 
+  name: Karim MATMOUR
+  number: 13
+  position: MF
+  comment: Borussia Moenchengladbach (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.64653219601333
+  updated_at: 2011-02-27 23:08:47.650532
+  id: 13
+  team_id: 1
+  team: ALG
+players_631: 
+  name: Steven PIENAAR
+  number: 10
+  position: MF
+  comment: Everton (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.23440011526333
+  updated_at: 2011-02-27 23:08:51.654743
+  id: 631
+  team_id: 27
+  team: RSA
+players_441: 
+  name: Joris MATHIJSEN
+  number: 4
+  position: DF
+  comment: Hamburger SV (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.10545267812833
+  updated_at: 2011-02-27 23:08:50.179391
+  id: 441
+  team_id: 18
+  team: NED
+players_251: 
+  name: Marko MARIN
+  number: 21
+  position: MF
+  comment: Werder Bremen (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.19189255019
+  updated_at: 2011-02-27 23:08:49.011654
+  id: 251
+  team_id: 10
+  team: GER
+players_062: 
+  name: Carl VALERI
+  number: 16
+  position: MF
+  comment: Sassuolo (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.85537566147
+  updated_at: 2011-02-27 23:08:47.903020
+  id: 62
+  team_id: 3
+  team: AUS
+players_204: 
+  name: Ledley KING
+  number: 20
+  position: DF
+  comment: Tottenham Hotspur (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.03162703033
+  updated_at: 2011-02-27 23:08:48.755091
+  id: 204
+  team_id: 8
+  team: ENG
+players_014: 
+  name: Abdelkader LAIFAOUI
+  number: 14
+  position: DF
+  comment: Setif (ALG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 14
+  team_id: 1
+  team: ALG
+players_632: 
+  name: Teko MODISE
+  number: 11
+  position: MF
+  comment: Orlando Pirates (RSA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.23658527455667
+  updated_at: 2011-02-27 23:08:51.663447
+  id: 632
+  team_id: 27
+  team: RSA
+players_490: 
+  name: John UTAKA
+  number: 7
+  position: FW
+  comment: Portsmouth (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 490
+  team_id: 20
+  team: NGA
+players_442: 
+  name: Giovanni VAN BRONCKHORST
+  number: 5
+  position: DF
+  comment: Feyenoord (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.27392918147857
+  updated_at: 2011-02-27 23:08:50.184164
+  id: 442
+  team_id: 18
+  team: NED
+players_252: 
+  name: Hans Joerg BUTT
+  number: 22
+  position: GK
+  comment: Bayern Munich (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.43263557749
+  updated_at: 2011-02-27 23:08:49.018610
+  id: 252
+  team_id: 10
+  team: GER
+players_205: 
+  name: Emile HESKEY
+  number: 21
+  position: FW
+  comment: Aston Villa (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.06723996929
+  updated_at: 2011-02-27 23:08:48.760435
+  id: 205
+  team_id: 8
+  team: ENG
+players_015: 
+  name: Karim ZIANI
+  number: 15
+  position: MF
+  comment: Wolfsburg (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.82359105217
+  updated_at: 2011-02-27 23:08:47.658703
+  id: 15
+  team_id: 1
+  team: ALG
+players_680: 
+  name: Stephane GRICHTING
+  number: 13
+  position: DF
+  comment: Auxerre (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.19850637032667
+  updated_at: 2011-02-27 23:08:51.952782
+  id: 680
+  team_id: 30
+  team: SUI
+players_633: 
+  name: Reneilwe LETSHOLONYANE
+  number: 12
+  position: MF
+  comment: Kaizer Chiefs (RSA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.69043103919
+  updated_at: 2011-02-27 23:08:51.677366
+  id: 633
+  team_id: 27
+  team: RSA
+players_491: 
+  name: Yakubu AYEGBENI
+  number: 8
+  position: FW
+  comment: Everton (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.80374807716
+  updated_at: 2011-02-27 23:08:50.415924
+  id: 491
+  team_id: 20
+  team: NGA
+players_443: 
+  name: Mark VAN BOMMEL
+  number: 6
+  position: MF
+  comment: Bayern Munich (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.57494523520143
+  updated_at: 2011-02-27 23:08:50.188492
+  id: 443
+  team_id: 18
+  team: NED
+players_253: 
+  name: Mario GOMEZ
+  number: 23
+  position: FW
+  comment: Bayern Munich (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.896039556545
+  updated_at: 2011-02-27 23:08:49.022953
+  id: 253
+  team_id: 10
+  team: GER
+players_063: 
+  name: Nikita RUKAVYTSYA
+  number: 17
+  position: FW
+  comment: Twente Enschede (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 3.649443672715
+  updated_at: 2011-02-27 23:08:47.907434
+  id: 63
+  team_id: 3
+  team: AUS
+players_206: 
+  name: Michael CARRICK
+  number: 22
+  position: MF
+  comment: Manchester Utd. (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 206
+  team_id: 8
+  team: ENG
+players_016: 
+  name: Faouzi CHAOUCHI
+  number: 16
+  position: GK
+  comment: Setif (ALG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.77941889349
+  updated_at: 2011-02-27 23:08:47.662764
+  id: 16
+  team_id: 1
+  team: ALG
+players_681: 
+  name: Marco PADALINO
+  number: 14
+  position: MF
+  comment: Sampdoria (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 681
+  team_id: 30
+  team: SUI
+players_634: 
+  name: Kagisho DIKGACOI
+  number: 13
+  position: MF
+  comment: Fulham (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.88426832975
+  updated_at: 2011-02-27 23:08:51.683193
+  id: 634
+  team_id: 27
+  team: RSA
+players_444: 
+  name: Dirk KUYT
+  number: 7
+  position: FW
+  comment: Liverpool (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.58636085134286
+  updated_at: 2011-02-27 23:08:50.194407
+  id: 444
+  team_id: 18
+  team: NED
+players_254: 
+  name: Daniel AGYEI
+  number: 1
+  position: GK
+  comment: Liberty (GHA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 254
+  team_id: 11
+  team: GHA
+players_064: 
+  name: Eugene GALEKOVIC
+  number: 18
+  position: GK
+  comment: Adelaide Utd. (AUS)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 64
+  team_id: 3
+  team: AUS
+players_207: 
+  name: Joe HART
+  number: 23
+  position: GK
+  comment: Birmingham City (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 207
+  team_id: 8
+  team: ENG
+players_017: 
+  name: Adlane GUEDIOURA
+  number: 17
+  position: MF
+  comment: Wolverhampton (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.95133588711667
+  updated_at: 2011-02-27 23:08:47.667216
+  id: 17
+  team_id: 1
+  team: ALG
+players_682: 
+  name: Hakan YAKIN
+  number: 15
+  position: MF
+  comment: Lucerne (SUI)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.639271744265
+  updated_at: 2011-02-27 23:08:51.959824
+  id: 682
+  team_id: 30
+  team: SUI
+players_635: 
+  name: Matthew BOOTH
+  number: 14
+  position: DF
+  comment: Mamelodi Sundowns (RSA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 635
+  team_id: 27
+  team: RSA
+players_492: 
+  name: Obafemi MARTINS
+  number: 9
+  position: FW
+  comment: Wolfsburg (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.29780585086
+  updated_at: 2011-02-27 23:08:50.421854
+  id: 492
+  team_id: 20
+  team: NGA
+players_445: 
+  name: Nigel DE JONG
+  number: 8
+  position: MF
+  comment: Manchester City (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.44740440236
+  updated_at: 2011-02-27 23:08:50.200275
+  id: 445
+  team_id: 18
+  team: NED
+players_255: 
+  name: Hans SARPEI
+  number: 2
+  position: DF
+  comment: Bayer Leverkusen (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.401534187488
+  updated_at: 2011-02-27 23:08:49.030996
+  id: 255
+  team_id: 11
+  team: GHA
+players_065: 
+  name: Richard GARCIA
+  number: 19
+  position: FW
+  comment: Hull City (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 3.613614841645
+  updated_at: 2011-02-27 23:08:47.914281
+  id: 65
+  team_id: 3
+  team: AUS
+players_208: 
+  name: Hugo LLORIS
+  number: 1
+  position: GK
+  comment: Lyon (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 1.67314572503667
+  updated_at: 2011-02-27 23:08:48.768628
+  id: 208
+  team_id: 9
+  team: FRA
+players_018: 
+  name: Carl MEDJANI
+  number: 18
+  position: DF
+  comment: Ajaccio (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 18
+  team_id: 1
+  team: ALG
+players_683: 
+  name: Gelson FERNANDES
+  number: 16
+  position: MF
+  comment: Saint-Etienne (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.23363205647333
+  updated_at: 2011-02-27 23:08:51.966167
+  id: 683
+  team_id: 30
+  team: SUI
+players_636: 
+  name: Lucas THWALA
+  number: 15
+  position: DF
+  comment: Orlando Pirates (RSA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.62197362399
+  updated_at: 2011-02-27 23:08:51.694124
+  id: 636
+  team_id: 27
+  team: RSA
+players_493: 
+  name: Brown IDEYE
+  number: 10
+  position: FW
+  comment: Sochaux (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 493
+  team_id: 20
+  team: NGA
+players_446: 
+  name: Robin VAN PERSIE
+  number: 9
+  position: FW
+  comment: Arsenal (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.53536173503714
+  updated_at: 2011-02-27 23:08:50.205855
+  id: 446
+  team_id: 18
+  team: NED
+players_256: 
+  name: Asamoah GYAN
+  number: 3
+  position: FW
+  comment: Rennes (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.158695051632
+  updated_at: 2011-02-27 23:08:49.035231
+  id: 256
+  team_id: 11
+  team: GHA
+players_066: 
+  name: Mark MILLIGAN
+  number: 20
+  position: DF
+  comment: JEF United Ichihara (JPN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 66
+  team_id: 3
+  team: AUS
+players_209: 
+  name: Bakari SAGNA
+  number: 2
+  position: DF
+  comment: Arsenal (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.60818918933333
+  updated_at: 2011-02-27 23:08:48.774788
+  id: 209
+  team_id: 9
+  team: FRA
+players_019: 
+  name: Hassan YEBDA
+  number: 19
+  position: MF
+  comment: Portsmouth (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.26224040313333
+  updated_at: 2011-02-27 23:08:47.676984
+  id: 19
+  team_id: 1
+  team: ALG
+players_684: 
+  name: Reto ZIEGLER
+  number: 17
+  position: DF
+  comment: Sampdoria (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.62799600101667
+  updated_at: 2011-02-27 23:08:51.972150
+  id: 684
+  team_id: 30
+  team: SUI
+players_637: 
+  name: Itumeleng KHUNE
+  number: 16
+  position: GK
+  comment: Kaizer Chiefs (RSA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 637
+  team_id: 27
+  team: RSA
+players_494: 
+  name: Peter ODEMWINGIE
+  number: 11
+  position: FW
+  comment: Lokomotiv Moscow (RUS)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.07214198246
+  updated_at: 2011-02-27 23:08:50.433010
+  id: 494
+  team_id: 20
+  team: NGA
+players_447: 
+  name: Wesley SNEIJDER
+  number: 10
+  position: MF
+  comment: Inter (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.30617311700286
+  updated_at: 2011-02-27 23:08:50.210744
+  id: 447
+  team_id: 18
+  team: NED
+players_257: 
+  name: John PANTSIL
+  number: 4
+  position: DF
+  comment: Fulham (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.16803406272
+  updated_at: 2011-02-27 23:08:49.039341
+  id: 257
+  team_id: 11
+  team: GHA
+players_067: 
+  name: David CARNEY
+  number: 21
+  position: DF
+  comment: Twente Enschede (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.2712594285
+  updated_at: 2011-02-27 23:08:47.926946
+  id: 67
+  team_id: 3
+  team: AUS
+players_685: 
+  name: Albert BUNJAKU
+  number: 18
+  position: FW
+  comment: Nuremberg (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.38069695612
+  updated_at: 2011-02-27 23:08:51.976361
+  id: 685
+  team_id: 30
+  team: SUI
+players_638: 
+  name: Bernard PARKER
+  number: 17
+  position: FW
+  comment: Twente Enschede (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.95123811876
+  updated_at: 2011-02-27 23:08:51.700237
+  id: 638
+  team_id: 27
+  team: RSA
+players_495: 
+  name: Kalu UCHE
+  number: 12
+  position: MF
+  comment: Almeria (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.21401396621333
+  updated_at: 2011-02-27 23:08:50.438246
+  id: 495
+  team_id: 20
+  team: NGA
+players_448: 
+  name: Arjen ROBBEN
+  number: 11
+  position: FW
+  comment: Bayern Munich (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.90943506054
+  updated_at: 2011-02-27 23:08:50.221268
+  id: 448
+  team_id: 18
+  team: NED
+players_258: 
+  name: John MENSAH
+  number: 5
+  position: DF
+  comment: Sunderland (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.1764216910125
+  updated_at: 2011-02-27 23:08:49.045286
+  id: 258
+  team_id: 11
+  team: GHA
+players_068: 
+  name: Dario VIDOSIC
+  number: 22
+  position: MF
+  comment: MSV Duisburg (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 68
+  team_id: 3
+  team: AUS
+players_686: 
+  name: Eren DERDIYOK
+  number: 19
+  position: FW
+  comment: Bayer Leverkusen (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.85432560454667
+  updated_at: 2011-02-27 23:08:51.982054
+  id: 686
+  team_id: 30
+  team: SUI
+players_639: 
+  name: Siyabonga NOMVETHE
+  number: 18
+  position: FW
+  comment: Moroka Swallows (RSA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.04882788505
+  updated_at: 2011-02-27 23:08:51.704181
+  id: 639
+  team_id: 27
+  team: RSA
+players_496: 
+  name: Yussuf AYILA
+  number: 13
+  position: MF
+  comment: Dynamo Kyiv (UKR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.47811127415
+  updated_at: 2011-02-27 23:08:50.442103
+  id: 496
+  team_id: 20
+  team: NGA
+players_449: 
+  name: Khalid BOULAHROUZ
+  number: 12
+  position: DF
+  comment: VfB Stuttgart (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.962653567655
+  updated_at: 2011-02-27 23:08:50.226640
+  id: 449
+  team_id: 18
+  team: NED
+players_259: 
+  name: Anthony ANNAN
+  number: 6
+  position: MF
+  comment: Rosenborg (NOR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.132507967076
+  updated_at: 2011-02-27 23:08:49.055011
+  id: 259
+  team_id: 11
+  team: GHA
+players_069: 
+  name: Marco BRESCIANO
+  number: 23
+  position: FW
+  comment: Palermo (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.883671263155
+  updated_at: 2011-02-27 23:08:47.934156
+  id: 69
+  team_id: 3
+  team: AUS
+players_687: 
+  name: Pirmin SCHWEGLER
+  number: 20
+  position: MF
+  comment: Eintracht Frankfurt (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 687
+  team_id: 30
+  team: SUI
+players_497: 
+  name: Sani KAITA
+  number: 14
+  position: MF
+  comment: Alania Vladikavkaz (RUS)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.645987316195
+  updated_at: 2011-02-27 23:08:50.449183
+  id: 497
+  team_id: 20
+  team: NGA
+players_688: 
+  name: Johnny LEONI
+  number: 21
+  position: GK
+  comment: FC Zurich (SUI)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 688
+  team_id: 30
+  team: SUI
+players_500: 
+  name: Chidi ODIAH
+  number: 17
+  position: DF
+  comment: CSKA Moscow (RUS)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.54821994783
+  updated_at: 2011-02-27 23:08:50.463653
+  id: 500
+  team_id: 20
+  team: NGA
+players_498: 
+  name: Lukman HARUNA
+  number: 15
+  position: MF
+  comment: Monaco (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.068831152275
+  updated_at: 2011-02-27 23:08:50.455482
+  id: 498
+  team_id: 20
+  team: NGA
+players_310: 
+  name: David SUAZO
+  number: 11
+  position: FW
+  comment: Genoa (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.14911724015
+  updated_at: 2011-02-27 23:08:49.402244
+  id: 310
+  team_id: 13
+  team: HON
+players_120: 
+  name: Pablo CONTRERAS
+  number: 5
+  position: DF
+  comment: PAOK (GRE)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 3.08333427357
+  updated_at: 2011-02-27 23:08:48.220363
+  id: 120
+  team_id: 6
+  team: CHI
+players_689: 
+  name: Mario EGGIMANN
+  number: 22
+  position: DF
+  comment: Hannover 96 (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 689
+  team_id: 30
+  team: SUI
+players_501: 
+  name: Victor OBINNA
+  number: 18
+  position: FW
+  comment: Malaga (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.15912287283
+  updated_at: 2011-02-27 23:08:50.468292
+  id: 501
+  team_id: 20
+  team: NGA
+players_499: 
+  name: Austin EJIDE
+  number: 16
+  position: GK
+  comment: Hapoel Petah Tikva (ISR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 499
+  team_id: 20
+  team: NGA
+players_311: 
+  name: George WELCOME
+  number: 12
+  position: FW
+  comment: Motagua (HON)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.75987260158
+  updated_at: 2011-02-27 23:08:49.406644
+  id: 311
+  team_id: 13
+  team: HON
+players_121: 
+  name: Carlos CARMONA
+  number: 6
+  position: MF
+  comment: Reggina (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.12538173287667
+  updated_at: 2011-02-27 23:08:48.224589
+  id: 121
+  team_id: 6
+  team: CHI
+players_502: 
+  name: Chinedu OGBUKE OBASI
+  number: 19
+  position: FW
+  comment: Hoffenheim (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.59991880829
+  updated_at: 2011-02-27 23:08:50.474468
+  id: 502
+  team_id: 20
+  team: NGA
+players_170: 
+  name: Jon Dahl TOMASSON
+  number: 9
+  position: FW
+  comment: Feyenoord (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.9904792023
+  updated_at: 2011-02-27 23:08:48.560042
+  id: 170
+  team_id: 7
+  team: DEN
+players_312: 
+  name: Roger ESPINOZA
+  number: 13
+  position: FW
+  comment: Kansas City Wizards (USA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.59477327759
+  updated_at: 2011-02-27 23:08:49.413021
+  id: 312
+  team_id: 13
+  team: HON
+players_122: 
+  name: Alexis SANCHEZ
+  number: 7
+  position: FW
+  comment: Udinese (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.0151121342475
+  updated_at: 2011-02-27 23:08:48.231444
+  id: 122
+  team_id: 6
+  team: CHI
+players_550: 
+  name: RICARDO COSTA
+  number: 21
+  position: DF
+  comment: Lille (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.84231510811
+  updated_at: 2011-02-27 23:08:50.924091
+  id: 550
+  team_id: 23
+  team: POR
+players_503: 
+  name: Dickson ETUHU
+  number: 20
+  position: MF
+  comment: Fulham (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.65226105336
+  updated_at: 2011-02-27 23:08:50.483668
+  id: 503
+  team_id: 20
+  team: NGA
+players_360: 
+  name: Yasuyuki KONNO
+  number: 15
+  position: DF
+  comment: FC Tokyo (JPN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 360
+  team_id: 16
+  team: JPN
+players_171: 
+  name: Martin JORGENSEN
+  number: 10
+  position: MF
+  comment: AGF Aarhus (DEN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.74426610091667
+  updated_at: 2011-02-27 23:08:48.571962
+  id: 171
+  team_id: 7
+  team: DEN
+players_313: 
+  name: Oscar GARCIA
+  number: 14
+  position: DF
+  comment: Olimpia Tegucigalpa (HON)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 313
+  team_id: 13
+  team: HON
+players_123: 
+  name: Arturo VIDAL
+  number: 8
+  position: MF
+  comment: Bayer Leverkusen (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.063547836555
+  updated_at: 2011-02-27 23:08:48.235690
+  id: 123
+  team_id: 6
+  team: CHI
+players_551: 
+  name: DANIEL FERNANDES
+  number: 22
+  position: GK
+  comment: Iraklis (GRE)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 551
+  team_id: 23
+  team: POR
+players_504: 
+  name: Uwa ECHIEJILE
+  number: 21
+  position: DF
+  comment: Rennes (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.466386166755
+  updated_at: 2011-02-27 23:08:50.487775
+  id: 504
+  team_id: 20
+  team: NGA
+players_361: 
+  name: Yoshito OKUBO
+  number: 16
+  position: FW
+  comment: Vissel Kobe (JPN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.2597223657875
+  updated_at: 2011-02-27 23:08:49.697962
+  id: 361
+  team_id: 16
+  team: JPN
+players_172: 
+  name: Nicklas BENDTNER
+  number: 11
+  position: FW
+  comment: Arsenal (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.76590377604333
+  updated_at: 2011-02-27 23:08:48.576241
+  id: 172
+  team_id: 7
+  team: DEN
+players_314: 
+  name: Walter MARTINEZ
+  number: 15
+  position: FW
+  comment: Marathon (HON)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.59531062654667
+  updated_at: 2011-02-27 23:08:49.423657
+  id: 314
+  team_id: 13
+  team: HON
+players_124: 
+  name: Humberto SUAZO
+  number: 9
+  position: FW
+  comment: Zaragoza (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.668393227715
+  updated_at: 2011-02-27 23:08:48.243836
+  id: 124
+  team_id: 6
+  team: CHI
+players_552: 
+  name: FABIO COENTRAO
+  number: 23
+  position: DF
+  comment: Benfica (POR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.5596688749575
+  updated_at: 2011-02-27 23:08:50.946358
+  id: 552
+  team_id: 23
+  team: POR
+players_505: 
+  name: Dele ADELEYE
+  number: 22
+  position: DF
+  comment: Sparta Rotterdam (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 505
+  team_id: 20
+  team: NGA
+players_362: 
+  name: Makoto HASEBE
+  number: 17
+  position: MF
+  comment: Wolfsburg (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.2614722322125
+  updated_at: 2011-02-27 23:08:49.702254
+  id: 362
+  team_id: 16
+  team: JPN
+players_315: 
+  name: Mauricio SABILLON
+  number: 16
+  position: DF
+  comment: Hangzhou Greentown (CHN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.65432372994
+  updated_at: 2011-02-27 23:08:49.433271
+  id: 315
+  team_id: 13
+  team: HON
+players_125: 
+  name: Jorge VALDIVIA
+  number: 10
+  position: MF
+  comment: Al Ain (UAE)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.69799353347
+  updated_at: 2011-02-27 23:08:48.251034
+  id: 125
+  team_id: 6
+  team: CHI
+players_553: 
+  name: Vladimir STOJKOVIC
+  number: 1
+  position: GK
+  comment: Wigan (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.91903235155667
+  updated_at: 2011-02-27 23:08:50.952776
+  id: 553
+  team_id: 24
+  team: SRB
+players_506: 
+  name: Dele AIYENUGBA
+  number: 23
+  position: GK
+  comment: Bnei Yehuda (ISR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 506
+  team_id: 20
+  team: NGA
+players_363: 
+  name: Keisuke HONDA
+  number: 18
+  position: MF
+  comment: CSKA Moscow (RUS)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.86944761079
+  updated_at: 2011-02-27 23:08:49.709746
+  id: 363
+  team_id: 16
+  team: JPN
+players_173: 
+  name: Thomas KAHLENBERG
+  number: 12
+  position: MF
+  comment: Wolfsburg (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.52871728910333
+  updated_at: 2011-02-27 23:08:48.582793
+  id: 173
+  team_id: 7
+  team: DEN
+players_316: 
+  name: Edgar ALVAREZ
+  number: 17
+  position: MF
+  comment: Bari (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.110282817205
+  updated_at: 2011-02-27 23:08:49.438487
+  id: 316
+  team_id: 13
+  team: HON
+players_126: 
+  name: Mark GONZALEZ
+  number: 11
+  position: FW
+  comment: CSKA Moscow (RUS)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.5885866717
+  updated_at: 2011-02-27 23:08:48.255198
+  id: 126
+  team_id: 6
+  team: CHI
+players_554: 
+  name: Antonio RUKAVINA
+  number: 2
+  position: DF
+  comment: Munich 1860 (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 554
+  team_id: 24
+  team: SRB
+players_507: 
+  name: Justo VILLAR
+  number: 1
+  position: GK
+  comment: Valladolid (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.1261073156
+  updated_at: 2011-02-27 23:08:50.496832
+  id: 507
+  team_id: 22
+  team: PAR
+players_364: 
+  name: Takayuki MORIMOTO
+  number: 19
+  position: FW
+  comment: Catania (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 364
+  team_id: 16
+  team: JPN
+players_174: 
+  name: Per KROLDRUP
+  number: 13
+  position: DF
+  comment: Fiorentina (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.21213669856
+  updated_at: 2011-02-27 23:08:48.586836
+  id: 174
+  team_id: 7
+  team: DEN
+players_317: 
+  name: Noel VALLADARES
+  number: 18
+  position: GK
+  comment: Olimpia Tegucigalpa (HON)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.38079560498667
+  updated_at: 2011-02-27 23:08:49.443827
+  id: 317
+  team_id: 13
+  team: HON
+players_127: 
+  name: Miguel PINTO
+  number: 12
+  position: GK
+  comment: Univ. de Chile (CHI)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 127
+  team_id: 6
+  team: CHI
+players_555: 
+  name: Aleksandar KOLAROV
+  number: 3
+  position: DF
+  comment: Lazio (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.03646087078
+  updated_at: 2011-02-27 23:08:50.959381
+  id: 555
+  team_id: 24
+  team: SRB
+players_508: 
+  name: Dario VERON
+  number: 2
+  position: DF
+  comment: Pumas UNAM (MEX)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.09899497636
+  updated_at: 2011-02-27 23:08:50.502390
+  id: 508
+  team_id: 22
+  team: PAR
+players_365: 
+  name: Junichi INAMOTO
+  number: 20
+  position: MF
+  comment: Kawasaki Frontale (JPN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 2.76330458827
+  updated_at: 2011-02-27 23:08:49.720178
+  id: 365
+  team_id: 16
+  team: JPN
+players_175: 
+  name: Jakob POULSEN
+  number: 14
+  position: MF
+  comment: AGF Aarhus (DEN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.44803903407
+  updated_at: 2011-02-27 23:08:48.591760
+  id: 175
+  team_id: 7
+  team: DEN
+players_318: 
+  name: Danilo TURCIOS
+  number: 19
+  position: MF
+  comment: Olimpia Tegucigalpa (HON)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 3.48430042537
+  updated_at: 2011-02-27 23:08:49.448615
+  id: 318
+  team_id: 13
+  team: HON
+players_128: 
+  name: Marco ESTRADA
+  number: 13
+  position: MF
+  comment: Univ. de Chile (CHI)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.63533118266
+  updated_at: 2011-02-27 23:08:48.266175
+  id: 128
+  team_id: 6
+  team: CHI
+players_556: 
+  name: Gojko KACAR
+  number: 4
+  position: MF
+  comment: Hertha Berlin (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.2843880467
+  updated_at: 2011-02-27 23:08:50.965906
+  id: 556
+  team_id: 24
+  team: SRB
+players_509: 
+  name: Claudio MOREL
+  number: 3
+  position: DF
+  comment: Boca Juniors (ARG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.4728315561775
+  updated_at: 2011-02-27 23:08:50.507337
+  id: 509
+  team_id: 22
+  team: PAR
+players_366: 
+  name: Eiji KAWASHIMA
+  number: 21
+  position: GK
+  comment: Kawasaki Frontale (JPN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 4.013684092595
+  updated_at: 2011-02-27 23:08:49.724385
+  id: 366
+  team_id: 16
+  team: JPN
+players_176: 
+  name: Simon POULSEN
+  number: 15
+  position: DF
+  comment: AZ Alkmaar (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.96935556237333
+  updated_at: 2011-02-27 23:08:48.597291
+  id: 176
+  team_id: 7
+  team: DEN
+players_319: 
+  name: Amado GUEVARA
+  number: 20
+  position: MF
+  comment: Motagua (HON)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.643184043675
+  updated_at: 2011-02-27 23:08:49.455313
+  id: 319
+  team_id: 13
+  team: HON
+players_129: 
+  name: Matias FERNANDEZ
+  number: 14
+  position: MF
+  comment: Sporting Lisbon (POR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.825418629405
+  updated_at: 2011-02-27 23:08:48.270436
+  id: 129
+  team_id: 6
+  team: CHI
+players_557: 
+  name: Nemanja VIDIC
+  number: 5
+  position: DF
+  comment: Manchester Utd. (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.26511874194667
+  updated_at: 2011-02-27 23:08:50.977362
+  id: 557
+  team_id: 24
+  team: SRB
+players_367: 
+  name: Yuji NAKAZAWA
+  number: 22
+  position: DF
+  comment: Yokohama F Marinos (JPN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.0556867468275
+  updated_at: 2011-02-27 23:08:49.729407
+  id: 367
+  team_id: 16
+  team: JPN
+players_177: 
+  name: Stephan ANDERSEN
+  number: 16
+  position: GK
+  comment: Brondby (DEN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 177
+  team_id: 7
+  team: DEN
+players_558: 
+  name: Branislav IVANOVIC
+  number: 6
+  position: DF
+  comment: Chelsea (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.10108022288333
+  updated_at: 2011-02-27 23:08:50.998349
+  id: 558
+  team_id: 24
+  team: SRB
+players_368: 
+  name: Yoshikatsu KAWAGUCHI
+  number: 23
+  position: GK
+  comment: Jubilo Iwata (JPN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 368
+  team_id: 16
+  team: JPN
+players_178: 
+  name: Mikkel BECKMANN
+  number: 17
+  position: FW
+  comment: Randers (DEN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.46105220877
+  updated_at: 2011-02-27 23:08:48.602964
+  id: 178
+  team_id: 7
+  team: DEN
+players_559: 
+  name: Zoran TOSIC
+  number: 7
+  position: MF
+  comment: FC Cologne (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.41540858789
+  updated_at: 2011-02-27 23:08:51.003184
+  id: 559
+  team_id: 24
+  team: SRB
+players_369: 
+  name: RI Myong Guk
+  number: 1
+  position: GK
+  comment: Pyongyang City (PRK)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.87163703892667
+  updated_at: 2011-02-27 23:08:49.736923
+  id: 369
+  team_id: 21
+  team: PRK
+players_179: 
+  name: Soren LARSEN
+  number: 18
+  position: FW
+  comment: MSV Duisburg (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.74506871801
+  updated_at: 2011-02-27 23:08:48.615017
+  id: 179
+  team_id: 7
+  team: DEN
+players_040: 
+  name: Jonas GUTIERREZ
+  number: 17
+  position: MF
+  comment: Newcastle Utd. (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.34636694960333
+  updated_at: 2011-02-27 23:08:47.781346
+  id: 40
+  team_id: 2
+  team: ARG
+players_610: 
+  name: Jasmin HANDANOVIC
+  number: 12
+  position: GK
+  comment: Mantova (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 610
+  team_id: 26
+  team: SVN
+players_420: 
+  name: Gerardo TORRADO
+  number: 6
+  position: MF
+  comment: Cruz Azul (MEX)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.3704224974725
+  updated_at: 2011-02-27 23:08:50.000465
+  id: 420
+  team_id: 17
+  team: MEX
+players_230: 
+  name: Cedric CARRASSO
+  number: 23
+  position: GK
+  comment: Bordeaux (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 230
+  team_id: 9
+  team: FRA
+players_611: 
+  name: Bojan JOKIC
+  number: 13
+  position: DF
+  comment: Chievo (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.19875937652
+  updated_at: 2011-02-27 23:08:51.552631
+  id: 611
+  team_id: 26
+  team: SVN
+players_421: 
+  name: Pablo BARRERA
+  number: 7
+  position: FW
+  comment: Pumas UNAM (MEX)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.70421875137333
+  updated_at: 2011-02-27 23:08:50.005612
+  id: 421
+  team_id: 17
+  team: MEX
+players_231: 
+  name: Manuel NEUER
+  number: 1
+  position: GK
+  comment: Schalke 04 (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.91418290123167
+  updated_at: 2011-02-27 23:08:48.897853
+  id: 231
+  team_id: 10
+  team: GER
+players_041: 
+  name: Martin PALERMO
+  number: 18
+  position: FW
+  comment: Boca Juniors (ARG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 41
+  team_id: 2
+  team: ARG
+players_612: 
+  name: Zlatko DEDIC
+  number: 14
+  position: FW
+  comment: Bochum (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.85695260881
+  updated_at: 2011-02-27 23:08:51.557262
+  id: 612
+  team_id: 26
+  team: SVN
+players_422: 
+  name: Israel CASTRO
+  number: 8
+  position: MF
+  comment: Pumas UNAM (MEX)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.44420609868
+  updated_at: 2011-02-27 23:08:50.009631
+  id: 422
+  team_id: 17
+  team: MEX
+players_280: 
+  name: Nikos SPIROPOULOS
+  number: 4
+  position: DF
+  comment: Panathinaikos (GRE)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 280
+  team_id: 12
+  team: GRE
+players_090: 
+  name: NILMAR
+  number: 21
+  position: FW
+  comment: Villarreal (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.1732312074875
+  updated_at: 2011-02-27 23:08:48.050828
+  id: 90
+  team_id: 4
+  team: BRA
+players_232: 
+  name: Marcell JANSEN
+  number: 2
+  position: MF
+  comment: Hamburger SV (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.8786837759725
+  updated_at: 2011-02-27 23:08:48.902176
+  id: 232
+  team_id: 10
+  team: GER
+players_042: 
+  name: Diego MILITO
+  number: 19
+  position: FW
+  comment: Inter (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.17185904177
+  updated_at: 2011-02-27 23:08:47.786892
+  id: 42
+  team_id: 2
+  team: ARG
+players_660: 
+  name: Sergio BUSQUETS
+  number: 16
+  position: MF
+  comment: Barcelona (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.42227874668714
+  updated_at: 2011-02-27 23:08:51.822813
+  id: 660
+  team_id: 29
+  team: ESP
+players_613: 
+  name: Rene KRHIN
+  number: 15
+  position: MF
+  comment: Inter (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 613
+  team_id: 26
+  team: SVN
+players_470: 
+  name: Chris KILLEN
+  number: 10
+  position: FW
+  comment: Middlesbrough (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.863219383975
+  updated_at: 2011-02-27 23:08:50.325452
+  id: 470
+  team_id: 19
+  team: NZL
+players_423: 
+  name: Guillermo FRANCO
+  number: 9
+  position: FW
+  comment: West Ham Utd. (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.40852999305
+  updated_at: 2011-02-27 23:08:50.016613
+  id: 423
+  team_id: 17
+  team: MEX
+players_281: 
+  name: Vangelis MORAS
+  number: 5
+  position: DF
+  comment: Bologna (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 281
+  team_id: 12
+  team: GRE
+players_091: 
+  name: DONI
+  number: 22
+  position: GK
+  comment: AS Roma (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 91
+  team_id: 4
+  team: BRA
+players_233: 
+  name: Arne FRIEDRICH
+  number: 3
+  position: DF
+  comment: Hertha Berlin (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.36712773351571
+  updated_at: 2011-02-27 23:08:48.906632
+  id: 233
+  team_id: 10
+  team: GER
+players_043: 
+  name: Maxi RODRIGUEZ
+  number: 20
+  position: MF
+  comment: Liverpool (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.96779263329
+  updated_at: 2011-02-27 23:08:47.797105
+  id: 43
+  team_id: 2
+  team: ARG
+players_661: 
+  name: Alvaro ARBELOA
+  number: 17
+  position: DF
+  comment: Real Madrid (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.63223733445
+  updated_at: 2011-02-27 23:08:51.828505
+  id: 661
+  team_id: 29
+  team: ESP
+players_614: 
+  name: Aleksander SELIGA
+  number: 16
+  position: GK
+  comment: Sparta Rotterdam (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 614
+  team_id: 26
+  team: SVN
+players_471: 
+  name: Leo BERTOS
+  number: 11
+  position: MF
+  comment: Wellington Phoenix (NZL)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.861937479515
+  updated_at: 2011-02-27 23:08:50.330902
+  id: 471
+  team_id: 19
+  team: NZL
+players_424: 
+  name: Cuauhtemoc BLANCO
+  number: 10
+  position: FW
+  comment: Veracruz (MEX)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.24179225525
+  updated_at: 2011-02-27 23:08:50.023510
+  id: 424
+  team_id: 17
+  team: MEX
+players_282: 
+  name: Alexandros TZIOLIS
+  number: 6
+  position: MF
+  comment: Siena (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.38234238803
+  updated_at: 2011-02-27 23:08:49.169050
+  id: 282
+  team_id: 12
+  team: GRE
+players_092: 
+  name: GRAFITE
+  number: 23
+  position: FW
+  comment: Wolfsburg (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.27073668456
+  updated_at: 2011-02-27 23:08:48.058617
+  id: 92
+  team_id: 4
+  team: BRA
+players_234: 
+  name: Dennis AOGO
+  number: 4
+  position: DF
+  comment: Hamburger SV (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.27476904077
+  updated_at: 2011-02-27 23:08:48.911985
+  id: 234
+  team_id: 10
+  team: GER
+players_044: 
+  name: Mariano ANDUJAR
+  number: 21
+  position: GK
+  comment: Catania (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 44
+  team_id: 2
+  team: ARG
+players_662: 
+  name: PEDRO
+  number: 18
+  position: FW
+  comment: Barcelona (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.70420720879
+  updated_at: 2011-02-27 23:08:51.833948
+  id: 662
+  team_id: 29
+  team: ESP
+players_615: 
+  name: Andraz KIRM
+  number: 17
+  position: MF
+  comment: Wisla Krakow (POL)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.61190129449667
+  updated_at: 2011-02-27 23:08:51.569152
+  id: 615
+  team_id: 26
+  team: SVN
+players_472: 
+  name: Glen MOSS
+  number: 12
+  position: GK
+  comment: Melbourne Victory (AUS)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 472
+  team_id: 19
+  team: NZL
+players_425: 
+  name: Carlos VELA
+  number: 11
+  position: FW
+  comment: Arsenal (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.071315614835
+  updated_at: 2011-02-27 23:08:50.028927
+  id: 425
+  team_id: 17
+  team: MEX
+players_093: 
+  name: Idriss KAMENI
+  number: 1
+  position: GK
+  comment: Espanyol (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 93
+  team_id: 5
+  team: CMR
+players_235: 
+  name: Serdar TASCI
+  number: 5
+  position: DF
+  comment: VfB Stuttgart (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 235
+  team_id: 10
+  team: GER
+players_045: 
+  name: Sergio ROMERO
+  number: 22
+  position: GK
+  comment: AZ Alkmaar (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.2860486289725
+  updated_at: 2011-02-27 23:08:47.804764
+  id: 45
+  team_id: 2
+  team: ARG
+players_663: 
+  name: Fernando LLORENTE
+  number: 19
+  position: FW
+  comment: Athletic Bilbao (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.29797484158
+  updated_at: 2011-02-27 23:08:51.841237
+  id: 663
+  team_id: 29
+  team: ESP
+players_616: 
+  name: Aleksandar RADOSAVLJEVIC
+  number: 18
+  position: MF
+  comment: Larissa (GRE)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.78321052935667
+  updated_at: 2011-02-27 23:08:51.574197
+  id: 616
+  team_id: 26
+  team: SVN
+players_473: 
+  name: Andy BARRON
+  number: 13
+  position: MF
+  comment: Team Wellington (NZL)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 473
+  team_id: 19
+  team: NZL
+players_426: 
+  name: Paul AGUILAR
+  number: 12
+  position: DF
+  comment: Pachuca (MEX)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.53761238163
+  updated_at: 2011-02-27 23:08:50.033718
+  id: 426
+  team_id: 17
+  team: MEX
+players_283: 
+  name: Georgios SAMARAS
+  number: 7
+  position: FW
+  comment: Celtic (SCO)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.93169534792
+  updated_at: 2011-02-27 23:08:49.173287
+  id: 283
+  team_id: 12
+  team: GRE
+players_094: 
+  name: Benoit ASSOU-EKOTTO
+  number: 2
+  position: DF
+  comment: Tottenham Hotspur (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.94492194536667
+  updated_at: 2011-02-27 23:08:48.072004
+  id: 94
+  team_id: 5
+  team: CMR
+players_236: 
+  name: Sami KHEDIRA
+  number: 6
+  position: MF
+  comment: VfB Stuttgart (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.75002298949571
+  updated_at: 2011-02-27 23:08:48.927272
+  id: 236
+  team_id: 10
+  team: GER
+players_046: 
+  name: Javier PASTORE
+  number: 23
+  position: MF
+  comment: Palermo (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.49174678661
+  updated_at: 2011-02-27 23:08:47.809595
+  id: 46
+  team_id: 2
+  team: ARG
+players_664: 
+  name: Javier MARTINEZ
+  number: 20
+  position: MF
+  comment: Athletic Bilbao (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.41160701225
+  updated_at: 2011-02-27 23:08:51.845832
+  id: 664
+  team_id: 29
+  team: ESP
+players_617: 
+  name: Suad FILEKOVIC
+  number: 19
+  position: DF
+  comment: Maribor (SVN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 617
+  team_id: 26
+  team: SVN
+players_474: 
+  name: Rory FALLON
+  number: 14
+  position: FW
+  comment: Plymouth Argyle (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 3.13435819226
+  updated_at: 2011-02-27 23:08:50.338577
+  id: 474
+  team_id: 19
+  team: NZL
+players_427: 
+  name: Guillermo OCHOA
+  number: 13
+  position: GK
+  comment: America (MEX)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 427
+  team_id: 17
+  team: MEX
+players_284: 
+  name: Avraam PAPADOPOULOS
+  number: 8
+  position: DF
+  comment: Olympiacos (GRE)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.15466911263
+  updated_at: 2011-02-27 23:08:49.177541
+  id: 284
+  team_id: 12
+  team: GRE
+players_095: 
+  name: Nicolas NKOULOU
+  number: 3
+  position: DF
+  comment: Monaco (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.04693981352333
+  updated_at: 2011-02-27 23:08:48.077393
+  id: 95
+  team_id: 5
+  team: CMR
+players_237: 
+  name: Bastian SCHWEINSTEIGER
+  number: 7
+  position: MF
+  comment: Bayern Munich (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.27048673662857
+  updated_at: 2011-02-27 23:08:48.933378
+  id: 237
+  team_id: 10
+  team: GER
+players_047: 
+  name: Mark SCHWARZER
+  number: 1
+  position: GK
+  comment: Fulham (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.54441156010333
+  updated_at: 2011-02-27 23:08:47.814783
+  id: 47
+  team_id: 3
+  team: AUS
+players_665: 
+  name: DAVID SILVA
+  number: 21
+  position: MF
+  comment: Valencia (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 4.060099591285
+  updated_at: 2011-02-27 23:08:51.854360
+  id: 665
+  team_id: 29
+  team: ESP
+players_618: 
+  name: Andrej KOMAC
+  number: 20
+  position: MF
+  comment: Maccabi Tel-Aviv (ISR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 618
+  team_id: 26
+  team: SVN
+players_475: 
+  name: Michael McGLINCHEY
+  number: 15
+  position: MF
+  comment: Motherwell (SCO)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 475
+  team_id: 19
+  team: NZL
+players_428: 
+  name: Javier HERNANDEZ
+  number: 14
+  position: FW
+  comment: Chivas (MEX)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.196738647145
+  updated_at: 2011-02-27 23:08:50.039916
+  id: 428
+  team_id: 17
+  team: MEX
+players_285: 
+  name: Angelos CHARISTEAS
+  number: 9
+  position: FW
+  comment: Nuremberg (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.21935938351
+  updated_at: 2011-02-27 23:08:49.266703
+  id: 285
+  team_id: 12
+  team: GRE
+players_238: 
+  name: Mesut OEZIL
+  number: 8
+  position: MF
+  comment: Werder Bremen (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.00011128084143
+  updated_at: 2011-02-27 23:08:48.937807
+  id: 238
+  team_id: 10
+  team: GER
+players_048: 
+  name: Lucas NEILL
+  number: 2
+  position: DF
+  comment: Galatasaray (TUR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.45833021110667
+  updated_at: 2011-02-27 23:08:47.820637
+  id: 48
+  team_id: 3
+  team: AUS
+players_666: 
+  name: Jesus NAVAS
+  number: 22
+  position: FW
+  comment: Sevilla FC (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.27890927216333
+  updated_at: 2011-02-27 23:08:51.863751
+  id: 666
+  team_id: 29
+  team: ESP
+players_619: 
+  name: Dalibor STEVANOVIC
+  number: 21
+  position: MF
+  comment: Vitesse Arnhem (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 619
+  team_id: 26
+  team: SVN
+players_476: 
+  name: Aaron CLAPHAM
+  number: 16
+  position: MF
+  comment: Canterbury Utd. (NZL)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 476
+  team_id: 19
+  team: NZL
+players_429: 
+  name: Hector MORENO
+  number: 15
+  position: DF
+  comment: AZ Alkmaar (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.50577942371
+  updated_at: 2011-02-27 23:08:50.045189
+  id: 429
+  team_id: 17
+  team: MEX
+players_286: 
+  name: Georgios KARAGOUNIS
+  number: 10
+  position: MF
+  comment: Panathinaikos (GRE)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.28742099146
+  updated_at: 2011-02-27 23:08:49.271012
+  id: 286
+  team_id: 12
+  team: GRE
+players_096: 
+  name: Rigobert SONG
+  number: 4
+  position: DF
+  comment: Trabzonspor (TUR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.03536283763
+  updated_at: 2011-02-27 23:08:48.084320
+  id: 96
+  team_id: 5
+  team: CMR
+players_239: 
+  name: Stefan KIESSLING
+  number: 9
+  position: FW
+  comment: Bayer Leverkusen (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.70926600813
+  updated_at: 2011-02-27 23:08:48.942639
+  id: 239
+  team_id: 10
+  team: GER
+players_049: 
+  name: Craig MOORE
+  number: 3
+  position: DF
+  comment: no club affiliation (UNK)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.43906084929
+  updated_at: 2011-02-27 23:08:47.824695
+  id: 49
+  team_id: 3
+  team: AUS
+players_667: 
+  name: Pepe REINA
+  number: 23
+  position: GK
+  comment: Liverpool (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 667
+  team_id: 29
+  team: ESP
+players_477: 
+  name: Dave MULLIGAN
+  number: 17
+  position: MF
+  comment: no club affiliation (UNK)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 477
+  team_id: 19
+  team: NZL
+players_287: 
+  name: Loukas VYNTRA
+  number: 11
+  position: DF
+  comment: Panathinaikos (GRE)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.84645462472
+  updated_at: 2011-02-27 23:08:49.276400
+  id: 287
+  team_id: 12
+  team: GRE
+players_097: 
+  name: Sebastien BASSONG
+  number: 5
+  position: DF
+  comment: Tottenham Hotspur (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.44763701895
+  updated_at: 2011-02-27 23:08:48.089480
+  id: 97
+  team_id: 5
+  team: CMR
+players_668: 
+  name: Diego BENAGLIO
+  number: 1
+  position: GK
+  comment: Wolfsburg (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.59101489000667
+  updated_at: 2011-02-27 23:08:51.880264
+  id: 668
+  team_id: 30
+  team: SUI
+players_478: 
+  name: Andy BOYENS
+  number: 18
+  position: DF
+  comment: New York Red Bulls (USA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 478
+  team_id: 19
+  team: NZL
+players_100: 
+  name: GEREMI
+  number: 8
+  position: DF
+  comment: Ankaragucu (TUR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.59283127182
+  updated_at: 2011-02-27 23:08:48.113370
+  id: 100
+  team_id: 5
+  team: CMR
+players_288: 
+  name: Alexandros TZORVAS
+  number: 12
+  position: GK
+  comment: Panathinaikos (GRE)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.12941965333
+  updated_at: 2011-02-27 23:08:49.283253
+  id: 288
+  team_id: 12
+  team: GRE
+players_098: 
+  name: Alexandre SONG
+  number: 6
+  position: MF
+  comment: Arsenal (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.62940582064
+  updated_at: 2011-02-27 23:08:48.093756
+  id: 98
+  team_id: 5
+  team: CMR
+players_669: 
+  name: Stephan LICHTSTEINER
+  number: 2
+  position: DF
+  comment: Lazio (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.39709577799333
+  updated_at: 2011-02-27 23:08:51.884620
+  id: 669
+  team_id: 30
+  team: SUI
+players_479: 
+  name: Tommy SMITH
+  number: 19
+  position: DF
+  comment: Ipswich Town (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.449372540285
+  updated_at: 2011-02-27 23:08:50.358945
+  id: 479
+  team_id: 19
+  team: NZL
+players_101: 
+  name: Samuel ETOO
+  number: 9
+  position: FW
+  comment: Inter (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.13177686873667
+  updated_at: 2011-02-27 23:08:48.117959
+  id: 101
+  team_id: 5
+  team: CMR
+players_289: 
+  name: Michail SIFAKIS
+  number: 13
+  position: GK
+  comment: Aris Thessaloniki (GRE)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 289
+  team_id: 12
+  team: GRE
+players_099: 
+  name: Landry NGUEMO
+  number: 7
+  position: MF
+  comment: Celtic (SCO)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.53823633341
+  updated_at: 2011-02-27 23:08:48.098883
+  id: 99
+  team_id: 5
+  team: CMR
+players_102: 
+  name: Achille EMANA
+  number: 10
+  position: FW
+  comment: Betis Sevilla (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.87297310243
+  updated_at: 2011-02-27 23:08:48.121703
+  id: 102
+  team_id: 5
+  team: CMR
+players_150: 
+  name: Jean Jacques GOSSO
+  number: 12
+  position: MF
+  comment: Monaco (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 150
+  team_id: 15
+  team: CIV
+players_720: 
+  name: DaMarcus BEASLEY
+  number: 7
+  position: MF
+  comment: Rangers (SCO)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.71155698185
+  updated_at: 2011-02-27 23:08:52.271041
+  id: 720
+  team_id: 31
+  team: USA
+players_530: 
+  name: EDUARDO
+  number: 1
+  position: GK
+  comment: Braga (POR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.348230991235
+  updated_at: 2011-02-27 23:08:50.713991
+  id: 530
+  team_id: 23
+  team: POR
+players_103: 
+  name: Jean MAKOUN
+  number: 11
+  position: MF
+  comment: Lyon (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.09425626984
+  updated_at: 2011-02-27 23:08:48.126883
+  id: 103
+  team_id: 5
+  team: CMR
+players_340: 
+  name: Fabio QUAGLIARELLA
+  number: 18
+  position: FW
+  comment: Napoli (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.81861200399
+  updated_at: 2011-02-27 23:08:49.584741
+  id: 340
+  team_id: 14
+  team: ITA
+players_721: 
+  name: Clint DEMPSEY
+  number: 8
+  position: MF
+  comment: Fulham (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.2824293911025
+  updated_at: 2011-02-27 23:08:52.276234
+  id: 721
+  team_id: 31
+  team: USA
+players_531: 
+  name: BRUNO ALVES
+  number: 2
+  position: DF
+  comment: Porto (POR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.7518507591825
+  updated_at: 2011-02-27 23:08:50.732828
+  id: 531
+  team_id: 23
+  team: POR
+players_104: 
+  name: Gaetan BONG
+  number: 12
+  position: DF
+  comment: Valenciennes (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.31520048492
+  updated_at: 2011-02-27 23:08:48.132285
+  id: 104
+  team_id: 5
+  team: CMR
+players_341: 
+  name: Gianluca ZAMBROTTA
+  number: 19
+  position: DF
+  comment: AC Milan (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.74768038913
+  updated_at: 2011-02-27 23:08:49.589950
+  id: 341
+  team_id: 14
+  team: ITA
+players_151: 
+  name: ROMARIC
+  number: 13
+  position: MF
+  comment: Sevilla FC (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.61941887857667
+  updated_at: 2011-02-27 23:08:48.464941
+  id: 151
+  team_id: 15
+  team: CIV
+players_722: 
+  name: Herculez GOMEZ
+  number: 9
+  position: FW
+  comment: Puebla (MEX)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.99348226062667
+  updated_at: 2011-02-27 23:08:52.285850
+  id: 722
+  team_id: 31
+  team: USA
+players_532: 
+  name: PAULO FERREIRA
+  number: 3
+  position: DF
+  comment: Chelsea (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.80840939165
+  updated_at: 2011-02-27 23:08:50.739277
+  id: 532
+  team_id: 23
+  team: POR
+players_105: 
+  name: Eric CHOUPO MOTING
+  number: 13
+  position: FW
+  comment: Nuremberg (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.498904724345
+  updated_at: 2011-02-27 23:08:48.136817
+  id: 105
+  team_id: 5
+  team: CMR
+players_390: 
+  name: KIM Kyong Il
+  number: 22
+  position: MF
+  comment: Rimyongsu (PRK)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 390
+  team_id: 21
+  team: PRK
+players_342: 
+  name: Giampaolo PAZZINI
+  number: 20
+  position: FW
+  comment: Sampdoria (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.54756466229
+  updated_at: 2011-02-27 23:08:49.595689
+  id: 342
+  team_id: 14
+  team: ITA
+players_152: 
+  name: Emmanuel KONE
+  number: 14
+  position: MF
+  comment: International (ROU)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 152
+  team_id: 15
+  team: CIV
+players_723: 
+  name: Landon DONOVAN
+  number: 10
+  position: MF
+  comment: Los Angeles Galaxy (USA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.30709741842
+  updated_at: 2011-02-27 23:08:52.291361
+  id: 723
+  team_id: 31
+  team: USA
+players_580: 
+  name: Radoslav ZABAVNIK
+  number: 5
+  position: DF
+  comment: Mainz 05 (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.07650179143667
+  updated_at: 2011-02-27 23:08:51.347880
+  id: 580
+  team_id: 25
+  team: SVK
+players_533: 
+  name: ROLANDO
+  number: 4
+  position: DF
+  comment: Porto (POR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 533
+  team_id: 23
+  team: POR
+players_106: 
+  name: Aurelien CHEDJOU
+  number: 14
+  position: DF
+  comment: Lille (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.56100402178
+  updated_at: 2011-02-27 23:08:48.143078
+  id: 106
+  team_id: 5
+  team: CMR
+players_391: 
+  name: PAK Sung Hyok
+  number: 23
+  position: MF
+  comment: Sobaeksu (PRK)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 391
+  team_id: 21
+  team: PRK
+players_343: 
+  name: Andrea PIRLO
+  number: 21
+  position: MF
+  comment: AC Milan (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.95910728825
+  updated_at: 2011-02-27 23:08:49.604411
+  id: 343
+  team_id: 14
+  team: ITA
+players_153: 
+  name: Aruna DINDANE
+  number: 15
+  position: FW
+  comment: Portsmouth (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.58321975233667
+  updated_at: 2011-02-27 23:08:48.479003
+  id: 153
+  team_id: 15
+  team: CIV
+players_724: 
+  name: Stuart HOLDEN
+  number: 11
+  position: MF
+  comment: Bolton Wanderers (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 724
+  team_id: 31
+  team: USA
+players_581: 
+  name: Zdenko STRBA
+  number: 6
+  position: MF
+  comment: Xanthi (GRE)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.15727336151333
+  updated_at: 2011-02-27 23:08:51.363481
+  id: 581
+  team_id: 25
+  team: SVK
+players_534: 
+  name: DUDA
+  number: 5
+  position: DF
+  comment: Malaga (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.39176920473
+  updated_at: 2011-02-27 23:08:50.755928
+  id: 534
+  team_id: 23
+  team: POR
+players_107: 
+  name: Pierre WEBO
+  number: 15
+  position: FW
+  comment: Mallorca (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.77076651677
+  updated_at: 2011-02-27 23:08:48.147049
+  id: 107
+  team_id: 5
+  team: CMR
+players_392: 
+  name: LEE Woon Jae
+  number: 1
+  position: GK
+  comment: Suwon Bluewings (KOR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 392
+  team_id: 28
+  team: KOR
+players_344: 
+  name: Riccardo MONTOLIVO
+  number: 22
+  position: MF
+  comment: Fiorentina (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.26264714078667
+  updated_at: 2011-02-27 23:08:49.609212
+  id: 344
+  team_id: 14
+  team: ITA
+players_154: 
+  name: Aristide ZOGBO
+  number: 16
+  position: GK
+  comment: Maccabi Netanya (ISR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 154
+  team_id: 15
+  team: CIV
+players_725: 
+  name: Jonathan BORNSTEIN
+  number: 12
+  position: DF
+  comment: Chivas USA (USA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.90836214615
+  updated_at: 2011-02-27 23:08:52.304441
+  id: 725
+  team_id: 31
+  team: USA
+players_582: 
+  name: Vladimir WEISS
+  number: 7
+  position: MF
+  comment: Manchester City (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.04372564928
+  updated_at: 2011-02-27 23:08:51.371715
+  id: 582
+  team_id: 25
+  team: SVK
+players_535: 
+  name: RICARDO CARVALHO
+  number: 6
+  position: DF
+  comment: Chelsea (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.562397001605
+  updated_at: 2011-02-27 23:08:50.763902
+  id: 535
+  team_id: 23
+  team: POR
+players_108: 
+  name: Hamidou SOULEYMANOU
+  number: 16
+  position: GK
+  comment: Kayserispor (TUR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.96585532012
+  updated_at: 2011-02-27 23:08:48.160694
+  id: 108
+  team_id: 5
+  team: CMR
+players_345: 
+  name: Leonardo BONUCCI
+  number: 23
+  position: DF
+  comment: Bari (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 345
+  team_id: 14
+  team: ITA
+players_155: 
+  name: Siaka TIENE
+  number: 17
+  position: DF
+  comment: Valenciennes (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.338416533365
+  updated_at: 2011-02-27 23:08:48.485713
+  id: 155
+  team_id: 15
+  team: CIV
+players_726: 
+  name: Ricardo CLARK
+  number: 13
+  position: MF
+  comment: Eintracht Frankfurt (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.128577781165
+  updated_at: 2011-02-27 23:08:52.310309
+  id: 726
+  team_id: 31
+  team: USA
+players_583: 
+  name: Jan KOZAK
+  number: 8
+  position: MF
+  comment: Timisoara (ROU)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.60401760467
+  updated_at: 2011-02-27 23:08:51.376078
+  id: 583
+  team_id: 25
+  team: SVK
+players_536: 
+  name: CRISTIANO RONALDO
+  number: 7
+  position: FW
+  comment: Real Madrid (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.2995594967575
+  updated_at: 2011-02-27 23:08:50.788128
+  id: 536
+  team_id: 23
+  team: POR
+players_109: 
+  name: Mohamadou IDRISSOU
+  number: 17
+  position: FW
+  comment: SC Freiburg (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.72645515964
+  updated_at: 2011-02-27 23:08:48.165519
+  id: 109
+  team_id: 5
+  team: CMR
+players_393: 
+  name: OH Beom Seok
+  number: 2
+  position: DF
+  comment: Ulsan Hyundai (KOR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.10723527992
+  updated_at: 2011-02-27 23:08:49.858797
+  id: 393
+  team_id: 28
+  team: KOR
+players_346: 
+  name: Seigo NARAZAKI
+  number: 1
+  position: GK
+  comment: Nagoya Grampus Eight (JPN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 346
+  team_id: 16
+  team: JPN
+players_156: 
+  name: Kader KEITA
+  number: 18
+  position: FW
+  comment: Galatasaray (TUR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.37499544047667
+  updated_at: 2011-02-27 23:08:48.491138
+  id: 156
+  team_id: 15
+  team: CIV
+players_727: 
+  name: Edson BUDDLE
+  number: 14
+  position: FW
+  comment: Los Angeles Galaxy (USA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.16063954839
+  updated_at: 2011-02-27 23:08:52.314798
+  id: 727
+  team_id: 31
+  team: USA
+players_584: 
+  name: Stanislav SESTAK
+  number: 9
+  position: FW
+  comment: Bochum (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 4.70146011533667
+  updated_at: 2011-02-27 23:08:51.380472
+  id: 584
+  team_id: 25
+  team: SVK
+players_537: 
+  name: PEDRO MENDES
+  number: 8
+  position: MF
+  comment: Sporting Lisbon (POR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.6566642472525
+  updated_at: 2011-02-27 23:08:50.796279
+  id: 537
+  team_id: 23
+  team: POR
+players_394: 
+  name: KIM Hyung Il
+  number: 3
+  position: DF
+  comment: Pohang Steelers (KOR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 394
+  team_id: 28
+  team: KOR
+players_347: 
+  name: Yuki ABE
+  number: 2
+  position: MF
+  comment: Urawa Reds (JPN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.86505465616
+  updated_at: 2011-02-27 23:08:49.625634
+  id: 347
+  team_id: 16
+  team: JPN
+players_157: 
+  name: Yaya TOURE
+  number: 19
+  position: MF
+  comment: Barcelona (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.38997377191667
+  updated_at: 2011-02-27 23:08:48.497317
+  id: 157
+  team_id: 15
+  team: CIV
+players_728: 
+  name: Jay DeMERIT
+  number: 15
+  position: DF
+  comment: Watford (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.608471453455
+  updated_at: 2011-02-27 23:08:52.319639
+  id: 728
+  team_id: 31
+  team: USA
+players_585: 
+  name: Marek SAPARA
+  number: 10
+  position: MF
+  comment: Ankaragucu (TUR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.98670906629
+  updated_at: 2011-02-27 23:08:51.387245
+  id: 585
+  team_id: 25
+  team: SVK
+players_538: 
+  name: LIEDSON
+  number: 9
+  position: FW
+  comment: Sporting Lisbon (POR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.43849833514667
+  updated_at: 2011-02-27 23:08:50.804398
+  id: 538
+  team_id: 23
+  team: POR
+players_395: 
+  name: CHO Yong Hyung
+  number: 4
+  position: DF
+  comment: Jeju Utd. (KOR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.585078234105
+  updated_at: 2011-02-27 23:08:49.864991
+  id: 395
+  team_id: 28
+  team: KOR
+players_348: 
+  name: Yuichi KOMANO
+  number: 3
+  position: DF
+  comment: Jubilo Iwata (JPN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.373094084785
+  updated_at: 2011-02-27 23:08:49.633128
+  id: 348
+  team_id: 16
+  team: JPN
+players_158: 
+  name: Guy DEMEL
+  number: 20
+  position: DF
+  comment: Hamburger SV (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.18956468189
+  updated_at: 2011-02-27 23:08:48.501940
+  id: 158
+  team_id: 15
+  team: CIV
+players_729: 
+  name: Francisco TORRES
+  number: 16
+  position: MF
+  comment: Pachuca (MEX)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.06208696954
+  updated_at: 2011-02-27 23:08:52.332086
+  id: 729
+  team_id: 31
+  team: USA
+players_586: 
+  name: Robert VITTEK
+  number: 11
+  position: FW
+  comment: Ankaragucu (TUR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.4818993695275
+  updated_at: 2011-02-27 23:08:51.391938
+  id: 586
+  team_id: 25
+  team: SVK
+players_539: 
+  name: DANNY
+  number: 10
+  position: FW
+  comment: Zenit St Petersburg (RUS)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.14340118910667
+  updated_at: 2011-02-27 23:08:50.809299
+  id: 539
+  team_id: 23
+  team: POR
+players_396: 
+  name: KIM Nam Il
+  number: 5
+  position: MF
+  comment: Tom Tomsk (RUS)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.93098603195
+  updated_at: 2011-02-27 23:08:49.877219
+  id: 396
+  team_id: 28
+  team: KOR
+players_349: 
+  name: Marcus Tulio TANAKA
+  number: 4
+  position: DF
+  comment: Nagoya Grampus Eight (JPN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.99971740262
+  updated_at: 2011-02-27 23:08:49.638212
+  id: 349
+  team_id: 16
+  team: JPN
+players_159: 
+  name: Emmanuel EBOUE
+  number: 21
+  position: DF
+  comment: Arsenal (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.85905610925667
+  updated_at: 2011-02-27 23:08:48.507441
+  id: 159
+  team_id: 15
+  team: CIV
+players_587: 
+  name: Dusan PERNIS
+  number: 12
+  position: GK
+  comment: Dundee Utd. (SCO)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 587
+  team_id: 25
+  team: SVK
+players_397: 
+  name: KIM Bo Kyung
+  number: 6
+  position: MF
+  comment: Oita Trinita (JPN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 397
+  team_id: 28
+  team: KOR
+players_588: 
+  name: Filip HOLOSKO
+  number: 13
+  position: FW
+  comment: Besiktas (TUR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.678308210825
+  updated_at: 2011-02-27 23:08:51.406193
+  id: 588
+  team_id: 25
+  team: SVK
+players_400: 
+  name: AHN Jung Hwan
+  number: 9
+  position: FW
+  comment: Dalian Shide (CHN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 400
+  team_id: 28
+  team: KOR
+players_210: 
+  name: Eric ABIDAL
+  number: 3
+  position: DF
+  comment: Barcelona (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.4240099325
+  updated_at: 2011-02-27 23:08:48.779005
+  id: 210
+  team_id: 9
+  team: FRA
+players_020: 
+  name: Djamel MESBAH
+  number: 20
+  position: DF
+  comment: Lecce (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 20
+  team_id: 1
+  team: ALG
+players_398: 
+  name: PARK Ji Sung
+  number: 7
+  position: MF
+  comment: Manchester Utd. (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.316078664065
+  updated_at: 2011-02-27 23:08:49.883202
+  id: 398
+  team_id: 28
+  team: KOR
+players_589: 
+  name: Martin JAKUBKO
+  number: 14
+  position: FW
+  comment: FC Moscow (RUS)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 3.48830309671
+  updated_at: 2011-02-27 23:08:51.416509
+  id: 589
+  team_id: 25
+  team: SVK
+players_401: 
+  name: PARK Chu Young
+  number: 10
+  position: FW
+  comment: Monaco (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.1464194774225
+  updated_at: 2011-02-27 23:08:49.900465
+  id: 401
+  team_id: 28
+  team: KOR
+players_211: 
+  name: Anthony REVEILLERE
+  number: 4
+  position: DF
+  comment: Lyon (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 211
+  team_id: 9
+  team: FRA
+players_021: 
+  name: Foued KADIR
+  number: 21
+  position: MF
+  comment: Valenciennes (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.82137447174333
+  updated_at: 2011-02-27 23:08:47.683228
+  id: 21
+  team_id: 1
+  team: ALG
+players_399: 
+  name: KIM Jung Woo
+  number: 8
+  position: MF
+  comment: Gwangju Sangmu (KOR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.1015671066275
+  updated_at: 2011-02-27 23:08:49.892372
+  id: 399
+  team_id: 28
+  team: KOR
+players_402: 
+  name: LEE Seung Yeoul
+  number: 11
+  position: FW
+  comment: FC Seoul (KOR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 402
+  team_id: 28
+  team: KOR
+players_212: 
+  name: William GALLAS
+  number: 5
+  position: DF
+  comment: Arsenal (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.49841748243
+  updated_at: 2011-02-27 23:08:48.794199
+  id: 212
+  team_id: 9
+  team: FRA
+players_022: 
+  name: Djamal ABDOUN
+  number: 22
+  position: MF
+  comment: Nantes (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.09617396881
+  updated_at: 2011-02-27 23:08:47.690063
+  id: 22
+  team_id: 1
+  team: ALG
+players_260: 
+  name: Samuel INKOOM
+  number: 7
+  position: DF
+  comment: Basel (SUI)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.81273365915
+  updated_at: 2011-02-27 23:08:49.060060
+  id: 260
+  team_id: 11
+  team: GHA
+players_070: 
+  name: JULIO CESAR
+  number: 1
+  position: GK
+  comment: Inter (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.362669825024
+  updated_at: 2011-02-27 23:08:47.939252
+  id: 70
+  team_id: 4
+  team: BRA
+players_640: 
+  name: Surprise MORIRI
+  number: 19
+  position: MF
+  comment: Mamelodi Sundowns (RSA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.48587020157
+  updated_at: 2011-02-27 23:08:51.709158
+  id: 640
+  team_id: 27
+  team: RSA
+players_450: 
+  name: Andre OOIJER
+  number: 13
+  position: DF
+  comment: PSV Eindhoven (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.96050039945
+  updated_at: 2011-02-27 23:08:50.231518
+  id: 450
+  team_id: 18
+  team: NED
+players_403: 
+  name: LEE Young Pyo
+  number: 12
+  position: DF
+  comment: Al Hilal (KSA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.3099786997175
+  updated_at: 2011-02-27 23:08:49.907580
+  id: 403
+  team_id: 28
+  team: KOR
+players_213: 
+  name: Marc PLANUS
+  number: 6
+  position: DF
+  comment: Bordeaux (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 213
+  team_id: 9
+  team: FRA
+players_023: 
+  name: Rais M BOLHI
+  number: 23
+  position: GK
+  comment: Slavia Sofia (BUL)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.941606956805
+  updated_at: 2011-02-27 23:08:47.694512
+  id: 23
+  team_id: 1
+  team: ALG
+players_071: 
+  name: MAICON
+  number: 2
+  position: DF
+  comment: Inter (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.584474007262
+  updated_at: 2011-02-27 23:08:47.943940
+  id: 71
+  team_id: 4
+  team: BRA
+players_641: 
+  name: Bongani KHUMALO
+  number: 20
+  position: DF
+  comment: SuperSport Utd. (RSA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.39113823199333
+  updated_at: 2011-02-27 23:08:51.721922
+  id: 641
+  team_id: 27
+  team: RSA
+players_451: 
+  name: Demy DE ZEEUW
+  number: 14
+  position: MF
+  comment: Ajax (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.049109883285
+  updated_at: 2011-02-27 23:08:50.236132
+  id: 451
+  team_id: 18
+  team: NED
+players_404: 
+  name: KIM Jae Sung
+  number: 13
+  position: MF
+  comment: Pohang Steelers (KOR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 4.17403010176
+  updated_at: 2011-02-27 23:08:49.914363
+  id: 404
+  team_id: 28
+  team: KOR
+players_214: 
+  name: Franck RIBERY
+  number: 7
+  position: FW
+  comment: Bayern Munich (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.87141247880667
+  updated_at: 2011-02-27 23:08:48.800798
+  id: 214
+  team_id: 9
+  team: FRA
+players_024: 
+  name: Diego POZO
+  number: 1
+  position: GK
+  comment: Atletico Colon (ARG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 24
+  team_id: 2
+  team: ARG
+players_261: 
+  name: Jonathan MENSAH
+  number: 8
+  position: DF
+  comment: Free State Stars (RSA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.73674790996
+  updated_at: 2011-02-27 23:08:49.065358
+  id: 261
+  team_id: 11
+  team: GHA
+players_072: 
+  name: LUCIO
+  number: 3
+  position: DF
+  comment: Inter (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.69815685279
+  updated_at: 2011-02-27 23:08:47.948534
+  id: 72
+  team_id: 4
+  team: BRA
+players_642: 
+  name: Siyabonga SANGWENI
+  number: 21
+  position: DF
+  comment: Golden Arrows (RSA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 642
+  team_id: 27
+  team: RSA
+players_452: 
+  name: Edson BRAAFHEID
+  number: 15
+  position: DF
+  comment: Celtic (SCO)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.78607583532
+  updated_at: 2011-02-27 23:08:50.242255
+  id: 452
+  team_id: 18
+  team: NED
+players_405: 
+  name: LEE Jung Soo
+  number: 14
+  position: DF
+  comment: Kashima Antlers (JPN)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.070093969315
+  updated_at: 2011-02-27 23:08:49.919112
+  id: 405
+  team_id: 28
+  team: KOR
+players_215: 
+  name: Yoann GOURCUFF
+  number: 8
+  position: MF
+  comment: Bordeaux (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.53915164338
+  updated_at: 2011-02-27 23:08:48.806265
+  id: 215
+  team_id: 9
+  team: FRA
+players_025: 
+  name: Martin DEMICHELIS
+  number: 2
+  position: DF
+  comment: Bayern Munich (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.733243785115
+  updated_at: 2011-02-27 23:08:47.700940
+  id: 25
+  team_id: 2
+  team: ARG
+players_262: 
+  name: Derek BOATENG
+  number: 9
+  position: MF
+  comment: Getafe (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 262
+  team_id: 11
+  team: GHA
+players_073: 
+  name: JUAN
+  number: 4
+  position: DF
+  comment: AS Roma (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.592582064998
+  updated_at: 2011-02-27 23:08:47.954166
+  id: 73
+  team_id: 4
+  team: BRA
+players_690: 
+  name: Xherdan SHAQIRI
+  number: 23
+  position: MF
+  comment: Basel (SUI)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.19085789618
+  updated_at: 2011-02-27 23:08:52.006422
+  id: 690
+  team_id: 30
+  team: SUI
+players_643: 
+  name: Shu-Aib WALTERS
+  number: 22
+  position: GK
+  comment: Maritzburg Utd. (RSA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 643
+  team_id: 27
+  team: RSA
+players_453: 
+  name: Michel VORM
+  number: 16
+  position: GK
+  comment: Utrecht (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 453
+  team_id: 18
+  team: NED
+players_406: 
+  name: KIM Dong Jin
+  number: 15
+  position: DF
+  comment: Ulsan Hyundai (KOR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 406
+  team_id: 28
+  team: KOR
+players_216: 
+  name: Djibril CISSE
+  number: 9
+  position: FW
+  comment: Panathinaikos (GRE)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.42320173176
+  updated_at: 2011-02-27 23:08:48.810354
+  id: 216
+  team_id: 9
+  team: FRA
+players_026: 
+  name: Clemente RODRIGUEZ
+  number: 3
+  position: DF
+  comment: Estudiantes La Plata (ARG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 26
+  team_id: 2
+  team: ARG
+players_263: 
+  name: Stephen APPIAH
+  number: 10
+  position: MF
+  comment: Bologna (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.96073756813333
+  updated_at: 2011-02-27 23:08:49.073159
+  id: 263
+  team_id: 11
+  team: GHA
+players_691: 
+  name: Fernando MUSLERA
+  number: 1
+  position: GK
+  comment: Lazio (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 3.68095782462857
+  updated_at: 2011-02-27 23:08:52.011025
+  id: 691
+  team_id: 32
+  team: URU
+players_644: 
+  name: Thanduyise KHUBONI
+  number: 23
+  position: MF
+  comment: Golden Arrows (RSA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.47780039531
+  updated_at: 2011-02-27 23:08:51.730528
+  id: 644
+  team_id: 27
+  team: RSA
+players_454: 
+  name: Eljero ELIA
+  number: 17
+  position: FW
+  comment: Hamburger SV (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.30536339474333
+  updated_at: 2011-02-27 23:08:50.248456
+  id: 454
+  team_id: 18
+  team: NED
+players_407: 
+  name: KI Sung Yueng
+  number: 16
+  position: MF
+  comment: Celtic (SCO)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.216459935585
+  updated_at: 2011-02-27 23:08:49.924969
+  id: 407
+  team_id: 28
+  team: KOR
+players_217: 
+  name: Sidney GOVOU
+  number: 10
+  position: FW
+  comment: Lyon (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.10740458019
+  updated_at: 2011-02-27 23:08:48.815077
+  id: 217
+  team_id: 9
+  team: FRA
+players_027: 
+  name: Nicolas BURDISSO
+  number: 4
+  position: DF
+  comment: AS Roma (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.3703452132975
+  updated_at: 2011-02-27 23:08:47.708370
+  id: 27
+  team_id: 2
+  team: ARG
+players_264: 
+  name: Sulley MUNTARI
+  number: 11
+  position: MF
+  comment: Inter (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.858266983395
+  updated_at: 2011-02-27 23:08:49.077442
+  id: 264
+  team_id: 11
+  team: GHA
+players_074: 
+  name: FELIPE MELO
+  number: 5
+  position: MF
+  comment: Juventus (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 9.0603627318375
+  updated_at: 2011-02-27 23:08:47.959552
+  id: 74
+  team_id: 4
+  team: BRA
+players_692: 
+  name: Diego LUGANO
+  number: 2
+  position: DF
+  comment: Fenerbahce (TUR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.93453017603
+  updated_at: 2011-02-27 23:08:52.016455
+  id: 692
+  team_id: 32
+  team: URU
+players_645: 
+  name: Iker CASILLAS
+  number: 1
+  position: GK
+  comment: Real Madrid (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.95588590078714
+  updated_at: 2011-02-27 23:08:51.737417
+  id: 645
+  team_id: 29
+  team: ESP
+players_455: 
+  name: Stijn SCHAARS
+  number: 18
+  position: MF
+  comment: AZ Alkmaar (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 455
+  team_id: 18
+  team: NED
+players_408: 
+  name: LEE Chung Yong
+  number: 17
+  position: MF
+  comment: Bolton Wanderers (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.0466565422225
+  updated_at: 2011-02-27 23:08:49.936396
+  id: 408
+  team_id: 28
+  team: KOR
+players_218: 
+  name: Andre Pierre GIGNAC
+  number: 11
+  position: FW
+  comment: Toulouse (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.26875359257333
+  updated_at: 2011-02-27 23:08:48.820740
+  id: 218
+  team_id: 9
+  team: FRA
+players_028: 
+  name: Mario BOLATTI
+  number: 5
+  position: MF
+  comment: Fiorentina (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.20796079364
+  updated_at: 2011-02-27 23:08:47.715938
+  id: 28
+  team_id: 2
+  team: ARG
+players_265: 
+  name: Prince TAGOE
+  number: 12
+  position: FW
+  comment: Hoffenheim (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.65292178452333
+  updated_at: 2011-02-27 23:08:49.083274
+  id: 265
+  team_id: 11
+  team: GHA
+players_075: 
+  name: MICHEL BASTOS
+  number: 6
+  position: DF
+  comment: Lyon (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.739130602764
+  updated_at: 2011-02-27 23:08:47.966414
+  id: 75
+  team_id: 4
+  team: BRA
+players_693: 
+  name: Diego GODIN
+  number: 3
+  position: DF
+  comment: Villarreal (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.096481658512
+  updated_at: 2011-02-27 23:08:52.024903
+  id: 693
+  team_id: 32
+  team: URU
+players_646: 
+  name: Raul ALBIOL
+  number: 2
+  position: DF
+  comment: Real Madrid (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 646
+  team_id: 29
+  team: ESP
+players_456: 
+  name: Ryan BABEL
+  number: 19
+  position: FW
+  comment: Liverpool (ENG)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 456
+  team_id: 18
+  team: NED
+players_409: 
+  name: JUNG Sung Ryong
+  number: 18
+  position: GK
+  comment: Seongnam Ilhwa Chunma (KOR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 6.007722124805
+  updated_at: 2011-02-27 23:08:49.942013
+  id: 409
+  team_id: 28
+  team: KOR
+players_219: 
+  name: Thierry HENRY
+  number: 12
+  position: FW
+  comment: Barcelona (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.2653930852
+  updated_at: 2011-02-27 23:08:48.825018
+  id: 219
+  team_id: 9
+  team: FRA
+players_029: 
+  name: Gabriel HEINZE
+  number: 6
+  position: DF
+  comment: Marseille (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.5195593223225
+  updated_at: 2011-02-27 23:08:47.720546
+  id: 29
+  team_id: 2
+  team: ARG
+players_266: 
+  name: Andre AYEW
+  number: 13
+  position: MF
+  comment: Arles (FRA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.0772476501575
+  updated_at: 2011-02-27 23:08:49.087699
+  id: 266
+  team_id: 11
+  team: GHA
+players_076: 
+  name: ELANO
+  number: 7
+  position: MF
+  comment: Galatasaray (TUR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.72201688601
+  updated_at: 2011-02-27 23:08:47.970602
+  id: 76
+  team_id: 4
+  team: BRA
+players_694: 
+  name: Jorge FUCILE
+  number: 4
+  position: DF
+  comment: Porto (POR)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.225863351134
+  updated_at: 2011-02-27 23:08:52.030395
+  id: 694
+  team_id: 32
+  team: URU
+players_647: 
+  name: Gerard PIQUE
+  number: 3
+  position: DF
+  comment: Barcelona (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.24915558701714
+  updated_at: 2011-02-27 23:08:51.744439
+  id: 647
+  team_id: 29
+  team: ESP
+players_457: 
+  name: Ibrahim AFELLAY
+  number: 20
+  position: MF
+  comment: PSV Eindhoven (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.45930115829
+  updated_at: 2011-02-27 23:08:50.266095
+  id: 457
+  team_id: 18
+  team: NED
+players_267: 
+  name: Matthew AMOAH
+  number: 14
+  position: FW
+  comment: NAC Breda (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 3.213683211035
+  updated_at: 2011-02-27 23:08:49.096000
+  id: 267
+  team_id: 11
+  team: GHA
+players_077: 
+  name: GILBERTO SILVA
+  number: 8
+  position: MF
+  comment: Panathinaikos (GRE)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.78596290273
+  updated_at: 2011-02-27 23:08:47.986030
+  id: 77
+  team_id: 4
+  team: BRA
+players_695: 
+  name: Walter GARGANO
+  number: 5
+  position: MF
+  comment: Napoli (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 3.50449469554333
+  updated_at: 2011-02-27 23:08:52.034615
+  id: 695
+  team_id: 32
+  team: URU
+players_648: 
+  name: Carlos MARCHENA
+  number: 4
+  position: DF
+  comment: Valencia (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 648
+  team_id: 29
+  team: ESP
+players_458: 
+  name: Klaas Jan HUNTELAAR
+  number: 21
+  position: FW
+  comment: AC Milan (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.8580100020325
+  updated_at: 2011-02-27 23:08:50.270812
+  id: 458
+  team_id: 18
+  team: NED
+players_268: 
+  name: Isaac VORSAH
+  number: 15
+  position: DF
+  comment: Hoffenheim (GER)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.41478626519
+  updated_at: 2011-02-27 23:08:49.102644
+  id: 268
+  team_id: 11
+  team: GHA
+players_078: 
+  name: LUIS FABIANO
+  number: 9
+  position: FW
+  comment: Sevilla FC (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.029856913758
+  updated_at: 2011-02-27 23:08:47.994335
+  id: 78
+  team_id: 4
+  team: BRA
+players_696: 
+  name: Mauricio VICTORINO
+  number: 6
+  position: DF
+  comment: Univ. de Chile (CHI)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 5.443912316918
+  updated_at: 2011-02-27 23:08:52.048111
+  id: 696
+  team_id: 32
+  team: URU
+players_649: 
+  name: Carles PUYOL
+  number: 5
+  position: DF
+  comment: Barcelona (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.79996633848857
+  updated_at: 2011-02-27 23:08:51.752831
+  id: 649
+  team_id: 29
+  team: ESP
+players_459: 
+  name: Sander BOSCHKER
+  number: 22
+  position: GK
+  comment: Twente Enschede (NED)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 459
+  team_id: 18
+  team: NED
+players_269: 
+  name: Stephen AHORLU
+  number: 16
+  position: GK
+  comment: Heart of Lions (GHA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 0.0
+  updated_at: 2011-02-26 00:36:20
+  id: 269
+  team_id: 11
+  team: GHA
+players_079: 
+  name: KAKA
+  number: 10
+  position: MF
+  comment: Real Madrid (ESP)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 8.3934097654475
+  updated_at: 2011-02-27 23:08:47.998808
+  id: 79
+  team_id: 4
+  team: BRA
+players_697: 
+  name: Edinson CAVANI
+  number: 7
+  position: FW
+  comment: Palermo (ITA)
+  created_at: 2011-02-26 00:36:20
+  current_rating: 7.55810839120833
+  updated_at: 2011-02-27 23:08:52.052832
+  id: 697
+  team_id: 32
+  team: URU

@@ -111,11 +111,12 @@ def append_shots(team, pass_matrix, shot_dictionary, players):
 		try:
 			shots = shot_dictionary[team][fetch_player_number(p,players)]
 		except KeyError as e:
-			print team
-			print p
-			print fetch_player_number(p, players)
-			print shot_dictionary[team].keys()
-			exit()
+			print "player did not shoot"
+			player = fetch_player_number(p, players)
+			shot_dictionary[team][player] = {"goals":0, "shots_on_goal":0,\
+			 "shots_wide":0, "total_shots": 0}
+			shots = shot_dictionary[team][fetch_player_number(p,players)]
+			pass
 		for s in shots:
 			pass_matrix[p][s] = shots[s]
 			

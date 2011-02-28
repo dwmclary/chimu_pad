@@ -1,0 +1,769 @@
+--- 
+matches_062: 
+  league_id: 1
+  away_team_score: 1
+  location: Durban
+  match_date: 2010-07-07 20:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 29
+  updated_at: 2011-02-26 00:36:20
+  id: 62
+  winning_team_id: 29
+  home_team_score: 0
+  home_team_id: 10
+matches_051: 
+  league_id: 1
+  away_team_score: 1
+  location: Mangaung/Bloemfontein
+  match_date: 2010-06-27 16:00:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 8
+  updated_at: 2011-02-26 00:36:20
+  id: 51
+  winning_team_id: 10
+  home_team_score: 4
+  home_team_id: 10
+matches_040: 
+  league_id: 1
+  away_team_score: 1
+  location: Nelspruit
+  match_date: 2010-06-23 20:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 24
+  updated_at: 2011-02-26 00:36:20
+  id: 40
+  winning_team_id: 3
+  home_team_score: 2
+  home_team_id: 3
+matches_029: 
+  league_id: 1
+  away_team_score: 1
+  location: Johannesburg
+  match_date: 2010-06-20 20:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 15
+  updated_at: 2011-02-26 00:36:20
+  id: 29
+  winning_team_id: 4
+  home_team_score: 3
+  home_team_id: 4
+matches_018: 
+  league_id: 1
+  away_team_score: 2
+  location: Polokwane
+  match_date: 2010-06-17 20:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 17
+  updated_at: 2011-02-26 00:36:20
+  id: 18
+  winning_team_id: 17
+  home_team_score: 0
+  home_team_id: 9
+matches_007: 
+  league_id: 1
+  away_team_score: 0
+  location: Durban
+  match_date: 2010-06-13 20:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 3
+  updated_at: 2011-02-26 00:36:20
+  id: 7
+  winning_team_id: 10
+  home_team_score: 4
+  home_team_id: 10
+matches_063: 
+  league_id: 1
+  away_team_score: 3
+  location: Nelson Mandela Bay/Port Elizabeth
+  match_date: 2010-07-10 20:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 10
+  updated_at: 2011-02-26 00:36:20
+  id: 63
+  winning_team_id: 10
+  home_team_score: 2
+  home_team_id: 32
+matches_052: 
+  league_id: 1
+  away_team_score: 1
+  location: Johannesburg
+  match_date: 2010-06-27 20:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 17
+  updated_at: 2011-02-26 00:36:20
+  id: 52
+  winning_team_id: 2
+  home_team_score: 3
+  home_team_id: 2
+matches_041: 
+  league_id: 1
+  away_team_score: 2
+  location: Johannesburg
+  match_date: 2010-06-24 16:00:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 14
+  updated_at: 2011-02-26 00:36:20
+  id: 41
+  winning_team_id: 25
+  home_team_score: 3
+  home_team_id: 25
+matches_030: 
+  league_id: 1
+  away_team_score: 0
+  location: Cape Town
+  match_date: 2010-06-21 13:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 21
+  updated_at: 2011-02-26 00:36:20
+  id: 30
+  winning_team_id: 23
+  home_team_score: 7
+  home_team_id: 23
+matches_019: 
+  league_id: 1
+  away_team_score: 1
+  location: Mangaung/Bloemfontein
+  match_date: 2010-06-17 16:00:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 20
+  updated_at: 2011-02-26 00:36:20
+  id: 19
+  winning_team_id: 12
+  home_team_score: 2
+  home_team_id: 12
+matches_008: 
+  league_id: 1
+  away_team_score: 1
+  location: Tshwane/Pretoria
+  match_date: 2010-06-13 16:00:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 11
+  updated_at: 2011-02-26 00:36:20
+  id: 8
+  winning_team_id: 11
+  home_team_score: 0
+  home_team_id: 24
+matches_064: 
+  league_id: 1
+  away_team_score: 1
+  location: Johannesburg
+  match_date: 2010-07-11 20:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 29
+  updated_at: 2011-02-26 00:36:20
+  id: 64
+  winning_team_id: 29
+  home_team_score: 0
+  home_team_id: 18
+matches_053: 
+  league_id: 1
+  away_team_score: 1
+  location: Durban
+  match_date: 2010-06-28 16:00:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 25
+  updated_at: 2011-02-26 00:36:20
+  id: 53
+  winning_team_id: 18
+  home_team_score: 2
+  home_team_id: 18
+matches_042: 
+  league_id: 1
+  away_team_score: 0
+  location: Polokwane
+  match_date: 2010-06-24 16:00:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 19
+  updated_at: 2011-02-26 00:36:20
+  id: 42
+  winning_team_id: -1
+  home_team_score: 0
+  home_team_id: 22
+matches_031: 
+  league_id: 1
+  away_team_score: 0
+  location: Nelson Mandela Bay/Port Elizabeth
+  match_date: 2010-06-21 16:00:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 30
+  updated_at: 2011-02-26 00:36:20
+  id: 31
+  winning_team_id: 6
+  home_team_score: 1
+  home_team_id: 6
+matches_020: 
+  league_id: 1
+  away_team_score: 1
+  location: Johannesburg
+  match_date: 2010-06-17 13:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 28
+  updated_at: 2011-02-26 00:36:20
+  id: 20
+  winning_team_id: 2
+  home_team_score: 4
+  home_team_id: 2
+matches_009: 
+  league_id: 1
+  away_team_score: 0
+  location: Johannesburg
+  match_date: 2010-06-14 13:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 7
+  updated_at: 2011-02-26 00:36:20
+  id: 9
+  winning_team_id: 18
+  home_team_score: 2
+  home_team_id: 18
+matches_054: 
+  league_id: 1
+  away_team_score: 0
+  location: Johannesburg
+  match_date: 2010-06-28 20:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 6
+  updated_at: 2011-02-26 00:36:20
+  id: 54
+  winning_team_id: 4
+  home_team_score: 3
+  home_team_id: 4
+matches_043: 
+  league_id: 1
+  away_team_score: 3
+  location: Rustenburg
+  match_date: 2010-06-24 20:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 16
+  updated_at: 2011-02-26 00:36:20
+  id: 43
+  winning_team_id: 16
+  home_team_score: 1
+  home_team_id: 7
+matches_032: 
+  league_id: 1
+  away_team_score: 0
+  location: Johannesburg
+  match_date: 2010-06-21 20:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 13
+  updated_at: 2011-02-26 00:36:20
+  id: 32
+  winning_team_id: 29
+  home_team_score: 2
+  home_team_id: 29
+matches_021: 
+  league_id: 1
+  away_team_score: 1
+  location: Nelson Mandela Bay/Port Elizabeth
+  match_date: 2010-06-18 13:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 24
+  updated_at: 2011-02-26 00:36:20
+  id: 21
+  winning_team_id: 24
+  home_team_score: 0
+  home_team_id: 10
+matches_010: 
+  league_id: 1
+  away_team_score: 0
+  location: Mangaung/Bloemfontein
+  match_date: 2010-06-14 16:00:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 5
+  updated_at: 2011-02-26 00:36:20
+  id: 10
+  winning_team_id: 16
+  home_team_score: 1
+  home_team_id: 16
+matches_055: 
+  league_id: 1
+  away_team_score: 0
+  location: Tshwane/Pretoria
+  match_date: 2010-06-29 16:00:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 16
+  updated_at: 2011-02-26 00:36:20
+  id: 55
+  winning_team_id: -1
+  home_team_score: 0
+  home_team_id: 22
+matches_044: 
+  league_id: 1
+  away_team_score: 2
+  location: Cape Town
+  match_date: 2010-06-24 20:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 18
+  updated_at: 2011-02-26 00:36:20
+  id: 44
+  winning_team_id: 18
+  home_team_score: 1
+  home_team_id: 5
+matches_033: 
+  league_id: 1
+  away_team_score: 1
+  location: Rustenburg
+  match_date: 2010-06-22 16:00:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 32
+  updated_at: 2011-02-26 00:36:20
+  id: 33
+  winning_team_id: 32
+  home_team_score: 0
+  home_team_id: 17
+matches_022: 
+  league_id: 1
+  away_team_score: 2
+  location: Johannesburg
+  match_date: 2010-06-18 16:00:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 31
+  updated_at: 2011-02-26 00:36:20
+  id: 22
+  winning_team_id: -1
+  home_team_score: 2
+  home_team_id: 26
+matches_011: 
+  league_id: 1
+  away_team_score: 1
+  location: Cape Town
+  match_date: 2010-06-14 20:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 22
+  updated_at: 2011-02-26 00:36:20
+  id: 11
+  winning_team_id: -1
+  home_team_score: 1
+  home_team_id: 14
+matches_056: 
+  league_id: 1
+  away_team_score: 0
+  location: Cape Town
+  match_date: 2010-06-29 20:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 23
+  updated_at: 2011-02-26 00:36:20
+  id: 56
+  winning_team_id: 29
+  home_team_score: 1
+  home_team_id: 29
+matches_045: 
+  league_id: 1
+  away_team_score: 0
+  location: Durban
+  match_date: 2010-06-25 16:00:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 4
+  updated_at: 2011-02-26 00:36:20
+  id: 45
+  winning_team_id: -1
+  home_team_score: 0
+  home_team_id: 23
+matches_034: 
+  league_id: 1
+  away_team_score: 2
+  location: Mangaung/Bloemfontein
+  match_date: 2010-06-22 16:00:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 27
+  updated_at: 2011-02-26 00:36:20
+  id: 34
+  winning_team_id: 27
+  home_team_score: 1
+  home_team_id: 9
+matches_023: 
+  league_id: 1
+  away_team_score: 0
+  location: Cape Town
+  match_date: 2010-06-18 20:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 1
+  updated_at: 2011-02-26 00:36:20
+  id: 23
+  winning_team_id: -1
+  home_team_score: 0
+  home_team_id: 8
+matches_012: 
+  league_id: 1
+  away_team_score: 1
+  location: Rustenburg
+  match_date: 2010-06-15 13:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 25
+  updated_at: 2011-02-26 00:36:20
+  id: 12
+  winning_team_id: -1
+  home_team_score: 1
+  home_team_id: 19
+matches_001: 
+  league_id: 1
+  away_team_score: 1
+  location: Johannesburg
+  match_date: 2010-06-11 16:00:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 17
+  updated_at: 2011-02-26 00:36:20
+  id: 1
+  winning_team_id: -1
+  home_team_score: 1
+  home_team_id: 27
+matches_057: 
+  league_id: 1
+  away_team_score: 1
+  location: Nelson Mandela Bay/Port Elizabeth
+  match_date: 2010-07-02 16:00:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 4
+  updated_at: 2011-02-26 00:36:20
+  id: 57
+  winning_team_id: 18
+  home_team_score: 2
+  home_team_id: 18
+matches_046: 
+  league_id: 1
+  away_team_score: 3
+  location: Nelspruit
+  match_date: 2010-06-25 16:00:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 15
+  updated_at: 2011-02-26 00:36:20
+  id: 46
+  winning_team_id: 15
+  home_team_score: 0
+  home_team_id: 21
+matches_035: 
+  league_id: 1
+  away_team_score: 2
+  location: Durban
+  match_date: 2010-06-22 20:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 28
+  updated_at: 2011-02-26 00:36:20
+  id: 35
+  winning_team_id: -1
+  home_team_score: 2
+  home_team_id: 20
+matches_024: 
+  league_id: 1
+  away_team_score: 1
+  location: Rustenburg
+  match_date: 2010-06-19 16:00:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 3
+  updated_at: 2011-02-26 00:36:20
+  id: 24
+  winning_team_id: -1
+  home_team_score: 1
+  home_team_id: 11
+matches_013: 
+  league_id: 1
+  away_team_score: 0
+  location: Nelson Mandela Bay/Port Elizabeth
+  match_date: 2010-06-15 16:00:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 23
+  updated_at: 2011-02-26 00:36:20
+  id: 13
+  winning_team_id: -1
+  home_team_score: 0
+  home_team_id: 15
+matches_002: 
+  league_id: 1
+  away_team_score: 0
+  location: Cape Town
+  match_date: 2010-06-11 20:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 9
+  updated_at: 2011-02-26 00:36:20
+  id: 2
+  winning_team_id: -1
+  home_team_score: 0
+  home_team_id: 32
+matches_058: 
+  league_id: 1
+  away_team_score: 1
+  location: Johannesburg
+  match_date: 2010-07-02 20:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 11
+  updated_at: 2011-02-26 00:36:20
+  id: 58
+  winning_team_id: -1
+  home_team_score: 1
+  home_team_id: 32
+matches_047: 
+  league_id: 1
+  away_team_score: 2
+  location: Tshwane/Pretoria
+  match_date: 2010-06-25 20:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 29
+  updated_at: 2011-02-26 00:36:20
+  id: 47
+  winning_team_id: 29
+  home_team_score: 1
+  home_team_id: 6
+matches_036: 
+  league_id: 1
+  away_team_score: 2
+  location: Polokwane
+  match_date: 2010-06-22 20:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 2
+  updated_at: 2011-02-26 00:36:20
+  id: 36
+  winning_team_id: 2
+  home_team_score: 0
+  home_team_id: 12
+matches_025: 
+  league_id: 1
+  away_team_score: 0
+  location: Durban
+  match_date: 2010-06-19 13:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 16
+  updated_at: 2011-02-26 00:36:20
+  id: 25
+  winning_team_id: 18
+  home_team_score: 1
+  home_team_id: 18
+matches_014: 
+  league_id: 1
+  away_team_score: 1
+  location: Johannesburg
+  match_date: 2010-06-15 20:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 21
+  updated_at: 2011-02-26 00:36:20
+  id: 14
+  winning_team_id: 4
+  home_team_score: 2
+  home_team_id: 4
+matches_003: 
+  league_id: 1
+  away_team_score: 0
+  location: Johannesburg
+  match_date: 2010-06-12 16:00:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 20
+  updated_at: 2011-02-26 00:36:20
+  id: 3
+  winning_team_id: 2
+  home_team_score: 1
+  home_team_id: 2
+matches_060: 
+  league_id: 1
+  away_team_score: 1
+  location: Johannesburg
+  match_date: 2010-07-03 20:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 29
+  updated_at: 2011-02-26 00:36:20
+  id: 60
+  winning_team_id: 29
+  home_team_score: 0
+  home_team_id: 22
+matches_059: 
+  league_id: 1
+  away_team_score: 4
+  location: Cape Town
+  match_date: 2010-07-03 16:00:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 10
+  updated_at: 2011-02-26 00:36:20
+  id: 59
+  winning_team_id: 10
+  home_team_score: 0
+  home_team_id: 2
+matches_048: 
+  league_id: 1
+  away_team_score: 0
+  location: Mangaung/Bloemfontein
+  match_date: 2010-06-25 20:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 13
+  updated_at: 2011-02-26 00:36:20
+  id: 48
+  winning_team_id: -1
+  home_team_score: 0
+  home_team_id: 30
+matches_037: 
+  league_id: 1
+  away_team_score: 1
+  location: Nelson Mandela Bay/Port Elizabeth
+  match_date: 2010-06-23 16:00:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 8
+  updated_at: 2011-02-26 00:36:20
+  id: 37
+  winning_team_id: 8
+  home_team_score: 0
+  home_team_id: 26
+matches_026: 
+  league_id: 1
+  away_team_score: 2
+  location: Tshwane/Pretoria
+  match_date: 2010-06-19 20:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 7
+  updated_at: 2011-02-26 00:36:20
+  id: 26
+  winning_team_id: 7
+  home_team_score: 1
+  home_team_id: 5
+matches_015: 
+  league_id: 1
+  away_team_score: 1
+  location: Nelspruit
+  match_date: 2010-06-16 13:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 6
+  updated_at: 2011-02-26 00:36:20
+  id: 15
+  winning_team_id: 6
+  home_team_score: 0
+  home_team_id: 13
+matches_004: 
+  league_id: 1
+  away_team_score: 0
+  location: Nelson Mandela Bay/Port Elizabeth
+  match_date: 2010-06-12 13:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 12
+  updated_at: 2011-02-26 00:36:20
+  id: 4
+  winning_team_id: 28
+  home_team_score: 2
+  home_team_id: 28
+matches_061: 
+  league_id: 1
+  away_team_score: 3
+  location: Cape Town
+  match_date: 2010-07-06 20:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 18
+  updated_at: 2011-02-26 00:36:20
+  id: 61
+  winning_team_id: 18
+  home_team_score: 2
+  home_team_id: 32
+matches_050: 
+  league_id: 1
+  away_team_score: 2
+  location: Rustenburg
+  match_date: 2010-06-26 20:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 11
+  updated_at: 2011-02-26 00:36:20
+  id: 50
+  winning_team_id: 11
+  home_team_score: 1
+  home_team_id: 31
+matches_049: 
+  league_id: 1
+  away_team_score: 1
+  location: Nelson Mandela Bay/Port Elizabeth
+  match_date: 2010-06-26 16:00:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 28
+  updated_at: 2011-02-26 00:36:20
+  id: 49
+  winning_team_id: 32
+  home_team_score: 2
+  home_team_id: 32
+matches_038: 
+  league_id: 1
+  away_team_score: 0
+  location: Tshwane/Pretoria
+  match_date: 2010-06-23 16:00:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 1
+  updated_at: 2011-02-26 00:36:20
+  id: 38
+  winning_team_id: 31
+  home_team_score: 1
+  home_team_id: 31
+matches_027: 
+  league_id: 1
+  away_team_score: 2
+  location: Mangaung/Bloemfontein
+  match_date: 2010-06-20 13:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 22
+  updated_at: 2011-02-26 00:36:20
+  id: 27
+  winning_team_id: 22
+  home_team_score: 0
+  home_team_id: 25
+matches_016: 
+  league_id: 1
+  away_team_score: 1
+  location: Durban
+  match_date: 2010-06-16 16:00:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 30
+  updated_at: 2011-02-26 00:36:20
+  id: 16
+  winning_team_id: 30
+  home_team_score: 0
+  home_team_id: 29
+matches_005: 
+  league_id: 1
+  away_team_score: 1
+  location: Rustenburg
+  match_date: 2010-06-12 20:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 31
+  updated_at: 2011-02-26 00:36:20
+  id: 5
+  winning_team_id: -1
+  home_team_score: 1
+  home_team_id: 8
+matches_039: 
+  league_id: 1
+  away_team_score: 1
+  location: Johannesburg
+  match_date: 2010-06-23 20:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 10
+  updated_at: 2011-02-26 00:36:20
+  id: 39
+  winning_team_id: 10
+  home_team_score: 0
+  home_team_id: 11
+matches_028: 
+  league_id: 1
+  away_team_score: 1
+  location: Nelspruit
+  match_date: 2010-06-20 16:00:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 19
+  updated_at: 2011-02-26 00:36:20
+  id: 28
+  winning_team_id: -1
+  home_team_score: 1
+  home_team_id: 14
+matches_017: 
+  league_id: 1
+  away_team_score: 3
+  location: Tshwane/Pretoria
+  match_date: 2010-06-16 20:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 32
+  updated_at: 2011-02-26 00:36:20
+  id: 17
+  winning_team_id: 32
+  home_team_score: 0
+  home_team_id: 27
+matches_006: 
+  league_id: 1
+  away_team_score: 1
+  location: Polokwane
+  match_date: 2010-06-13 13:30:00.000000
+  created_at: 2011-02-26 00:36:20
+  away_team_id: 26
+  updated_at: 2011-02-26 00:36:20
+  id: 6
+  winning_team_id: 26
+  home_team_score: 0
+  home_team_id: 1

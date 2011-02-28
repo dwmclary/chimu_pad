@@ -1,0 +1,11 @@
+--- 
+leagues_001: 
+  name: World Cup 2010
+  created_at: 2011-02-26 00:36:20
+  updated_at: 2011-02-26 00:36:20
+  id: 1
+leagues_002: 
+  name: Euro Cup 2008
+  created_at: 2011-02-26 00:36:20
+  updated_at: 2011-02-26 00:36:20
+  id: 2

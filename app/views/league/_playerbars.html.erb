@@ -1,10 +1,11 @@
-<canvas id="graphSpace" width="800" height="300" style="margin-left:200px"></canvas>
+<div style="float:left"><b>Top Players</b></div>
+<canvas id="playergraphSpace" width="800" height="280"></canvas>
 
 <script type="text/javascript"> 
     var colors = ["800026","BD0026","E31A1C","FC4E2A","FD8D3C","FEB24C","FED976","FFEDA0","lightyellow","ivory"];
 
 	function graph() {							
-		var graphCanvas = document.getElementById('graphSpace');
+		var graphCanvas = document.getElementById('playergraphSpace');
 		// Ensure that the element is available within the DOM
 		if (graphCanvas && graphCanvas.getContext) {
 			// Open a 2D context within the canvas
@@ -12,11 +13,11 @@
 
 			// Bar chart data
 			var data = []
-			<% for t in @teams[0..9] %>
-			    data.push("<%=t.abbreviation%>,<%='%.2f'%(t.current_rating*25)%>")
+			<% for p in @players %>
+			    data.push("<%=p.name.split().last%>,<%='%.2f'%(p.current_rating*25)%>")
             <% end %>
 			// Draw the bar chart
-			drawBarChart(context, data, 50, 50, 25, (graphCanvas.height-10), 20);
+			drawBarChart(context, data, 50, 50, 20, (graphCanvas.height-10), 25);
 		}
 	}
 	
@@ -24,9 +25,9 @@
 	function drawBarChart(context, data, startX, barWidth, spacing, chartHeight, markDataIncrementsIn) {
 		// Draw the x and y axes
 		context.lineWidth = "1.0";
-		var startY = 280;
-        drawLine(context, startX, startY, startX, startY-200); 
-		drawLine(context, startX, startY, 570, startY);			
+		var startY = 260;
+		drawLine(context, startX, startY, startX, 30); 
+		drawLine(context, startX, startY, startX+450, startY);			
 		context.lineWidth = "0.0";
 		var maxValue = 0;
 		for (var i=0; i<data.length; i++) {
@@ -37,11 +38,11 @@
 			if (parseInt(height) > parseInt(maxValue)) maxValue = height;
 			// Write data to chart
 			context.fillStyle = colors[i];
-			drawRectangle(context, (startX + (i * barWidth))+spacing + i, (chartHeight - height), barWidth-spacing, height, true);
+			drawRectangle(context, (startX + (i * barWidth*1.5))+spacing + i, (chartHeight - height), barWidth-spacing, height, true);
 			// Add the column title to the x-axis
-			context.textAlign = "center";
+			context.textAlign = "left";
 			context.fillStyle = "#000";
-			context.fillText(name, startX + (i * barWidth)+spacing+10 + i, chartHeight + 10, 200);				
+			context.fillText(name, startX + (i * barWidth*1.5)+spacing+i, chartHeight +10, 200);				
 		}
 		// Add some data markers to the y-axis
 		var numMarkers = Math.ceil(maxValue / markDataIncrementsIn)+1;
@@ -49,7 +50,7 @@
 		context.fillStyle = "#000";
 		var markerValue = 0;
 		for (var i=0; i<numMarkers; i++) {		
-			context.fillText(markerValue/25, (startX - 5), (chartHeight - markerValue), 50);
+			context.fillText(markerValue/25, (startX), (chartHeight - markerValue), 50);
 			markerValue += markDataIncrementsIn;
 		}
 	}		
@@ -73,3 +74,5 @@
 	}		
 	graph();
 </script>
+<%= will_paginate @players, :param_name => "playerpage"%>
+
