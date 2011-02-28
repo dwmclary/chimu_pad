@@ -10,11 +10,13 @@ class Graph < ActiveRecord::Base
     edges.each{|edge|
       from,to,weight = edge.split()
       if not ignored_nodes.include? from
-        from = Player.find(from.to_i()).number
+        from = Player.find(from.to_i())
+        from = from.team+from.number.to_s()
       end
       
       if not ignored_nodes.include? to
-        to = Player.find(to.to_i()).number
+        to = Player.find(to.to_i())
+        to = to.team+to.number.to_s()
       end
       
       if weight
@@ -55,7 +57,7 @@ class Graph < ActiveRecord::Base
         p = get_position(player)
         x = p.first
         y = p.last
-        node_id = player.number
+        node_id = player.team + player.number.to_s()
       end
       
       if size and not ignored_nodes.include? node_id
