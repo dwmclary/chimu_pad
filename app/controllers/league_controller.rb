@@ -12,7 +12,7 @@ class LeagueController < ApplicationController
     @rankings = (1..@teams.size).to_a()
     team_ids = @teams.map(&:id)
     @matches = Match.paginate :page => params[:page], :order => "match_date asc", :conditions=> ["home_team_id IN (?)", team_ids], :per_page => 10
-    @players = Player.paginate :page => params[:playerpage], :order => "current_rating desc", :conditions=> ["team_id IN (?)", team_ids], :per_page => 6
+    @players = Player.paginate :page => params[:playerpage], :order => "current_rating desc", '%.1f'=> ["team_id IN (?)", team_ids], :per_page => 6
 
     @team_columns = get_columns(@teams,10)
     respond_to do |format|

@@ -1,12 +1,12 @@
 <% i = 0 %>
 <% for p in @plays %>
-<tr>
+<tr class=<%=cycle("even", "odd")%>>
 <td><%= link_to @opponents[i], :controller => "match", :action => "show", :id => p.match_id%></td>
 <td><%= p.shots %></td>
 <td><%= p.goals %></td>
 <td><%= p.passes_attempted %></td>
 <td><%= p.passes_completed%></td>
-<td><%= '%.2f' % p.rating %></td>
+<td><%= '%.1f' % p.rating %></td>
 </tr>
 <% i += 1 %>
 <% end %>

@@ -16,7 +16,7 @@
 			// Bar chart data
 			var data = []
 			<% for p in @players %>
-			    data.push("<%=p.name.split().last%>,<%='%.2f'%(p.current_rating*25)%>")
+			    data.push("<%=p.name.split().last%>,<%='%.1f'%(p.current_rating*25)%>")
             <% end %>
 			// Draw the bar chart
 			drawBarChart(context, data, 50, 50, 20, (graphCanvas.height-10), 25);

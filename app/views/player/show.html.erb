@@ -6,7 +6,7 @@
     </br>
     <%= link_to @team.name, :controller => "team", :action => "show", :id => @team.id %> <%= @player.number%>
     </br>
-    <span>Average Rating</span> <%= '%.2f' % @player.current_rating %>
+    <span>Average Rating</span> <%= '%.1f' % @player.current_rating %>
 <div id="performance_lines" style="width:600px;height:300px;"></div>
 </center>
 <script type="text/javascript">
@@ -47,7 +47,7 @@ var f = Flotr.draw(
 </script>
 <div id="performance_table">
 <center>
-<table>
+<table class="datagrid">
 <thead>
     <th> VS </th>
     <th> Shots </th>
