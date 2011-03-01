@@ -86,10 +86,15 @@ def build_pass_matrix(tds, players):
 				pass_matrix[player_number]["passes_attempted"] = 0
 			else:
 				pass_matrix[player_number]["passes_attempted"] = int(tds[i][pa])
-		except Exception:
-			print tds[i]
-			print pa
-			exit()
+		except Exception as e:
+			if "%" in tds[i][pa]:
+				#in this case, Jordi forgot to include the total number of passes completed, so we need to adjust for that
+				pass_matrix[player_number]["passes_completed"] = sum([p.values()[0] for p in player_passes])
+				pass_matrix[player_number]["passes_attempted"] = int(tds[i][pc])
+				accuracy = end_of_passes+2
+			else:
+				print e
+				exit()
 		pass_matrix[player_number]["accuracy"] = int(re.sub("%","",tds[i][accuracy]))
 		pass_matrix[player_number]["passes"] = player_passes
 	return pass_matrix
@@ -219,7 +224,7 @@ def get_max_play_id(plays):
 			max_pid = plays[p]["id"]
 	return max_pid
 	
-def main(match_id, pass_file, shots_file, teams, matches, players, previous_plays):
+def main(match_id, pass_file, shots_file, teams, matches, players, previous_plays, league_id):
 	team_data = yaml.load(open(teams).read())
 	matches = yaml.load(open(matches).read())
 	players = yaml.load(open(players).read())
@@ -311,4 +316,8 @@ if __name__ == "__main__":
 		previous_plays = yaml.load(open(sys.argv[7]).read())
 	else:
 		previous_plays = None
-	main(match_id, passes, shots, teams, matches, players, previous_plays)
+	if len(sys.argv) > 8:
+		league_id = int(sys.argv[8])
+	else:
+		league_id = 1
+	main(match_id, passes, shots, teams, matches, players, previous_plays, league_id)

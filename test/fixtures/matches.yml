@@ -8,7 +8,7 @@ Match_1:
   home_team_score: 1
   league_id: 1
   location: Johannesburg
-  match_date: <%= DateTime.parse('2010-06-11 16:00:00') %>
+  match_date: '2010-06-11 16:00:00'
   winning_team_id: -1
 
 
@@ -20,7 +20,7 @@ Match_2:
   home_team_score: 0
   league_id: 1
   location: Cape Town
-  match_date: <%= DateTime.parse('2010-06-11 20:30:00') %>
+  match_date: '2010-06-11 20:30:00'
   winning_team_id: -1
 
 
@@ -32,7 +32,7 @@ Match_3:
   home_team_score: 1
   league_id: 1
   location: Johannesburg
-  match_date: <%= DateTime.parse('2010-06-12 16:00:00') %>
+  match_date: '2010-06-12 16:00:00'
   winning_team_id: 2
 
 
@@ -44,7 +44,7 @@ Match_4:
   home_team_score: 2
   league_id: 1
   location: Nelson Mandela Bay/Port Elizabeth
-  match_date: <%= DateTime.parse('2010-06-12 13:30:00') %>
+  match_date: '2010-06-12 13:30:00'
   winning_team_id: 28
 
 
@@ -56,7 +56,7 @@ Match_5:
   home_team_score: 1
   league_id: 1
   location: Rustenburg
-  match_date: <%= DateTime.parse('2010-06-12 20:30:00') %>
+  match_date: '2010-06-12 20:30:00'
   winning_team_id: -1
 
 
@@ -68,7 +68,7 @@ Match_6:
   home_team_score: 0
   league_id: 1
   location: Polokwane
-  match_date: <%= DateTime.parse('2010-06-13 13:30:00') %>
+  match_date: '2010-06-13 13:30:00'
   winning_team_id: 26
 
 
@@ -80,7 +80,7 @@ Match_7:
   home_team_score: 4
   league_id: 1
   location: Durban
-  match_date: <%= DateTime.parse('2010-06-13 20:30:00') %>
+  match_date: '2010-06-13 20:30:00'
   winning_team_id: 10
 
 
@@ -92,7 +92,7 @@ Match_8:
   home_team_score: 0
   league_id: 1
   location: Tshwane/Pretoria
-  match_date: <%= DateTime.parse('2010-06-13 16:00:00') %>
+  match_date: '2010-06-13 16:00:00'
   winning_team_id: 11
 
 
@@ -104,7 +104,7 @@ Match_9:
   home_team_score: 2
   league_id: 1
   location: Johannesburg
-  match_date: <%= DateTime.parse('2010-06-14 13:30:00') %>
+  match_date: '2010-06-14 13:30:00'
   winning_team_id: 18
 
 
@@ -116,7 +116,7 @@ Match_10:
   home_team_score: 1
   league_id: 1
   location: Mangaung/Bloemfontein
-  match_date: <%= DateTime.parse('2010-06-14 16:00:00') %>
+  match_date: '2010-06-14 16:00:00'
   winning_team_id: 16
 
 
@@ -128,7 +128,7 @@ Match_11:
   home_team_score: 1
   league_id: 1
   location: Cape Town
-  match_date: <%= DateTime.parse('2010-06-14 20:30:00') %>
+  match_date: '2010-06-14 20:30:00'
   winning_team_id: -1
 
 
@@ -140,7 +140,7 @@ Match_12:
   home_team_score: 1
   league_id: 1
   location: Rustenburg
-  match_date: <%= DateTime.parse('2010-06-15 13:30:00') %>
+  match_date: '2010-06-15 13:30:00'
   winning_team_id: -1
 
 
@@ -152,7 +152,7 @@ Match_13:
   home_team_score: 0
   league_id: 1
   location: Nelson Mandela Bay/Port Elizabeth
-  match_date: <%= DateTime.parse('2010-06-15 16:00:00') %>
+  match_date: '2010-06-15 16:00:00'
   winning_team_id: -1
 
 
@@ -164,7 +164,7 @@ Match_14:
   home_team_score: 2
   league_id: 1
   location: Johannesburg
-  match_date: <%= DateTime.parse('2010-06-15 20:30:00') %>
+  match_date: '2010-06-15 20:30:00'
   winning_team_id: 4
 
 
@@ -176,7 +176,7 @@ Match_15:
   home_team_score: 0
   league_id: 1
   location: Nelspruit
-  match_date: <%= DateTime.parse('2010-06-16 13:30:00') %>
+  match_date: '2010-06-16 13:30:00'
   winning_team_id: 6
 
 
@@ -188,7 +188,7 @@ Match_16:
   home_team_score: 0
   league_id: 1
   location: Durban
-  match_date: <%= DateTime.parse('2010-06-16 16:00:00') %>
+  match_date: '2010-06-16 16:00:00'
   winning_team_id: 30
 
 
@@ -200,7 +200,7 @@ Match_17:
   home_team_score: 0
   league_id: 1
   location: Tshwane/Pretoria
-  match_date: <%= DateTime.parse('2010-06-16 20:30:00') %>
+  match_date: '2010-06-16 20:30:00'
   winning_team_id: 32
 
 
@@ -212,7 +212,7 @@ Match_18:
   home_team_score: 0
   league_id: 1
   location: Polokwane
-  match_date: <%= DateTime.parse('2010-06-17 20:30:00') %>
+  match_date: '2010-06-17 20:30:00'
   winning_team_id: 17
 
 
@@ -224,7 +224,7 @@ Match_19:
   home_team_score: 2
   league_id: 1
   location: Mangaung/Bloemfontein
-  match_date: <%= DateTime.parse('2010-06-17 16:00:00') %>
+  match_date: '2010-06-17 16:00:00'
   winning_team_id: 12
 
 
@@ -236,7 +236,7 @@ Match_20:
   home_team_score: 4
   league_id: 1
   location: Johannesburg
-  match_date: <%= DateTime.parse('2010-06-17 13:30:00') %>
+  match_date: '2010-06-17 13:30:00'
   winning_team_id: 2
 
 
@@ -248,7 +248,7 @@ Match_21:
   home_team_score: 0
   league_id: 1
   location: Nelson Mandela Bay/Port Elizabeth
-  match_date: <%= DateTime.parse('2010-06-18 13:30:00') %>
+  match_date: '2010-06-18 13:30:00'
   winning_team_id: 24
 
 
@@ -260,7 +260,7 @@ Match_22:
   home_team_score: 2
   league_id: 1
   location: Johannesburg
-  match_date: <%= DateTime.parse('2010-06-18 16:00:00') %>
+  match_date: '2010-06-18 16:00:00'
   winning_team_id: -1
 
 
@@ -272,7 +272,7 @@ Match_23:
   home_team_score: 0
   league_id: 1
   location: Cape Town
-  match_date: <%= DateTime.parse('2010-06-18 20:30:00') %>
+  match_date: '2010-06-18 20:30:00'
   winning_team_id: -1
 
 
@@ -284,7 +284,7 @@ Match_24:
   home_team_score: 1
   league_id: 1
   location: Rustenburg
-  match_date: <%= DateTime.parse('2010-06-19 16:00:00') %>
+  match_date: '2010-06-19 16:00:00'
   winning_team_id: -1
 
 
@@ -296,7 +296,7 @@ Match_25:
   home_team_score: 1
   league_id: 1
   location: Durban
-  match_date: <%= DateTime.parse('2010-06-19 13:30:00') %>
+  match_date: '2010-06-19 13:30:00'
   winning_team_id: 18
 
 
@@ -308,7 +308,7 @@ Match_26:
   home_team_score: 1
   league_id: 1
   location: Tshwane/Pretoria
-  match_date: <%= DateTime.parse('2010-06-19 20:30:00') %>
+  match_date: '2010-06-19 20:30:00'
   winning_team_id: 7
 
 
@@ -320,7 +320,7 @@ Match_27:
   home_team_score: 0
   league_id: 1
   location: Mangaung/Bloemfontein
-  match_date: <%= DateTime.parse('2010-06-20 13:30:00') %>
+  match_date: '2010-06-20 13:30:00'
   winning_team_id: 22
 
 
@@ -332,7 +332,7 @@ Match_28:
   home_team_score: 1
   league_id: 1
   location: Nelspruit
-  match_date: <%= DateTime.parse('2010-06-20 16:00:00') %>
+  match_date: '2010-06-20 16:00:00'
   winning_team_id: -1
 
 
@@ -344,7 +344,7 @@ Match_29:
   home_team_score: 3
   league_id: 1
   location: Johannesburg
-  match_date: <%= DateTime.parse('2010-06-20 20:30:00') %>
+  match_date: '2010-06-20 20:30:00'
   winning_team_id: 4
 
 
@@ -356,7 +356,7 @@ Match_30:
   home_team_score: 7
   league_id: 1
   location: Cape Town
-  match_date: <%= DateTime.parse('2010-06-21 13:30:00') %>
+  match_date: '2010-06-21 13:30:00'
   winning_team_id: 23
 
 
@@ -368,7 +368,7 @@ Match_31:
   home_team_score: 1
   league_id: 1
   location: Nelson Mandela Bay/Port Elizabeth
-  match_date: <%= DateTime.parse('2010-06-21 16:00:00') %>
+  match_date: '2010-06-21 16:00:00'
   winning_team_id: 6
 
 
@@ -380,7 +380,7 @@ Match_32:
   home_team_score: 2
   league_id: 1
   location: Johannesburg
-  match_date: <%= DateTime.parse('2010-06-21 20:30:00') %>
+  match_date: '2010-06-21 20:30:00'
   winning_team_id: 29
 
 
@@ -392,7 +392,7 @@ Match_33:
   home_team_score: 0
   league_id: 1
   location: Rustenburg
-  match_date: <%= DateTime.parse('2010-06-22 16:00:00') %>
+  match_date: '2010-06-22 16:00:00'
   winning_team_id: 32
 
 
@@ -404,7 +404,7 @@ Match_34:
   home_team_score: 1
   league_id: 1
   location: Mangaung/Bloemfontein
-  match_date: <%= DateTime.parse('2010-06-22 16:00:00') %>
+  match_date: '2010-06-22 16:00:00'
   winning_team_id: 27
 
 
@@ -416,7 +416,7 @@ Match_35:
   home_team_score: 2
   league_id: 1
   location: Durban
-  match_date: <%= DateTime.parse('2010-06-22 20:30:00') %>
+  match_date: '2010-06-22 20:30:00'
   winning_team_id: -1
 
 
@@ -428,7 +428,7 @@ Match_36:
   home_team_score: 0
   league_id: 1
   location: Polokwane
-  match_date: <%= DateTime.parse('2010-06-22 20:30:00') %>
+  match_date: '2010-06-22 20:30:00'
   winning_team_id: 2
 
 
@@ -440,7 +440,7 @@ Match_37:
   home_team_score: 0
   league_id: 1
   location: Nelson Mandela Bay/Port Elizabeth
-  match_date: <%= DateTime.parse('2010-06-23 16:00:00') %>
+  match_date: '2010-06-23 16:00:00'
   winning_team_id: 8
 
 
@@ -452,7 +452,7 @@ Match_38:
   home_team_score: 1
   league_id: 1
   location: Tshwane/Pretoria
-  match_date: <%= DateTime.parse('2010-06-23 16:00:00') %>
+  match_date: '2010-06-23 16:00:00'
   winning_team_id: 31
 
 
@@ -464,7 +464,7 @@ Match_39:
   home_team_score: 0
   league_id: 1
   location: Johannesburg
-  match_date: <%= DateTime.parse('2010-06-23 20:30:00') %>
+  match_date: '2010-06-23 20:30:00'
   winning_team_id: 10
 
 
@@ -476,7 +476,7 @@ Match_40:
   home_team_score: 2
   league_id: 1
   location: Nelspruit
-  match_date: <%= DateTime.parse('2010-06-23 20:30:00') %>
+  match_date: '2010-06-23 20:30:00'
   winning_team_id: 3
 
 
@@ -488,7 +488,7 @@ Match_41:
   home_team_score: 3
   league_id: 1
   location: Johannesburg
-  match_date: <%= DateTime.parse('2010-06-24 16:00:00') %>
+  match_date: '2010-06-24 16:00:00'
   winning_team_id: 25
 
 
@@ -500,7 +500,7 @@ Match_42:
   home_team_score: 0
   league_id: 1
   location: Polokwane
-  match_date: <%= DateTime.parse('2010-06-24 16:00:00') %>
+  match_date: '2010-06-24 16:00:00'
   winning_team_id: -1
 
 
@@ -512,7 +512,7 @@ Match_43:
   home_team_score: 1
   league_id: 1
   location: Rustenburg
-  match_date: <%= DateTime.parse('2010-06-24 20:30:00') %>
+  match_date: '2010-06-24 20:30:00'
   winning_team_id: 16
 
 
@@ -524,7 +524,7 @@ Match_44:
   home_team_score: 1
   league_id: 1
   location: Cape Town
-  match_date: <%= DateTime.parse('2010-06-24 20:30:00') %>
+  match_date: '2010-06-24 20:30:00'
   winning_team_id: 18
 
 
@@ -536,7 +536,7 @@ Match_45:
   home_team_score: 0
   league_id: 1
   location: Durban
-  match_date: <%= DateTime.parse('2010-06-25 16:00:00') %>
+  match_date: '2010-06-25 16:00:00'
   winning_team_id: -1
 
 
@@ -548,7 +548,7 @@ Match_46:
   home_team_score: 0
   league_id: 1
   location: Nelspruit
-  match_date: <%= DateTime.parse('2010-06-25 16:00:00') %>
+  match_date: '2010-06-25 16:00:00'
   winning_team_id: 15
 
 
@@ -560,7 +560,7 @@ Match_47:
   home_team_score: 1
   league_id: 1
   location: Tshwane/Pretoria
-  match_date: <%= DateTime.parse('2010-06-25 20:30:00') %>
+  match_date: '2010-06-25 20:30:00'
   winning_team_id: 29
 
 
@@ -572,7 +572,7 @@ Match_48:
   home_team_score: 0
   league_id: 1
   location: Mangaung/Bloemfontein
-  match_date: <%= DateTime.parse('2010-06-25 20:30:00') %>
+  match_date: '2010-06-25 20:30:00'
   winning_team_id: -1
 
 
@@ -584,7 +584,7 @@ Match_49:
   home_team_score: 2
   league_id: 1
   location: Nelson Mandela Bay/Port Elizabeth
-  match_date: <%= DateTime.parse('2010-06-26 16:00:00') %>
+  match_date: '2010-06-26 16:00:00'
   winning_team_id: 32
 
 
@@ -596,7 +596,7 @@ Match_50:
   home_team_score: 1
   league_id: 1
   location: Rustenburg
-  match_date: <%= DateTime.parse('2010-06-26 20:30:00') %>
+  match_date: '2010-06-26 20:30:00'
   winning_team_id: 11
 
 
@@ -608,7 +608,7 @@ Match_51:
   home_team_score: 4
   league_id: 1
   location: Mangaung/Bloemfontein
-  match_date: <%= DateTime.parse('2010-06-27 16:00:00') %>
+  match_date: '2010-06-27 16:00:00'
   winning_team_id: 10
 
 
@@ -620,7 +620,7 @@ Match_52:
   home_team_score: 3
   league_id: 1
   location: Johannesburg
-  match_date: <%= DateTime.parse('2010-06-27 20:30:00') %>
+  match_date: '2010-06-27 20:30:00'
   winning_team_id: 2
 
 
@@ -632,7 +632,7 @@ Match_53:
   home_team_score: 2
   league_id: 1
   location: Durban
-  match_date: <%= DateTime.parse('2010-06-28 16:00:00') %>
+  match_date: '2010-06-28 16:00:00'
   winning_team_id: 18
 
 
@@ -644,7 +644,7 @@ Match_54:
   home_team_score: 3
   league_id: 1
   location: Johannesburg
-  match_date: <%= DateTime.parse('2010-06-28 20:30:00') %>
+  match_date: '2010-06-28 20:30:00'
   winning_team_id: 4
 
 
@@ -656,7 +656,7 @@ Match_55:
   home_team_score: 0
   league_id: 1
   location: Tshwane/Pretoria
-  match_date: <%= DateTime.parse('2010-06-29 16:00:00') %>
+  match_date: '2010-06-29 16:00:00'
   winning_team_id: -1
 
 
@@ -668,7 +668,7 @@ Match_56:
   home_team_score: 1
   league_id: 1
   location: Cape Town
-  match_date: <%= DateTime.parse('2010-06-29 20:30:00') %>
+  match_date: '2010-06-29 20:30:00'
   winning_team_id: 29
 
 
@@ -680,7 +680,7 @@ Match_57:
   home_team_score: 2
   league_id: 1
   location: Nelson Mandela Bay/Port Elizabeth
-  match_date: <%= DateTime.parse('2010-07-02 16:00:00') %>
+  match_date: '2010-07-02 16:00:00'
   winning_team_id: 18
 
 
@@ -692,7 +692,7 @@ Match_58:
   home_team_score: 1
   league_id: 1
   location: Johannesburg
-  match_date: <%= DateTime.parse('2010-07-02 20:30:00') %>
+  match_date: '2010-07-02 20:30:00'
   winning_team_id: -1
 
 
@@ -704,7 +704,7 @@ Match_59:
   home_team_score: 0
   league_id: 1
   location: Cape Town
-  match_date: <%= DateTime.parse('2010-07-03 16:00:00') %>
+  match_date: '2010-07-03 16:00:00'
   winning_team_id: 10
 
 
@@ -716,7 +716,7 @@ Match_60:
   home_team_score: 0
   league_id: 1
   location: Johannesburg
-  match_date: <%= DateTime.parse('2010-07-03 20:30:00') %>
+  match_date: '2010-07-03 20:30:00'
   winning_team_id: 29
 
 
@@ -728,7 +728,7 @@ Match_61:
   home_team_score: 2
   league_id: 1
   location: Cape Town
-  match_date: <%= DateTime.parse('2010-07-06 20:30:00') %>
+  match_date: '2010-07-06 20:30:00'
   winning_team_id: 18
 
 
@@ -740,7 +740,7 @@ Match_62:
   home_team_score: 0
   league_id: 1
   location: Durban
-  match_date: <%= DateTime.parse('2010-07-07 20:30:00') %>
+  match_date: '2010-07-07 20:30:00'
   winning_team_id: 29
 
 
@@ -752,7 +752,7 @@ Match_63:
   home_team_score: 2
   league_id: 1
   location: Nelson Mandela Bay/Port Elizabeth
-  match_date: <%= DateTime.parse('2010-07-10 20:30:00') %>
+  match_date: '2010-07-10 20:30:00'
   winning_team_id: 10
 
 
@@ -764,6 +764,378 @@ Match_64:
   home_team_score: 0
   league_id: 1
   location: Johannesburg
-  match_date: <%= DateTime.parse('2010-07-11 20:30:00') %>
+  match_date: '2010-07-11 20:30:00'
   winning_team_id: 29
 
+
+Match_300682:
+  away_team_id: 35
+  away_team_score: 1
+  home_team_id: 46
+  home_team_score: 0
+  id: 300682
+  league_id: 2
+  location: Basel
+  match_date: '2010-06-07 18:00:00'
+  winning_team_id: 35
+
+
+Match_300683:
+  away_team_id: 48
+  away_team_score: 0
+  home_team_id: 43
+  home_team_score: 2
+  id: 300683
+  league_id: 2
+  location: Geneva
+  match_date: '2010-06-07 20:45:00'
+  winning_team_id: 43
+
+
+Match_300684:
+  away_team_id: 34
+  away_team_score: 1
+  home_team_id: 33
+  home_team_score: 0
+  id: 300684
+  league_id: 2
+  location: Vienna
+  match_date: '2010-06-08 18:00:00'
+  winning_team_id: 34
+
+
+Match_300685:
+  away_team_id: 42
+  away_team_score: 0
+  home_team_id: 38
+  home_team_score: 2
+  id: 300685
+  league_id: 2
+  location: Klagenfurt
+  match_date: '2010-06-08 20:45:00'
+  winning_team_id: 38
+
+
+Match_300686:
+  away_team_id: 40
+  away_team_score: 0
+  home_team_id: 41
+  home_team_score: 3
+  id: 300686
+  league_id: 2
+  location: Zurich
+  match_date: '2010-06-09 20:45:00'
+  winning_team_id: 41
+
+
+Match_300687:
+  away_team_id: 37
+  away_team_score: 0
+  home_team_id: 44
+  home_team_score: 0
+  id: 300687
+  league_id: 2
+  location: Berne
+  match_date: '2010-06-09 18:00:00'
+  winning_team_id: -1
+
+
+Match_300688:
+  away_team_id: 47
+  away_team_score: 2
+  home_team_id: 39
+  home_team_score: 0
+  id: 300688
+  league_id: 2
+  location: Innsbruck
+  match_date: '2010-06-10 20:45:00'
+  winning_team_id: 47
+
+
+Match_300689:
+  away_team_id: 45
+  away_team_score: 1
+  home_team_id: 36
+  home_team_score: 4
+  id: 300689
+  league_id: 2
+  location: Salzburg
+  match_date: '2010-06-10 18:00:00'
+  winning_team_id: 36
+
+
+Match_300690:
+  away_team_id: 48
+  away_team_score: 2
+  home_team_id: 46
+  home_team_score: 1
+  id: 300690
+  league_id: 2
+  location: Geneva
+  match_date: '2010-06-11 20:45:00'
+  winning_team_id: 48
+
+
+Match_300691:
+  away_team_id: 43
+  away_team_score: 3
+  home_team_id: 35
+  home_team_score: 1
+  id: 300691
+  league_id: 2
+  location: Basel
+  match_date: '2010-06-11 18:00:00'
+  winning_team_id: 43
+
+
+Match_300692:
+  away_team_id: 42
+  away_team_score: 1
+  home_team_id: 33
+  home_team_score: 1
+  id: 300692
+  league_id: 2
+  location: Klagenfurt
+  match_date: '2010-06-12 20:45:00'
+  winning_team_id: -1
+
+
+Match_300693:
+  away_team_id: 38
+  away_team_score: 1
+  home_team_id: 34
+  home_team_score: 2
+  id: 300693
+  league_id: 2
+  location: Vienna
+  match_date: '2010-06-12 18:00:00'
+  winning_team_id: 34
+
+
+Match_300694:
+  away_team_id: 37
+  away_team_score: 1
+  home_team_id: 41
+  home_team_score: 4
+  id: 300694
+  league_id: 2
+  location: Zurich
+  match_date: 2010-06-13 20:045:00
+  winning_team_id: 41
+
+
+Match_300695:
+  away_team_id: 44
+  away_team_score: 1
+  home_team_id: 40
+  home_team_score: 1
+  id: 300695
+  league_id: 2
+  location: Berne
+  match_date: '2010-06-13 18:00:00'
+  winning_team_id: -1
+
+
+Match_300696:
+  away_team_id: 45
+  away_team_score: 1
+  home_team_id: 39
+  home_team_score: 0
+  id: 300696
+  league_id: 2
+  location: Innsbruck
+  match_date: '2010-06-14 18:00:00'
+  winning_team_id: 45
+
+
+Match_300697:
+  away_team_id: 36
+  away_team_score: 2
+  home_team_id: 47
+  home_team_score: 1
+  id: 300697
+  league_id: 2
+  location: Salzburg
+  match_date: '2010-06-14 20:45:00'
+  winning_team_id: 36
+
+
+Match_300698:
+  away_team_id: 43
+  away_team_score: 0
+  home_team_id: 46
+  home_team_score: 2
+  id: 300698
+  league_id: 2
+  location: Basel
+  match_date: '2010-06-15 20:45:00'
+  winning_team_id: 46
+
+
+Match_300699:
+  away_team_id: 35
+  away_team_score: 2
+  home_team_id: 48
+  home_team_score: 3
+  id: 300699
+  league_id: 2
+  location: Geneva
+  match_date: '2010-06-15 20:45:00'
+  winning_team_id: 48
+
+
+Match_300700:
+  away_team_id: 38
+  away_team_score: 1
+  home_team_id: 33
+  home_team_score: 0
+  id: 300700
+  league_id: 2
+  location: Klagenfurt
+  match_date: '2010-06-16 20:45:00'
+  winning_team_id: 38
+
+
+Match_300701:
+  away_team_id: 34
+  away_team_score: 1
+  home_team_id: 42
+  home_team_score: 0
+  id: 300701
+  league_id: 2
+  location: Vienna
+  match_date: '2010-06-16 20:45:00'
+  winning_team_id: 34
+
+
+Match_300702:
+  away_team_id: 44
+  away_team_score: 0
+  home_team_id: 41
+  home_team_score: 2
+  id: 300702
+  league_id: 2
+  location: Berne
+  match_date: '2010-06-17 20:45:00'
+  winning_team_id: 41
+
+
+Match_300703:
+  away_team_id: 40
+  away_team_score: 2
+  home_team_id: 37
+  home_team_score: 0
+  id: 300703
+  league_id: 2
+  location: Zurich
+  match_date: '2010-06-17 20:45:00'
+  winning_team_id: 40
+
+
+Match_300704:
+  away_team_id: 36
+  away_team_score: 2
+  home_team_id: 39
+  home_team_score: 1
+  id: 300704
+  league_id: 2
+  location: Salzburg
+  match_date: '2010-06-18 20:45:00'
+  winning_team_id: 36
+
+
+Match_300705:
+  away_team_id: 47
+  away_team_score: 0
+  home_team_id: 45
+  home_team_score: 2
+  id: 300705
+  league_id: 2
+  location: Innsbruck
+  match_date: '2010-06-18 20:45:00'
+  winning_team_id: 45
+
+
+Match_301696:
+  away_team_id: 36
+  away_team_score: 1
+  home_team_id: 38
+  home_team_score: 0
+  id: 301696
+  league_id: 2
+  location: Basel
+  match_date: '2010-06-29 20:45:00'
+  winning_team_id: 36
+
+
+Match_301697:
+  away_team_id: 48
+  away_team_score: 2
+  home_team_id: 38
+  home_team_score: 3
+  id: 301697
+  league_id: 2
+  location: Vienna
+  match_date: '2010-06-25 20:45:00'
+  winning_team_id: 38
+
+
+Match_301698:
+  away_team_id: 36
+  away_team_score: 3
+  home_team_id: 45
+  home_team_score: 0
+  id: 301698
+  league_id: 2
+  location: Basel
+  match_date: '2010-06-26 20:45:00'
+  winning_team_id: 36
+
+
+Match_301699:
+  away_team_id: 38
+  away_team_score: 3
+  home_team_id: 43
+  home_team_score: 2
+  id: 301699
+  league_id: 2
+  location: Vienna
+  match_date: '2010-06-19 20:45:00'
+  winning_team_id: 38
+
+
+Match_301700:
+  away_team_id: 48
+  away_team_score: 1
+  home_team_id: 34
+  home_team_score: 1
+  id: 301700
+  league_id: 2
+  location: Basel
+  match_date: '2010-06-20 20:45:00'
+  winning_team_id: -1
+
+
+Match_301701:
+  away_team_id: 45
+  away_team_score: 3
+  home_team_id: 41
+  home_team_score: 1
+  id: 301701
+  league_id: 2
+  location: Vienna
+  match_date: '2010-06-21 20:45:00'
+  winning_team_id: 45
+
+
+Match_301702:
+  away_team_id: 40
+  away_team_score: 0
+  home_team_id: 36
+  home_team_score: 0
+  id: 301702
+  league_id: 2
+  location: Vienna
+  match_date: '2010-06-22 20:45:00'
+  winning_team_id: -1
+  

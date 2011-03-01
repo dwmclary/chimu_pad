@@ -35,12 +35,12 @@ class Match(object):
 			self.date_string = year+"-"+day+"-"+month+" "+h+":"+m+":"+seconds
 	
 	def get_hash(self):
-		return {"Match_"+str(self.id):{"league_id":self.league_id, "home_team_id":self.home_team_id, "away_team_id":self.away_team_id,\
+		return {"Match_"+str(self.id):{"id":self.id,"league_id":self.league_id, "home_team_id":self.home_team_id, "away_team_id":self.away_team_id,\
 		"home_team_score":self.home_team_score, "away_team_score":self.away_team_score, "location":self.location, "winning_team_id":self.won_id,\
 		"match_date":self.date_string}}
 			
 
-def parse_match(line, teams):
+def parse_match(line, teams, league_id):
 	line = line.split(";")
 	match_id = int(line[0])
 	match_date = line[1]
@@ -52,12 +52,11 @@ def parse_match(line, teams):
 	home_id = None
 	away_id = None
 	won_id = None
-	league_id = None
 	for t in teams:
-		if teams[t]["abbreviation"] == home_team:
+		if teams[t]["abbreviation"] == home_team and teams[t]["league_id"] == league_id:
 			home_id = teams[t]["id"]
 			league_id = teams[t]["league_id"]
-		elif teams[t]["abbreviation"] == away_team:
+		elif teams[t]["abbreviation"] == away_team and teams[t]["league_id"] == league_id:
 			away_id = teams[t]["id"]
 		elif away_id and home_id:
 			break
@@ -69,11 +68,14 @@ def parse_match(line, teams):
 	return Match(match_id, league_id, home_id, away_id, home_score, away_score, location, won_id, match_date)
 
 	
-def main(match_file, teams, fixture=False):
+def main(match_file, teams, league_id, fixture=False, existing_matches=None):
 	matches = open(match_file).readlines()
-	match_list = []
+	if existing_matches:
+		match_list = yaml.load(open(existing_matches))
+	else:
+		match_list = []
 	for m in matches:
-		match = parse_match(m, teams)
+		match = parse_match(m, teams, league_id)
 		match_list.append(match.get_hash())
 	
 	if fixture:
@@ -92,12 +94,18 @@ if __name__ == '__main__':
 		team_file = sys.argv[2]
 		teams = yaml.load(open(sys.argv[2]).read())
 		team_hash = {}
+		league_id = 1
+		existing_matches = None
 		if len(sys.argv) > 3:
+			league_id = int(sys.argv[3])
+		if len(sys.argv) > 4:
+			existing_matches = sys.argv[4]
+		if len(sys.argv) > 5:
 			fixture = True
 		else:
 			fixture = False
 		for t in teams:
 			key = t.keys()[0]
 			team_hash[key] = t[key]
-		main(match_list, team_hash, fixture)
+		main(match_list, team_hash, league_id, fixture, existing_matches)
 

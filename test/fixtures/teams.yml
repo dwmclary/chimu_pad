@@ -1,5 +1,3 @@
-
-
 Algeria:
   abbreviation: ALG
   country: Algeria
@@ -254,4 +252,132 @@ Uruguay:
   id: 32
   league_id: 1
   name: Uruguay
+
+
+Austria:
+  abbreviation: AUT
+  country: Austria
+  id: 33
+  league_id: 2
+  name: Austria
+
+
+Croatia:
+  abbreviation: CRO
+  country: Croatia
+  id: 34
+  league_id: 2
+  name: Croatia
+
+
+Czech Republic:
+  abbreviation: CZE
+  country: Czech Republic
+  id: 35
+  league_id: 2
+  name: Czech Republic
+
+
+Spain540:
+  abbreviation: ESP
+  country: Spain
+  id: 36
+  league_id: 2
+  name: Spain
+
+
+France443:
+  abbreviation: FRA
+  country: France
+  id: 37
+  league_id: 2
+  name: France
+
+
+Germany993:
+  abbreviation: GER
+  country: Germany
+  id: 38
+  league_id: 2
+  name: Germany
+
+
+Greece13:
+  abbreviation: GRE
+  country: Greece
+  id: 39
+  league_id: 2
+  name: Greece
+
+
+Italy467:
+  abbreviation: ITA
+  country: Italy
+  id: 40
+  league_id: 2
+  name: Italy
+
+
+Netherlands873:
+  abbreviation: NED
+  country: Netherlands
+  id: 41
+  league_id: 2
+  name: Netherlands
+
+
+Poland:
+  abbreviation: POL
+  country: Poland
+  id: 42
+  league_id: 2
+  name: Poland
+
+
+Portugal483:
+  abbreviation: POR
+  country: Portugal
+  id: 43
+  league_id: 2
+  name: Portugal
+
+
+Romania:
+  abbreviation: ROU
+  country: Romania
+  id: 44
+  league_id: 2
+  name: Romania
+
+
+Russia:
+  abbreviation: RUS
+  country: Russia
+  id: 45
+  league_id: 2
+  name: Russia
+
+
+Switzerland43:
+  abbreviation: SUI
+  country: Switzerland
+  id: 46
+  league_id: 2
+  name: Switzerland
+
+
+Sweden:
+  abbreviation: SWE
+  country: Sweden
+  id: 47
+  league_id: 2
+  name: Sweden
+
+
+Turkey:
+  abbreviation: TUR
+  country: Turkey
+  id: 48
+  league_id: 2
+  name: Turkey
   

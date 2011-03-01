@@ -1,0 +1,577 @@
+- Match_1:
+    away_team_id: 17
+    away_team_score: 1
+    home_team_id: 27
+    home_team_score: 1
+    league_id: 1
+    location: Johannesburg
+    match_date: '2010-06-11 16:00:00'
+    winning_team_id: -1
+- Match_2:
+    away_team_id: 9
+    away_team_score: 0
+    home_team_id: 32
+    home_team_score: 0
+    league_id: 1
+    location: Cape Town
+    match_date: '2010-06-11 20:30:00'
+    winning_team_id: -1
+- Match_3:
+    away_team_id: 20
+    away_team_score: 0
+    home_team_id: 2
+    home_team_score: 1
+    league_id: 1
+    location: Johannesburg
+    match_date: '2010-06-12 16:00:00'
+    winning_team_id: 2
+- Match_4:
+    away_team_id: 12
+    away_team_score: 0
+    home_team_id: 28
+    home_team_score: 2
+    league_id: 1
+    location: Nelson Mandela Bay/Port Elizabeth
+    match_date: '2010-06-12 13:30:00'
+    winning_team_id: 28
+- Match_5:
+    away_team_id: 31
+    away_team_score: 1
+    home_team_id: 8
+    home_team_score: 1
+    league_id: 1
+    location: Rustenburg
+    match_date: '2010-06-12 20:30:00'
+    winning_team_id: -1
+- Match_6:
+    away_team_id: 26
+    away_team_score: 1
+    home_team_id: 1
+    home_team_score: 0
+    league_id: 1
+    location: Polokwane
+    match_date: '2010-06-13 13:30:00'
+    winning_team_id: 26
+- Match_7:
+    away_team_id: 3
+    away_team_score: 0
+    home_team_id: 10
+    home_team_score: 4
+    league_id: 1
+    location: Durban
+    match_date: '2010-06-13 20:30:00'
+    winning_team_id: 10
+- Match_8:
+    away_team_id: 11
+    away_team_score: 1
+    home_team_id: 24
+    home_team_score: 0
+    league_id: 1
+    location: Tshwane/Pretoria
+    match_date: '2010-06-13 16:00:00'
+    winning_team_id: 11
+- Match_9:
+    away_team_id: 7
+    away_team_score: 0
+    home_team_id: 18
+    home_team_score: 2
+    league_id: 1
+    location: Johannesburg
+    match_date: '2010-06-14 13:30:00'
+    winning_team_id: 18
+- Match_10:
+    away_team_id: 5
+    away_team_score: 0
+    home_team_id: 16
+    home_team_score: 1
+    league_id: 1
+    location: Mangaung/Bloemfontein
+    match_date: '2010-06-14 16:00:00'
+    winning_team_id: 16
+- Match_11:
+    away_team_id: 22
+    away_team_score: 1
+    home_team_id: 14
+    home_team_score: 1
+    league_id: 1
+    location: Cape Town
+    match_date: '2010-06-14 20:30:00'
+    winning_team_id: -1
+- Match_12:
+    away_team_id: 25
+    away_team_score: 1
+    home_team_id: 19
+    home_team_score: 1
+    league_id: 1
+    location: Rustenburg
+    match_date: '2010-06-15 13:30:00'
+    winning_team_id: -1
+- Match_13:
+    away_team_id: 23
+    away_team_score: 0
+    home_team_id: 15
+    home_team_score: 0
+    league_id: 1
+    location: Nelson Mandela Bay/Port Elizabeth
+    match_date: '2010-06-15 16:00:00'
+    winning_team_id: -1
+- Match_14:
+    away_team_id: 21
+    away_team_score: 1
+    home_team_id: 4
+    home_team_score: 2
+    league_id: 1
+    location: Johannesburg
+    match_date: '2010-06-15 20:30:00'
+    winning_team_id: 4
+- Match_15:
+    away_team_id: 6
+    away_team_score: 1
+    home_team_id: 13
+    home_team_score: 0
+    league_id: 1
+    location: Nelspruit
+    match_date: '2010-06-16 13:30:00'
+    winning_team_id: 6
+- Match_16:
+    away_team_id: 30
+    away_team_score: 1
+    home_team_id: 29
+    home_team_score: 0
+    league_id: 1
+    location: Durban
+    match_date: '2010-06-16 16:00:00'
+    winning_team_id: 30
+- Match_17:
+    away_team_id: 32
+    away_team_score: 3
+    home_team_id: 27
+    home_team_score: 0
+    league_id: 1
+    location: Tshwane/Pretoria
+    match_date: '2010-06-16 20:30:00'
+    winning_team_id: 32
+- Match_18:
+    away_team_id: 17
+    away_team_score: 2
+    home_team_id: 9
+    home_team_score: 0
+    league_id: 1
+    location: Polokwane
+    match_date: '2010-06-17 20:30:00'
+    winning_team_id: 17
+- Match_19:
+    away_team_id: 20
+    away_team_score: 1
+    home_team_id: 12
+    home_team_score: 2
+    league_id: 1
+    location: Mangaung/Bloemfontein
+    match_date: '2010-06-17 16:00:00'
+    winning_team_id: 12
+- Match_20:
+    away_team_id: 28
+    away_team_score: 1
+    home_team_id: 2
+    home_team_score: 4
+    league_id: 1
+    location: Johannesburg
+    match_date: '2010-06-17 13:30:00'
+    winning_team_id: 2
+- Match_21:
+    away_team_id: 24
+    away_team_score: 1
+    home_team_id: 10
+    home_team_score: 0
+    league_id: 1
+    location: Nelson Mandela Bay/Port Elizabeth
+    match_date: '2010-06-18 13:30:00'
+    winning_team_id: 24
+- Match_22:
+    away_team_id: 31
+    away_team_score: 2
+    home_team_id: 26
+    home_team_score: 2
+    league_id: 1
+    location: Johannesburg
+    match_date: '2010-06-18 16:00:00'
+    winning_team_id: -1
+- Match_23:
+    away_team_id: 1
+    away_team_score: 0
+    home_team_id: 8
+    home_team_score: 0
+    league_id: 1
+    location: Cape Town
+    match_date: '2010-06-18 20:30:00'
+    winning_team_id: -1
+- Match_24:
+    away_team_id: 3
+    away_team_score: 1
+    home_team_id: 11
+    home_team_score: 1
+    league_id: 1
+    location: Rustenburg
+    match_date: '2010-06-19 16:00:00'
+    winning_team_id: -1
+- Match_25:
+    away_team_id: 16
+    away_team_score: 0
+    home_team_id: 18
+    home_team_score: 1
+    league_id: 1
+    location: Durban
+    match_date: '2010-06-19 13:30:00'
+    winning_team_id: 18
+- Match_26:
+    away_team_id: 7
+    away_team_score: 2
+    home_team_id: 5
+    home_team_score: 1
+    league_id: 1
+    location: Tshwane/Pretoria
+    match_date: '2010-06-19 20:30:00'
+    winning_team_id: 7
+- Match_27:
+    away_team_id: 22
+    away_team_score: 2
+    home_team_id: 25
+    home_team_score: 0
+    league_id: 1
+    location: Mangaung/Bloemfontein
+    match_date: '2010-06-20 13:30:00'
+    winning_team_id: 22
+- Match_28:
+    away_team_id: 19
+    away_team_score: 1
+    home_team_id: 14
+    home_team_score: 1
+    league_id: 1
+    location: Nelspruit
+    match_date: '2010-06-20 16:00:00'
+    winning_team_id: -1
+- Match_29:
+    away_team_id: 15
+    away_team_score: 1
+    home_team_id: 4
+    home_team_score: 3
+    league_id: 1
+    location: Johannesburg
+    match_date: '2010-06-20 20:30:00'
+    winning_team_id: 4
+- Match_30:
+    away_team_id: 21
+    away_team_score: 0
+    home_team_id: 23
+    home_team_score: 7
+    league_id: 1
+    location: Cape Town
+    match_date: '2010-06-21 13:30:00'
+    winning_team_id: 23
+- Match_31:
+    away_team_id: 30
+    away_team_score: 0
+    home_team_id: 6
+    home_team_score: 1
+    league_id: 1
+    location: Nelson Mandela Bay/Port Elizabeth
+    match_date: '2010-06-21 16:00:00'
+    winning_team_id: 6
+- Match_32:
+    away_team_id: 13
+    away_team_score: 0
+    home_team_id: 29
+    home_team_score: 2
+    league_id: 1
+    location: Johannesburg
+    match_date: '2010-06-21 20:30:00'
+    winning_team_id: 29
+- Match_33:
+    away_team_id: 32
+    away_team_score: 1
+    home_team_id: 17
+    home_team_score: 0
+    league_id: 1
+    location: Rustenburg
+    match_date: '2010-06-22 16:00:00'
+    winning_team_id: 32
+- Match_34:
+    away_team_id: 27
+    away_team_score: 2
+    home_team_id: 9
+    home_team_score: 1
+    league_id: 1
+    location: Mangaung/Bloemfontein
+    match_date: '2010-06-22 16:00:00'
+    winning_team_id: 27
+- Match_35:
+    away_team_id: 28
+    away_team_score: 2
+    home_team_id: 20
+    home_team_score: 2
+    league_id: 1
+    location: Durban
+    match_date: '2010-06-22 20:30:00'
+    winning_team_id: -1
+- Match_36:
+    away_team_id: 2
+    away_team_score: 2
+    home_team_id: 12
+    home_team_score: 0
+    league_id: 1
+    location: Polokwane
+    match_date: '2010-06-22 20:30:00'
+    winning_team_id: 2
+- Match_37:
+    away_team_id: 8
+    away_team_score: 1
+    home_team_id: 26
+    home_team_score: 0
+    league_id: 1
+    location: Nelson Mandela Bay/Port Elizabeth
+    match_date: '2010-06-23 16:00:00'
+    winning_team_id: 8
+- Match_38:
+    away_team_id: 1
+    away_team_score: 0
+    home_team_id: 31
+    home_team_score: 1
+    league_id: 1
+    location: Tshwane/Pretoria
+    match_date: '2010-06-23 16:00:00'
+    winning_team_id: 31
+- Match_39:
+    away_team_id: 10
+    away_team_score: 1
+    home_team_id: 11
+    home_team_score: 0
+    league_id: 1
+    location: Johannesburg
+    match_date: '2010-06-23 20:30:00'
+    winning_team_id: 10
+- Match_40:
+    away_team_id: 24
+    away_team_score: 1
+    home_team_id: 3
+    home_team_score: 2
+    league_id: 1
+    location: Nelspruit
+    match_date: '2010-06-23 20:30:00'
+    winning_team_id: 3
+- Match_41:
+    away_team_id: 14
+    away_team_score: 2
+    home_team_id: 25
+    home_team_score: 3
+    league_id: 1
+    location: Johannesburg
+    match_date: '2010-06-24 16:00:00'
+    winning_team_id: 25
+- Match_42:
+    away_team_id: 19
+    away_team_score: 0
+    home_team_id: 22
+    home_team_score: 0
+    league_id: 1
+    location: Polokwane
+    match_date: '2010-06-24 16:00:00'
+    winning_team_id: -1
+- Match_43:
+    away_team_id: 16
+    away_team_score: 3
+    home_team_id: 7
+    home_team_score: 1
+    league_id: 1
+    location: Rustenburg
+    match_date: '2010-06-24 20:30:00'
+    winning_team_id: 16
+- Match_44:
+    away_team_id: 18
+    away_team_score: 2
+    home_team_id: 5
+    home_team_score: 1
+    league_id: 1
+    location: Cape Town
+    match_date: '2010-06-24 20:30:00'
+    winning_team_id: 18
+- Match_45:
+    away_team_id: 4
+    away_team_score: 0
+    home_team_id: 23
+    home_team_score: 0
+    league_id: 1
+    location: Durban
+    match_date: '2010-06-25 16:00:00'
+    winning_team_id: -1
+- Match_46:
+    away_team_id: 15
+    away_team_score: 3
+    home_team_id: 21
+    home_team_score: 0
+    league_id: 1
+    location: Nelspruit
+    match_date: '2010-06-25 16:00:00'
+    winning_team_id: 15
+- Match_47:
+    away_team_id: 29
+    away_team_score: 2
+    home_team_id: 6
+    home_team_score: 1
+    league_id: 1
+    location: Tshwane/Pretoria
+    match_date: '2010-06-25 20:30:00'
+    winning_team_id: 29
+- Match_48:
+    away_team_id: 13
+    away_team_score: 0
+    home_team_id: 30
+    home_team_score: 0
+    league_id: 1
+    location: Mangaung/Bloemfontein
+    match_date: '2010-06-25 20:30:00'
+    winning_team_id: -1
+- Match_49:
+    away_team_id: 28
+    away_team_score: 1
+    home_team_id: 32
+    home_team_score: 2
+    league_id: 1
+    location: Nelson Mandela Bay/Port Elizabeth
+    match_date: '2010-06-26 16:00:00'
+    winning_team_id: 32
+- Match_50:
+    away_team_id: 11
+    away_team_score: 2
+    home_team_id: 31
+    home_team_score: 1
+    league_id: 1
+    location: Rustenburg
+    match_date: '2010-06-26 20:30:00'
+    winning_team_id: 11
+- Match_51:
+    away_team_id: 8
+    away_team_score: 1
+    home_team_id: 10
+    home_team_score: 4
+    league_id: 1
+    location: Mangaung/Bloemfontein
+    match_date: '2010-06-27 16:00:00'
+    winning_team_id: 10
+- Match_52:
+    away_team_id: 17
+    away_team_score: 1
+    home_team_id: 2
+    home_team_score: 3
+    league_id: 1
+    location: Johannesburg
+    match_date: '2010-06-27 20:30:00'
+    winning_team_id: 2
+- Match_53:
+    away_team_id: 25
+    away_team_score: 1
+    home_team_id: 18
+    home_team_score: 2
+    league_id: 1
+    location: Durban
+    match_date: '2010-06-28 16:00:00'
+    winning_team_id: 18
+- Match_54:
+    away_team_id: 6
+    away_team_score: 0
+    home_team_id: 4
+    home_team_score: 3
+    league_id: 1
+    location: Johannesburg
+    match_date: '2010-06-28 20:30:00'
+    winning_team_id: 4
+- Match_55:
+    away_team_id: 16
+    away_team_score: 0
+    home_team_id: 22
+    home_team_score: 0
+    league_id: 1
+    location: Tshwane/Pretoria
+    match_date: '2010-06-29 16:00:00'
+    winning_team_id: -1
+- Match_56:
+    away_team_id: 23
+    away_team_score: 0
+    home_team_id: 29
+    home_team_score: 1
+    league_id: 1
+    location: Cape Town
+    match_date: '2010-06-29 20:30:00'
+    winning_team_id: 29
+- Match_57:
+    away_team_id: 4
+    away_team_score: 1
+    home_team_id: 18
+    home_team_score: 2
+    league_id: 1
+    location: Nelson Mandela Bay/Port Elizabeth
+    match_date: '2010-07-02 16:00:00'
+    winning_team_id: 18
+- Match_58:
+    away_team_id: 11
+    away_team_score: 1
+    home_team_id: 32
+    home_team_score: 1
+    league_id: 1
+    location: Johannesburg
+    match_date: '2010-07-02 20:30:00'
+    winning_team_id: -1
+- Match_59:
+    away_team_id: 10
+    away_team_score: 4
+    home_team_id: 2
+    home_team_score: 0
+    league_id: 1
+    location: Cape Town
+    match_date: '2010-07-03 16:00:00'
+    winning_team_id: 10
+- Match_60:
+    away_team_id: 29
+    away_team_score: 1
+    home_team_id: 22
+    home_team_score: 0
+    league_id: 1
+    location: Johannesburg
+    match_date: '2010-07-03 20:30:00'
+    winning_team_id: 29
+- Match_61:
+    away_team_id: 18
+    away_team_score: 3
+    home_team_id: 32
+    home_team_score: 2
+    league_id: 1
+    location: Cape Town
+    match_date: '2010-07-06 20:30:00'
+    winning_team_id: 18
+- Match_62:
+    away_team_id: 29
+    away_team_score: 1
+    home_team_id: 10
+    home_team_score: 0
+    league_id: 1
+    location: Durban
+    match_date: '2010-07-07 20:30:00'
+    winning_team_id: 29
+- Match_63:
+    away_team_id: 10
+    away_team_score: 3
+    home_team_id: 32
+    home_team_score: 2
+    league_id: 1
+    location: Nelson Mandela Bay/Port Elizabeth
+    match_date: '2010-07-10 20:30:00'
+    winning_team_id: 10
+- Match_64:
+    away_team_id: 29
+    away_team_score: 1
+    home_team_id: 18
+    home_team_score: 0
+    league_id: 1
+    location: Johannesburg
+    match_date: '2010-07-11 20:30:00'
+    winning_team_id: 29
+
