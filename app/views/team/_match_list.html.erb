@@ -1,11 +1,10 @@
-<table id="homeMatchTable" class="pretty-table">
+
+<table id="sortable_table" class="datagrid">
 <thead>
-    <th>Date</th>
-    <th>Location</th>
-    <th>Home Team</th>
-    <th>Home Score</th>
-    <th>Away Score</th>
-    <th>Away Team</th>
+    <th >Date</th>
+    <th mochi:format="str">Home Team</th>
+    <th mochi:format="str">Score</th>
+    <th mochi:format="str">Away Team</th>
 </thead>
 <tbody>
     <%= render(@matches)%>

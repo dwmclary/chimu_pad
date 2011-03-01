@@ -307,10 +307,12 @@ h3 span{
 	color: #6B4A45;
 }
 
+.odd{
+    background:#dedede;
+}
+
 #homegraph { width: 500px; border: 1px solid black; float: left}
 #awaygraph { width: 500px; border: 1px solid black; float: right}
 #roster { width: 200px; float: left}
-#teammatches { width: 500px; float: right; margin-right:350px;}
+#teammatches { width: 500px; float: right; margin-right:290px;}
 .clear { clear: both;}
-.pretty-table { border-collapse: collapse;}
-.pretty-table th, .pretty-table td { padding: 5px; }

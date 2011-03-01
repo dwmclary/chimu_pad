@@ -1,20 +1,34 @@
 <%= javascript_include_tag :defaults %>
-<%= javascript_include_tag "flotr"%>
-<%= javascript_include_tag "excanvas"%>
+<%= javascript_include_tag "MochiKit.js"%>
+<%= javascript_include_tag "sortable_tables.js"%>
 <%= csrf_meta_tag %>
-<center>
-<div id="leagueTeams">
-    <table>
-    <% for c in @team_columns%>
-    <tr>
-        <%for t in c %>
-            <td><p><%= link_to t.name, :controller => "team", :action => "show", :id => t.id%></p></td>
-        <%end%>
-    </tr>
-    <% end %>
+<div id="leagueTeams" style="margin-right:400px; margin-left:400px">
+    <%= will_paginate @teams %>
+    <table id="team_table" class="datagrid">
+    <thead>
+        <th mochi:format="str">Team</th>
+        <th mochi:format="int"># Matches</th>
+        <th mochi:format="float">Average Performance</th>
+        <th mochi:format="iint">Ranking</th>        
+    </thead>
+
+    <tfoot class="invisible"> 
+        <tr> 
+            <td colspan="0"></td> 
+        </tr> 
+    </tfoot>
+
+    <tbody>
+        <% i = 0+params["page"].to_i()*10%>
+        <% for t in @teams %>
+        <tr class=<%=cycle("even","odd")%>>
+            <td><%=t.name%></td>
+            <td><%=t.match_count%></td>
+            <td><%='%.1f' % t.current_rating%></td>
+            <td><%=@rankings[i]%></td>
+        </tr>
+        <% i += 1%>
+        <% end %>
+    </tbody>
     </table>
 </div>
-
-<%= render "bargraph"%>
-
-</center>

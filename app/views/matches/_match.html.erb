@@ -1,15 +1,13 @@
-<tr>
+<tr class=<%=cycle("even", "odd")%>>
     <% home_team = Team.find(match.home_team_id) %>
     <% away_team = Team.find(match.away_team_id) %>
     <td><%= match.match_date.strftime("%m/%d/%Y") %></td>
-    <td><%= link_to match.location, :controller => "match", :action => "show", :id => match.id%></td>
     <% if match.home_team_score > match.away_team_score %>
         <td><%=image_tag "win_shield.png" %><%= link_to home_team.abbreviation, :controller => "team", :action => "show", :id => home_team.id%></td>
     <% else %>
             <td><%= link_to home_team.abbreviation, :controller => "team", :action => "show", :id => home_team.id%></td>
     <% end %>
-    <td><%= match.home_team_score %></td>
-    <td><%= match.away_team_score %></td>
+    <td><%= link_to match.home_team_score.to_s() + "--" + match.away_team_score.to_s(), :controller => "match", :action => "show", :id => match.id %></td>
     <% if match.away_team_score > match.home_team_score %>
         <td><%=image_tag "win_shield.png"%><%= link_to away_team.abbreviation, :controller => "team", :action => "show", :id => away_team.id%></td>
     <%else%>

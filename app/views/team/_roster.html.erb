@@ -1,10 +1,19 @@
-<table id="rosterTable">
+<%= javascript_include_tag "MochiKit.js"%>
+<%= javascript_include_tag "sortable_tables.js"%>
+<table id="sortable_table" class="datagrid">
 <thead>
-    <th>Name</th>
-    <th>Number</th>
-    <th>Position</th>
-    <th>Rating</th>
+    <th mochi:format="str">Name</th>
+    <th mochi:format="int">Jersey #</th>
+    <th mochi:format="str">Position</th>
+    <th mochi:format="float">Rating</th>
 </thead>
+
+<tfoot class="invisible"> 
+    <tr> 
+        <td colspan="0"></td> 
+    </tr> 
+</tfoot>
+
 <tbody>
 <%= render(@players)%>
 </tbody>

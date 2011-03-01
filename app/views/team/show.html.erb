@@ -21,29 +21,34 @@ function BUDEffect(element){
 <h3>Average Rating: <span><%='%.2f' % @team.current_rating %></span></h3>
 </div>
 
-<div id="performance_lines" style="width:600px;height:300px;float:right;margin-right:325px"></div>
+<div id="performance_lines" style="width:500px;height:300px;float:right;margin-right:300px">
+    
+</div>
 
 <script type="text/javascript">
 var team_data = [];
 var best_data = [];
 var worst_data = [];
+var perf_data = []
 
 var average_rating = <%= array_or_string_for_javascript(@match_ratings)%>;
 var best_rating = <%= array_or_string_for_javascript(@best_ratings)%>;
 var worst_rating = <%= array_or_string_for_javascript(@worst_ratings)%>;
+var performance_rating = <%= array_or_string_for_javascript(@top_two)%>;
 //populate player data
 for (var i = 0; i < <%=@match_ratings.size()%>;i++)
 {
     team_data.push([i+1, parseFloat(average_rating[i])]);
     best_data.push([i+1, parseFloat(best_rating[i])]);
     worst_data.push([i+1, parseFloat(worst_rating[i])]);
-    
+    perf_data.push([i+1, parseFloat(performance_rating[i])]);
 }
 var f = Flotr.draw(
 	$('performance_lines'), 
         [ 
             {data:best_data, label:'Best Performance', lines:{show:true}, points:{show:true}, mouse:{track:true}},
-    		{data:team_data, label:'Average Performance', lines:{fill: true}},
+            {data:perf_data, label: 'Team Performance', lines:{fill:true}},
+    		{data:team_data, label:'Average Performance', lines:{show: true}},
     		{data:worst_data, label:'Worst Performance', lines:{show:true}, points:{show:true}, mouse:{track:true}},
             
     	],{
@@ -71,9 +76,9 @@ var f = Flotr.draw(
     <%=render "roster"%>
 </div>
 
-
 <div id = "teammatches">
     <%= render "match_list" %>
 </div>
+
 
 

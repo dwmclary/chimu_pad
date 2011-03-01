@@ -1,4 +1,6 @@
 <div style="float:left"><b>Top Players</b></div>
+<%= will_paginate @players, :param_name => "playerpage"%>
+
 <canvas id="playergraphSpace" width="800" height="280"></canvas>
 
 <script type="text/javascript"> 
@@ -74,5 +76,4 @@
 	}		
 	graph();
 </script>
-<%= will_paginate @players, :param_name => "playerpage"%>
 

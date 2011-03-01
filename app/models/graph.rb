@@ -83,40 +83,43 @@ class Graph < ActiveRecord::Base
     match = Match.find(self.match_id)
     home_team_id = match.home_team_id
     away_team_id = match.away_team_id
-
+    goalies = ["GK", "GC"]
+    defenders = ["DF", "DR", "DC", "DL"]
+    midfield = ["MF", "MR", "MC", "ML", "MD"]
+    forwards = ["FW", "FL", "FR", "FC"]
     x = nil
     y = nil
     positions = []
     (50..275).step(50){|p| positions.push(p)}
     #if this is the home team, place the player on the left side
     if player.team_id == home_team_id
-      if player.position == "GK"
+      if goalies.include? player.position
         x = 50
         y=50
-      elsif player.position == "DF"
+      elsif defenders.include? player.position
         #choose a random y for this defender
         x = 100
         y= positions.choice()
-      elsif player.position == "MF"
+      elsif midfield.include? player.position
         x = 200
         y = positions.choice()
-      elsif player.position == "FW"
+      elsif forwards.include? player.position
         x = 300
         y = positions.choice()
       end
       return x,y
     elsif player.team_id == away_team_id
-      if player.position == "GK"
+      if goalies.include? player.position
         x = 750
         y=50
-      elsif player.position == "DF"
+      elsif defenders.include? player.position
         #choose a random y for this defender
         x = 700
         y= positions.choice()
-      elsif player.position == "MF"
+      elsif midfield.include? player.position
         x = 600
         y = positions.choice()
-      elsif player.position == "FW"
+      elsif forwards.include? player.position
         x = 500
         y = positions.choice()
       end

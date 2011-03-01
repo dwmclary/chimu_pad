@@ -45,6 +45,49 @@ class Team < ActiveRecord::Base
       self.current_rating = 0.0
     end
   end
+  
+  def performance
+    # Team performance is now defined as the average value for the top 2 performers on a team
+    # For all players, find the players who have played in all matches
+    players = self.players
+    ratable_players = []
+    players.each{|p|
+      if p.play_count == self.match_count
+        ratable_players.push(p)
+      end
+    }
+    
+    #sort the ratable players and take the top two
+    ratable_players.sort!{|p1,p2| p2.current_rating <=> p1.current_rating}
+    top_two = ratable_players[0,2]
+    total = 0
+    top_two.each{|t| total += t.ratings.sum}
+    team_performance = total/2.0
+    return team_performance
+  end
+  
+  def performance_array
+    # Team performance is now defined as the average value for the top 2 performers on a team
+    # For all players, find the players who have played in all matches
+    best_players = []
+    play_counts = self.players.map{|p| p.play_count()}
+    max_plays = play_counts.max
+    self.players.each{|p|
+      if p.play_count() == max_plays
+        best_players.push(p)
+      end
+    }
+    best_players.sort!{|p1,p2| p2.current_rating <=> p1.current_rating}
+    top_two = best_players[0,2]
+    performance_list = []
+    for i in 0..max_plays-1
+      match_total = top_two[0].ratings()[i]+top_two[1].ratings()[i]
+      match_total /= 2.0
+      performance_list.push(match_total)
+    end
+    
+    return performance_list
+  end
     
     
     

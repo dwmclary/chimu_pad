@@ -1,13 +1,20 @@
+<%= javascript_include_tag :defaults %>
+<%= javascript_include_tag "MochiKit.js"%>
+<%= javascript_include_tag "sortable_tables.js"%>
+<%= csrf_meta_tag %>
 <center>
-<table>
+<%= will_paginate @players%>
+</center>
+<table id="playertable" class="datagrid">
     <thead>
-        <th>Name</th>
-        <th>Number</th>
-        <th>Position</th>
-        <th>Rating</th>
+        <th mochi:format="str">Name</th>
+        <th mochi:format="int">Jersey #</th>
+        <th mochi:format="str">Position</th>
+        <th mochi:format="float">Rating</th>
 <tbody>
 <% for p in @players %>
     <%= render p %>
 <% end %>
 </tbody>
-<%= render "league/playerbars"%>
+
+

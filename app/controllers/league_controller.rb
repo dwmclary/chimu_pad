@@ -9,6 +9,7 @@ class LeagueController < ApplicationController
   def show
     @league = League.find(params["id"])
     @teams = @league.teams.sort{|t1,t2|t2.current_rating <=> t1.current_rating}
+    @rankings = (1..@teams.size).to_a()
     team_ids = @teams.map(&:id)
     @matches = Match.paginate :page => params[:page], :order => "match_date asc", :conditions=> ["home_team_id IN (?)", team_ids], :per_page => 10
     @players = Player.paginate :page => params[:playerpage], :order => "current_rating desc", :conditions=> ["team_id IN (?)", team_ids], :per_page => 6

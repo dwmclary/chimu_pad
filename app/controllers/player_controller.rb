@@ -1,7 +1,8 @@
 class PlayerController < ApplicationController
   
   def index
-    @players = Player.paginate :page => params[:playerpage], :order => "current_rating desc", :per_page => 7
+    teams = Team.where(:league_id => 1).map(&:id)
+    @players = Player.paginate :page => params[:page], :order => "current_rating desc", :conditions => ["team_id IN (?)", teams], :per_page => 15
     respond_to do |format|
       format.html
     end

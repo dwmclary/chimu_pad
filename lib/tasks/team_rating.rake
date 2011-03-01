@@ -9,11 +9,8 @@ namespace :team do
       teams.each{|t|
         # puts t.name
         match_ratings = t.match_ratings()
-        while match_ratings.size() < max_matches do
-          match_ratings.push(0.0)
-        end
         if match_ratings.size() > 0:
-          t.current_rating = match_ratings.sum/max_matches
+          t.current_rating = t.performance
         else
           t.current_rating = 0.0
         end

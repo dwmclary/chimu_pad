@@ -1,6 +1,5 @@
 <center>
 <% @leagues.each do |l| %>
     <%= link_to image_tag("league_"+l.id.to_s()+".png"), :controller => 'league', :id => l.id %>
-    </br>
 <% end %>
 </center>

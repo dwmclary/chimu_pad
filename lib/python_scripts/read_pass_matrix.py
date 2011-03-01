@@ -48,14 +48,14 @@ def get_teams(data):
 		offset += team_count[team]
 	return team_data_sets
 
-def build_pass_matrix(tds, players):
+def build_pass_matrix(tds, players, team_id):
 	pass_matrix = {}
 	player_count = len(tds)
 	#offset accounts for team name and player number
 	for i in range(len(tds)):
 		#for each row
 		team_name = tds[i][0]
-		player_number = fetch_player_id(tds[i][1], team_name, players)
+		player_number = fetch_player_id(tds[i][1], team_name, players, team_id)
 		pass_matrix[player_number] = {}
 		player_passes = []
 		j_count = 0
@@ -148,13 +148,13 @@ def build_team_graph(t, pass_matrix, team_name, players):
 		passes = pass_matrix[p]["passes"]
 		for k in passes:
 			if k.values()[0] != 0:
-				G.add_edge(p,fetch_player_id(k.keys()[0], team_name, players), weight=all_pass_percentages[passes.index(k)])
+				G.add_edge(p,fetch_player_id(k.keys()[0], team_name, players,t), weight=all_pass_percentages[passes.index(k)])
 	return G
 	
-def fetch_team_id(team_name, teams):
+def fetch_team_id(team_name, teams, league_id):
 	for t in teams:
 		key = t.keys()[0]
-		if t[key]["abbreviation"] == team_name:
+		if t[key]["abbreviation"] == team_name and t[key]["league_id"] == league_id:
 			return t[key]["id"]
 	return None
 	
@@ -165,9 +165,9 @@ def fetch_team_abb(team_id, teams):
 			return t[key]["abbreviation"]
 	return None
 	
-def fetch_player_id(player_number, team, players):
+def fetch_player_id(player_number, team, players, team_id):
 	for p in players:
-		if str(players[p]["number"]) == player_number and players[p]["team"] == team:
+		if str(players[p]["number"]) == player_number and players[p]["team"] == team and players[p]["team_id"] == team_id:
 			return players[p]["id"]
 	return None
 	
@@ -258,8 +258,8 @@ def main(match_id, pass_file, shots_file, teams, matches, players, previous_play
 	graphs = {}
 	
 	for team in teams:
-		p = build_pass_matrix(teams[team], players)
-		team_id = fetch_team_id(team, team_data)
+		team_id = fetch_team_id(team, team_data, league_id)
+		p = build_pass_matrix(teams[team], players, team_id)
 		append_shots(team, p, shot_d, players)
 		play_id = len(plays)+1+starting_play_id
 		plays += make_plays(match_id, p, players, play_id)
