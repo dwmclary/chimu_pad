@@ -1,6 +1,9 @@
 class TeamController < ApplicationController
   
   def index
+    if not params[:page]
+      params[:page] = 1
+    end
     @teams = Team.paginate :page => params[:page], :order => "current_rating desc", :conditions => ["league_id = (?)", 1], :per_page => 10
     @rankings = (1..Team.count(:conditions => ["league_id = (?)", 1])).to_a()
     puts @rankings
@@ -27,7 +30,7 @@ class TeamController < ApplicationController
     @best_players.sort!{|p1,p2| p2.current_rating <=> p1.current_rating}
     @matches.sort!{|m1,m2| m1.match_date <=> m2.match_date}
     @players.sort!{|p1,p2| p2.current_rating <=> p1.current_rating}
-    @top_two = @team.performance_array()
+    @top_two = @team.team_performance_array()
     @match_ratings = @team.match_ratings()
     @best_ratings = @best_players.first.ratings()
     @worst_ratings = @best_players.last.ratings()

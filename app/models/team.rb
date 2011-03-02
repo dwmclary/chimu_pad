@@ -49,24 +49,17 @@ class Team < ActiveRecord::Base
   def performance
     # Team performance is now defined as the average value for the top 2 performers on a team
     # For all players, find the players who have played in all matches
-    best_players = []
-    play_counts = self.players.map{|p| p.play_count()}
-    max_plays = play_counts.max
-    self.players.each{|p|
-      if p.play_count() == max_plays
-        best_players.push(p)
-      end
+    total_performance = self.performance_array
+    team_performance = total_performance.sum/total_performance.size
+    return team_performance/2
+  end
+  
+  def team_performance_array
+    total_performance = self.performance_array
+    total_performance.each_with_index{ |v,i|
+      total_performance[i] = v/2.0
     }
-    best_players.sort!{|p1,p2| p2.current_rating <=> p1.current_rating}
-    top_two = best_players[0,2]
-    performance_list = []
-    for i in 0..max_plays-1
-      match_total = top_two[0].ratings()[i]+top_two[1].ratings()[i]
-      match_total /= 2.0
-      performance_list.push(match_total)
-    end
-    team_performance = performance_list.sum/performance_list.size
-    return team_performance
+    return total_performance
   end
   
   def performance_array
@@ -80,16 +73,31 @@ class Team < ActiveRecord::Base
         best_players.push(p)
       end
     }
-    best_players.sort!{|p1,p2| p2.current_rating <=> p1.current_rating}
-    top_two = best_players[0,2]
-    performance_list = []
-    for i in 0..max_plays-1
-      match_total = top_two[0].ratings()[i]+top_two[1].ratings()[i]
-      match_total /= 2.0
-      performance_list.push(match_total)
-    end
-    
-    return performance_list
+    # Apparently we no longer want the two best players, we want the two best ratings
+    # best_players.sort!{|p1,p2| p2.current_rating <=> p1.current_rating}
+    # top_two = best_players[0,2]
+    performance_list = {}
+    second_performance_list = {}
+    (0..max_plays-1).each{|i| 
+      performance_list[i] = 0.0
+      second_performance_list[i] = 0.0
+    }
+    #for each of the best players, find the max at each position
+    best_players.each{|p|
+      (0..max_plays-1).each{|i|
+        if p.ratings[i] > performance_list[i]
+          performance_list[i] = p.ratings[i]
+        elsif p.ratings[i] < performance_list[i] and p.ratings[i] > second_performance_list[i]
+          second_performance_list[i] = p.ratings[i]
+        end
+        }
+    }
+    total_performance = {}
+    performance_list.each{|k,v|
+      total_performance[k] = v+second_performance_list[k]
+    } 
+    team_performance = total_performance.values
+    return team_performance
   end
     
     

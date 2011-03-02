@@ -13,7 +13,7 @@
 			// Bar chart data
 			var data = []
 			<% for t in @teams[0..9] %>
-			    data.push("<%=t.abbreviation%>,<%='%.2f'%(t.current_rating*25)%>")
+			    data.push("<%=t.abbreviation%>,<%='%.1f'%(t.current_rating*25)%>")
             <% end %>
 			// Draw the bar chart
 			drawBarChart(context, data, 50, 50, 25, (graphCanvas.height-10), 20);

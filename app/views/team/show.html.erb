@@ -18,7 +18,7 @@ function BUDEffect(element){
 </div>
 <div id="teamName" style="float:center;margin-left:600px">
 <h2> <%= @team.name %> </h2>
-<h3>Average Rating: <span><%='%.2f' % @team.current_rating %></span></h3>
+<h3>Average Rating: <span><%='%.1f' % @team.average_rating %></span></h3>
 </div>
 
 <div id="performance_lines" style="width:500px;height:300px;float:right;margin-right:300px">

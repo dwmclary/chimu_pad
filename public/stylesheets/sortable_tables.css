@@ -43,7 +43,7 @@ table.datagrid tbody th {
 
 table.datagrid tbody td, table.datagrid tbody th {
     text-align: left;
-    padding: .3em .7em;
+    padding: .3em .5em;
     border-bottom: 1px solid #eee;
 }
 

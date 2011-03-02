@@ -68,7 +68,7 @@ function BUDEffect(element){
         <tr class=<%=cycle("even","odd")%>>
             <td><%= link_to t.name, :controller => "team", :action => "show", :id => t.id %></td>
             <td><%=t.match_count%></td>
-            <td><%='%.1f' % t.current_rating%></td>
+            <td><%='%.1f' % t.average_rating%></td>
             <td><%=@rankings[i]%></td>
         </tr>
         <% i += 1%>
