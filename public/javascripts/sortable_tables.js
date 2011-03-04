@@ -81,6 +81,7 @@ update(SortableManager.prototype, {
         // scrape the tbody for data
         this.tbody = table.getElementsByTagName('tbody')[0];
         // every row
+
         var rows = this.tbody.getElementsByTagName('tr');
         for (var i = 0; i < rows.length; i++) {
             // every cell
@@ -153,6 +154,26 @@ update(SortableManager.prototype, {
         var newBody = TBODY(null, map(itemgetter("row"), this.rows));
         // swap in the new tbody
         this.tbody = swapDOM(this.tbody, newBody);
+		//update the zebra striping
+		for (i = 0; i < this.tbody.children.length; i++)
+		{
+			if (i%2 == 0)
+			{
+				if (hasElementClass(this.tbody.children[i], "odd"))
+				{
+					removeElementClass(this.tbody.children[i], "odd");
+				}
+				addElementClass(this.tbody.children[i], "even");
+			}
+			else
+			{
+				if (hasElementClass(this.tbody.children[i], "even"))
+				{
+					removeElementClass(this.tbody.children[i], "even");
+				}
+				addElementClass( this.tbody.children[i], "odd" );
+			}
+		}
         for (var i = 0; i < this.columns.length; i++) {
             var col = this.columns[i];
             var node = col.proto.cloneNode(true);

@@ -65,7 +65,7 @@ function BUDEffect(element){
     <tbody>
         <% i = 0%>
         <% for t in @teams %>
-        <tr class=<%=cycle("even","odd")%>>
+        <tr>
             <td><%= link_to t.name, :controller => "team", :action => "show", :id => t.id %></td>
             <td><%=t.match_count%></td>
             <td><%='%.1f' % t.average_rating%></td>

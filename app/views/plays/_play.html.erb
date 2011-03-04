@@ -1,4 +1,4 @@
-<tr>
+<tr class=<%=cycle("even", "odd")%>>
     <%p = Player.find(play.player_id)%>
     <td><%= link_to p.name, :controller => "player", :action => "show", :id => p.id %></td>
     <td><%= p.number %></td>

@@ -2,11 +2,9 @@
 <%= javascript_include_tag "excanvas"%>
 <%= javascript_include_tag "prototype-1.6.0.2.js"%>
 <center>
-    <%= @player.name%>
-    </br>
-    <%= link_to @team.name, :controller => "team", :action => "show", :id => @team.id %> <%= @player.number%>
-    </br>
-    <span>Average Rating</span> <%= '%.1f' % @player.current_rating %>
+    <h3><%= @player.name%></h3>
+    <h3><%= link_to @team.name, :controller => "team", :action => "show", :id => @team.id %> <span><%= @player.number%></span></h3>
+    <h3>Average Rating <span><%= '%.1f' % @player.current_rating %></span></h3>
 <div id="performance_lines" style="width:600px;height:300px;"></div>
 </center>
 <script type="text/javascript">

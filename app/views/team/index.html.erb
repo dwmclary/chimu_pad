@@ -4,12 +4,12 @@
 <%= csrf_meta_tag %>
 <div id="leagueTeams" style="margin-right:400px; margin-left:400px">
     <%= will_paginate @teams %>
-    <table id="team_table" class="datagrid">
+    <table id="sortable_table" class="datagrid">
     <thead>
         <th mochi:format="str">Team</th>
         <th mochi:format="int"># Matches</th>
         <th mochi:format="float">Average Performance</th>
-        <th mochi:format="iint">Ranking</th>        
+        <th mochi:format="int">Ranking</th>        
     </thead>
 
     <tfoot class="invisible"> 
