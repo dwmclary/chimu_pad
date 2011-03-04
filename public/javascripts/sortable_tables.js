@@ -27,7 +27,7 @@ SortableManager = function () {
     this.columns = [];
     this.rows = [];
     this.sortState = {};
-    this.sortkey = 0;
+    this.sortkey = -1;
 };
 
 mouseOverFunc = function () {
@@ -146,10 +146,13 @@ update(SortableManager.prototype, {
         log('drawSortedRows', key, forward);
         this.sortkey = key;
         // sort based on the state given (forward or reverse)
-        var cmp = (forward ? keyComparator : reverseKeyComparator);
-        this.rows.sort(cmp(key));
-        // save it so we can flip next time
-        this.sortState[key] = forward;
+		if (this.sortkey != -1)
+        {
+			var cmp = (forward ? keyComparator : reverseKeyComparator);
+        	this.rows.sort(cmp(key));
+        	// save it so we can flip next time
+        	this.sortState[key] = forward;
+		}
         // get every "row" element from this.rows and make a new tbody
         var newBody = TBODY(null, map(itemgetter("row"), this.rows));
         // swap in the new tbody
